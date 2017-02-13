@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jekyons
 Stop writing CSS and start building prototypes.
 
@@ -34,3 +35,11 @@ gulp
 ```
 
 This is very in alpha, so if you have any trouble with the steps above, [let me know on Twitter](http://www.twitter.com/joshosbrn)!
+=======
+# cf
+
+## Code Furniture Website
+www.codefurniture.us
+
+
+>>>>>>> origin/master
