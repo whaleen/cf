@@ -1,15 +1,40 @@
 ---
 layout: default
 ---
-<article itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header>
-    <h1 itemprop="name headline">{{ page.title }}</h1>
-    <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+<div class="pa3 pa5-ns mw-7 bb b--black-10">
+Via: <a href="{{ page.source_link }}" target="_black">{{ page.author }}</a>{{ blog_url }}
+  <p class="">{{ page.date | date_to_string }}</p>
+	<h1 class="f3 f1-ns">{{ page.title }}</h1>
 
-  <div itemprop="articleBody">
-    {{ content }}
+
+{{ page.categories }}
+
+  <div class="">
+
+<a class="light-gray" href="{{ page.source_link }}" target="_black">{{ page.source_link }}</a><br>
+{{ page.twitter }}<br>
+{{ page.twitter_url }}
+
   </div>
 
-</article>
+
+<!--
+{{ page.source_link }}
+{{ page.post_title }}<br>
+{{ page.post_url }}<br>
+{{ page.post_date }}<br>
+{{ page.post_content }}<br>
+{{ page.blog_name }}<br>
+{{ page.blog_slug }}<br>
+{{ page.blog_url }}<br>
+{{ page.blog_categories }}<br>
+{{ page.blog_tags }}<br>
+{{ page.image_url }}<br>
+{{ page.author }}<br>
+{{ page.twitter }}<br>
+{{ page.twitter_url }}
+-->
+
+
+</div>

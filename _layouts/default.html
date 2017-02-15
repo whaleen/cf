@@ -1,20 +1,53 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
 
-  {% include head.html %}
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/tachyons.css">
 
-  <body class="bg-black white roboto">
+        <!-- Share -->
+        <link rel="stylesheet" href="/css/share/style.css">
 
-    {% include header.html %}
+        <!-- jekyll-seo plugin -->
+        {% seo %}
 
-    <div>
-      <div>
-        {{ content }}
-      </div>
-    </div>
+        <!-- Heap Analytics -->
+        <script type="text/javascript">
+            window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+              heap.load("1589761112");
+        </script>
 
-    {% include footer.html %}
+    </head>
+    <body>
 
-  </body>
+        <div class="">
 
+          {% include header.html %}
+
+          {{ content }}
+
+          <footer class="ph3 ph5-ns pv6 bt b--black-10">
+
+            <!-- BEGIN LINK --><a href="https:&#x2F;&#x2F;www.namecheap.com&#x2F;?aff=110718"><img src="http:&#x2F;&#x2F;files.namecheap.com&#x2F;graphics&#x2F;linkus&#x2F;728x90-1.gif" width="728" height="90" border="0" alt="Namecheap.com"></a><!-- END LINK -->
+
+            <p class="f6 db b ttu lh-solid">© {{ site.time | date: '%Y' }} {{ site.name }}</p>
+            <div class="mt5">
+              <a class="f6 dib pr2 mid-gray dim" target="_blank" href="https://www.patreon.com/codefurniture" title="Support">Support</a>
+              <a href="/tos.html" title="Terms" class="f6 dib ph2 mid-gray dim">Terms of Use</a>
+              <a href="/privacy.html" title="Privacy" class="f6 dib pl2 mid-gray dim">Privacy</a>
+            </div>
+          </footer>
+
+          <script src="/js/socialight.min.js"></script>
+          <script>
+              new Socialight();
+          </script>
+
+
+
+    </body>
 </html>

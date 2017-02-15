@@ -1,18 +1,34 @@
 {
-  "name": "jekyons",
-  "version": "1.0.0",
-  "description": "Stop writing CSS and start building prototypes.",
-  "main": "index.js",
-  "repository": "tinychime/jekyons",
+  "name": "cf",
+  "version": "0.0.0",
+  "description": "Code Furniture",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Joshua Vaage",
+  "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.17.5",
-    "gulp": "^3.9.1",
-    "gulp-shell": "^0.5.2",
-    "lodash": "^4.16.4"
+    "gulp": "^3.8.8",
+    "gulp-sass": "^2.1.0",
+    "browser-sync": "^1.3.7",
+    "gulp-autoprefixer": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whaleen/cf.git"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browsersync"
+  ],
+  "bugs": {
+    "url": "https://github.com/whaleen/cf/issues"
+  },
+  "homepage": "https://github.com/whaleen/cf",
+  "dependencies": {
+    "simple-jekyll-search": "^1.1.5"
   }
 }

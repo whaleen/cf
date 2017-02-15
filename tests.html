@@ -1,0 +1,52 @@
+---
+layout: default
+title: cf-news
+---
+
+<div class="dt-ns dt--fixed-ns">
+  <div class="dtc-ns tc pv4 bg-black-01">
+    <a target="_blank"  href="https://www.amazon.com/gp/product/1541136942/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1541136942&linkCode=as2&tag=codefurniture-20&linkId=0c2d9b3d468658a7326dac63b3b0985f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1541136942&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=codefurniture-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=codefurniture-20&l=am2&o=1&a=1541136942" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="dtc-ns tc pv4 bg-black-05">
+    <a target="_blank" href="https://www.amazon.com/gp/product/1515178676/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1515178676&linkCode=as2&tag=codefurniture-20&linkId=7db39c6f7ceb321ad2af9e4e9f5427e4">Black Nazis III: Ethnic Minorities and Foreigners in Hitler's Reich: A New History</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=codefurniture-20&l=am2&o=1&a=1515178676" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="dtc-ns tc pv4 bg-black-10">
+  <!-- BEGIN LINK --><a href="https:&#x2F;&#x2F;www.namecheap.com&#x2F;?aff=110718"><img src="http:&#x2F;&#x2F;files.namecheap.com&#x2F;graphics&#x2F;linkus&#x2F;88x31-1.gif" width="88" height="31" border="0" alt="Namecheap.com"></a><!-- END LINK -->
+  </div>
+</div>
+
+<div class="pa3 pa4-ns">
+<h3 class="gray">Listen</h3>
+  <ul class="list">
+    {% for post in site.categories.podcasts limit: 1 %}
+      <li class="lh-copy pv4"><span>
+         <a class="black link f3 fw1 baskerville" href="{{ post.url }}">{{ post.title }}</a><br>
+        <a class="fw1" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
+        {{ post.excerpt }}
+        <a href="#" class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">{{ post.categories }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<section class="cf">
+  <div class="fl w-50 w-25-ns"><img class="db w-100" src="http://tachyons.io/img/1.jpg" alt="night sky over house"></div>
+  <div class="fl w-50 w-25-ns"><img class="db w-100" src="http://tachyons.io/img/2.jpg" alt="night sky over water"></div>
+  <div class="fl w-50 w-25-ns"><img class="db w-100" src="http://tachyons.io/img/3.jpg" alt="bay bridge at night"></div>
+  <div class="fl w-50 w-25-ns"><img class="db w-100" src="http://tachyons.io/img/4.jpg" alt="night sky over land"></div>
+</section>
+
+
+<div class="pa3 pa4-ns">
+
+  <ul class="list">
+    {% for post in site.posts %}
+      <li class="lh-copy pv4"><span>
+         <a class="black link f3 fw1 baskerville" href="{{ post.url }}">{{ post.title }}</a><br>
+        <a class="fw1" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
+        {{ post.categories }} {{ post.tags }}
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

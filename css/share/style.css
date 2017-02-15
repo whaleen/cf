@@ -1,0 +1,45 @@
+.share-url {
+    text-align: center;
+}
+
+[data-socialight-url] {
+    height: 70px;
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+[data-socialight-channel] {
+    background-position: center top;
+    background-repeat: no-repeat;
+    color: #000;
+    display: inline-block;
+    min-height: 60px;
+    min-width: 60px;
+    padding: 32px 16px 0;
+    text-align: center;
+    text-decoration: none;
+}
+
+[data-socialight-channel='buffer'] {
+    background-image: url('img/buffer.png');
+}
+
+[data-socialight-channel='twitter'] {
+    background-image: url('drawic/twitter.svg');
+}
+
+[data-socialight-channel='facebook'] {
+    background-image: url('img/facebook.png');
+}
+
+[data-socialight-channel='linkedin'] {
+    background-image: url('img/linkedin.png');
+}
+
+[data-socialight-channel='googleplus'] {
+    background-image: url('img/googleplus.png');
+}
+
+[data-socialight-channel='pinterest'] {
+    background-image: url('img/pinterest.png');
+}

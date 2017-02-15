@@ -1,17 +1,18 @@
 ---
 layout: default
+title: cf-news
 ---
-<!-- Loop over _data/features.yml -->
-<div class="ma4 ma5-ns">
-  {% for feature in site.data.features %}
-  <div class="w-33-l pr4 mb5 fl-l mt4 cf-4th p-fix">
-    <img class="w2" src="{{ feature.icon }}">
-    <h2 class="normal">{{ feature.name }}</h2>
-    <p class="lh-copy f5">{{ feature.description }}</p>
-  </div>
-  {% endfor %}
-</div>
 
-<div class="ma4 ma5-ns">
-  <p class="lh-copy f4 cf">* This very list of features was created by looping over a .yml file and applying styles from Tachyons.css in less than 10 lines of code. Fork the <a href="" class="link white bb pb1">Jekyons repo</a> and check out the _data directory to see how it works.</p>
+<div class="pa3 pa4-ns">
+
+  <ul class="list w-50">
+    {% for post in site.posts %}
+      <li class="lh-copy pv4"><span>
+         <a class="black link f3" href="{{ post.url }}">{{ post.title }}</a><br>
+        <a class="fw1" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
+        {{ post.categories }} {{ post.tags }}
+      </li>
+    {% endfor %}
+  </ul>
+
 </div>

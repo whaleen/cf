@@ -1,0 +1,13 @@
+{% if post.author %}
+  {% assign author = post.author %}
+{% elsif page.author %}
+  {% assign author = page.author %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+<ul class="list">
+  {% if author %}
+    <li class="lh-copy pv3"><a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a></li>
+  {% endif %}
+</ul>
