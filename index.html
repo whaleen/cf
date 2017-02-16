@@ -9,7 +9,7 @@ title: cf-news
   <ul class="list">
     {% for post in site.posts %}
       <li class="lh-copy pv4"><span>
-         <a visited class="black link f3" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>
+         <a class="black link f3" href="{{ post.url }}">{{ post.title }}</a><br>
         <a class="fw1" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
         {{ post.categories }} {{ post.tags }}
       </li>
