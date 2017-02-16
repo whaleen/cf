@@ -1,9 +1,9 @@
 url: http://localhost:3000
 name: Code Furniture
+description: "Agency for Meaningful Propaganda"
 markdown: redcarpet
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-
 
 gems:
   - jekyll-seo-tag
