@@ -1,19 +1,24 @@
 ---
-title: "DREAMER’s Nightmare–One To Watch"
-kind: article
+title: "DREAMER’s Nightmare–One To Watch" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-16 02:16:00 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/dreamers-nightmare-one-to-watch
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/dreamers-nightmare-one-to-watch    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   DREAMER’s Nightmare–One To Watch             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/dreamers-nightmare-one-to-watch               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-16 02:16:00 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;The Main Stream Media reports that a DREAMER was arrested at his father’s home last week. His father is a Mexican, convicted felon who returned to the US. ICE agents went to the house to arrest the father.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;ICE says Daniel Ramirez is a gang member — which could make for a tricky case&lt;/strong&gt;&lt;/p&gt;
 &lt;p id=&quot;oamQ8g&quot;&gt;On Tuesday, ICE released a statement calling Daniel Ramirez a “self-admitted gang member” who’d been taken into custody “based on his admitted gang affiliation and risk to public safety.”&lt;/p&gt;
@@ -24,15 +29,9 @@ link: https://www.vdare.com/posts/dreamers-nightmare-one-to-watch
 &lt;p&gt;This article states that David Ramirez Medina’s brother was also in the house. He is a Dreamer but he wasn’t arrested. Why did this brother get different treatment? Perhaps one brother confessed to gang affiliation and the other did not. That would support the ICE position in the matter.&lt;/p&gt;
 &lt;p&gt;The hearing is scheduled for Friday but there may be action today on the matter. This will be one to watch.&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>The Main Stream Media reports that a DREAMER was arrested at his father’s home last week. His father is a Mexican, convicted felon who returned to the US. ICE agents went to the house to arrest the father.</p>
 <blockquote><p><strong>ICE says Daniel Ramirez is a gang member — which could make for a tricky case</strong></p>
 <p id="oamQ8g">On Tuesday, ICE released a statement calling Daniel Ramirez a “self-admitted gang member” who’d been taken into custody “based on his admitted gang affiliation and risk to public safety.”</p>

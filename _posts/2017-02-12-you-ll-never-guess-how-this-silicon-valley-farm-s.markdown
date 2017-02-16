@@ -1,19 +1,24 @@
 ---
-title: "You’ll Never Guess How This Silicon Valley Farm Solved Its Labor Problem!"
-kind: article
+title: "You’ll Never Guess How This Silicon Valley Farm Solved Its Labor Problem!" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-12 02:34:21 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/107036
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/107036    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   You’ll Never Guess How This Silicon Valley Farm Solved Its Labor Problem!             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/107036               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-12 02:34:21 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;div class=&quot;entry&quot;&gt;
 &lt;p&gt;From the &lt;em&gt;Los Angeles Times&lt;/em&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a title=&quot;http://www.latimes.com/business/la-fi-garlic-labor-shortage-20170207-story.html&quot; href=&quot;http://www.latimes.com/business/la-fi-garlic-labor-shortage-20170207-story.html&quot;&gt;How this garlic farm went from a labor shortage to over 150 people on its applicant waitlist&lt;/a&gt;&lt;/p&gt;
@@ -29,15 +34,9 @@ link: https://www.vdare.com/posts/107036
 &lt;/div&gt;
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/youll-never-guess-how-this-silicon-valley-farm-solved-its-labor-problem/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><div class="entry">
 <p>From the <em>Los Angeles Times</em>:</p>
 <blockquote><p><a title="http://www.latimes.com/business/la-fi-garlic-labor-shortage-20170207-story.html" href="http://www.latimes.com/business/la-fi-garlic-labor-shortage-20170207-story.html">How this garlic farm went from a labor shortage to over 150 people on its applicant waitlist</a></p>

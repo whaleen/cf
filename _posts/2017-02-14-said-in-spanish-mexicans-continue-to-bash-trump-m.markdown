@@ -1,19 +1,24 @@
 ---
-title: "SAID IN SPANISH: Mexicans Continue To Bash Trump, Meddle In The U.S.—But They’re Also Preparing For Deportees"
-kind: article
+title: "SAID IN SPANISH: Mexicans Continue To Bash Trump, Meddle In The U.S.—But They’re Also Preparing For Deportees" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-14 03:20:49 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/articles/said-in-spanish-mexicans-continue-to-bash-trump-meddle-in-the-u-s-but-theyre-also-preparing-for-deportees
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/articles/said-in-spanish-mexicans-continue-to-bash-trump-meddle-in-the-u-s-but-theyre-also-preparing-for-deportees    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   SAID IN SPANISH: Mexicans Continue To Bash Trump, Meddle In The U.S.—But They’re Also Preparing For Deportees             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/articles/said-in-spanish-mexicans-continue-to-bash-trump-meddle-in-the-u-s-but-theyre-also-preparing-for-deportees               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-14 03:20:49 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;Sunday February 12th was a national Anti-Trump Day in Mexico.&lt;/p&gt;
 &lt;p&gt;Well, actually every day is, but this one was special: there were anti-Trump marches throughout the country.&lt;/p&gt;
 &lt;p&gt;Just think about that a moment.  Thousands of people in one country are protesting the head of state in &lt;em&gt;another&lt;/em&gt; country—for &lt;em&gt;enforcing the laws of that country&lt;/em&gt;.&lt;/p&gt;
@@ -75,15 +80,9 @@ link: https://www.vdare.com/articles/said-in-spanish-mexicans-continue-to-bash-t
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>Sunday February 12th was a national Anti-Trump Day in Mexico.</p>
 <p>Well, actually every day is, but this one was special: there were anti-Trump marches throughout the country.</p>
 <p>Just think about that a moment.  Thousands of people in one country are protesting the head of state in <em>another</em> country—for <em>enforcing the laws of that country</em>.</p>

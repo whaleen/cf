@@ -1,19 +1,24 @@
 ---
-title: "Taylor Swift, Adele: Do All White Award-winners Have to Apologize to Black Losers from Now On?"
-kind: article
+title: "Taylor Swift, Adele: Do All White Award-winners Have to Apologize to Black Losers from Now On?" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-13 23:59:08 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/taylor-swift-adele-do-all-white-award-winners-have-to-apologize-to-black-losers-from-now-on
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/taylor-swift-adele-do-all-white-award-winners-have-to-apologize-to-black-losers-from-now-on    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Taylor Swift, Adele: Do All White Award-winners Have to Apologize to Black Losers from Now On?             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/taylor-swift-adele-do-all-white-award-winners-have-to-apologize-to-black-losers-from-now-on               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-13 23:59:08 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Back in 2009 at some music award show, Kanye West (who is black) charged the stage during (white) Taylor Swift’s acceptance speech to announce — “I’mma let you finish, but” — that (black) Beyonce deserved to win instead.&lt;/p&gt;
 &lt;p&gt;Since then, it has become increasingly common for white award-winners to preemptively apologize from the stage to black losers for the obvious racial injustice of their victories, such as &lt;a href=&quot;http://www.vdare.com/posts/today-in-white-guilt-white-guy-wins-hip-hop-grammy-another-white-guy-worries-about-it-at-lengt&quot;&gt;Macklemore to Kendrick Lamar a&lt;/a&gt; few years ago and Adele to Beyonce last night at the Grammy Awards (which pretty much kept the Oroville Dam off the national news).&lt;/p&gt;
@@ -32,15 +37,9 @@ link: https://www.vdare.com/posts/taylor-swift-adele-do-all-white-award-winners-
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/do-white-award-winners-have-to-apologize-to-black-losers-from-now-on/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p></p>
 <p>Back in 2009 at some music award show, Kanye West (who is black) charged the stage during (white) Taylor Swift’s acceptance speech to announce — “I’mma let you finish, but” — that (black) Beyonce deserved to win instead.</p>
 <p>Since then, it has become increasingly common for white award-winners to preemptively apologize from the stage to black losers for the obvious racial injustice of their victories, such as <a href="http://www.vdare.com/posts/today-in-white-guilt-white-guy-wins-hip-hop-grammy-another-white-guy-worries-about-it-at-lengt">Macklemore to Kendrick Lamar a</a> few years ago and Adele to Beyonce last night at the Grammy Awards (which pretty much kept the Oroville Dam off the national news).</p>

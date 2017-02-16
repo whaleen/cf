@@ -1,19 +1,24 @@
 ---
-title: "BULLETIN: Judicial Imperialism Climaxing Now, Developing For Decades; Etc.(70 ITEMS)"
-kind: article
+title: "BULLETIN: Judicial Imperialism Climaxing Now, Developing For Decades; Etc.(70 ITEMS)" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-14 09:52:50 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/e-bulletins/bulletin-judicial-imperialism-climaxing-now-developing-for-decades-etc-70-items
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/e-bulletins/bulletin-judicial-imperialism-climaxing-now-developing-for-decades-etc-70-items    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   BULLETIN: Judicial Imperialism Climaxing Now, Developing For Decades; Etc.(70 ITEMS)             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/e-bulletins/bulletin-judicial-imperialism-climaxing-now-developing-for-decades-etc-70-items               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-14 09:52:50 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;table class=&quot;TemplateWidth&quot; style=&quot;width:600px&quot; border=&quot;0&quot; width=&quot;600&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
 &lt;tbody&gt;&lt;tr&gt;
 &lt;td valign=&quot;top&quot; width=&quot;100%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;
@@ -673,15 +678,9 @@ link: https://www.vdare.com/e-bulletins/bulletin-judicial-imperialism-climaxing-
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><table class="TemplateWidth" style="width:600px" border="0" width="600" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td valign="top" width="100%" rowspan="1" colspan="1">

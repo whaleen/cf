@@ -1,19 +1,24 @@
 ---
-title: "Montana: The 80-Percent-Against-Illegal-Immigration State"
-kind: article
+title: "Montana: The 80-Percent-Against-Illegal-Immigration State" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-13 18:17:38 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/montana-the-80-percent-against-illegal-immigration-state
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/montana-the-80-percent-against-illegal-immigration-state    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Montana: The 80-Percent-Against-Illegal-Immigration State             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/montana-the-80-percent-against-illegal-immigration-state               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-13 18:17:38 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;At its weekly meeting last Monday evening, February 6, the city commission here in Bozeman, Montana was (supposedly) blindsided by an uprising among local &lt;a href=&quot;http://www.dictionary.com/browse/mooncalf?s=t&quot;&gt;mooncalves&lt;/a&gt; who want the city to become an illegal-alien sanctuary.  Several score showed up and used the public-comments segment of the proceedings to engage in their virtue-signaling.  As Morgan McKay reported for local television station KBZK:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Bozeman City Commissioners reportedly had no prior knowledge that a large crowd would give an impromptu presentation, asking the commission to make Bozeman a sanctuary city.&lt;/p&gt;
 &lt;p&gt;[&lt;a href=&quot;http://www.kbzk.com/story/34444857/crowd-asks-commissioners-to-make-bozeman-a-sanctuary-city&quot;&gt;&lt;em&gt;Crowd asks commissioners to make Bozeman a sanctuary city&lt;/em&gt;&lt;/a&gt;, February 7, 2017]&lt;/p&gt;&lt;/blockquote&gt;
@@ -38,15 +43,9 @@ link: https://www.vdare.com/posts/montana-the-80-percent-against-illegal-immigra
 &lt;p&gt;(Because of a drafting error in the resolution’s language, &lt;a href=&quot;http://www.vdare.com/posts/court-strikes-down-montana-law-requires-illegals-to-get-welfare&quot;&gt;the Montana Supreme Court overturned the resolution&lt;/a&gt; in May 2016, but the overwhelming vote favoring its passage was much more significant than what it would have accomplished if in force.)&lt;/p&gt;
 &lt;p&gt;So, with its great disdain for sanctuary cities, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Montana&quot;&gt;Treasure State&lt;/a&gt; is, once again, Exemplar for the Nation.&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>At its weekly meeting last Monday evening, February 6, the city commission here in Bozeman, Montana was (supposedly) blindsided by an uprising among local <a href="http://www.dictionary.com/browse/mooncalf?s=t">mooncalves</a> who want the city to become an illegal-alien sanctuary.  Several score showed up and used the public-comments segment of the proceedings to engage in their virtue-signaling.  As Morgan McKay reported for local television station KBZK:</p>
 <blockquote><p>Bozeman City Commissioners reportedly had no prior knowledge that a large crowd would give an impromptu presentation, asking the commission to make Bozeman a sanctuary city.</p>
 <p>[<a href="http://www.kbzk.com/story/34444857/crowd-asks-commissioners-to-make-bozeman-a-sanctuary-city"><em>Crowd asks commissioners to make Bozeman a sanctuary city</em></a>, February 7, 2017]</p></blockquote>

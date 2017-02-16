@@ -1,19 +1,24 @@
 ---
-title: "NYT: Trump Is Like a Pushy Jew Who Ought to be Blackballed from Our Country Club"
-kind: article
+title: "NYT: Trump Is Like a Pushy Jew Who Ought to be Blackballed from Our Country Club" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-14 05:30:23 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/nyt-trump-is-like-a-pushy-jew-who-ought-to-be-blackballed-from-our-country-club
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/nyt-trump-is-like-a-pushy-jew-who-ought-to-be-blackballed-from-our-country-club    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   NYT: Trump Is Like a Pushy Jew Who Ought to be Blackballed from Our Country Club             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/nyt-trump-is-like-a-pushy-jew-who-ought-to-be-blackballed-from-our-country-club               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-14 05:30:23 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;a title=&quot;http://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/e/91/e9117664-2c9d-5485-8b3c-a345efae18fe/524cdc2b9f857.image.jpg&quot; href=&quot;http://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/e/91/e9117664-2c9d-5485-8b3c-a345efae18fe/524cdc2b9f857.image.jpg&quot;&gt;&lt;img class=&quot;alignright&quot; title=&quot;&quot; src=&quot;http://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/e/91/e9117664-2c9d-5485-8b3c-a345efae18fe/524cdc2b9f857.image.jpg&quot; alt=&quot;&quot; width=&quot;223&quot; height=&quot;178&quot; align=&quot;right&quot;&gt;&lt;/a&gt; From the &lt;em&gt;New York Times &lt;/em&gt;Editorial Page:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a title=&quot;https://www.nytimes.com/2017/02/13/opinion/the-caddyshack-president.html&quot; href=&quot;https://www.nytimes.com/2017/02/13/opinion/the-caddyshack-president.html&quot;&gt;The ‘Caddyshack’ President&lt;/a&gt;&lt;br&gt;
 By ELIZABETH WILLIAMSON FEB. 13, 2017&lt;/p&gt;
@@ -27,15 +32,9 @@ By ELIZABETH WILLIAMSON FEB. 13, 2017&lt;/p&gt;
 &lt;p&gt;Of course, who doesn’t confuse a reporter with the richest guy in Germany?&lt;/p&gt;
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/nyt-trump-is-like-a-pushy-jew/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p><a title="http://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/e/91/e9117664-2c9d-5485-8b3c-a345efae18fe/524cdc2b9f857.image.jpg" href="http://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/e/91/e9117664-2c9d-5485-8b3c-a345efae18fe/524cdc2b9f857.image.jpg"><img class="alignright" title="" src="http://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/e/91/e9117664-2c9d-5485-8b3c-a345efae18fe/524cdc2b9f857.image.jpg" alt="" width="223" height="178" align="right"></a> From the <em>New York Times </em>Editorial Page:</p>
 <blockquote><p><a title="https://www.nytimes.com/2017/02/13/opinion/the-caddyshack-president.html" href="https://www.nytimes.com/2017/02/13/opinion/the-caddyshack-president.html">The ‘Caddyshack’ President</a><br>
 By ELIZABETH WILLIAMSON FEB. 13, 2017</p>

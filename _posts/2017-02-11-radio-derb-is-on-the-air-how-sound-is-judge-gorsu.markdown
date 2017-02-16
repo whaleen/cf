@@ -1,19 +1,24 @@
 ---
-title: "Radio Derb Is On The Air: How Sound Is Judge Gorsuch? Etc."
-kind: article
+title: "Radio Derb Is On The Air: How Sound Is Judge Gorsuch? Etc." # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-11 07:00:08 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/radio-derb-is-on-the-air-how-sound-is-judge-gorsuch-etc
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/radio-derb-is-on-the-air-how-sound-is-judge-gorsuch-etc    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Radio Derb Is On The Air: How Sound Is Judge Gorsuch? Etc.             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/radio-derb-is-on-the-air-how-sound-is-judge-gorsuch-etc               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-11 07:00:08 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;Radio Derb is on the air–go &lt;a href=&quot;http://www.vdare.com/radios/radio-derb-justice-may-be-blind-but-judges-arent-etc&quot;&gt;here &lt;/a&gt;to listen, &lt;a href=&quot;https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/11010746/2017-02-10.mp3&quot;&gt;here &lt;/a&gt;to download the MP3.&lt;/p&gt;
 &lt;p&gt;04m10s — The Fallacy of Judicial Impartiality. (It’s politics all the way down.)&lt;/p&gt;
 &lt;p&gt;11m34s — How sound is Judge Gorsuch? (Was my heart too soon made glad?)&lt;/p&gt;
@@ -29,15 +34,9 @@ commercials. (Immigration Romanticism for football fans.)&lt;/p&gt;
 &lt;p&gt;52m47s — 65 years on the throne. (ERII’s new milestone.)&lt;/p&gt;
 &lt;p&gt;54m48s — Signoff. (For St Valentine’s Day.)&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>Radio Derb is on the air–go <a href="http://www.vdare.com/radios/radio-derb-justice-may-be-blind-but-judges-arent-etc">here </a>to listen, <a href="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/11010746/2017-02-10.mp3">here </a>to download the MP3.</p>
 <p>04m10s — The Fallacy of Judicial Impartiality. (It’s politics all the way down.)</p>
 <p>11m34s — How sound is Judge Gorsuch? (Was my heart too soon made glad?)</p>

@@ -1,19 +1,24 @@
 ---
-title: "Strange Transmissions From Earth. Houston, Please Verify"
-kind: article
+title: "Strange Transmissions From Earth. Houston, Please Verify" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-07 04:00:43 UTC
-author: "Taki Magazine"
-categories: 
-tags: 
 layout: post
-link: http://takimag.com/article/strange_transmissions_from_earth_houston_please_verify_joe_bob_briggs
+kind: article
+author: "Taki Magazine"
+
+categories: commentary
+tags: lewrockwell
+source_post_url: http://takimag.com/article/strange_transmissions_from_earth_houston_please_verify_joe_bob_briggs    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/takimag
+source_twitter: takimag
+source_blog_name: Taki&#39;s Magazine
+source_blog_slug: takis-magazine              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: http://takimag.com/article/               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Strange Transmissions From Earth. Houston, Please Verify             # => "I Made a Pretty Gem - Planet.rb"
-   http://takimag.com/article/strange_transmissions_from_earth_houston_please_verify_joe_bob_briggs               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-07 04:00:43 UTC              # => "2012-04-14 05:17:00 UTC"
    by Joe Bob Briggs&lt;br&gt;
 	  
 
@@ -41,15 +46,9 @@ cc: Robert M. Lightfoot, Acting Administrator,...
 	  &lt;div class=&quot;feedflare&quot;&gt;
 &lt;a href=&quot;http://feeds.feedburner.com/~ff/takimag?a=S6Q3p4giVLE:CJ5CF1L-Oyo:yIl2AUoC8zA&quot;&gt;&lt;img src=&quot;http://feeds.feedburner.com/~ff/takimag?d=yIl2AUoC8zA&quot; border=&quot;0&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/takimag?a=S6Q3p4giVLE:CJ5CF1L-Oyo:qj6IDK7rITs&quot;&gt;&lt;img src=&quot;http://feeds.feedburner.com/~ff/takimag?d=qj6IDK7rITs&quot; border=&quot;0&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/takimag?a=S6Q3p4giVLE:CJ5CF1L-Oyo:gIN9vFwOqvQ&quot;&gt;&lt;img src=&quot;http://feeds.feedburner.com/~ff/takimag?i=S6Q3p4giVLE:CJ5CF1L-Oyo:gIN9vFwOqvQ&quot; border=&quot;0&quot;&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/takimag/~4/S6Q3p4giVLE&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   Taki&#39;s Magazine              # => "This is where I tell you stuff"
    takis-magazine              # => "this-is-where-i-tell-you-stuff"
    http://takimag.com/article/               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
-   http://takimag.com/images/global/taki_tm_v2.png              # => "http://poteland.com/images/site-logo.png"
-   Taki Magazine                 # => "Pablo Astigarraga"
-   takimag                # => "poteland"
-   http://twitter.com/takimag            # => "http://twitter.com/poteland" -->
+                 # => "http://poteland.com/images/site-logo.png"
 by Joe Bob Briggs<br>
 	  
 

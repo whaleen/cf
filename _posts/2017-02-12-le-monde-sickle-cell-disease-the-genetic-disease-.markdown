@@ -1,19 +1,24 @@
 ---
-title: "LE MONDE: “Sickle Cell Disease, the Genetic Disease That Excites the Extreme Right”"
-kind: article
+title: "LE MONDE: “Sickle Cell Disease, the Genetic Disease That Excites the Extreme Right”" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-12 22:34:54 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/le-monde-sickle-cell-disease-the-genetic-disease-that-excites-the-extreme-right
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/le-monde-sickle-cell-disease-the-genetic-disease-that-excites-the-extreme-right    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   LE MONDE: “Sickle Cell Disease, the Genetic Disease That Excites the Extreme Right”             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/le-monde-sickle-cell-disease-the-genetic-disease-that-excites-the-extreme-right               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-12 22:34:54 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;With more car-be-ques and anti-police race riots in France this week following the police abuse of a black youth named “Theo,” the question of the current and future racial and ethnic makeup of the population resident in France becomes ever more interesting.&lt;/p&gt;
 &lt;p&gt;As I wrote in my &lt;em&gt;Taki’s Magazine&lt;/em&gt; column this week, “&lt;a title=&quot;http://takimag.com/article/le_grand_remplacement_steve_sailer#axzz4YR7oto7T&quot; href=&quot;http://takimag.com/article/le_grand_remplacement_steve_sailer#axzz4YR7oto7T&quot;&gt;Le Grand Remplacement&lt;/a&gt;,” unlike in the U.S., there’s no official count of residents of France by race or ethnicity.&lt;/p&gt;
@@ -53,15 +58,9 @@ link: https://www.vdare.com/posts/le-monde-sickle-cell-disease-the-genetic-disea
 &lt;p&gt;Because who counts whom is what counts, not what the truth may be.&lt;/p&gt;
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/le-monde-sickle-cell-disease-the-genetic-disease-that-excites-the-extreme-right/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p></p>
 <p>With more car-be-ques and anti-police race riots in France this week following the police abuse of a black youth named “Theo,” the question of the current and future racial and ethnic makeup of the population resident in France becomes ever more interesting.</p>
 <p>As I wrote in my <em>Taki’s Magazine</em> column this week, “<a title="http://takimag.com/article/le_grand_remplacement_steve_sailer#axzz4YR7oto7T" href="http://takimag.com/article/le_grand_remplacement_steve_sailer#axzz4YR7oto7T">Le Grand Remplacement</a>,” unlike in the U.S., there’s no official count of residents of France by race or ethnicity.</p>

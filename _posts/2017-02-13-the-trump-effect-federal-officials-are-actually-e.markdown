@@ -1,19 +1,24 @@
 ---
-title: "The Trump Effect: Federal Officials Are Actually ENFORCING THE LAW"
-kind: article
+title: "The Trump Effect: Federal Officials Are Actually ENFORCING THE LAW" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-13 19:01:32 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/the-trump-effect-federal-officials-are-actually-enforcing-the-law
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/the-trump-effect-federal-officials-are-actually-enforcing-the-law    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   The Trump Effect: Federal Officials Are Actually ENFORCING THE LAW             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/the-trump-effect-federal-officials-are-actually-enforcing-the-law               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-13 19:01:32 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;Is this really happening? Is the federal government actually enforcing immigration law?&lt;/p&gt;
 &lt;p&gt;Somebody pinch me and tell me it’s not a dream!&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;Washington Post&lt;/em&gt; article about it is entitled&lt;/p&gt;
@@ -65,15 +70,9 @@ link: https://www.vdare.com/posts/the-trump-effect-federal-officials-are-actuall
 &lt;p&gt;We can hope.&lt;/p&gt;
 &lt;p&gt;Is this a dream? I hope not, but to the open border crowd, it’s beginning to resemble a nightmare.&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>Is this really happening? Is the federal government actually enforcing immigration law?</p>
 <p>Somebody pinch me and tell me it’s not a dream!</p>
 <p>The <em>Washington Post</em> article about it is entitled</p>

@@ -1,19 +1,24 @@
 ---
-title: "“Undocumented Immigrants” “Undocumented Immigrants” “Undocumented Immigrants” Aieee!!!"
-kind: article
+title: "“Undocumented Immigrants” “Undocumented Immigrants” “Undocumented Immigrants” Aieee!!!" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-14 01:22:14 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/undocumented-immigrants-undocumented-immigrants-undocumented-immigrants-aieee
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/undocumented-immigrants-undocumented-immigrants-undocumented-immigrants-aieee    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   “Undocumented Immigrants” “Undocumented Immigrants” “Undocumented Immigrants” Aieee!!!             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/undocumented-immigrants-undocumented-immigrants-undocumented-immigrants-aieee               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-14 01:22:14 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/13140045/trumpeffect-1024x608.jpg&quot; width=&quot;225&quot; align=&quot;right&quot;&gt;Allan Wall has a &lt;a href=&quot;http://www.vdare.com/posts/the-trump-effect-federal-officials-are-actually-enforcing-the-law&quot;&gt;current blog entry here&lt;/a&gt; wherein he provides detailed commentary on a February 11, 2017 &lt;em&gt;Washington Post&lt;/em&gt; article about a surge of activity among Immigration and Customs Enforcement [ICE] agents.  (Perhaps we should dub this “the immigration-enforcement awakening” or “the ICE spring.”) [&lt;em&gt;&lt;a href=&quot;https://www.washingtonpost.com/national/federal-agents-conduct-sweeping-immigration-enforcement-raids-in-at-least-6-states/2017/02/10/4b9f443a-efc8-11e6-b4ff-ac2cf509efe5_story.html?utm_term=.c81aca593ff2&quot;&gt;Federal agents conduct immigration enforcement raids in at least six states, &lt;/a&gt;&lt;/em&gt;By Lisa Rein, Abigail Hauslohner and Sandhya Somashekhar, Washington Post, Feb. 11, 2017]&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;WaPo&lt;/em&gt; article is distressingly typical in that the term “illegal alien” never appears in it.  Always, it’s “undocumented immigrant.”&lt;/p&gt;
 &lt;p&gt;So, taking on this tiresome point once again, Saturday evening I sent an email to the three reporters—Lisa Rein, Abigail Hauslohner and Sandhya Somashekhar:&lt;/p&gt;
@@ -35,15 +40,9 @@ link: https://www.vdare.com/posts/undocumented-immigrants-undocumented-immigrant
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p><img src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/13140045/trumpeffect-1024x608.jpg" width="225" align="right">Allan Wall has a <a href="http://www.vdare.com/posts/the-trump-effect-federal-officials-are-actually-enforcing-the-law">current blog entry here</a> wherein he provides detailed commentary on a February 11, 2017 <em>Washington Post</em> article about a surge of activity among Immigration and Customs Enforcement [ICE] agents.  (Perhaps we should dub this “the immigration-enforcement awakening” or “the ICE spring.”) [<em><a href="https://www.washingtonpost.com/national/federal-agents-conduct-sweeping-immigration-enforcement-raids-in-at-least-6-states/2017/02/10/4b9f443a-efc8-11e6-b4ff-ac2cf509efe5_story.html?utm_term=.c81aca593ff2">Federal agents conduct immigration enforcement raids in at least six states, </a></em>By Lisa Rein, Abigail Hauslohner and Sandhya Somashekhar, Washington Post, Feb. 11, 2017]</p>
 <p>The <em>WaPo</em> article is distressingly typical in that the term “illegal alien” never appears in it.  Always, it’s “undocumented immigrant.”</p>
 <p>So, taking on this tiresome point once again, Saturday evening I sent an email to the three reporters—Lisa Rein, Abigail Hauslohner and Sandhya Somashekhar:</p>

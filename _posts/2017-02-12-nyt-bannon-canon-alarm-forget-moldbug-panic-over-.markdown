@@ -1,19 +1,24 @@
 ---
-title: "NYT: Bannon Canon Alarm: Forget Moldbug, Panic Over Evola!"
-kind: article
+title: "NYT: Bannon Canon Alarm: Forget Moldbug, Panic Over Evola!" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-12 22:23:23 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/nyt-bannon-canon-alarm-forget-moldbug-panic-over-evola
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/nyt-bannon-canon-alarm-forget-moldbug-panic-over-evola    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   NYT: Bannon Canon Alarm: Forget Moldbug, Panic Over Evola!             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/nyt-bannon-canon-alarm-forget-moldbug-panic-over-evola               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-12 22:23:23 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;From the &lt;em&gt;New York Times&lt;/em&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a title=&quot;https://www.nytimes.com/2017/02/10/world/europe/bannon-vatican-julius-evola-fascism.html&quot; href=&quot;https://www.nytimes.com/2017/02/10/world/europe/bannon-vatican-julius-evola-fascism.html&quot;&gt;Steve Bannon Cited Italian Thinker Who Inspired Fascists&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;By JASON HOROWITZ FEB. 10, 2017&lt;/p&gt;
@@ -26,15 +31,9 @@ link: https://www.vdare.com/posts/nyt-bannon-canon-alarm-forget-moldbug-panic-ov
 &lt;p&gt;You pretty much have to assume Bannon is pro-cancer to think his use of the word “metastasized” constitutes an endorsement, but I imagine a lot of people imagine Bannon is pro-cancer after all the hate propaganda.&lt;/p&gt;
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/nyt-forget-moldbug-worry-about-evola/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>From the <em>New York Times</em>:</p>
 <blockquote><p><a title="https://www.nytimes.com/2017/02/10/world/europe/bannon-vatican-julius-evola-fascism.html" href="https://www.nytimes.com/2017/02/10/world/europe/bannon-vatican-julius-evola-fascism.html">Steve Bannon Cited Italian Thinker Who Inspired Fascists</a></p>
 <p>By JASON HOROWITZ FEB. 10, 2017</p>

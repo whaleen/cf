@@ -1,19 +1,24 @@
 ---
-title: "POLITICO: Trump “Granted Himself Sweeping Authority” To Step Up Deportations–He Was Elected President!"
-kind: article
+title: "POLITICO: Trump “Granted Himself Sweeping Authority” To Step Up Deportations–He Was Elected President!" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-14 18:26:10 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/politico-trump-granted-himself-sweeping-authority-to-step-up-deportations-he-was-elected-president
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/politico-trump-granted-himself-sweeping-authority-to-step-up-deportations-he-was-elected-president    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   POLITICO: Trump “Granted Himself Sweeping Authority” To Step Up Deportations–He Was Elected President!             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/politico-trump-granted-himself-sweeping-authority-to-step-up-deportations-he-was-elected-president               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-14 18:26:10 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;This is surprisingly stupid from &lt;em&gt;Politico:&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
 &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;.&lt;a href=&quot;https://twitter.com/realDonaldTrump&quot;&gt;@realDonaldTrump&lt;/a&gt; granted himself sweeping authority to step up deportations, and he&#39;s poised to use it &lt;a href=&quot;https://t.co/IbKvwyS4rn&quot;&gt;https://t.co/IbKvwyS4rn&lt;/a&gt; &lt;a href=&quot;https://t.co/bPIcJxDnv3&quot;&gt;pic.twitter.com/bPIcJxDnv3&lt;/a&gt;&lt;/p&gt;
@@ -27,15 +32,9 @@ link: https://www.vdare.com/posts/politico-trump-granted-himself-sweeping-author
 &lt;p&gt;And Obama didn’t run on a promise to do that–he &lt;a href=&quot;http://www.speaker.gov/general/22-times-president-obama-said-he-couldn-t-ignore-or-create-his-own-immigration-law&quot;&gt;told illegals he wasn’t king&lt;/a&gt;, and couldn’t do that. Then he changed his mind.&lt;/p&gt;
 &lt;p&gt;Trump, by contrast, is keeping his election promise.&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>This is surprisingly stupid from <em>Politico:</em></p>
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">.<a href="https://twitter.com/realDonaldTrump">@realDonaldTrump</a> granted himself sweeping authority to step up deportations, and he's poised to use it <a href="https://t.co/IbKvwyS4rn">https://t.co/IbKvwyS4rn</a> <a href="https://t.co/bPIcJxDnv3">pic.twitter.com/bPIcJxDnv3</a></p>

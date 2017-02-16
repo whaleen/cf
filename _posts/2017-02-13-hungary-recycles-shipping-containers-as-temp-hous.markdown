@@ -1,19 +1,24 @@
 ---
-title: "Hungary Recycles Shipping Containers as Temp Housing for Illegal Aliens"
-kind: article
+title: "Hungary Recycles Shipping Containers as Temp Housing for Illegal Aliens" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-13 18:08:44 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/hungary-recycles-shipping-containers-as-temp-housing-for-illegal-aliens
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/hungary-recycles-shipping-containers-as-temp-housing-for-illegal-aliens    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Hungary Recycles Shipping Containers as Temp Housing for Illegal Aliens             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/hungary-recycles-shipping-containers-as-temp-housing-for-illegal-aliens               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-13 18:08:44 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;Viktor Orban, the prime minister of Hungary, continues to provide leadership against an invasion of hostile Muslims via “immigration” leading to an Islamified Europe.&lt;/p&gt;
 &lt;p&gt;Descendants of those who suffered under &lt;a href=&quot;https://www.youtube.com/embed/JNgCM7zp30M?version=3&amp;amp;start=1&amp;amp;end=198&amp;amp;autoplay=1&amp;amp;hl=en_US&amp;amp;rel=0&quot;&gt;Ottoman oppression&lt;/a&gt; centuries ago have not forgotten, and Eastern Europe therefore remains a bulwark against Muslim tyranny.&lt;/p&gt;
 &lt;p&gt;A recent poll from Chatham House showed that &lt;a href=&quot;https://www.chathamhouse.org/expert/comment/what-do-europeans-think-about-muslim-immigration&quot;&gt;most Europeans want Muslim immigration ended&lt;/a&gt;, with higher percentages holding that view in Eastern Europe:&lt;/p&gt;
@@ -38,15 +43,9 @@ link: https://www.vdare.com/posts/hungary-recycles-shipping-containers-as-temp-h
 &lt;p&gt;“We expect debates with the European Commission and other organizations”, he added, predicting resistance and opposition from European Union officials.&lt;/p&gt;
 &lt;p&gt;For some time in Hungary, any migrants detained within five miles of the border has been sent back across the new fences on the country’s southern borders with Serbia and Croatia.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>Viktor Orban, the prime minister of Hungary, continues to provide leadership against an invasion of hostile Muslims via “immigration” leading to an Islamified Europe.</p>
 <p>Descendants of those who suffered under <a href="https://www.youtube.com/embed/JNgCM7zp30M?version=3&amp;start=1&amp;end=198&amp;autoplay=1&amp;hl=en_US&amp;rel=0">Ottoman oppression</a> centuries ago have not forgotten, and Eastern Europe therefore remains a bulwark against Muslim tyranny.</p>
 <p>A recent poll from Chatham House showed that <a href="https://www.chathamhouse.org/expert/comment/what-do-europeans-think-about-muslim-immigration">most Europeans want Muslim immigration ended</a>, with higher percentages holding that view in Eastern Europe:</p>

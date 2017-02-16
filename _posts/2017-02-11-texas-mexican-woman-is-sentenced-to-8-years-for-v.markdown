@@ -1,19 +1,24 @@
 ---
-title: "Texas: Mexican Woman Is Sentenced to 8 Years for Voter Fraud"
-kind: article
+title: "Texas: Mexican Woman Is Sentenced to 8 Years for Voter Fraud" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-11 18:39:46 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/texas-mexican-woman-is-sentenced-to-8-years-for-voter-fraud
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/texas-mexican-woman-is-sentenced-to-8-years-for-voter-fraud    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Texas: Mexican Woman Is Sentenced to 8 Years for Voter Fraud             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/texas-mexican-woman-is-sentenced-to-8-years-for-voter-fraud               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-11 18:39:46 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;img src=&quot;http://www.limitstogrowth.org/ltg-uploads/2017/02/OrtegaSentencedVoterFraud-nytFPfeb11-2017.png&quot; align=&quot;right&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Rosa Maria Ortega’s mug should be made into a poster warning about voter fraud and plastered near every polling place in America. There’s nothing like hard time in the big house to show a government’s seriousness about a crime — and voter fraud needs to be prioritized, particularly when the perp is a moocher illegal alien. Mexicans do not have America’s best interests at heart.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;i&gt;Ortega’s crime rated a front-page spot on the New York Times’ Saturday edition.&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
@@ -38,15 +43,9 @@ link: https://www.vdare.com/posts/texas-mexican-woman-is-sentenced-to-8-years-fo
 &lt;p&gt;In addition to the long prison sentence, Ortega is likely to be deported, her lawyer Clark Birdsall said.&lt;/p&gt;
 &lt;p&gt;“She’ll do eight years in a Texas prison,” he told the Times. “And then she’ll be deported, and wake up blinking and scratching in a country she doesn’t know.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p><img src="http://www.limitstogrowth.org/ltg-uploads/2017/02/OrtegaSentencedVoterFraud-nytFPfeb11-2017.png" align="right"></p>
 <p>Rosa Maria Ortega’s mug should be made into a poster warning about voter fraud and plastered near every polling place in America. There’s nothing like hard time in the big house to show a government’s seriousness about a crime — and voter fraud needs to be prioritized, particularly when the perp is a moocher illegal alien. Mexicans do not have America’s best interests at heart.</p>
 <p><span style="color: #993300;"><i>Ortega’s crime rated a front-page spot on the New York Times’ Saturday edition.</i></span></p>

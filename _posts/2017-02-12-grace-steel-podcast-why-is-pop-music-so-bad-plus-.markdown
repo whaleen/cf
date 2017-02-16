@@ -1,19 +1,24 @@
 ---
-title: "Grace &amp; Steel Podcast: Why Is Pop Music So Bad?, Plus Four More!"
-kind: article
+title: "Grace &amp; Steel Podcast: Why Is Pop Music So Bad?, Plus Four More!" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-12 02:31:44 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/grace-steel-podcast-why-is-pop-music-so-bad-plus-four-more
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/grace-steel-podcast-why-is-pop-music-so-bad-plus-four-more    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Grace &amp; Steel Podcast: Why Is Pop Music So Bad?, Plus Four More!             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/grace-steel-podcast-why-is-pop-music-so-bad-plus-four-more               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-12 02:31:44 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Episode 69 of my podcast is &lt;a href=&quot;http://2kevins.com/archives/979&quot;&gt;now posted here&lt;/a&gt; (with copious links) and &lt;a title=&quot;&quot; href=&quot;https://www.youtube.com/watch?v=OLUgV5lVymc&quot;&gt;on YouTube&lt;/a&gt;. Anyone who has observed men at work (construction, home renovation, plumbing, etc.) will have noticed that the music they listen to is old. Decades old, usually. Creedence Clearwater Revival, Led Zeppelin, AC/DC, &lt;em&gt;und so weiter&lt;/em&gt;. Now why might that be? I have considered this phenomenon for quite some time and concluded that the music industry decided to shut out straight, white males circa 2000, which is about the time that pop music stopped being any good.&lt;/p&gt;
 &lt;p&gt;Popular music today is created for women, particularly teenage and preteen girls, blacks and gays, as they are easier to manipulate. Men, being harder to please, have been deemed surplus to requirements. Before 2000, much of what is deemed the best of popular music came about as the result of accidents unforeseen by the industry: rock and roll, the British Invasion and the garage bands, punk and new wave and, finally, grunge. The record industry doesn’t like accidents, as they make planning difficult.&lt;/p&gt;
@@ -30,15 +35,9 @@ link: https://www.vdare.com/posts/grace-steel-podcast-why-is-pop-music-so-bad-pl
 &lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-762000146/grace-steel-ep-65&quot;&gt;Episode 65&lt;/a&gt;, Russians Hacked Our Christmas Show, has some fun with notion that Putin and his Troll Army have seized control of &lt;em&gt;everything&lt;/em&gt;, even our modest podcast. YouTube version &lt;a href=&quot;https://www.youtube.com/watch?v=2J4BNTBnaQg&amp;amp;feature=youtu.be&amp;amp;list=PL8GnHwihdK-IBO8SgFu0aKJiiSncb6BMn&quot;&gt;here&lt;/a&gt; &amp;amp; version with links &lt;a href=&quot;http://2kevins.com/archives/927&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p></p>
 <p>Episode 69 of my podcast is <a href="http://2kevins.com/archives/979">now posted here</a> (with copious links) and <a title="" href="https://www.youtube.com/watch?v=OLUgV5lVymc">on YouTube</a>. Anyone who has observed men at work (construction, home renovation, plumbing, etc.) will have noticed that the music they listen to is old. Decades old, usually. Creedence Clearwater Revival, Led Zeppelin, AC/DC, <em>und so weiter</em>. Now why might that be? I have considered this phenomenon for quite some time and concluded that the music industry decided to shut out straight, white males circa 2000, which is about the time that pop music stopped being any good.</p>
 <p>Popular music today is created for women, particularly teenage and preteen girls, blacks and gays, as they are easier to manipulate. Men, being harder to please, have been deemed surplus to requirements. Before 2000, much of what is deemed the best of popular music came about as the result of accidents unforeseen by the industry: rock and roll, the British Invasion and the garage bands, punk and new wave and, finally, grunge. The record industry doesn’t like accidents, as they make planning difficult.</p>

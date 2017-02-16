@@ -1,19 +1,24 @@
 ---
-title: "Most Featured Op-ed in Today’s NYT: “Caitlyn Jenner’s Mission”"
-kind: article
+title: "Most Featured Op-ed in Today’s NYT: “Caitlyn Jenner’s Mission”" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-13 00:40:45 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/most-featured-op-ed-in-todays-nyt-caitlyn-jenners-mission
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/most-featured-op-ed-in-todays-nyt-caitlyn-jenners-mission    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Most Featured Op-ed in Today’s NYT: “Caitlyn Jenner’s Mission”             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/most-featured-op-ed-in-todays-nyt-caitlyn-jenners-mission               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-13 00:40:45 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;a title=&quot;https://www.nytimes.com/2017/02/11/opinion/sunday/caitlyn-jenners-mission.html?action=click&amp;amp;pgtype=Homepage&amp;amp;clickSource=story-heading&amp;amp;module=opinion-c-col-left-region&amp;amp;region=opinion-c-col-left-region&amp;amp;WT.nav=opinion-c-col-left-region&amp;amp;_r=0&quot; href=&quot;https://www.nytimes.com/2017/02/11/opinion/sunday/caitlyn-jenners-mission.html?action=click&amp;amp;pgtype=Homepage&amp;amp;clickSource=story-heading&amp;amp;module=opinion-c-col-left-region&amp;amp;region=opinion-c-col-left-region&amp;amp;WT.nav=opinion-c-col-left-region&amp;amp;_r=0&quot;&gt;&lt;img class=&quot;aligncenter wp-image-79062 size-full&quot; title=&quot;&quot; src=&quot;http://www.unzcloud.com/wp-content/uploads/2017/02/Screenshot-2017-02-12-15.47.09.png&quot; alt=&quot;Screenshot 2017-02-12 15.47.09&quot; width=&quot;453&quot; height=&quot;254&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The funny thing is that, due to our pervasive mental atmosphere that makes noticing patterns disreputable, almost nobody has noticed how funny this phenomenon is: that there exists a rare form of mental illness that occasionally strikes highly masculine, higher IQ middle-aged men and convinces them that, despite all the evidence to the contrary (their children, their military or sporting accomplishments, their sci-fi obsessions, etc.) that they’ve always been a girl on the inside.&lt;/p&gt;&lt;div id=&quot;57966237cc52c74a5e1363c4&quot; class=&quot;vdb_player vdb_57966237cc52c74a5e1363c456bcd17ce4b018167fea5539&quot;&gt;    &lt;/div&gt;
 &lt;p&gt;… And the victims of this delusion are almost all right-of-center in their political / cultural views!&lt;/p&gt;
@@ -22,15 +27,9 @@ link: https://www.vdare.com/posts/most-featured-op-ed-in-todays-nyt-caitlyn-jenn
 &lt;p&gt;But leftists these days are too dumbed down to get the joke that late onset transgenderism is a mental illness of rightists.&lt;/p&gt;
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/most-important-op-ed-in-todays-nyt/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p><a title="https://www.nytimes.com/2017/02/11/opinion/sunday/caitlyn-jenners-mission.html?action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=opinion-c-col-left-region&amp;region=opinion-c-col-left-region&amp;WT.nav=opinion-c-col-left-region&amp;_r=0" href="https://www.nytimes.com/2017/02/11/opinion/sunday/caitlyn-jenners-mission.html?action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=opinion-c-col-left-region&amp;region=opinion-c-col-left-region&amp;WT.nav=opinion-c-col-left-region&amp;_r=0"><img class="aligncenter wp-image-79062 size-full" title="" src="http://www.unzcloud.com/wp-content/uploads/2017/02/Screenshot-2017-02-12-15.47.09.png" alt="Screenshot 2017-02-12 15.47.09" width="453" height="254"></a></p>
 <p>The funny thing is that, due to our pervasive mental atmosphere that makes noticing patterns disreputable, almost nobody has noticed how funny this phenomenon is: that there exists a rare form of mental illness that occasionally strikes highly masculine, higher IQ middle-aged men and convinces them that, despite all the evidence to the contrary (their children, their military or sporting accomplishments, their sci-fi obsessions, etc.) that they’ve always been a girl on the inside.</p><div id="57966237cc52c74a5e1363c4" class="vdb_player vdb_57966237cc52c74a5e1363c456bcd17ce4b018167fea5539">    </div>
 <p>… And the victims of this delusion are almost all right-of-center in their political / cultural views!</p>

@@ -1,19 +1,24 @@
 ---
-title: "Professor John Eastman: 9th Circuit Flouts Immigration Law and Presidential Authority"
-kind: article
+title: "Professor John Eastman: 9th Circuit Flouts Immigration Law and Presidential Authority" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-11 19:01:01 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/professor-john-eastman-9th-circuit-flouts-immigration-law-and-presidential-authority
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/professor-john-eastman-9th-circuit-flouts-immigration-law-and-presidential-authority    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Professor John Eastman: 9th Circuit Flouts Immigration Law and Presidential Authority             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/professor-john-eastman-9th-circuit-flouts-immigration-law-and-presidential-authority               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-11 19:01:01 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;On Friday, a &lt;a href=&quot;http://thehill.com/regulation/court-battles/319047-appeals-court-judge-wants-vote-on-whether-to-review-travel-ban&quot;&gt;judge on the 9th Circuit requested that the whole court vote on whether to review&lt;/a&gt; a three-judge panel’s decision to not reinstate President Donald Trump’s &lt;a href=&quot;http://www.breitbart.com/big-government/2017/01/27/refugees-president-trump-order-temporarily-banning/&quot;&gt;temporary travel ban on persons from certain terrorist states&lt;/a&gt;. Perhaps the judge was embarrassed by the political nature of the quickie opinion that ignored the fact that the Constitution gives discretion over immigration and national security to the President alone, not to the politicized members of the judicial branch.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Rush Limbaugh commented with a riff on Black Robes Matter:&lt;/p&gt;
@@ -49,15 +54,9 @@ link: https://www.vdare.com/posts/professor-john-eastman-9th-circuit-flouts-immi
 &lt;p&gt;Otherwise, we as a nation have a much bigger problem to confront than terrorists seeking entry to the United States.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Dr. John Eastman is the Henry Salvatori Professor of Law &amp;amp; Community Service at Chapman University’s Fowler School of Law, and the founding director of the &lt;a href=&quot;http://www.claremont.org/center-for-constitutional-jurisprudence/&quot;&gt;Claremont Institute’s Center for Constitutional Jurisprudence&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>On Friday, a <a href="http://thehill.com/regulation/court-battles/319047-appeals-court-judge-wants-vote-on-whether-to-review-travel-ban">judge on the 9th Circuit requested that the whole court vote on whether to review</a> a three-judge panel’s decision to not reinstate President Donald Trump’s <a href="http://www.breitbart.com/big-government/2017/01/27/refugees-president-trump-order-temporarily-banning/">temporary travel ban on persons from certain terrorist states</a>. Perhaps the judge was embarrassed by the political nature of the quickie opinion that ignored the fact that the Constitution gives discretion over immigration and national security to the President alone, not to the politicized members of the judicial branch.</p>
 <p> </p>
 <p>Rush Limbaugh commented with a riff on Black Robes Matter:</p>

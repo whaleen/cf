@@ -1,19 +1,24 @@
 ---
-title: "In The Streets And The Courts, The Left Plans A Coup. But Trump Can Fight Back"
-kind: article
+title: "In The Streets And The Courts, The Left Plans A Coup. But Trump Can Fight Back" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-15 02:53:48 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/articles/in-the-streets-and-the-courts-the-left-plans-a-coup-but-trump-can-fight-back
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/articles/in-the-streets-and-the-courts-the-left-plans-a-coup-but-trump-can-fight-back    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   In The Streets And The Courts, The Left Plans A Coup. But Trump Can Fight Back             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/articles/in-the-streets-and-the-courts-the-left-plans-a-coup-but-trump-can-fight-back               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-15 02:53:48 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;Failed vice-presidential candidate Senator &lt;a href=&quot;http://www.vdare.com/posts/how-tim-kaine-became-all-american-anti-white-leftist-in-honduras&quot;&gt;Tim Kaine’&lt;/a&gt;s demented call for Democrats to “fight in the streets” against the Trump Administration was &lt;a href=&quot;https://www.google.com/search?q=%22tim+kaine%22&amp;amp;oq=%22tim+kaine%22&amp;amp;aqs=chrome..69i57j0l5.9616j0j8&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8#q=%22tim+kaine%22+%2B+%22fight+in+the+streets%22&amp;amp;tbm=nws&quot;&gt;hushed up&lt;/a&gt; by the Main Stream Media but it’s happening anyway—and Immigration and the suppression of speech have emerged as two flashpoint issues. I have &lt;a href=&quot;http://federaleagent86.blogspot.com/2016/11/treason-bar-planning-civil-war.html&quot;&gt;warned repeatedly&lt;/a&gt; that &lt;a href=&quot;http://federaleagent86.blogspot.com/2016/12/the-coup-plotters.html&quot;&gt;a deliberate campaign&lt;/a&gt; was being organized, &lt;a href=&quot;http://www.vdare.com/articles/federale-has-a-dream-suppress-sedition-with-the-aid-of-red-state-california&quot;&gt;mostly around the immigration issue&lt;/a&gt;, by &lt;a href=&quot;http://federaleagent86.blogspot.com/2016/12/more-democrat-party-fronts-threaten.html&quot;&gt;the Democrats and their front organizations&lt;/a&gt;, justifying the use of &lt;a href=&quot;http://federaleagent86.blogspot.com/2017/02/democrats-planning-terrorist-campaign.html&quot;&gt;violence&lt;/a&gt;. This campaign is being enabled by Democrat-appointed Politically Correct law enforcement authorities and federal agencies are not equipped to deal with it. But there are things Trump can do.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.vdare.com/articles/it-will-come-to-blood-reflections-on-the-lefts-anti-trump-inauguration-tantrum&quot;&gt;Riots&lt;/a&gt; after the election, &lt;a href=&quot;http://www.vdare.com/articles/it-will-come-to-blood-reflections-on-the-lefts-anti-trump-inauguration-tantrum&quot;&gt;riots on Inauguration Day&lt;/a&gt;, the &lt;a href=&quot;http://www.vdare.com/posts/how-tim-kaine-became-all-american-anti-white-leftist-in-honduras&quot;&gt;violence &lt;/a&gt;directed at &lt;a href=&quot;http://www.vdare.com/posts/because-hes-white-why-do-liberals-at-berkeley-hate-a-gay-immigrant-so-much&quot;&gt;Milo Yiannopoulos&lt;/a&gt;, are underlain by increasing claims by the Left that anyone they disagree with are the same as “racists.” For example, the student government at Santa Clara University’s recent refusal to allow the milquetoast limited-government advocates at &lt;a href=&quot;http://tpusa.com/&quot;&gt;Turning Point USA&lt;/a&gt; official status on campus:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Ultimately, the naysayers won, following a point by an At-Large Senator, Ye Chit Ko. “Free speech has been brought up a lot,” he said, “and we need to draw the line between free speech and hate speech.’”&lt;/p&gt;
@@ -86,15 +91,9 @@ link: https://www.vdare.com/articles/in-the-streets-and-the-courts-the-left-plan
 &lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;em&gt;The blogger &lt;/em&gt;&lt;/span&gt;&lt;a href=&quot;http://federaleagent86.blogspot.com/&quot;&gt;&lt;em&gt;Federale&lt;/em&gt;&lt;/a&gt;&lt;em&gt; (&lt;/em&gt;&lt;a href=&quot;mailto:federale86@hushmail.com&quot;&gt;&lt;em&gt;Email&lt;/em&gt;&lt;/a&gt;&lt;em&gt; &lt;span style=&quot;color: #993300;&quot;&gt;him)&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;color: #993300;&quot;&gt; &lt;em&gt;is a 4th generation Californian and a veteran of federal law enforcement, including service in the legacy Immigration and Naturalization Service, the Department of Homeland Security, and other federal law enforcement agencies.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;em&gt;Federale`s opinions do not represent those of the Department of Homeland Security or the federal government, and are an exercise of rights protected by the 1st Amendment to the Constitution of the United States.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>Failed vice-presidential candidate Senator <a href="http://www.vdare.com/posts/how-tim-kaine-became-all-american-anti-white-leftist-in-honduras">Tim Kaine’</a>s demented call for Democrats to “fight in the streets” against the Trump Administration was <a href="https://www.google.com/search?q=%22tim+kaine%22&amp;oq=%22tim+kaine%22&amp;aqs=chrome..69i57j0l5.9616j0j8&amp;sourceid=chrome&amp;ie=UTF-8#q=%22tim+kaine%22+%2B+%22fight+in+the+streets%22&amp;tbm=nws">hushed up</a> by the Main Stream Media but it’s happening anyway—and Immigration and the suppression of speech have emerged as two flashpoint issues. I have <a href="http://federaleagent86.blogspot.com/2016/11/treason-bar-planning-civil-war.html">warned repeatedly</a> that <a href="http://federaleagent86.blogspot.com/2016/12/the-coup-plotters.html">a deliberate campaign</a> was being organized, <a href="http://www.vdare.com/articles/federale-has-a-dream-suppress-sedition-with-the-aid-of-red-state-california">mostly around the immigration issue</a>, by <a href="http://federaleagent86.blogspot.com/2016/12/more-democrat-party-fronts-threaten.html">the Democrats and their front organizations</a>, justifying the use of <a href="http://federaleagent86.blogspot.com/2017/02/democrats-planning-terrorist-campaign.html">violence</a>. This campaign is being enabled by Democrat-appointed Politically Correct law enforcement authorities and federal agencies are not equipped to deal with it. But there are things Trump can do.</p>
 <p><a href="http://www.vdare.com/articles/it-will-come-to-blood-reflections-on-the-lefts-anti-trump-inauguration-tantrum">Riots</a> after the election, <a href="http://www.vdare.com/articles/it-will-come-to-blood-reflections-on-the-lefts-anti-trump-inauguration-tantrum">riots on Inauguration Day</a>, the <a href="http://www.vdare.com/posts/how-tim-kaine-became-all-american-anti-white-leftist-in-honduras">violence </a>directed at <a href="http://www.vdare.com/posts/because-hes-white-why-do-liberals-at-berkeley-hate-a-gay-immigrant-so-much">Milo Yiannopoulos</a>, are underlain by increasing claims by the Left that anyone they disagree with are the same as “racists.” For example, the student government at Santa Clara University’s recent refusal to allow the milquetoast limited-government advocates at <a href="http://tpusa.com/">Turning Point USA</a> official status on campus:</p>
 <blockquote><p>Ultimately, the naysayers won, following a point by an At-Large Senator, Ye Chit Ko. “Free speech has been brought up a lot,” he said, “and we need to draw the line between free speech and hate speech.’”</p>

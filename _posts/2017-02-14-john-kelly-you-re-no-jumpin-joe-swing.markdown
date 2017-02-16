@@ -1,19 +1,24 @@
 ---
-title: "John Kelly, You’re No Jumpin’ Joe Swing"
-kind: article
+title: "John Kelly, You’re No Jumpin’ Joe Swing" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-14 18:46:49 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/john-kelly-youre-no-jumpin-joe-swing
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/john-kelly-youre-no-jumpin-joe-swing    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   John Kelly, You’re No Jumpin’ Joe Swing             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/john-kelly-youre-no-jumpin-joe-swing               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-14 18:46:49 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;John Kelly, the new Secretary of the Department of Homeland Security (DHS) is more and more appearing to be either out of his depth or not committed to enforcing the immigration laws of the United States.&lt;/p&gt;
 &lt;div class=&quot;separator&quot; style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/c/cb/John_Kelly_official_DHS_portrait.jpg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/cb/John_Kelly_official_DHS_portrait.jpg&quot; width=&quot;256&quot; height=&quot;320&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;em&gt;John Kelly, Not Jumpin’ Joe Swing&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
@@ -44,15 +49,9 @@ link: https://www.vdare.com/posts/john-kelly-youre-no-jumpin-joe-swing
 &lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;em&gt;Kris Kobach, Immigration Patriot&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;p&gt;It appears that Kelly has been captured by the Obama policy of not encouraging illegal aliens to leave the United States. Oh, how immigration patriots should mourn the failure of Kris Kobach to be nominated as DHS Secretary.&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p style="text-align: left;">John Kelly, the new Secretary of the Department of Homeland Security (DHS) is more and more appearing to be either out of his depth or not committed to enforcing the immigration laws of the United States.</p>
 <div class="separator" style="text-align: center;"><a href="https://upload.wikimedia.org/wikipedia/commons/c/cb/John_Kelly_official_DHS_portrait.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/John_Kelly_official_DHS_portrait.jpg" width="256" height="320" border="0"></a></div>
 <div style="text-align: center;"><span style="color: #993300;"><em>John Kelly, Not Jumpin’ Joe Swing</em></span></div>

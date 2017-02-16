@@ -1,19 +1,24 @@
 ---
-title: "More “Book Of Love”: Does Cozyball Still Love Doopie-Doo?"
-kind: article
+title: "More “Book Of Love”: Does Cozyball Still Love Doopie-Doo?" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-14 20:35:33 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/more-book-of-love-does-cozyball-still-love-doopie-doo
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/more-book-of-love-does-cozyball-still-love-doopie-doo    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   More “Book Of Love”: Does Cozyball Still Love Doopie-Doo?             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/more-book-of-love-does-cozyball-still-love-doopie-doo               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-14 20:35:33 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;Inspired by my 2004 “Book of Love” column, a reader has dug out &lt;a href=&quot;http://nyp.nypost.com/classifieds/20170214/classifieds.pdf&quot;&gt;this year’s version&lt;/a&gt; from the &lt;em&gt;New York Post&lt;/em&gt; online version (you have to go to the Classifieds).  He opines that there has been a falling-off in quality this past thirty years.&lt;/p&gt;
 &lt;p&gt;He may be right.  Of the 63 tributes I counted, only 49 are lovers (including spouses).  Nine of the others are parents or kids, two are pets, three are ambiguous.&lt;/p&gt;
 &lt;p&gt;Seems to me that’s more non-lovers than formerly.  There is of course nothing wrong with loving your parents, kids, or mongoose.  I rather favor such affections.  That’s not what St. Valentine’s Day is &lt;em&gt;for&lt;/em&gt;, though.&lt;/p&gt;
@@ -24,15 +29,9 @@ link: https://www.vdare.com/posts/more-book-of-love-does-cozyball-still-love-doo
 &lt;p&gt;An investigation conducted by the country’s family planning association found that highest rate of sexless partnerships were among couples in their mid-to-late forties. [&lt;a href=&quot;http://www.dailymail.co.uk/news/article-4223990/Nearly-half-Japanese-couples-haven-t-sex-month.html&quot;&gt;&lt;em&gt;Japanese say sayonara to their sex lives: Half of the country’s married couples haven’t had sex in more than a month&lt;/em&gt;&lt;/a&gt;&lt;em&gt; &lt;/em&gt;by Sadie Whitelocks; MailOnline, February 14th 2017.]&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I wouldn’t mind &lt;em&gt;very&lt;/em&gt; much so long as we got Japan’s immigration policy, too.&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>Inspired by my 2004 “Book of Love” column, a reader has dug out <a href="http://nyp.nypost.com/classifieds/20170214/classifieds.pdf">this year’s version</a> from the <em>New York Post</em> online version (you have to go to the Classifieds).  He opines that there has been a falling-off in quality this past thirty years.</p>
 <p>He may be right.  Of the 63 tributes I counted, only 49 are lovers (including spouses).  Nine of the others are parents or kids, two are pets, three are ambiguous.</p>
 <p>Seems to me that’s more non-lovers than formerly.  There is of course nothing wrong with loving your parents, kids, or mongoose.  I rather favor such affections.  That’s not what St. Valentine’s Day is <em>for</em>, though.</p>

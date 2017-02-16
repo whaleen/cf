@@ -1,19 +1,24 @@
 ---
-title: "Pat Buchanan: Riots And Rabble-Rousing–Is the Left Playing With Fire Again?"
-kind: article
+title: "Pat Buchanan: Riots And Rabble-Rousing–Is the Left Playing With Fire Again?" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-14 02:02:09 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/articles/riots-and-rabble-rousing-is-the-left-playing-with-fire-again
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/articles/riots-and-rabble-rousing-is-the-left-playing-with-fire-again    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Pat Buchanan: Riots And Rabble-Rousing–Is the Left Playing With Fire Again?             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/articles/riots-and-rabble-rousing-is-the-left-playing-with-fire-again               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-14 02:02:09 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;img class=&quot;size-full wp-image-107165 alignright&quot; title=&quot;&quot; src=&quot;https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/13204735/watts.jpg&quot; alt=&quot;&quot; width=&quot;225&quot; align=&quot;right&quot;&gt;To those who lived through that era that tore us apart in the ’60s and ’70s, it is starting to look like “deja vu all over again.”&lt;/p&gt;
 &lt;p&gt;And as &lt;a href=&quot;https://www.google.ca/search?q=Adlai+Stevenson,&amp;amp;ie=utf-8&amp;amp;oe=utf-8&amp;amp;gws_rd=cr&amp;amp;ei=CV2iWMa7CcmmjwT-loqwBQ#q=Adlai+Stevenson+site:vdare.com&quot;&gt;Adlai Stevenson,&lt;/a&gt; Bobby Kennedy and Hubert Humphrey did then, Democrats today like Chuck Schumer and Nancy Pelosi are pandering to the hell-raisers, hoping to ride their energy to victory.&lt;/p&gt;
 &lt;p&gt;Democrats would do well to recall what happened the last time they rode the tiger of social revolution.&lt;/p&gt;
@@ -46,15 +51,9 @@ link: https://www.vdare.com/articles/riots-and-rabble-rousing-is-the-left-playin
 &lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;em&gt;&lt;a href=&quot;http://www.amazon.com/The-Greatest-Comeback-Richard-Majority/dp/0553418637/vd0b-20&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-38452&quot; title=&quot;&quot; src=&quot;https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2014/07/51-sjuXJb6L1-198x300.jpg&quot; alt=&quot;51-sjuXJb6L[1]&quot; width=&quot;198&quot; height=&quot;300&quot; align=&quot;right&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://buchanan.org/blog/?page_id=3&quot;&gt;Patrick J. Buchanan&lt;/a&gt; needs no introduction to VDARE.COM readers; his books &lt;/em&gt;&lt;a href=&quot;http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0312360037%2F&amp;amp;tag=vd0b-20&amp;amp;linkCode=ur2&amp;amp;camp=1789&amp;amp;creative=9325&quot;&gt;State of Emergency: The Third World Invasion and Conquest of America&lt;/a&gt;&lt;em&gt;, and &lt;/em&gt;&lt;a href=&quot;http://www.amazon.com/Suicide-Superpower-Will-America-Survive/dp/0312579977?_encoding=UTF8&amp;amp;tag=vd0b-20&amp;amp;linkCode=ur2&amp;amp;camp=1789&amp;amp;creative=9325&quot;&gt;Suicide of a Superpower: Will America Survive to 2025?&lt;/a&gt;&lt;em&gt; are available from Amazon.com. &lt;/em&gt;&lt;em&gt;Patrick J. Buchanan is the author of the new book&lt;/em&gt; “&lt;a href=&quot;http://www.amazon.com/The-Greatest-Comeback-Richard-Majority/dp/0553418637/vd0b-20&quot;&gt;The Great&lt;/a&gt;&lt;a href=&quot;http://www.amazon.com/The-Greatest-Comeback-Richard-Majority/dp/0553418637/vd0b-20&quot;&gt;est Comeback: How Richard Nixon Rose From Defeat to Create the New Majority.&lt;/a&gt;“&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p><img class="size-full wp-image-107165 alignright" title="" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/13204735/watts.jpg" alt="" width="225" align="right">To those who lived through that era that tore us apart in the ’60s and ’70s, it is starting to look like “deja vu all over again.”</p>
 <p>And as <a href="https://www.google.ca/search?q=Adlai+Stevenson,&amp;ie=utf-8&amp;oe=utf-8&amp;gws_rd=cr&amp;ei=CV2iWMa7CcmmjwT-loqwBQ#q=Adlai+Stevenson+site:vdare.com">Adlai Stevenson,</a> Bobby Kennedy and Hubert Humphrey did then, Democrats today like Chuck Schumer and Nancy Pelosi are pandering to the hell-raisers, hoping to ride their energy to victory.</p>
 <p>Democrats would do well to recall what happened the last time they rode the tiger of social revolution.</p>

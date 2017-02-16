@@ -1,19 +1,24 @@
 ---
-title: "South African CSPAN–Brawl Erupts In SA Parliament"
-kind: article
+title: "South African CSPAN–Brawl Erupts In SA Parliament" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-12 22:08:03 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/south-african-cspan-brawl-erupts-in-sa-parliament
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/south-african-cspan-brawl-erupts-in-sa-parliament    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   South African CSPAN–Brawl Erupts In SA Parliament             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/south-african-cspan-brawl-erupts-in-sa-parliament               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-12 22:08:03 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;In the South African parliament at Cape Town, Julius Malema’s Marxist-Fanonian &lt;a title=&quot;https://en.wikipedia.org/wiki/Economic_Freedom_Fighters&quot; href=&quot;https://en.wikipedia.org/wiki/Economic_Freedom_Fighters&quot;&gt;Economic Freedom Fighters &lt;/a&gt; party in red squared off against security in white.&lt;/p&gt;
 &lt;p&gt;Parliamentary brawls are always fun. (Which East Asian country has the best? Taiwan?) And the African love of primary colors adds a lot to this one.&lt;/p&gt;&lt;div id=&quot;57966237cc52c74a5e1363c4&quot; class=&quot;vdb_player vdb_57966237cc52c74a5e1363c456bcd17ce4b018167fea5539&quot;&gt;    &lt;/div&gt;
@@ -21,15 +26,9 @@ link: https://www.vdare.com/posts/south-african-cspan-brawl-erupts-in-sa-parliam
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/south-african-cspan/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p></p>
 <p>In the South African parliament at Cape Town, Julius Malema’s Marxist-Fanonian <a title="https://en.wikipedia.org/wiki/Economic_Freedom_Fighters" href="https://en.wikipedia.org/wiki/Economic_Freedom_Fighters">Economic Freedom Fighters </a> party in red squared off against security in white.</p>
 <p>Parliamentary brawls are always fun. (Which East Asian country has the best? Taiwan?) And the African love of primary colors adds a lot to this one.</p><div id="57966237cc52c74a5e1363c4" class="vdb_player vdb_57966237cc52c74a5e1363c456bcd17ce4b018167fea5539">    </div>

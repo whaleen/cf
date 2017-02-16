@@ -1,19 +1,24 @@
 ---
-title: "A Talk Radio Radio Listener Watches A Movie On A French (I. E. Black) Serial Killer"
-kind: article
+title: "A Talk Radio Radio Listener Watches A Movie On A French (I. E. Black) Serial Killer" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-16 02:46:52 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/letters/a-talk-radio-radio-listener-watches-a-movie-on-a-french-i-e-black-serial-killer
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/letters/a-talk-radio-radio-listener-watches-a-movie-on-a-french-i-e-black-serial-killer    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   A Talk Radio Radio Listener Watches A Movie On A French (I. E. Black) Serial Killer             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/letters/a-talk-radio-radio-listener-watches-a-movie-on-a-french-i-e-black-serial-killer               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-16 02:46:52 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;strong&gt;From: A Talk Radio Radio Listener [&lt;a href=&quot;mailto:witan@vdare.com&quot;&gt;Email him&lt;/a&gt;]&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img class=&quot;size-full wp-image-107323 alignright&quot; src=&quot;https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/15213917/georges_000.jpg&quot; alt=&quot;&quot; width=&quot;151&quot; height=&quot;160&quot; align=&quot;right&quot;&gt;There’s a movie called&lt;a href=&quot;http://www.imdb.com/title/tt3433632/?ref_=fn_al_tt_1&quot;&gt;&lt;em&gt; “L’affaire SK1” (Serial Killer 1)&lt;/em&gt;&lt;/a&gt; a French police movie with a black serial killer (based on true story.)&lt;/p&gt;
 &lt;p&gt;I watched it on DVD last night. It’s an excellent &lt;i&gt;film policier,&lt;/i&gt; that begins in a courtroom and flashes back to the crimes. The perp was &lt;a href=&quot;https://en.wikipedia.org/wiki/Guy_Georges&quot;&gt;Guy Georges&lt;/a&gt;, who had an American black father and a French mother. He brutally tortured, raped and murdered a &lt;a href=&quot;https://www.theguardian.com/lifeandstyle/2000/nov/25/weekend.paulwebster&quot;&gt;succession &lt;/a&gt;of young white, middle-class women in &lt;a href=&quot;http://www.crimeandinvestigation.co.uk/crime-files/beast-of-bastille-guy-georges&quot;&gt;Paris &lt;/a&gt;about 10 years ago. Because of criminal-friendly DNA laws and procedures in France, the &lt;a href=&quot;http://news.bbc.co.uk/2/hi/europe/58066.stm&quot;&gt;police &lt;/a&gt;were unable to c&lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/france/1328168/Beast-of-Bastille-admits-to-killings.html&quot;&gt;ompare DNA&lt;/a&gt; from the victims with DNA from known criminals, which would have stopped the crime spree years earlier. Victim rights groups used the Guy Georges case to bring about significant reforms.&lt;/p&gt;&lt;div id=&quot;57966237cc52c74a5e1363c4&quot; class=&quot;vdb_player vdb_57966237cc52c74a5e1363c456bcd17ce4b018167fea5539&quot;&gt;    &lt;/div&gt;
@@ -23,15 +28,9 @@ link: https://www.vdare.com/letters/a-talk-radio-radio-listener-watches-a-movie-
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p><strong>From: A Talk Radio Radio Listener [<a href="mailto:witan@vdare.com">Email him</a>]</strong></p>
 <p><img class="size-full wp-image-107323 alignright" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/15213917/georges_000.jpg" alt="" width="151" height="160" align="right">There’s a movie called<a href="http://www.imdb.com/title/tt3433632/?ref_=fn_al_tt_1"><em> “L’affaire SK1” (Serial Killer 1)</em></a> a French police movie with a black serial killer (based on true story.)</p>
 <p>I watched it on DVD last night. It’s an excellent <i>film policier,</i> that begins in a courtroom and flashes back to the crimes. The perp was <a href="https://en.wikipedia.org/wiki/Guy_Georges">Guy Georges</a>, who had an American black father and a French mother. He brutally tortured, raped and murdered a <a href="https://www.theguardian.com/lifeandstyle/2000/nov/25/weekend.paulwebster">succession </a>of young white, middle-class women in <a href="http://www.crimeandinvestigation.co.uk/crime-files/beast-of-bastille-guy-georges">Paris </a>about 10 years ago. Because of criminal-friendly DNA laws and procedures in France, the <a href="http://news.bbc.co.uk/2/hi/europe/58066.stm">police </a>were unable to c<a href="http://www.telegraph.co.uk/news/worldnews/europe/france/1328168/Beast-of-Bastille-admits-to-killings.html">ompare DNA</a> from the victims with DNA from known criminals, which would have stopped the crime spree years earlier. Victim rights groups used the Guy Georges case to bring about significant reforms.</p><div id="57966237cc52c74a5e1363c4" class="vdb_player vdb_57966237cc52c74a5e1363c456bcd17ce4b018167fea5539">    </div>

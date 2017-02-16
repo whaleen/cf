@@ -1,19 +1,24 @@
 ---
-title: "Why Parisians Can’t Have Nice Things Anymore"
-kind: article
+title: "Why Parisians Can’t Have Nice Things Anymore" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-13 23:46:09 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/why-parisians-cant-have-nice-things-anymore
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/why-parisians-cant-have-nice-things-anymore    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Why Parisians Can’t Have Nice Things Anymore             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/why-parisians-cant-have-nice-things-anymore               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-13 23:46:09 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;France used to be famous for having nice things. But now (from the &lt;em&gt;Daily Mail&lt;/em&gt;) …&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&lt;a title=&quot;http://www.dailymail.co.uk/news/article-4208142/France-puts-Eiffel-Tower-terror-proof-8ft-high-wall.html#ixzz4YbFfMs8s%20&quot; href=&quot;http://www.dailymail.co.uk/news/article-4208142/France-puts-Eiffel-Tower-terror-proof-8ft-high-wall.html#ixzz4YbFfMs8s%20&quot;&gt;France puts the Eiffel Tower behind an 8ft-high glass wall to protect the monument from terrorists following attack at the Louvre&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;div id=&quot;57966237cc52c74a5e1363c4&quot; class=&quot;vdb_player vdb_57966237cc52c74a5e1363c456bcd17ce4b018167fea5539&quot;&gt;    &lt;/div&gt;
 &lt;p&gt;€19million project aims to beef up security in Paris and will be ready by autumn&lt;/p&gt;
@@ -24,15 +29,9 @@ link: https://www.vdare.com/posts/why-parisians-cant-have-nice-things-anymore
 &lt;p&gt;PUBLISHED: 09:33 EST, 9 February 2017&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/why-parisians-cant-have-nice-things-anymore/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>France used to be famous for having nice things. But now (from the <em>Daily Mail</em>) …</p>
 <blockquote><p><em><a title="http://www.dailymail.co.uk/news/article-4208142/France-puts-Eiffel-Tower-terror-proof-8ft-high-wall.html#ixzz4YbFfMs8s%20" href="http://www.dailymail.co.uk/news/article-4208142/France-puts-Eiffel-Tower-terror-proof-8ft-high-wall.html#ixzz4YbFfMs8s%20">France puts the Eiffel Tower behind an 8ft-high glass wall to protect the monument from terrorists following attack at the Louvre</a></em></p><div id="57966237cc52c74a5e1363c4" class="vdb_player vdb_57966237cc52c74a5e1363c456bcd17ce4b018167fea5539">    </div>
 <p>€19million project aims to beef up security in Paris and will be ready by autumn</p>

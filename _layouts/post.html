@@ -3,38 +3,36 @@ layout: default
 ---
 
 <div class="pa3 pa5-ns mw-7 br b--black-10">
-Via: <a href="{{ page.source_link }}" target="_black">{{ page.author }}</a>{{ blog_url }}
-  <p class="">{{ page.date | date_to_string }}</p>
+
+  <p class="gray f1">{{ page.date | date_to_string }}</p>
 	<h1 class="f3 f1-ns">{{ page.title }}</h1>
 
-
-{{ page.categories }}
-
-  <div class="">
-
-<a class="light-gray" href="{{ page.source_link }}" target="_black">{{ page.source_link }}</a><br>
-{{ page.twitter }}<br>
-{{ page.twitter_url }}
-
-  </div>
+<a href="{{ page.source_post_url }}" data-iframely-url></a>
 
 
-<!--
-{{ page.source_link }}
-{{ page.post_title }}<br>
-{{ page.post_url }}<br>
-{{ page.post_date }}<br>
-{{ page.post_content }}<br>
-{{ page.blog_name }}<br>
-{{ page.blog_slug }}<br>
-{{ page.blog_url }}<br>
-{{ page.blog_categories }}<br>
-{{ page.blog_tags }}<br>
-{{ page.image_url }}<br>
-{{ page.author }}<br>
-{{ page.twitter }}<br>
-{{ page.twitter_url }}
--->
+</div>
 
+
+<div class="pa3 pa5-ns mw-7 light-gray">
+
+  <h1>Via: <a href="{{ page.source_post_url }}" target="_black">{{ page.author }}</a>{{ blog_url }}</h1>
+
+  <h3>Rendered from planet.yml data</h3>
+
+    page.post_title: {{ page.title }}<br>
+    page.post_url: {{ page.source_post_url }}<br>
+    page.blog_name: {{ page.source_blog_name }}<br>
+    page.blog_slug: {{ page.source_blog_slug }}<br>
+    page.blog_url: {{ page.source_blog_url }}<br>
+    page.blog_categories: {{ page.categories }}<br>
+    page.tags: {{ page.tags }}<br>
+    page.image_url: {{ page.source_image_url }}<br>
+    page.author: {{ page.author }}<br>
+    page.twitter: {{ page.source_twitter }}<br>
+    page.twitter_url: {{ page.source_twitter_url }}
+
+    <h3>Truncated. Need modify planet.rb for real control over html (excerpting quality)</h3>
+
+    {{ page.content | strip_html | truncatewords:50 }}
 
 </div>

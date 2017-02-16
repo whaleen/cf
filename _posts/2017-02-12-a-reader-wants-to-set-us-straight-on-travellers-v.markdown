@@ -1,19 +1,24 @@
 ---
-title: "A Reader Wants To Set Us Straight On Travellers Vs. Gypsies"
-kind: article
+title: "A Reader Wants To Set Us Straight On Travellers Vs. Gypsies" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-12 03:10:16 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/letters/a-reader-wants-to-set-us-straight-on-travellers-vs-gypsies
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/letters/a-reader-wants-to-set-us-straight-on-travellers-vs-gypsies    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   A Reader Wants To Set Us Straight On Travellers Vs. Gypsies             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/letters/a-reader-wants-to-set-us-straight-on-travellers-vs-gypsies               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-12 03:10:16 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;strong&gt;Re: Steve Sailer’s blog item &lt;a href=&quot;http://www.vdare.com/posts/occams-butterknife-nyt-on-how-systemic-racism-keeps-gypsies-from-getting-the-education-they-crave&quot;&gt;Occam’s Butterknife: NYT on How Systemic Racism Keeps Gypsies from Getting the Education They Crave&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;From: Mitchell Day [&lt;a href=&quot;mailto:mitchellday123@ca.rr.com&quot;&gt;Email him&lt;/a&gt;]&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img class=&quot;wp-image-107048 alignright&quot; src=&quot;https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/11220602/Travellers_Decorated_Caravan_6136023633.jpg&quot; width=&quot;225&quot; height=&quot;225&quot; align=&quot;right&quot;&gt;I don’t know if I’m being politically correct or not but the news story that is shown with Steve’s article conflates Irish Travellers (pictured right, circa 1954) with Gypsies. That’s wrong. Not that it surprises me that the MSM can’t be bothered to even look up Wikipedia to find that out.&lt;/p&gt;
@@ -35,15 +40,9 @@ link: https://www.vdare.com/letters/a-reader-wants-to-set-us-straight-on-travell
 &lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p><strong>Re: Steve Sailer’s blog item <a href="http://www.vdare.com/posts/occams-butterknife-nyt-on-how-systemic-racism-keeps-gypsies-from-getting-the-education-they-crave">Occam’s Butterknife: NYT on How Systemic Racism Keeps Gypsies from Getting the Education They Crave</a></strong></p>
 <p><strong>From: Mitchell Day [<a href="mailto:mitchellday123@ca.rr.com">Email him</a>]</strong></p>
 <p><img class="wp-image-107048 alignright" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/11220602/Travellers_Decorated_Caravan_6136023633.jpg" width="225" height="225" align="right">I don’t know if I’m being politically correct or not but the news story that is shown with Steve’s article conflates Irish Travellers (pictured right, circa 1954) with Gypsies. That’s wrong. Not that it surprises me that the MSM can’t be bothered to even look up Wikipedia to find that out.</p>

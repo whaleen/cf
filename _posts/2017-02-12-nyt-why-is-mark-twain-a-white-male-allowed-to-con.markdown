@@ -1,19 +1,24 @@
 ---
-title: "NYT: Why Is Mark Twain, a White Male, Allowed to Contribute to “The Cultural Conversation?”"
-kind: article
+title: "NYT: Why Is Mark Twain, a White Male, Allowed to Contribute to “The Cultural Conversation?”" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-12 02:45:11 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/nyt-why-is-mark-twain-a-white-male-allowed-to-contribute-to-the-cultural-conversation
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/nyt-why-is-mark-twain-a-white-male-allowed-to-contribute-to-the-cultural-conversation    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   NYT: Why Is Mark Twain, a White Male, Allowed to Contribute to “The Cultural Conversation?”             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/nyt-why-is-mark-twain-a-white-male-allowed-to-contribute-to-the-cultural-conversation               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-12 02:45:11 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;From the &lt;em&gt;New York Times&lt;/em&gt;, a review of the revival of the 1985 Tony Award-winning musical &lt;em&gt;Big River&lt;/em&gt;, which is based on Mark Twain’s &lt;em&gt;Huckleberry Finn&lt;/em&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a title=&quot;https://www.nytimes.com/2017/02/09/theater/big-river-review-encores.html?action=click&amp;amp;pgtype=Homepage&amp;amp;version=Moth-Visible&amp;amp;moduleDetail=inside-nyt-region-5&amp;amp;module=inside-nyt-region&amp;amp;region=inside-nyt-region&amp;amp;WT.nav=inside-nyt-region&quot; href=&quot;https://www.nytimes.com/2017/02/09/theater/big-river-review-encores.html?action=click&amp;amp;pgtype=Homepage&amp;amp;version=Moth-Visible&amp;amp;moduleDetail=inside-nyt-region-5&amp;amp;module=inside-nyt-region&amp;amp;region=inside-nyt-region&amp;amp;WT.nav=inside-nyt-region&quot;&gt;Review: A New ‘Big River,’ Endearing but Ill Timed&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;By LAURA COLLINS-HUGHES FEB. 9, 2017&lt;/p&gt;
@@ -37,15 +42,9 @@ link: https://www.vdare.com/posts/nyt-why-is-mark-twain-a-white-male-allowed-to-
 &lt;p&gt;Who let Mark Twain be part of the National Conversation?&lt;/p&gt;
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/nyt-why-is-mark-twain-allowed-to-contribute-to-the-cultural-conversation/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>From the <em>New York Times</em>, a review of the revival of the 1985 Tony Award-winning musical <em>Big River</em>, which is based on Mark Twain’s <em>Huckleberry Finn</em>:</p>
 <blockquote><p><a title="https://www.nytimes.com/2017/02/09/theater/big-river-review-encores.html?action=click&amp;pgtype=Homepage&amp;version=Moth-Visible&amp;moduleDetail=inside-nyt-region-5&amp;module=inside-nyt-region&amp;region=inside-nyt-region&amp;WT.nav=inside-nyt-region" href="https://www.nytimes.com/2017/02/09/theater/big-river-review-encores.html?action=click&amp;pgtype=Homepage&amp;version=Moth-Visible&amp;moduleDetail=inside-nyt-region-5&amp;module=inside-nyt-region&amp;region=inside-nyt-region&amp;WT.nav=inside-nyt-region">Review: A New ‘Big River,’ Endearing but Ill Timed</a></p>
 <p>By LAURA COLLINS-HUGHES FEB. 9, 2017</p>

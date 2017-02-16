@@ -1,19 +1,24 @@
 ---
-title: "Are There Any Lessons to be Learned from the Oroville Dam Disaster?"
-kind: article
+title: "Are There Any Lessons to be Learned from the Oroville Dam Disaster?" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-12 21:23:39 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/are-there-any-lessons-to-be-learned-from-the-oroville-dam-disaster
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/are-there-any-lessons-to-be-learned-from-the-oroville-dam-disaster    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Are There Any Lessons to be Learned from the Oroville Dam Disaster?             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/are-there-any-lessons-to-be-learned-from-the-oroville-dam-disaster               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-12 21:23:39 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;div class=&quot;entry&quot;&gt;
 &lt;p&gt;The good news is the drought in Northern California is over, which is also the bad news.&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;Oroville in the Gold Rush country of the lower Sierra Nevada northeast of Sacramento is the tallest dam in America and its reservoir is the second biggest of the giant California State Water Project.&lt;/p&gt;
@@ -34,15 +39,9 @@ link: https://www.vdare.com/posts/are-there-any-lessons-to-be-learned-from-the-o
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/are-there-any-lessons-to-be-learned-from-the-oroville-dam-disaster/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><div class="entry">
 <p>The good news is the drought in Northern California is over, which is also the bad news.</p>
 <p style="text-align: left;">Oroville in the Gold Rush country of the lower Sierra Nevada northeast of Sacramento is the tallest dam in America and its reservoir is the second biggest of the giant California State Water Project.</p>

@@ -1,19 +1,24 @@
 ---
-title: "NYT: Crisis! Beyonce Has Won Only 22 Grammys"
-kind: article
+title: "NYT: Crisis! Beyonce Has Won Only 22 Grammys" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-14 02:20:11 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/nyt-crisis-beyonce-has-won-only-22-grammys
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/nyt-crisis-beyonce-has-won-only-22-grammys    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   NYT: Crisis! Beyonce Has Won Only 22 Grammys             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/nyt-crisis-beyonce-has-won-only-22-grammys               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-14 02:20:11 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;div class=&quot;entry&quot;&gt;
 &lt;p&gt;I stopped caring about the Grammy Awards about 40+ years ago, back when Stevie Wonder would always win. Obviously, they don’t let you vote for the Grammys until you are too old to really care about pop music. So they usually give Grammys to classy acts who appeal to grown-ups, like Stevie Wonder in the early to mid-70s. By now, Stevie has won 25 Grammys.&lt;/p&gt;
 &lt;p&gt;Back in the late 1970s, us bright white guys who wrote about music felt, deep down, that more Grammys should go to bright white guys who looked like us, like Elvis Costello. But mostly we understood how the Grammies had to work and didn’t pay much attention to them.&lt;/p&gt;
@@ -48,15 +53,9 @@ link: https://www.vdare.com/posts/nyt-crisis-beyonce-has-won-only-22-grammys
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/nyt-crisis-beyonce-has-only-won-22-grammies/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><div class="entry">
 <p>I stopped caring about the Grammy Awards about 40+ years ago, back when Stevie Wonder would always win. Obviously, they don’t let you vote for the Grammys until you are too old to really care about pop music. So they usually give Grammys to classy acts who appeal to grown-ups, like Stevie Wonder in the early to mid-70s. By now, Stevie has won 25 Grammys.</p>
 <p>Back in the late 1970s, us bright white guys who wrote about music felt, deep down, that more Grammys should go to bright white guys who looked like us, like Elvis Costello. But mostly we understood how the Grammies had to work and didn’t pay much attention to them.</p>

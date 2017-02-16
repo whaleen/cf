@@ -1,19 +1,24 @@
 ---
-title: "Berkeley Activist Pablo “They” Gomez Assaults Deputies in Courthouse"
-kind: article
+title: "Berkeley Activist Pablo “They” Gomez Assaults Deputies in Courthouse" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-11 19:14:39 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/berkeley-activist-pablo-they-gomez-assaults-deputies-in-courthouse
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/berkeley-activist-pablo-they-gomez-assaults-deputies-in-courthouse    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Berkeley Activist Pablo “They” Gomez Assaults Deputies in Courthouse             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/berkeley-activist-pablo-they-gomez-assaults-deputies-in-courthouse               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-11 19:14:39 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;In more Berkeley leftist violence news, from &lt;em&gt;KQED News&lt;/em&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a title=&quot;https://ww2.kqed.org/news/2017/02/01/hearing-for-berkeley-murder-suspect-delayed-after-courtroom-incident/&quot; href=&quot;https://ww2.kqed.org/news/2017/02/01/hearing-for-berkeley-murder-suspect-delayed-after-courtroom-incident/&quot;&gt;Hearing for Berkeley Murder Suspect Delayed After Courtroom Incident&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;By Alyssa Jeong Perry and Dan Brekke&lt;/p&gt;
@@ -29,15 +34,9 @@ link: https://www.vdare.com/posts/berkeley-activist-pablo-they-gomez-assaults-de
 &lt;p&gt;Here’s Pablo’s &lt;a title=&quot;https://www.facebook.com/pablo.gomez.1840&quot; href=&quot;https://www.facebook.com/pablo.gomez.1840&quot;&gt;Facebook page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;[&lt;a href=&quot;http://www.unz.com/isteve/berkeley-activist-pablo-they-gomez-assaults-deputies-in-courthouse/&quot;&gt;Comment at Unz.com&lt;/a&gt;]&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>In more Berkeley leftist violence news, from <em>KQED News</em>:</p>
 <blockquote><p><a title="https://ww2.kqed.org/news/2017/02/01/hearing-for-berkeley-murder-suspect-delayed-after-courtroom-incident/" href="https://ww2.kqed.org/news/2017/02/01/hearing-for-berkeley-murder-suspect-delayed-after-courtroom-incident/">Hearing for Berkeley Murder Suspect Delayed After Courtroom Incident</a></p>
 <p>By Alyssa Jeong Perry and Dan Brekke</p>

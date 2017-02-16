@@ -1,19 +1,24 @@
 ---
-title: "Is the Left Playing with Fire Again?"
-kind: article
+title: "Is the Left Playing with Fire Again?" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-14 04:00:50 UTC
-author: "Taki Magazine"
-categories: 
-tags: 
 layout: post
-link: http://takimag.com/article/is_the_left_playing_with_fire_again_patrick_buchanan
+kind: article
+author: "Taki Magazine"
+
+categories: commentary
+tags: lewrockwell
+source_post_url: http://takimag.com/article/is_the_left_playing_with_fire_again_patrick_buchanan    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/takimag
+source_twitter: takimag
+source_blog_name: Taki&#39;s Magazine
+source_blog_slug: takis-magazine              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: http://takimag.com/article/               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Is the Left Playing with Fire Again?             # => "I Made a Pretty Gem - Planet.rb"
-   http://takimag.com/article/is_the_left_playing_with_fire_again_patrick_buchanan               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-14 04:00:50 UTC              # => "2012-04-14 05:17:00 UTC"
    by Patrick J. Buchanan&lt;br&gt;
 	  
 
@@ -37,15 +42,9 @@ And as Adlai Stevenson, Bobby Kennedy and Hubert Humphrey did then, Democrats to
 	  &lt;div class=&quot;feedflare&quot;&gt;
 &lt;a href=&quot;http://feeds.feedburner.com/~ff/takimag?a=taS4mVL1XpU:C0kZM3tYKZQ:yIl2AUoC8zA&quot;&gt;&lt;img src=&quot;http://feeds.feedburner.com/~ff/takimag?d=yIl2AUoC8zA&quot; border=&quot;0&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/takimag?a=taS4mVL1XpU:C0kZM3tYKZQ:qj6IDK7rITs&quot;&gt;&lt;img src=&quot;http://feeds.feedburner.com/~ff/takimag?d=qj6IDK7rITs&quot; border=&quot;0&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/takimag?a=taS4mVL1XpU:C0kZM3tYKZQ:gIN9vFwOqvQ&quot;&gt;&lt;img src=&quot;http://feeds.feedburner.com/~ff/takimag?i=taS4mVL1XpU:C0kZM3tYKZQ:gIN9vFwOqvQ&quot; border=&quot;0&quot;&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/takimag/~4/taS4mVL1XpU&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   Taki&#39;s Magazine              # => "This is where I tell you stuff"
    takis-magazine              # => "this-is-where-i-tell-you-stuff"
    http://takimag.com/article/               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
-   http://takimag.com/images/global/taki_tm_v2.png              # => "http://poteland.com/images/site-logo.png"
-   Taki Magazine                 # => "Pablo Astigarraga"
-   takimag                # => "poteland"
-   http://twitter.com/takimag            # => "http://twitter.com/poteland" -->
+                 # => "http://poteland.com/images/site-logo.png"
 by Patrick J. Buchanan<br>
 	  
 

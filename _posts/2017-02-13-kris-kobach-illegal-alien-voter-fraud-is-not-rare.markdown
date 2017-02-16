@@ -1,19 +1,24 @@
 ---
-title: "Kris Kobach: Illegal Alien Voter Fraud Is Not Rare"
-kind: article
+title: "Kris Kobach: Illegal Alien Voter Fraud Is Not Rare" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-13 18:21:55 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/kris-kobach-illegal-alien-voter-fraud-is-not-rare
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/kris-kobach-illegal-alien-voter-fraud-is-not-rare    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Kris Kobach: Illegal Alien Voter Fraud Is Not Rare             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/kris-kobach-illegal-alien-voter-fraud-is-not-rare               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-13 18:21:55 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;According to the mainstream media, the &lt;a href=&quot;http://www.limitstogrowth.org/articles/2017/02/11/texas-mexican-woman-is-sentenced-to-8-years-for-voter-fraud/&quot;&gt;conviction of an illegal alien Mexican for multiple instances of unlawful voting&lt;/a&gt; was a one-off case — no reason for the citizens to worry their little heads about widespread foreigner voting. The &lt;i&gt;no problema&lt;/i&gt; characterization was favored by the Obama administration of course because of its open-borders policies.&lt;/p&gt;
 &lt;p&gt;On the contrary, there is a real problem, according to Kansas Secretary of State Kris Kobach, who has investigated the crime locally. He discussed the results of his inquiries into voter fraud in Kansas on Monday with Fox News. The shockeroo headline: &lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;u&gt;18,000 illegal aliens registered to vote (or attempted to register) in Kansas&lt;/u&gt;&lt;/span&gt;, &lt;a href=&quot;http://www.census.gov/quickfacts/table/PST045216/20&quot;&gt;population 2.9 million&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Also, President Trump is engaged on this issue and how to fix it.&lt;/p&gt;
@@ -26,15 +31,9 @@ link: https://www.vdare.com/posts/kris-kobach-illegal-alien-voter-fraud-is-not-r
 &lt;p&gt;KILMEADE: Kris, have you been asked by the vice president to help him with his special counsel to look into this?&lt;/p&gt;
 &lt;p&gt;KOBACH: I haven’t spoken with the vice president, but I’ve actually spoken with the president himself about this problem and we’ve talked about various ways you can go after this problem — you can find those people who are criminally voting illegally — and by the way many of the people in Kansas also have been voting on multiple elections we have found. So, yes there is a way to go after it and I think the federal government will do it.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>According to the mainstream media, the <a href="http://www.limitstogrowth.org/articles/2017/02/11/texas-mexican-woman-is-sentenced-to-8-years-for-voter-fraud/">conviction of an illegal alien Mexican for multiple instances of unlawful voting</a> was a one-off case — no reason for the citizens to worry their little heads about widespread foreigner voting. The <i>no problema</i> characterization was favored by the Obama administration of course because of its open-borders policies.</p>
 <p>On the contrary, there is a real problem, according to Kansas Secretary of State Kris Kobach, who has investigated the crime locally. He discussed the results of his inquiries into voter fraud in Kansas on Monday with Fox News. The shockeroo headline: <span style="color: #ff0000;"><u>18,000 illegal aliens registered to vote (or attempted to register) in Kansas</u></span>, <a href="http://www.census.gov/quickfacts/table/PST045216/20">population 2.9 million</a>.</p>
 <p>Also, President Trump is engaged on this issue and how to fix it.</p>

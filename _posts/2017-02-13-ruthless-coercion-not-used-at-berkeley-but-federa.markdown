@@ -1,19 +1,24 @@
 ---
-title: "“Ruthless Coercion” NOT Used At Berkeley–But Federal Authorities Could Use “Ruthless Coercion” ON Berkeley"
-kind: article
+title: "“Ruthless Coercion” NOT Used At Berkeley–But Federal Authorities Could Use “Ruthless Coercion” ON Berkeley" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-13 02:45:43 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/ruthless-coercion-not-used-at-berkeley-but-federal-authorities-could-use-ruthless-coercion-on-berkeley
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/ruthless-coercion-not-used-at-berkeley-but-federal-authorities-could-use-ruthless-coercion-on-berkeley    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   “Ruthless Coercion” NOT Used At Berkeley–But Federal Authorities Could Use “Ruthless Coercion” ON Berkeley             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/ruthless-coercion-not-used-at-berkeley-but-federal-authorities-could-use-ruthless-coercion-on-berkeley               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-13 02:45:43 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;From blogger Hognose, a retired Special Forces Sergeant, at Weaponsman.com:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://weaponsman.com/?p=38977&quot;&gt;Pathetic Police Work&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img class=&quot;wp-image-107021 size-thumbnail alignright&quot; title=&quot;&quot; src=&quot;https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/11194740/whiteflag-150x103.jpg&quot; width=&quot;150&quot; height=&quot;103&quot; align=&quot;right&quot;&gt;The University of California, Berkely, has a well-staffed police department with, largely, professional officers… and &lt;em&gt;dreadful &lt;/em&gt;leadership. &lt;a href=&quot;https://pjmedia.com/blog/uc-berkeleys-police-chief-offers-terrible-excuses-for-her-failure/&quot;&gt;Jack Dunphy (pseud.) takes down their feckless Chief’s stand-down order in the face of a violent riot&lt;/a&gt;.&lt;/p&gt;
@@ -45,15 +50,9 @@ link: https://www.vdare.com/posts/ruthless-coercion-not-used-at-berkeley-but-fed
 &lt;p&gt;&lt;a href=&quot;http://heatst.com/politics/fbi-is-now-helping-with-the-investigation-into-the-identities-of-the-berkeley-rioters/&quot;&gt;This just in:&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://heatst.com/politics/fbi-is-now-helping-with-the-investigation-into-the-identities-of-the-berkeley-rioters/&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-107096&quot; title=&quot;&quot; src=&quot;https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/12214132/fbi.jpg&quot; alt=&quot;&quot; width=&quot;1477&quot; height=&quot;807&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>From blogger Hognose, a retired Special Forces Sergeant, at Weaponsman.com:</p>
 <blockquote><p><a href="http://weaponsman.com/?p=38977">Pathetic Police Work</a></p>
 <p><img class="wp-image-107021 size-thumbnail alignright" title="" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/11194740/whiteflag-150x103.jpg" width="150" height="103" align="right">The University of California, Berkely, has a well-staffed police department with, largely, professional officers… and <em>dreadful </em>leadership. <a href="https://pjmedia.com/blog/uc-berkeleys-police-chief-offers-terrible-excuses-for-her-failure/">Jack Dunphy (pseud.) takes down their feckless Chief’s stand-down order in the face of a violent riot</a>.</p>

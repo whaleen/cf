@@ -1,19 +1,24 @@
 ---
-title: "Washington Post Smears Stephen Miller – But Flinches From Naming VDARE.com!"
-kind: article
+title: "Washington Post Smears Stephen Miller – But Flinches From Naming VDARE.com!" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-12 22:39:35 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/posts/washington-post-smears-stephen-miller-but-flinches-from-naming-vdare-com
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/posts/washington-post-smears-stephen-miller-but-flinches-from-naming-vdare-com    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Washington Post Smears Stephen Miller – But Flinches From Naming VDARE.com!             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/posts/washington-post-smears-stephen-miller-but-flinches-from-naming-vdare-com               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-12 22:39:35 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;The &lt;em&gt;MSM&lt;/em&gt;’s heavy siege guns have now been positioned around the Trump Administration and have opened up, hoping to ignite some scandal or provoke some fissure.&lt;/p&gt;
 &lt;p&gt;On Saturday the &lt;em&gt;Washington Post&lt;/em&gt; fired off &lt;a href=&quot;https://www.washingtonpost.com/politics/stephen-miller-a-key-engineer-for-trumps-america-first-agenda/2017/02/11/a70cb3f0-e809-11e6-bf6f-301b6b443624_story.html?utm_term=.2d4caedcb61b&quot;&gt;&lt;em&gt;Stephen Miller: A key engineer for Trump’s ‘America first’ agenda&lt;/em&gt; &lt;/a&gt;by Rosalind S. Helderman February 11, 2017 aimed at the very talented former &lt;a href=&quot;http://www.vdare.com/posts/americas-senator-jeff-sessions-is-recognized-for-his-unique-service-in-immigration-enforcement&quot;&gt;Jeff Sessions &lt;/a&gt;aide whom the Left has identified as &lt;a href=&quot;https://www.google.com/webhp?sourceid=chrome-instant&amp;amp;rlz=1C1EODB_enUS518US518&amp;amp;ion=1&amp;amp;espv=2&amp;amp;ie=UTF-8#q=site:vdare.com+Stephen+Miller&quot;&gt;a key Bad Guy&lt;/a&gt; in the Trump White House.&lt;/p&gt;
 &lt;p&gt;This shot fails, largely because the writer relies on &lt;a href=&quot;https://www.google.com/webhp?sourceid=chrome-instant&amp;amp;rlz=1C1EODB_enUS518US518&amp;amp;ion=1&amp;amp;espv=2&amp;amp;ie=UTF-8#q=site:vdare.com+point+and+splutter&quot;&gt;point-and splutter&lt;/a&gt; items no doubt very infuriating in her circle but which are more likely to be applauded in Flyover/Trump Country:&lt;/p&gt;
@@ -27,15 +32,9 @@ link: https://www.vdare.com/posts/washington-post-smears-stephen-miller-but-flin
 &lt;p&gt;Of course in the Age of Google (so far) this censorship is futile and is reduced to squalid spite. But the fact she felt motivated to do it, when both sites have been named in the &lt;em&gt;Washington Post&lt;/em&gt; in the recent past encourages a cheering conclusion:&lt;/p&gt;
 &lt;p&gt;Intensified repression has been ordered because the &lt;a href=&quot;http://www.thefreedictionary.com/nomenklatura&quot;&gt;Left Nomanklatura &lt;/a&gt;has been frightened.&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>The <em>MSM</em>’s heavy siege guns have now been positioned around the Trump Administration and have opened up, hoping to ignite some scandal or provoke some fissure.</p>
 <p>On Saturday the <em>Washington Post</em> fired off <a href="https://www.washingtonpost.com/politics/stephen-miller-a-key-engineer-for-trumps-america-first-agenda/2017/02/11/a70cb3f0-e809-11e6-bf6f-301b6b443624_story.html?utm_term=.2d4caedcb61b"><em>Stephen Miller: A key engineer for Trump’s ‘America first’ agenda</em> </a>by Rosalind S. Helderman February 11, 2017 aimed at the very talented former <a href="http://www.vdare.com/posts/americas-senator-jeff-sessions-is-recognized-for-his-unique-service-in-immigration-enforcement">Jeff Sessions </a>aide whom the Left has identified as <a href="https://www.google.com/webhp?sourceid=chrome-instant&amp;rlz=1C1EODB_enUS518US518&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=site:vdare.com+Stephen+Miller">a key Bad Guy</a> in the Trump White House.</p>
 <p>This shot fails, largely because the writer relies on <a href="https://www.google.com/webhp?sourceid=chrome-instant&amp;rlz=1C1EODB_enUS518US518&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=site:vdare.com+point+and+splutter">point-and splutter</a> items no doubt very infuriating in her circle but which are more likely to be applauded in Flyover/Trump Country:</p>

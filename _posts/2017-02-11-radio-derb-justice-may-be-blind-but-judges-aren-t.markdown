@@ -1,19 +1,24 @@
 ---
-title: "Radio Derb: Justice May Be Blind, But Judges Aren’t, Etc."
-kind: article
+title: "Radio Derb: Justice May Be Blind, But Judges Aren’t, Etc." # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-11 06:51:27 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/radios/radio-derb-justice-may-be-blind-but-judges-arent-etc
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/radios/radio-derb-justice-may-be-blind-but-judges-arent-etc    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Radio Derb: Justice May Be Blind, But Judges Aren’t, Etc.             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/radios/radio-derb-justice-may-be-blind-but-judges-arent-etc               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-11 06:51:27 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;
 &lt;a href=&quot;https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/11010746/2017-02-10.mp3&quot;&gt;https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/11010746/2017-02-10.mp3&lt;/a&gt;
 &lt;p&gt;04m10s — The Fallacy of Judicial Impartiality. (It’s politics all the way down.)&lt;/p&gt;
@@ -199,15 +204,9 @@ commercials. (Immigration Romanticism for football fans.)&lt;/p&gt;
 &lt;div class=&quot;footer&quot;&gt;&lt;a href=&quot;#banner&quot;&gt;Top of this page&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;  &lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content">
 <a href="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/11010746/2017-02-10.mp3">https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/11010746/2017-02-10.mp3</a>
 <p>04m10s — The Fallacy of Judicial Impartiality. (It’s politics all the way down.)</p>

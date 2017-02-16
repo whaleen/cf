@@ -11,44 +11,34 @@ blogs:
   # Red Ice
   - author: "Red Ice"
     feed:   "https://redice.tv/rss/news"
-    image:  ""
-    twitter: ""
-  #
+    twitter: "redice"
+
   # Altright.com
   - author: "Altright.com"
     feed:   "http://www.altright.com/feed/rss2"
-    image:  ""
-    twitter: ""
-  #
+
   # Taki Magazine
   - author: "Taki Magazine"
-    feed:   "http://feeds.feedburner.com/takimag"
-    image:  "http://takimag.com/images/global/taki_tm_v2.png"
+    feed:   "http://feeds.feedburner.com/feedburner/takimag"
+    image:  ""
     twitter: "takimag"
+    tags: lewrockwell
+    categories: commentary
 
   # V Dare
   - author: "V Dare"
     feed:   "https://www.vdare.com/feed"
     image:  ""
-    twitter: "@vdar"
-
-  # Lew Rockwell
-  - author: "Lew Rockwell"
-    feed:   "https://www.lewrockwell.com/feed/"
-    image:  ""
-    # Other fields:
-    twitter: "https://twitter.com/lewrockwell"
-    categories: "programming"
-    tags: "test rss feed"
-    url: "http://www.feedforall.com/sample-feeds.htm"    # => only required for people that don\'t have a \'url\' field on their RSS/Atom field'
+    twitter: "vdar"
+    categories: commentary
+    tags:
 
   # Virtue of the West
-  # Figure out youtube channels rss
-  # - author: "Virtue of the West"
-  #   feed:   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2o4u0Kxi99yiiOOW1XjQaw"
-  #   image:  ""
-  #   twitter: ""
-  #   categories: "podcast"
+  - author: "Virtue of the West"
+    feed:   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2o4u0Kxi99yiiOOW1XjQaw"
+    image:  ""
+    twitter: ""
+    categories: "podcast"
 
   # # Amazon Donald Trump
   # - author: "alt-right on Goodreads"
@@ -56,12 +46,8 @@ blogs:
   #   image:  ""
   #   twitter: ""
   #   categories: "books"
-  #
-  #
-  # # ALT-RIGHT PODCAST
-  # - author: "Alt-Right Podcast"
-  #   feed:   "http://feeds.soundcloud.com/users/soundcloud:users:78285956/sounds.rss"
-  #   image:  ""
-  #   twitter: ""
-  #   categories: "podcasts"
-  #
+
+  # ALT-RIGHT PODCAST
+  - author: "Alt-Right Podcast"
+    feed:   "http://feeds.soundcloud.com/users/soundcloud:users:78285956/sounds.rss"
+    categories: "podcasts"

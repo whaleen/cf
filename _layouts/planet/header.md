@@ -1,26 +1,25 @@
 ---
-title: "{{ post_title }}"
-kind: article
+title: "{{ post_title }}" # => "I Made a Pretty Gem - Planet.rb"
 created_at: {{ post_date }}
+layout: post
+kind: article
 author: "{{ author }}"
+
 categories: {{ blog_categories }}
 tags: {{ blog_tags }}
-layout: post
-link: {{ post_url }}
+source_post_url: {{ post_url }}    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: {{ twitter_url }}
+source_twitter: {{ twitter }}
+source_blog_name: {{ blog_name }}
+source_blog_slug: {{ blog_slug }}              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: {{ blog_url }}               # => "http://poteland.com/articles"
+source_image_url: {{ image_url }}              # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   {{ post_title }}             # => "I Made a Pretty Gem - Planet.rb"
-   {{ post_url }}               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   {{ post_date }}              # => "2012-04-14 05:17:00 UTC"
    {{ post_content }}           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   {{ blog_name }}              # => "This is where I tell you stuff"
    {{ blog_slug }}              # => "this-is-where-i-tell-you-stuff"
    {{ blog_url }}               # => "http://poteland.com/articles"
-   {{ blog_categories }}        # => "programming planet"
-   {{ blog_tags }}              # => "go ruby jekyll"
    {{ image_url }}              # => "http://poteland.com/images/site-logo.png"
-   {{ author }}                 # => "Pablo Astigarraga"
-   {{ twitter }}                # => "poteland"
-   {{ twitter_url }}            # => "http://twitter.com/poteland" -->

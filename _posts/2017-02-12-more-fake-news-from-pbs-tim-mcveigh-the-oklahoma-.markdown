@@ -1,19 +1,24 @@
 ---
-title: "More “Fake News” From PBS: Tim McVeigh, The Oklahoma City Bombing, And—You’ll Never Guess! —Steve Bannon!"
-kind: article
+title: "More “Fake News” From PBS: Tim McVeigh, The Oklahoma City Bombing, And—You’ll Never Guess! —Steve Bannon!" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-12 02:01:32 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/articles/more-fake-news-from-pbs-tim-mcveigh-the-oklahoma-city-bombing-and-youll-never-guess-steve-bannon
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/articles/more-fake-news-from-pbs-tim-mcveigh-the-oklahoma-city-bombing-and-youll-never-guess-steve-bannon    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   More “Fake News” From PBS: Tim McVeigh, The Oklahoma City Bombing, And—You’ll Never Guess! —Steve Bannon!             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/articles/more-fake-news-from-pbs-tim-mcveigh-the-oklahoma-city-bombing-and-youll-never-guess-steve-bannon               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-12 02:01:32 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #993300;&quot;&gt;See also  &lt;/span&gt; &lt;em&gt;&lt;a href=&quot;http://www.vdare.com/articles/what-mcveigh-meant&quot;&gt;What McVeigh Meant &lt;/a&gt;&lt;/em&gt;&lt;span style=&quot;color: #993300;&quot;&gt;and&lt;/span&gt; &lt;em&gt;&lt;a href=&quot;http://www.vdare.com/articles/timothy-mcveighs-execution-justice-as-soap-opera&quot;&gt;Timothy McVeigh`s Execution: Justice As Soap Opera&lt;/a&gt;&lt;/em&gt;, &lt;span style=&quot;color: #993300;&quot;&gt;by the late Sam Francis&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;PBS just aired&lt;a href=&quot;http://people.com/crime/oklahoma-city-bombing-in-pbs-documentary/&quot;&gt; “&lt;em&gt;Oklahoma City&lt;/em&gt;,”&lt;/a&gt; Director &lt;a href=&quot;http://www.imdb.com/name/nm0329014/bio?ref_=nm_ov_bio_sm&quot;&gt;Barak Goodman&lt;/a&gt;’s expose of the “far-right” influences on Timothy McVeigh, the 26-year-old mass murderer who killed 168 people on April 19, 1995 by bombing the Alfred P. Murrah Federal Building in Oklahoma City. Guess what? It was all Trump advisor Steve Bannon’s fault!&lt;/p&gt;
 &lt;p&gt;Of course, PBS &lt;em&gt;NewsHour&lt;/em&gt; touted the documentary, interviewing Goodman, the film’s director. Explaining his interest in the subject, Goodman said:&lt;/p&gt;
@@ -58,15 +63,9 @@ link: https://www.vdare.com/articles/more-fake-news-from-pbs-tim-mcveigh-the-okl
 &lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;em&gt;Spencer Davenport&lt;/em&gt;&lt;em&gt; [&lt;a href=&quot;mailto:spencermdavenport@gmail.com&quot;&gt;Email him&lt;/a&gt;] writes from the Washington D.C. area.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p><strong><span style="color: #993300;">See also  </span> <em><a href="http://www.vdare.com/articles/what-mcveigh-meant">What McVeigh Meant </a></em><span style="color: #993300;">and</span> <em><a href="http://www.vdare.com/articles/timothy-mcveighs-execution-justice-as-soap-opera">Timothy McVeigh`s Execution: Justice As Soap Opera</a></em>, <span style="color: #993300;">by the late Sam Francis</span></strong></p>
 <p>PBS just aired<a href="http://people.com/crime/oklahoma-city-bombing-in-pbs-documentary/"> “<em>Oklahoma City</em>,”</a> Director <a href="http://www.imdb.com/name/nm0329014/bio?ref_=nm_ov_bio_sm">Barak Goodman</a>’s expose of the “far-right” influences on Timothy McVeigh, the 26-year-old mass murderer who killed 168 people on April 19, 1995 by bombing the Alfred P. Murrah Federal Building in Oklahoma City. Guess what? It was all Trump advisor Steve Bannon’s fault!</p>
 <p>Of course, PBS <em>NewsHour</em> touted the documentary, interviewing Goodman, the film’s director. Explaining his interest in the subject, Goodman said:</p>

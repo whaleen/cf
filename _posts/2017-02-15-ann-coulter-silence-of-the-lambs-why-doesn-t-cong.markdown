@@ -1,19 +1,24 @@
 ---
-title: "Ann Coulter: Silence Of The Lambs: Why Doesn’t Congress Just Pass 2015 Anti-Refugee American SAFE Act Again?"
-kind: article
+title: "Ann Coulter: Silence Of The Lambs: Why Doesn’t Congress Just Pass 2015 Anti-Refugee American SAFE Act Again?" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-15 22:45:34 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/articles/ann-coulter-why-doesnt-silence-of-the-lambs-congress-just-pass-the-anti-refugee-american-safe-act-like-they-did-in-2015
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/articles/ann-coulter-why-doesnt-silence-of-the-lambs-congress-just-pass-the-anti-refugee-american-safe-act-like-they-did-in-2015    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Ann Coulter: Silence Of The Lambs: Why Doesn’t Congress Just Pass 2015 Anti-Refugee American SAFE Act Again?             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/articles/ann-coulter-why-doesnt-silence-of-the-lambs-congress-just-pass-the-anti-refugee-american-safe-act-like-they-did-in-2015               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-15 22:45:34 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;img title=&quot;&quot; src=&quot;https://images-na.ssl-images-amazon.com/images/I/51d1qgc0F7L.jpg&quot; alt=&quot;&quot; width=&quot;225&quot; align=&quot;left&quot;&gt;&lt;/span&gt;&lt;/em&gt;Let’s compare what President Trump has accomplished since the &lt;a href=&quot;http://www.vdare.com/posts/it-will-come-to-blood-and-impeachment-of-judicial-saboteurs&quot;&gt;inauguration &lt;/a&gt;(with that &lt;a href=&quot;http://www.vdare.com/posts/hillary-won-dc-by-a-million-votes-so-of-course-dc-residents-didnt-show-up-for-the-inaugural&quot;&gt;enormous &lt;/a&gt;crowd!) with what congressional Republicans have done.&lt;/p&gt;
 &lt;p&gt;In the past three weeks, Trump has: &lt;a href=&quot;https://www.washingtonpost.com/politics/trumps-latest-hire-alarms-allies-of-ryan--and-bolsters-bannon/2017/01/23/2c4b94fa-e18e-11e6-ba11-63c4b4fb5a63_stQory.html?utm_term=.3001a4c83d4d&quot;&gt;staffed &lt;/a&gt;the White House, sent a dozen &lt;a href=&quot;http://www.amny.com/news/politics/senate-confirmation-hearings-for-trump-s-cabinet-picks-what-to-know-1.12789473&quot;&gt;Cabinet nominees &lt;/a&gt;to the Senate, browbeat &lt;a href=&quot;http://thepoliticalinsider.com/trump-boeing-build-cheaper-air-force-one/&quot;&gt;Boeing &lt;/a&gt;into cutting its price on a government contract, harangued American CEOs into keeping their plants in the United States, imposed a &lt;a href=&quot;http://www.vdare.com/posts/trump-puts-refugee-racket-on-hold-with-a-pen-and-a-phone&quot;&gt;terrorist travel ban,&lt;/a&gt; met with &lt;a href=&quot;http://www.cnn.com/2017/01/27/politics/donald-trump-and-theresa-may-special-relationship/&quot;&gt;foreign leaders &lt;/a&gt;and nominated a Supreme Court justice, among many other things.&lt;/p&gt;
 &lt;p&gt;(And still our hero finds time to torment the media with his tweets!)&lt;/p&gt;
@@ -47,15 +52,9 @@ link: https://www.vdare.com/articles/ann-coulter-why-doesnt-silence-of-the-lambs
 &lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;em&gt;Her book, &lt;/em&gt;&lt;/span&gt; &lt;a href=&quot;http://www.amazon.com/Adios-America-Ann-Coulter/dp/1621572676/vd0b-20&quot;&gt;¡Adios America! The Left’s Plan To Turn Our Country Into A Third World Hell Hole, &lt;/a&gt; &lt;span style=&quot;color: #993300;&quot;&gt;&lt;em&gt; was released on June 1, 2015. Her latest book is &lt;/em&gt;&lt;a href=&quot;https://www.amazon.com/Trump-We-Trust-Pluribus-Awesome/dp/0735214468&quot;&gt;IN TRUMP WE TRUST: E Pluribus Awesome&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;COPYRIGHT 2017 ANN COULTER&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p><em><span style="color: #993300;"><img title="" src="https://images-na.ssl-images-amazon.com/images/I/51d1qgc0F7L.jpg" alt="" width="225" align="left"></span></em>Let’s compare what President Trump has accomplished since the <a href="http://www.vdare.com/posts/it-will-come-to-blood-and-impeachment-of-judicial-saboteurs">inauguration </a>(with that <a href="http://www.vdare.com/posts/hillary-won-dc-by-a-million-votes-so-of-course-dc-residents-didnt-show-up-for-the-inaugural">enormous </a>crowd!) with what congressional Republicans have done.</p>
 <p>In the past three weeks, Trump has: <a href="https://www.washingtonpost.com/politics/trumps-latest-hire-alarms-allies-of-ryan--and-bolsters-bannon/2017/01/23/2c4b94fa-e18e-11e6-ba11-63c4b4fb5a63_stQory.html?utm_term=.3001a4c83d4d">staffed </a>the White House, sent a dozen <a href="http://www.amny.com/news/politics/senate-confirmation-hearings-for-trump-s-cabinet-picks-what-to-know-1.12789473">Cabinet nominees </a>to the Senate, browbeat <a href="http://thepoliticalinsider.com/trump-boeing-build-cheaper-air-force-one/">Boeing </a>into cutting its price on a government contract, harangued American CEOs into keeping their plants in the United States, imposed a <a href="http://www.vdare.com/posts/trump-puts-refugee-racket-on-hold-with-a-pen-and-a-phone">terrorist travel ban,</a> met with <a href="http://www.cnn.com/2017/01/27/politics/donald-trump-and-theresa-may-special-relationship/">foreign leaders </a>and nominated a Supreme Court justice, among many other things.</p>
 <p>(And still our hero finds time to torment the media with his tweets!)</p>

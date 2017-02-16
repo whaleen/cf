@@ -1,19 +1,24 @@
 ---
-title: "“So-Called Judges” Try To Mandate American Dispossession. Resist Or Die!"
-kind: article
+title: "“So-Called Judges” Try To Mandate American Dispossession. Resist Or Die!" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-13 01:05:20 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/articles/so-called-judges-try-to-mandate-american-dispossession-resist-or-die
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/articles/so-called-judges-try-to-mandate-american-dispossession-resist-or-die    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   “So-Called Judges” Try To Mandate American Dispossession. Resist Or Die!             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/articles/so-called-judges-try-to-mandate-american-dispossession-resist-or-die               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-13 01:05:20 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;img title=&quot;&quot; src=&quot;https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/10212454/socalled.jpg&quot; width=&quot;225&quot; align=&quot;right&quot;&gt;So it’s not just enforcing immigration laws that is “racist” today. Now, even the distinction between citizen and non-citizen has become “offensive.” The battle now is not just to preserve President Trump’s travel ban from the attacks of &lt;a href=&quot;http://www.vdare.com/articles/pat-buchanan-trump-must-break-judicial-power&quot;&gt;“so-called judges,”&lt;/a&gt; to adapt his entirely accurate description, and the &lt;a href=&quot;http://www.vdare.com/articles/refugee-ranting-further-proof-msm-is-the-opposition-party&quot;&gt;Official Opposition/Main Stream Media&lt;/a&gt;. It’s about preserving the existence of the nation itself.&lt;/p&gt;
 &lt;p&gt;MSM enforcers, few of whom have ever read a book other than &lt;em&gt;Harry Potter, &lt;/em&gt;cheered President Trump’s defeat in the courts as a defeat for the president they despise and are openly trying to unseat.  But their simplistic coverage concealed the &lt;a href=&quot;http://www.vdare.com/posts/the-ninth-circuit-the-left-coast-versus-america&quot;&gt;staggering radicalism of the Ninth Circuit Court’s decision&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Court &lt;a href=&quot;http://www.vdare.com/posts/professor-john-eastman-9th-circuit-flouts-immigration-law-and-presidential-authority&quot;&gt;not only ignored presidential authority and existing statute law&lt;/a&gt;, it essentially rendered American citizenship meaningless. As &lt;a href=&quot;https://www.google.ca/search?hl=en&amp;amp;q=Daniel+Horowitz+site:vdare.com&amp;amp;gws_rd=cr&amp;amp;ei=YQOhWJSmKoegjwT3r4c4&quot;&gt;Daniel Horowitz&lt;/a&gt; explains:&lt;/p&gt;
@@ -45,15 +50,9 @@ link: https://www.vdare.com/articles/so-called-judges-try-to-mandate-american-di
 &lt;p&gt;It’s no longer a battle about protecting the nation from terrorism. It’s about whether we will still have a nation left to protect.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p><img title="" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/10212454/socalled.jpg" width="225" align="right">So it’s not just enforcing immigration laws that is “racist” today. Now, even the distinction between citizen and non-citizen has become “offensive.” The battle now is not just to preserve President Trump’s travel ban from the attacks of <a href="http://www.vdare.com/articles/pat-buchanan-trump-must-break-judicial-power">“so-called judges,”</a> to adapt his entirely accurate description, and the <a href="http://www.vdare.com/articles/refugee-ranting-further-proof-msm-is-the-opposition-party">Official Opposition/Main Stream Media</a>. It’s about preserving the existence of the nation itself.</p>
 <p>MSM enforcers, few of whom have ever read a book other than <em>Harry Potter, </em>cheered President Trump’s defeat in the courts as a defeat for the president they despise and are openly trying to unseat.  But their simplistic coverage concealed the <a href="http://www.vdare.com/posts/the-ninth-circuit-the-left-coast-versus-america">staggering radicalism of the Ninth Circuit Court’s decision</a>.</p>
 <p>The Court <a href="http://www.vdare.com/posts/professor-john-eastman-9th-circuit-flouts-immigration-law-and-presidential-authority">not only ignored presidential authority and existing statute law</a>, it essentially rendered American citizenship meaningless. As <a href="https://www.google.ca/search?hl=en&amp;q=Daniel+Horowitz+site:vdare.com&amp;gws_rd=cr&amp;ei=YQOhWJSmKoegjwT3r4c4">Daniel Horowitz</a> explains:</p>

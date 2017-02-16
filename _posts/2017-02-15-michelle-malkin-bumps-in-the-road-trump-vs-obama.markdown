@@ -1,19 +1,24 @@
 ---
-title: "Michelle Malkin: Bumps in the Road–Trump vs. Obama"
-kind: article
+title: "Michelle Malkin: Bumps in the Road–Trump vs. Obama" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-15 01:51:20 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/articles/michelle-malkin-bumps-in-the-road-trump-vs-obama
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/articles/michelle-malkin-bumps-in-the-road-trump-vs-obama    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   Michelle Malkin: Bumps in the Road–Trump vs. Obama             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/articles/michelle-malkin-bumps-in-the-road-trump-vs-obama               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-15 01:51:20 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;The resignation of national security advisor &lt;a href=&quot;https://pjmedia.com/michaelwalsh/2017/02/14/the-empire-strikes-back/&quot;&gt;Michael Flynn &lt;/a&gt;has the anti-Trump media declaring the new administration a “mess,” in “turmoil” and thrown into “chaos.”&lt;/p&gt;
 &lt;p&gt;Funny, these same Chicken Littles barely shrugged their shoulders during the turmoil-laden first 100 days of Barack Obama’s first term. Some perspective is in order.&lt;/p&gt;
 &lt;p&gt;Remember the &lt;a href=&quot;http://www.washingtonpost.com/wp-dyn/content/article/2009/03/11/AR2009031103384.html&quot;&gt;withdrawal of Obama’s pick &lt;/a&gt;for National Intelligence Council chairman, Charles Freeman, in March 2009? Obama had tapped the former U.S. ambassador to Saudi Arabia for the sensitive post despite&lt;a href=&quot;http://www.newsweek.com/facing-opposition-obama-intel-pick-pulls-out-76211&quot;&gt; abundant conflicts of interests.&lt;/a&gt; Freeman had served for four years on the board of the China National Offshore Oil Corporation, a company owned by the Chinese communist government. The state-owned firm has invested in Sudan and Iran. Freeman also led the Middle East Policy Council, a Washington, D.C.-based group funded by the Saudi government. And he chaired Projects International, a consulting firm that had worked with foreign companies and governments.&lt;/p&gt;
@@ -33,15 +38,9 @@ link: https://www.vdare.com/articles/michelle-malkin-bumps-in-the-road-trump-vs-
 &lt;p&gt;&lt;em&gt;&lt;span style=&quot;color: #993300;&quot;&gt;Michelle Malkin&lt;/span&gt; [&lt;a href=&quot;mailto:malkinblog@gmail.com&quot;&gt;email&lt;/a&gt; &lt;span style=&quot;color: #993300;&quot;&gt;her] is the author of&lt;/span&gt; &lt;/em&gt;&lt;a href=&quot;http://www.amazon.com/Invasion-America-Welcomes-Terrorists-Criminals/dp/0895261464/?_encoding=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=ur2&amp;amp;tag=vd0b-20&quot;&gt;Invasion: How America Still Welcomes Terrorists, Criminals, and Other Foreign Menaces to Our Shores&lt;/a&gt;.&lt;em&gt; &lt;span style=&quot;color: #993300;&quot;&gt;Click&lt;/span&gt; &lt;a href=&quot;http://vdare.com/articles/malkins-invasion-the-review&quot;&gt;here&lt;/a&gt; f&lt;span style=&quot;color: #993300;&quot;&gt;or Peter Brimelow’s review. Click &lt;a href=&quot;http://www.michellemalkin.com/&quot;&gt;here&lt;/a&gt; for Michelle Malkin`s website. Michelle Malkin is also author of&lt;/span&gt; &lt;/em&gt;&lt;a href=&quot;http://www.amazon.com/exec/obidos/tg/detail/-/0895260301/?_encoding=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=ur2&amp;amp;tag=vd0b-20&quot;&gt;Unhinged: Exposing Liberals Gone Wild, &lt;/a&gt;&lt;a href=&quot;http://www.amazon.com/Who-Built-That-Awe-Inspiring-Tinkerpreneurs-ebook/dp/B00PDXSEZW/vd0b-20&quot;&gt;Culture of Corruption: Obama and his Team of Tax Cheats, Crooks &amp;amp; Cronies, &lt;/a&gt;&lt;em&gt;&lt;span style=&quot;color: #993300;&quot;&gt;and &lt;/span&gt;&lt;/em&gt;&lt;a href=&quot;http://www.amazon.com/Who-Built-That-Awe-Inspiring-Tinkerpreneurs-ebook/dp/B00PDXSEZW/vd0b-20&quot;&gt;Who Built That: Awe-Inspiring Stories of American Tinkerpreneur&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p>The resignation of national security advisor <a href="https://pjmedia.com/michaelwalsh/2017/02/14/the-empire-strikes-back/">Michael Flynn </a>has the anti-Trump media declaring the new administration a “mess,” in “turmoil” and thrown into “chaos.”</p>
 <p>Funny, these same Chicken Littles barely shrugged their shoulders during the turmoil-laden first 100 days of Barack Obama’s first term. Some perspective is in order.</p>
 <p>Remember the <a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/03/11/AR2009031103384.html">withdrawal of Obama’s pick </a>for National Intelligence Council chairman, Charles Freeman, in March 2009? Obama had tapped the former U.S. ambassador to Saudi Arabia for the sensitive post despite<a href="http://www.newsweek.com/facing-opposition-obama-intel-pick-pulls-out-76211"> abundant conflicts of interests.</a> Freeman had served for four years on the board of the China National Offshore Oil Corporation, a company owned by the Chinese communist government. The state-owned firm has invested in Sudan and Iran. Freeman also led the Middle East Policy Council, a Washington, D.C.-based group funded by the Saudi government. And he chaired Projects International, a consulting firm that had worked with foreign companies and governments.</p>

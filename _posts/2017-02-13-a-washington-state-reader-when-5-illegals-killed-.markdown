@@ -1,19 +1,24 @@
 ---
-title: "A Washington State Reader:  When 5 Illegals Killed An American Woman, Local Sheriff “Does Not See A Connection”"
-kind: article
+title: "A Washington State Reader:  When 5 Illegals Killed An American Woman, Local Sheriff “Does Not See A Connection”" # => "I Made a Pretty Gem - Planet.rb"
 created_at: 2017-02-13 02:16:24 UTC
-author: "V Dare"
-categories: 
-tags: 
 layout: post
-link: https://www.vdare.com/letters/a-washington-state-reader-when-5-illegals-killed-an-american-woman-local-sheriff-does-not-see-a-connection
+kind: article
+author: "V Dare"
+
+categories: commentary
+tags: 
+source_post_url: https://www.vdare.com/letters/a-washington-state-reader-when-5-illegals-killed-an-american-woman-local-sheriff-does-not-see-a-connection    # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
+source_blog_url: https://www.vdare.com               # => "http://poteland.com/articles"
+source_image_url:               # => "http://poteland.com/images/site-logo.png"
+
 ---
 
 
 <!--
-   A Washington State Reader:  When 5 Illegals Killed An American Woman, Local Sheriff “Does Not See A Connection”             # => "I Made a Pretty Gem - Planet.rb"
-   https://www.vdare.com/letters/a-washington-state-reader-when-5-illegals-killed-an-american-woman-local-sheriff-does-not-see-a-connection               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
-   2017-02-13 02:16:24 UTC              # => "2012-04-14 05:17:00 UTC"
    &lt;div class=&quot;pf-content&quot;&gt;&lt;p&gt;&lt;strong&gt;From: Robin Corkery [&lt;a href=&quot;mailto:witan@vdare.com&quot;&gt;Email him&lt;/a&gt;]&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;“The sheriff here does not see a correlation…” What is unusual here is that local media spotlight the murderer’s illegal status. Clearly the political policeman thinks the right way to handle the situation is to tell his constituents to avert their eyes from the glaring fact that he failed to cooperate with feds, thus leading to the murder of an innocent American. [Grant County ICE Policies, &lt;a href=&quot;http://www.defensenet.org/immigration-project/immigration-resources/specific-information-on-ice-enforcement-in-washington-county-jails/grant/Grant%20Info%20Chart%209.2.15.pdf/at_download/file&quot;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;EPHRATA, Wash. – Grant County Sheriff’s detectives called it one of the most savage murders they’ve ever investigated.&lt;/p&gt;
@@ -28,15 +33,9 @@ link: https://www.vdare.com/letters/a-washington-state-reader-when-5-illegals-ki
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://www.kxly.com/news/local-news/grant-county-sheriff-details-savage-murder/317760061&quot;&gt;Grant County Sheriff details savage murder&lt;/a&gt;,&lt;/em&gt; by Jeff Humphrey, KXLY.com February 7, 2017&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;em&gt;See &lt;a href=&quot;https://www.google.ca/search?hl=en&amp;amp;q=Robin+Corkery+site:vdare,com&amp;amp;gws_rd=cr&amp;amp;ei=phqhWP72FoOYjwTv8omACg&quot;&gt;previous letters&lt;/a&gt; from Robin Corkery.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
-   VDARE – premier news outlet for patriotic immigration reform              # => "This is where I tell you stuff"
    vdare-premier-news-outlet-for-patriotic-immigratio              # => "this-is-where-i-tell-you-stuff"
    https://www.vdare.com               # => "http://poteland.com/articles"
-           # => "programming planet"
-                 # => "go ruby jekyll"
                  # => "http://poteland.com/images/site-logo.png"
-   V Dare                 # => "Pablo Astigarraga"
-   @vdar                # => "poteland"
-   http://twitter.com/@vdar            # => "http://twitter.com/poteland" -->
 <div class="pf-content"><p><strong>From: Robin Corkery [<a href="mailto:witan@vdare.com">Email him</a>]</strong></p>
 <p>“The sheriff here does not see a correlation…” What is unusual here is that local media spotlight the murderer’s illegal status. Clearly the political policeman thinks the right way to handle the situation is to tell his constituents to avert their eyes from the glaring fact that he failed to cooperate with feds, thus leading to the murder of an innocent American. [Grant County ICE Policies, <a href="http://www.defensenet.org/immigration-project/immigration-resources/specific-information-on-ice-enforcement-in-washington-county-jails/grant/Grant%20Info%20Chart%209.2.15.pdf/at_download/file">PDF</a>]</p>
 <blockquote><p>EPHRATA, Wash. – Grant County Sheriff’s detectives called it one of the most savage murders they’ve ever investigated.</p>
