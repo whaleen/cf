@@ -8,6 +8,14 @@ planet:
 
 blogs:
 
+
+ # Virtue of the West
+  - author: "Virtue of the West"
+    feed:   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2o4u0Kxi99yiiOOW1XjQaw"
+    image:  ""
+    twitter: ""
+    categories: "podcast"
+
   # # Amazon Donald Trump
   # - author: "alt-right on Goodreads"
   #   feed:   "https://www.goodreads.com/review/list_rss/52725470?shelf=alt-right"

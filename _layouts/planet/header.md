@@ -9,6 +9,7 @@ layout: post
 link: {{ post_url }}
 ---
 
+
 <!--
    {{ post_title }}             # => "I Made a Pretty Gem - Planet.rb"
    {{ post_url }}               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
