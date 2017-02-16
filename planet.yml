@@ -8,14 +8,13 @@ planet:
 
 blogs:
 
-
-
- # Virtue of the West
-  - author: "Virtue of the West"
-    feed:   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2o4u0Kxi99yiiOOW1XjQaw"
-    image:  ""
-    twitter: ""
-    categories: "podcast"
+  # Virtue of the West
+  # Figure out youtube channels rss
+  # - author: "Virtue of the West"
+  #   feed:   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2o4u0Kxi99yiiOOW1XjQaw"
+  #   image:  ""
+  #   twitter: ""
+  #   categories: "podcast"
 
   # # Amazon Donald Trump
   # - author: "alt-right on Goodreads"
@@ -32,11 +31,11 @@ blogs:
   #   twitter: ""
   #   categories: "podcasts"
   #
-  # # Red Ice
-  # - author: "Red Ice"
-  #   feed:   "https://redice.tv/rss/news"
-  #   image:  ""
-  #   twitter: ""
+  # Red Ice
+  - author: "Red Ice"
+    feed:   "https://redice.tv/rss/news"
+    image:  ""
+    twitter: ""
   #
   # Altright.com
   - author: "Altright.com"
