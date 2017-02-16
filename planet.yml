@@ -29,11 +29,11 @@ blogs:
   #   image:  ""
   #   twitter: ""
   #
-  # # Altright.com
-  # - author: "Altright.com"
-  #   feed:   "http://www.altright.com/feed/rss2"
-  #   image:  ""
-  #   twitter: ""
+  # Altright.com
+  - author: "Altright.com"
+    feed:   "http://www.altright.com/feed/rss2"
+    image:  ""
+    twitter: ""
   #
   # Taki Magazine
   - author: "Taki Magazine"
