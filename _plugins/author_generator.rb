@@ -1,6 +1,5 @@
 # encoding: utf-8
 #
-#
 # Jekyll author page generator.
 # http://recursive-design.com/projects/jekyll-plugins/
 #

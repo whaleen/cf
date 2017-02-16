@@ -1065,7 +1065,7 @@
     box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.2); } }
 
 /*
- 
+
   BOX SIZING
 
 */
@@ -2413,7 +2413,7 @@ code, .code {
 /*
 
    FORMS
-   
+
 */
 .input-reset {
   -webkit-appearance: none;
@@ -2734,11 +2734,11 @@ code, .code {
 .pointer:hover {
   cursor: pointer; }
 
-/* 
+/*
    Add shadow on hover.
 
-   Performant box-shadow animation pattern from 
-   http://tobiasahlin.com/blog/how-to-animate-box-shadow/ 
+   Performant box-shadow animation pattern from
+   http://tobiasahlin.com/blog/how-to-animate-box-shadow/
 */
 .shadow-hover {
   cursor: pointer;
@@ -2761,7 +2761,7 @@ code, .code {
 .shadow-hover:focus::after {
   opacity: 1; }
 
-/* Combine with classes in skins and skins-pseudo for 
+/* Combine with classes in skins and skins-pseudo for
  * many different transition possibilities. */
 .bg-animate,
 .bg-animate:hover,
@@ -3864,13 +3864,13 @@ template {
     -webkit-transform: rotate(315deg);
             transform: rotate(315deg); } }
 
-/* 
-  
+/*
+
    SKINS:PSEUDO
 
    Customize the color of an element when
    it is focused or hovered over.
- 
+
  */
 .hover-black:hover,
 .hover-black:focus {
@@ -4314,8 +4314,8 @@ template {
    Docs: http://tachyons.io/docs/themes/skins/
 
    Classes for setting foreground and background colors on elements.
-   If you haven't declared a border color, but set border on an element, it will 
-   be set to the current text color. 
+   If you haven't declared a border color, but set border on an element, it will
+   be set to the current text color.
 
 */
 /* Text colors */

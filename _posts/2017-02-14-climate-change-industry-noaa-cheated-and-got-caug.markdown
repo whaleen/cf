@@ -6,10 +6,24 @@ author: "Red Ice"
 categories: 
 tags: 
 layout: post
+link: https://redice.tv/news/climate-change-industry-noaa-cheated-and-got-caught-faking-climate-data
 ---
-<img align="left" alt="Climate Change Industry: NOAA Cheated and Got Caught Faking Climate Data" src="https://rdice.net/a/c/n/17/02140410-global-warming.9cd7b47f.jpg"> They were duped – and so were we. That was the conclusion of last week’s damning revelation that world leaders signed the Paris Agreement on climate change under the sway of unverified and questionable data. A landmark scientific paper –the one that caused a sensation by claiming there has been NO slowdown in global warming since 2000 – was critically flawed. And thanks to the bravery of a whistleblower, we now know that for a fact. The response has been extraordinary, with The Mail on Sunday’s disclosures reverberating around the world. There have been nearly 150,000 Facebook ‘shares’ since last Sunday, an astonishing number for a technically detailed piece, and extensive coverage in media at home and abroad. It has even triggered an inquiry by Congress. Lamar Smith, the Texas Republican who…<div class="author">
-  <img src="" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Red Ice</a> - check out <a href="https://redice.tv/news">Red Ice News</a></i>
-  </span>
+
+
+<!--
+   Climate Change Industry: NOAA Cheated and Got Caught Faking Climate Data             # => "I Made a Pretty Gem - Planet.rb"
+   https://redice.tv/news/climate-change-industry-noaa-cheated-and-got-caught-faking-climate-data               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+   2017-02-14 03:13:09 UTC              # => "2012-04-14 05:17:00 UTC"
+   &lt;img align=&quot;left&quot; alt=&quot;Climate Change Industry: NOAA Cheated and Got Caught Faking Climate Data&quot; src=&quot;https://rdice.net/a/c/n/17/02140410-global-warming.9cd7b47f.jpg&quot;&gt; They were duped – and so were we. That was the conclusion of last week’s damning revelation that world leaders signed the Paris Agreement on climate change under the sway of unverified and questionable data. A landmark scientific paper –the one that caused a sensation by claiming there has been NO slowdown in global warming since 2000 – was critically flawed. And thanks to the bravery of a whistleblower, we now know that for a fact. The response has been extraordinary, with The Mail on Sunday’s disclosures reverberating around the world. There have been nearly 150,000 Facebook ‘shares’ since last Sunday, an astonishing number for a technically detailed piece, and extensive coverage in media at home and abroad. It has even triggered an inquiry by Congress. Lamar Smith, the Texas Republican who…           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
+   Red Ice News              # => "This is where I tell you stuff"
+   red-ice-news              # => "this-is-where-i-tell-you-stuff"
+   https://redice.tv/news               # => "http://poteland.com/articles"
+           # => "programming planet"
+                 # => "go ruby jekyll"
+                 # => "http://poteland.com/images/site-logo.png"
+   Red Ice                 # => "Pablo Astigarraga"
+                   # => "poteland"
+   http://twitter.com/            # => "http://twitter.com/poteland" -->
+<img align="left" alt="Climate Change Industry: NOAA Cheated and Got Caught Faking Climate Data" src="https://rdice.net/a/c/n/17/02140410-global-warming.9cd7b47f.jpg"> They were duped – and so were we. That was the conclusion of last week’s damning revelation that world leaders signed the Paris Agreement on climate change under the sway of unverified and questionable data. A landmark scientific paper –the one that caused a sensation by claiming there has been NO slowdown in global warming since 2000 – was critically flawed. And thanks to the bravery of a whistleblower, we now know that for a fact. The response has been extraordinary, with The Mail on Sunday’s disclosures reverberating around the world. There have been nearly 150,000 Facebook ‘shares’ since last Sunday, an astonishing number for a technically detailed piece, and extensive coverage in media at home and abroad. It has even triggered an inquiry by Congress. Lamar Smith, the Texas Republican who…<div class="">
+    <i>Source: <a href="https://redice.tv/news">Red Ice News</a></i>
 </div>

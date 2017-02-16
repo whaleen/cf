@@ -6,9 +6,12 @@
   {% assign author = site.author %}
 {% endif %}
 
-
 <ul class="list">
   {% if author %}
-    <li class="lh-copy pv3"><a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a></li>
+  <li class="lh-copy pv4"><span>
+     <a class="black link f3" href="{{ post.url }}">{{ post.title }}</a><br>
+    <a class="fw1" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
+    {{ post.categories }} {{ post.tags }}
+  </li>
   {% endif %}
 </ul>

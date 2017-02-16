@@ -4,29 +4,15 @@ title: Sources
 permlink: sources
 ---
 
+<!-- tricky collection stuff.... update. -->
+    {% assign filtered_sources = site.posts | collection_filter:"source", page.slug %}
 
-{% comment %}
+        {% if filtered_sources %}
+        {% for source in filtered_sources %}
 
-  Shows a list of people's avatars and names, pulled from a data file named `people.yml` in `_data` with the following contents:
+          <a href="{{ site.url }}/book/{{ book.slug }}" class="fl w-50 w-25-l link overflow-hidden">
+            <div class="grow aspect-ratio--4x6 " style="background: url({{ site.url }}{{ book.image }}) no-repeat center center; background-size: cover;"></div>
+          </a>
 
-  ```
-    - name: First last
-      img: first-last
-      url: http://example.com
-
-    - name: First last
-      img: first-last
-      url: http://example.com
-  ```
-{% endcomment %}
-
-<ul>
-  {% for person in site.data.people %}
-    <li>
-      <img src="{{ person.img }}.jpg" alt="{{ person.name }}">
-      <a href="{{ person.url }}" title="{{ person.name }}">
-        {{ person.name }}
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+          {% endfor %}
+        {% endif %}

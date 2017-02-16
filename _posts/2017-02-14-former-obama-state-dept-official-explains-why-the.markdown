@@ -6,10 +6,24 @@ author: "Red Ice"
 categories: 
 tags: 
 layout: post
+link: https://redice.tv/news/former-obama-state-dept-official-explains-why-they-never-said-radical-islam
 ---
-<img align="left" alt="Former Obama State Dept Official Explains Why They Never Said ‘Radical Islam’" src="https://rdice.net/a/c/n/17/02140306-Obama_oval_office1.9cd7b47f.jpg"> A former Department of State official confessed Monday that the reason no one in the Obama administration referred to certain acts of terror as “radical Islam” is because they were scared of alienating Muslim allies. In an op-ed written for The New York Times, Richard Stengel, who previously served as under secretary of state for public diplomacy and public affairs, said there was a very clear reason no one could–or did–label various acts of terror as the product of “radical Islam” and instead used the much less loaded term “violent extremism.” For Stengel, the reason the Obama administration shied away from the term “radical Islam” was not because it was “too timid or too politically correct,” despite harsh criticisms from Republicans and especially President Donald Trump. Rather, it was because…<div class="author">
-  <img src="" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Red Ice</a> - check out <a href="https://redice.tv/news">Red Ice News</a></i>
-  </span>
+
+
+<!--
+   Former Obama State Dept Official Explains Why They Never Said ‘Radical Islam’             # => "I Made a Pretty Gem - Planet.rb"
+   https://redice.tv/news/former-obama-state-dept-official-explains-why-they-never-said-radical-islam               # => "http://poteland.com/blog/i-made-a-pretty-gem-planet-dot-rb/"
+   2017-02-14 02:08:00 UTC              # => "2012-04-14 05:17:00 UTC"
+   &lt;img align=&quot;left&quot; alt=&quot;Former Obama State Dept Official Explains Why They Never Said ‘Radical Islam’&quot; src=&quot;https://rdice.net/a/c/n/17/02140306-Obama_oval_office1.9cd7b47f.jpg&quot;&gt; A former Department of State official confessed Monday that the reason no one in the Obama administration referred to certain acts of terror as “radical Islam” is because they were scared of alienating Muslim allies. In an op-ed written for The New York Times, Richard Stengel, who previously served as under secretary of state for public diplomacy and public affairs, said there was a very clear reason no one could–or did–label various acts of terror as the product of “radical Islam” and instead used the much less loaded term “violent extremism.” For Stengel, the reason the Obama administration shied away from the term “radical Islam” was not because it was “too timid or too politically correct,” despite harsh criticisms from Republicans and especially President Donald Trump. Rather, it was because…           # => "I’ve been hurting to write this ever since we had the idea of creating a Planet for Cubox..." (Continued)
+   Red Ice News              # => "This is where I tell you stuff"
+   red-ice-news              # => "this-is-where-i-tell-you-stuff"
+   https://redice.tv/news               # => "http://poteland.com/articles"
+           # => "programming planet"
+                 # => "go ruby jekyll"
+                 # => "http://poteland.com/images/site-logo.png"
+   Red Ice                 # => "Pablo Astigarraga"
+                   # => "poteland"
+   http://twitter.com/            # => "http://twitter.com/poteland" -->
+<img align="left" alt="Former Obama State Dept Official Explains Why They Never Said ‘Radical Islam’" src="https://rdice.net/a/c/n/17/02140306-Obama_oval_office1.9cd7b47f.jpg"> A former Department of State official confessed Monday that the reason no one in the Obama administration referred to certain acts of terror as “radical Islam” is because they were scared of alienating Muslim allies. In an op-ed written for The New York Times, Richard Stengel, who previously served as under secretary of state for public diplomacy and public affairs, said there was a very clear reason no one could–or did–label various acts of terror as the product of “radical Islam” and instead used the much less loaded term “violent extremism.” For Stengel, the reason the Obama administration shied away from the term “radical Islam” was not because it was “too timid or too politically correct,” despite harsh criticisms from Republicans and especially President Donald Trump. Rather, it was because…<div class="">
+    <i>Source: <a href="https://redice.tv/news">Red Ice News</a></i>
 </div>
