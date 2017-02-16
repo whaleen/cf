@@ -4,15 +4,12 @@ title: Sources
 permlink: sources
 ---
 
-<!-- tricky collection stuff.... update. -->
-    {% assign filtered_sources = site.posts | collection_filter:"source", page.slug %}
-
-        {% if filtered_sources %}
-        {% for source in filtered_sources %}
-
-          <a href="{{ site.url }}/book/{{ book.slug }}" class="fl w-50 w-25-l link overflow-hidden">
-            <div class="grow aspect-ratio--4x6 " style="background: url({{ site.url }}{{ book.image }}) no-repeat center center; background-size: cover;"></div>
-          </a>
-
-          {% endfor %}
-        {% endif %}
+<ul>
+{% for blogs in site.data.planet %}
+  <li>
+    <a href="https://github.com/{{ member.twitter }}">
+      {{ blog.athur }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
