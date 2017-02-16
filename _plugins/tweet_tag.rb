@@ -2,6 +2,7 @@
 # oEmbed API, and showing the tweet as a blockquote for non-JavaScript enabled
 # browsers and readers.
 #
+#
 # Author: Scott W. Bradley
 # Source URL: https://github.com/scottwb/jekyll-tweet-tag
 #

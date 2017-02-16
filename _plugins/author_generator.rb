@@ -1,5 +1,6 @@
 # encoding: utf-8
 #
+#
 # Jekyll author page generator.
 # http://recursive-design.com/projects/jekyll-plugins/
 #
@@ -73,7 +74,7 @@ module Jekyll
 
       if Jekyll::VERSION < '3.0.0'
         post_docs = self.posts
-      else 
+      else
         post_docs = self.posts.docs
       end
 
