@@ -3,17 +3,26 @@ layout: default
 title: cf-news
 ---
 
-
 <div class="pa1 pa4-ns">
 
+<h2>other</h2>
   <ul class="list">
     {% for post in site.posts %}
-      <li class="lh-copy pv4"><span>
-         <a class="black link f3" href="{{ post.url }}">{{ post.title }}</a><br>
+      <li class="lh-copy bb b--light-gray pv2"><span>
+         <a class="black link f3 fw1" href="{{ post.url }}">{{ post.title }}</a><br>
         <a class="fw1" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
-        {{ post.categories }} {{ post.tags }}
       </li>
     {% endfor %}
+  </ul>
+
+  <h2>Podcasts</h2>
+
+  <ul class="list">
+  {% for post in site.posts %}
+      {% if post.categories contains 'podcast' %}
+          <li class="lh-copy bb b--light-gray pv2"><span>{{ post.author }}{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+  {% endfor %}
   </ul>
 
 </div>

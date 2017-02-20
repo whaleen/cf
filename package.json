@@ -1,6 +1,6 @@
 {
   "name": "cf",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Code Furniture",
   "main": "gulpfile.js",
   "scripts": {
@@ -22,7 +22,8 @@
     "jekyll",
     "gulp",
     "sass",
-    "browsersync"
+    "browsersync",
+    "rss"
   ],
   "bugs": {
     "url": "https://github.com/whaleen/cf/issues"

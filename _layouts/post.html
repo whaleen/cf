@@ -2,23 +2,28 @@
 layout: default
 ---
 
+<article class="cf bt b--light-gray">
+  <div class="fl w-100 w-50-ns bg-near-white">
+    <a href="{{ page.source_post_url }}" data-iframely-url></a>
+    <!-- {{ content }} -->
+  </div>
+  <div class="fl w-100 w-50-ns bl b--light-gray">
+    <div class="pa5">
+      <p class="light-gray f3">{{ page.date | date_to_string }}</p>
+    	<h1 class="f3 f1-ns">{{ page.title }}</h1>
+      <p><a class="link gray" href="{{ page.source_post_url }}">- {{ page.source_blog_name }}</a></p>
+      {{ page.content | strip_html | truncatewords:150 }}
+    </div>
+  </div>
+</article>
+
 <div class="pa3 pa5-ns mw-7 br b--black-10">
-
-  <p class="gray f1">{{ page.date | date_to_string }}</p>
-	<h1 class="f3 f1-ns">{{ page.title }}</h1>
-
-<a href="{{ page.source_post_url }}" data-iframely-url></a>
-
-
+{{ page.content | strip_html | truncatewords:150 }}
 </div>
 
-
 <div class="pa3 pa5-ns mw-7 light-gray">
-
   <h1>Via: <a href="{{ page.source_post_url }}" target="_black">{{ page.author }}</a>{{ blog_url }}</h1>
-
   <h3>Rendered from planet.yml data</h3>
-
     page.post_title: {{ page.title }}<br>
     page.post_url: {{ page.source_post_url }}<br>
     page.blog_name: {{ page.source_blog_name }}<br>
@@ -30,9 +35,5 @@ layout: default
     page.author: {{ page.author }}<br>
     page.twitter: {{ page.source_twitter }}<br>
     page.twitter_url: {{ page.source_twitter_url }}
-
     <h3>Truncated. Need modify planet.rb for real control over html (excerpting quality)</h3>
-
-    {{ page.content | strip_html | truncatewords:50 }}
-
 </div>

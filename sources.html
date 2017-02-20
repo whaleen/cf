@@ -4,12 +4,19 @@ title: Sources
 permlink: sources
 ---
 
+
 <ul>
-{% for blogs in site.data.planet %}
-  <li>
-    <a href="https://github.com/{{ member.twitter }}">
-      {{ blog.athur }}
-    </a>
-  </li>
-{% endfor %}
+    {% for author in site.data.authors %}
+    <li>
+        {{ author.display_name }}
+    </li>
+    {% endfor %}
+</ul>
+
+<ul>
+    {% for blog in site.data.planet %}
+    <li>
+        {{ blogs.author }}
+    </li>
+    {% endfor %}
 </ul>
