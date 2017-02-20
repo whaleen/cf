@@ -4,7 +4,6 @@ planet:
     posts_directory: ../_posts/
     templates_directory: ../_layouts/planet/
     whitelisted_tags: []
-    - description: "This is a test"
     sanitize_html: false
 
 blogs:
