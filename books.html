@@ -5,9 +5,9 @@ permalink: /books/
 excerpt: "My awesome reading notes. Some are in-depth, some are short, some include quotes. All are for me."
 ---
 
-	<h1 class="pa2 pa4-ns">Books</h1>
+	<h1 class="pa2 pa5-ns">Books</h1>
 
-	<section class="cf w-100 pa4-ns">
+	<section class="cf w-100 pa5-ns">
 	{% assign books = site.books | sort: "date" | reverse %}
 
  	 {% for book in books %}
@@ -22,7 +22,7 @@ excerpt: "My awesome reading notes. Some are in-depth, some are short, some incl
         <h3 class="f6 f5 fw4 mt2 black-60">{{ book.author }}</h3>
 				<p>Genre: {{ book.category }}</p>
 				<p>Themes: {% assign first = true %}{% for tag in book.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}</p>
-					  {% if book.excerpt %}<p>{{ book.excerpt }}</p>{% endif %}				
+					  {% if book.excerpt %}<p>{{ book.excerpt }}</p>{% endif %}
       </a>
     </article>
  	 {% endfor %}

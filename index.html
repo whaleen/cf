@@ -5,12 +5,11 @@ title: cf-news
 
 <div class="pa1 pa4-ns">
 
-<h2>All Posts</h2>
   <ul class="list">
     {% for post in site.posts %}
-      <li class="lh-copy bb b--light-gray pv2"><span>
-         <a class="black link f3 fw1" href="{{ post.url }}">{{ post.title }}</a><br>
-        <a class="fw1" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
+      <li class="lh-copy bb b--light-gray pv3">
+         <a class="black link f4 fw3" href="{{ post.url }}">{{ post.title }}</a><br>
+        <span class="light-gray fw1"><a class="orange" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
       </li>
     {% endfor %}
   </ul>
