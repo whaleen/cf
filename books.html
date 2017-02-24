@@ -20,7 +20,6 @@ excerpt: "My awesome reading notes. Some are in-depth, some are short, some incl
         <h3 class="f6 f5 fw4 mt2 black-60">{{ book.author }}</h3>
 				<p>Genre: {{ book.category }}</p>
 				<p>Themes: {% assign first = true %}{% for tag in book.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}</p>
-					  {% if book.excerpt %}<p>{{ book.excerpt }}</p>{% endif %}
       </a>
     </article>
  	 {% endfor %}
