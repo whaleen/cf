@@ -15,8 +15,16 @@ layout: default
       <div id="" clas="">
       {{ page.content | strip_html | truncatewords:150 }}
       </div>
-      <div class="pv3">
-        <a class="f6 fw4 hover-white no-underline black-70 dib ml2 pv2 ph3 ba" href="/" >Sign Up</a>
+      <div class="pt4">
+        <a class="f6 fw4 hover-black-90 no-underline black-60 br2 dib pv2 ph3 ba" href="{{ page.source_post_url }}" target="_blank" >Read More</a>
+
+        <!-- If post has a tweet associated show Twitter ID -->
+        {% if page.tweet_id %}
+        <a class="f6 fw4 hover-white no-underline black-70 br2 dib pv2 ph3 ba" href="https://twitter.com/intent/tweet?in_reply_to={{ page.tweet_id}}" title="Reply">Reply</a>
+        <a class="f6 fw4 hover-white no-underline black-70 br2 dib pv2 ph3 ba" href="https://twitter.com/intent/retweet?tweet_id={{ page.tweet_id}}" title="Retweet">Retweet</a>
+        <a class="f6 fw4 hover-white no-underline black-70 br2 dib pv2 ph3 ba" href="https://twitter.com/intent/like?tweet_id={{ page.tweet_id}}" title="Like">Like</a>
+        {% endif %}
+
       </div>
 
 

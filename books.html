@@ -1,15 +1,13 @@
 ---
 layout: default
-title: Book
+title: "CF | Books"
 permalink: /books/
-excerpt: "My awesome reading notes. Some are in-depth, some are short, some include quotes. All are for me."
+excerpt: "Books to read."
 ---
 
 	<section class="cf w-100 pa5-ns">
 	{% assign books = site.books | sort: "date" | reverse %}
-
  	 {% for book in books %}
-
     <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
       <div class="aspect-ratio aspect-ratio--1x1">
         <img style="background-image:url({{ site.url }}/img/books/{{ book.cover }});"
@@ -23,5 +21,4 @@ excerpt: "My awesome reading notes. Some are in-depth, some are short, some incl
       </a>
     </article>
  	 {% endfor %}
-
   </section>
