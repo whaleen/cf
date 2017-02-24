@@ -7,4 +7,4 @@ gem 'pygments.rb'
 gem 'jekyll-admin', group: :jekyll_plugins
 gem "jekyll-authors"
 gem 'jekyll-archives'
-gem 'planet', :path => 'gem_dev/planet'
+#gem 'planet', :path => 'gem_dev/planet'
