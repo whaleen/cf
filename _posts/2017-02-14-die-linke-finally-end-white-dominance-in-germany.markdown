@@ -3,8 +3,8 @@ title: "Die Linke: &quot;Finally End White Dominance in Germany&quot;"
 created_at: 2017-02-14 20:30:39 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/die-linke-finally-end-white-dominance-in-germany
 source_twitter_url: http://twitter.com/redice

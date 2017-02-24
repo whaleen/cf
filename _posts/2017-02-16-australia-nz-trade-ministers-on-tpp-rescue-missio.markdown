@@ -3,8 +3,8 @@ title: "Australia/NZ Trade ministers on TPP rescue mission"
 created_at: 2017-02-16 20:12:51 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/aus-nz-trade-ministers-on-tpp-rescue-mission
 source_twitter_url: http://twitter.com/redice

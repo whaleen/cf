@@ -3,8 +3,8 @@ title: "Fake News: AP Falsely Claims Trump Is Planning to Use National Guard to 
 created_at: 2017-02-18 01:19:00 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/fake-news-ap-falsely-claims-trump-is-planning-to-use-national-guard-to-round-up-illegals
 source_twitter_url: http://twitter.com/redice

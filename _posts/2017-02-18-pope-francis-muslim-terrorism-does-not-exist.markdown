@@ -3,8 +3,8 @@ title: "Pope Francis: ‘Muslim Terrorism Does Not Exist’"
 created_at: 2017-02-18 01:35:00 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/pope-francis-muslim-terrorism-does-not-exist
 source_twitter_url: http://twitter.com/redice

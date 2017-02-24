@@ -3,8 +3,8 @@ title: "Michael Flynn Did Nothing Wrong"
 created_at: 2017-02-15 04:54:00 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/michael-flynn-did-nothing-wrong
 source_twitter_url: http://twitter.com/redice

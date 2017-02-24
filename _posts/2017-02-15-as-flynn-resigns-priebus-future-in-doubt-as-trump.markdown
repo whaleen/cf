@@ -3,8 +3,8 @@ title: "As Flynn Resigns, Priebus Future In Doubt As Trump Allies Circulate List
 created_at: 2017-02-15 07:34:00 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/as-flynn-resigns-priebus-future-in-doubt-as-trump-allies-circulate-list-of-alternate-chief-of-staff-candidates
 source_twitter_url: http://twitter.com/redice

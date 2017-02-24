@@ -1,10 +1,16 @@
 # url: http://localhost:3000
 url: www.codefurniture.com
-name: Code Furniture
-description: "Agency for Meaningful Propaganda"
+name: CF
+description: "Western Nationalism"
 markdown: redcarpet
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
-gems:
-  - jekyll-seo-tag
+
+
+# Collections
+collections:
+  books:
+    output: true
+    output_ext: .html
+    permalink: /books/:path/

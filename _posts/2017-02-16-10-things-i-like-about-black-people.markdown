@@ -5,7 +5,7 @@ layout: post
 kind: article
 author: "Taki Magazine"
 categories: commentary
-tags: lewrockwell
+tags: commentary
 source_post_url: http://takimag.com/article/10_things_i_like_about_black_people_gavin_mcinnes
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag

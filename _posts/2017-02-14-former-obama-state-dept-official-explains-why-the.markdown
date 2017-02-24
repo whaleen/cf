@@ -3,8 +3,8 @@ title: "Former Obama State Dept Official Explains Why They Never Said ‘Radical
 created_at: 2017-02-14 02:08:00 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/former-obama-state-dept-official-explains-why-they-never-said-radical-islam
 source_twitter_url: http://twitter.com/redice

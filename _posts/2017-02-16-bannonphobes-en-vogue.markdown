@@ -3,8 +3,8 @@ title: "Bannonphobes En Vogue"
 created_at: 2017-02-16 23:10:00 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/bannonphobes-en-vogue
 source_twitter_url: http://twitter.com/redice

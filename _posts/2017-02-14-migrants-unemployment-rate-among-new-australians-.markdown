@@ -3,8 +3,8 @@ title: "Migrants: Unemployment rate among new Australians doubles"
 created_at: 2017-02-14 06:33:27 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/migrants-unemployment-rate-among-new-australians-doubles
 source_twitter_url: http://twitter.com/redice

@@ -3,8 +3,8 @@ title: "Jewish Feminist Attacks Monogamy, Promotes Extra-Marital Sex for Married
 created_at: 2017-02-15 23:49:00 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/jewish-feminist-attacks-monogamy-promotes-extra-marital-sex-for-married-couples
 source_twitter_url: http://twitter.com/redice

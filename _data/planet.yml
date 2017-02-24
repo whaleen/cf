@@ -12,10 +12,12 @@ blogs:
   - author: "Radix Journal"
     feed:   "http://www.radixjournal.com/journal/?format=rss"
     twitter: "RadixJournal"
+    categories: commentary
 
   - author: "Radix Blog"
     feed:   "http://www.radixjournal.com/blog/?format=rss"
     twitter: "RadixJournal"
+    categories: commentary
 
   - author: "The Radix Podcast"
     feed:   "http://www.radixjournal.com/podcast/?format=rss"
@@ -33,9 +35,10 @@ blogs:
     categories: podcast
 
   # Red Ice
-  - author: "Red Ice"
+  - author: "Red Ice TV"
     feed:   "https://redice.tv/rss/news"
     twitter: "redice"
+    categories: commentary
 
   # Altright.com
   - author: "Altright"
@@ -46,7 +49,7 @@ blogs:
     feed:   "http://feeds.feedburner.com/feedburner/takimag"
     image:  ""
     twitter: "takimag"
-    tags: lewrockwell
+    tags: commentary
     categories: commentary
 
   # V Dare
@@ -55,20 +58,18 @@ blogs:
     image:  ""
     twitter: "vdar"
     categories: commentary
-    tags:
 
   # Virtue of the West
-  - author: "Virtue of the West"
-    feed:   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2o4u0Kxi99yiiOOW1XjQaw"
-    image:  ""
-    twitter: ""
-    categories: "podcast"
+  # - author: "Virtue of the West"
+  #   feed:   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2o4u0Kxi99yiiOOW1XjQaw"
+  #   image:  ""
+  #   twitter: ""
+  #   categories: "podcast"
 
   # ALT-RIGHT PODCAST
-  - author: "Alt-Right Podcast"
-    feed:   "http://feeds.soundcloud.com/users/soundcloud:users:78285956/sounds.rss"
-    categories: "podcast"
-
+  # - author: "Alt-Right Podcast"
+  #   feed:   "http://feeds.soundcloud.com/users/soundcloud:users:78285956/sounds.rss"
+  #   categories: "podcast"
 
   # # Amazon Donald Trump
   # - author: "alt-right on Goodreads"

@@ -5,7 +5,7 @@ layout: post
 kind: article
 author: "Taki Magazine"
 categories: commentary
-tags: lewrockwell
+tags: commentary
 source_post_url: http://takimag.com/article/isnt_it_romantic_kathy_shaidle
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag

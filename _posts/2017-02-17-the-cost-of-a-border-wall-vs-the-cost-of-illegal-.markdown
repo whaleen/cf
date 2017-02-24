@@ -3,8 +3,8 @@ title: "The Cost of a Border Wall vs. the Cost of Illegal Immigration"
 created_at: 2017-02-17 05:48:00 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/the-cost-of-a-border-wall-vs-the-cost-of-illegal-immigration
 source_twitter_url: http://twitter.com/redice

@@ -5,7 +5,7 @@ layout: post
 kind: article
 author: "Taki Magazine"
 categories: commentary
-tags: lewrockwell
+tags: commentary
 source_post_url: http://takimag.com/article/feeding_your_inner_caligula_theodore_dalrymple
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag

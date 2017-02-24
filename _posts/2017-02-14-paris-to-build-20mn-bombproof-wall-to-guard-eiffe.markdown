@@ -3,8 +3,8 @@ title: "Paris to build €20mn Bombproof Wall to Guard Eiffel Tower Against Terr
 created_at: 2017-02-14 03:58:23 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/paris-to-build-20mn-bombproof-wall-to-guard-eiffel-tower-against-terrorist-attacks
 source_twitter_url: http://twitter.com/redice

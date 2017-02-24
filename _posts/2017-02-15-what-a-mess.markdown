@@ -5,7 +5,7 @@ layout: post
 kind: article
 author: "Taki Magazine"
 categories: commentary
-tags: lewrockwell
+tags: commentary
 source_post_url: http://takimag.com/article/what_a_mess_taki
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag

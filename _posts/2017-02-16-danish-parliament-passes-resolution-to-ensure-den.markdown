@@ -3,8 +3,8 @@ title: "Danish Parliament Passes Resolution to Ensure Denmark Stays Danish"
 created_at: 2017-02-16 02:58:15 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/danish-parliament-passes-resolution-to-ensure-denmark-stays-danish
 source_twitter_url: http://twitter.com/redice

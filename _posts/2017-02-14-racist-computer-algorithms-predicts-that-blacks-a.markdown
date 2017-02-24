@@ -3,8 +3,8 @@ title: "&quot;Racist&quot; Computer Algorithms Predicts that Blacks are More Lik
 created_at: 2017-02-14 03:47:23 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/racist-computer-algorithms-predicts-that-blacks-are-more-likely-to-commit-crime
 source_twitter_url: http://twitter.com/redice

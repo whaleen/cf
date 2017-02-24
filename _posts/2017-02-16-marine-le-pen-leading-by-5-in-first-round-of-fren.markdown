@@ -3,8 +3,8 @@ title: "Marine Le Pen Leading by 5% in First Round of French Voting"
 created_at: 2017-02-16 23:31:00 UTC
 layout: post
 kind: article
-author: "Red Ice"
-categories: 
+author: "Red Ice TV"
+categories: commentary
 tags: 
 source_post_url: https://redice.tv/news/marine-le-pen-leading-by-5-in-first-round-of-french-voting
 source_twitter_url: http://twitter.com/redice

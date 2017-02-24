@@ -5,7 +5,7 @@ layout: post
 kind: article
 author: "Taki Magazine"
 categories: commentary
-tags: lewrockwell
+tags: commentary
 source_post_url: http://takimag.com/article/the_week_that_perished_takimag_february_12_2017
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag
