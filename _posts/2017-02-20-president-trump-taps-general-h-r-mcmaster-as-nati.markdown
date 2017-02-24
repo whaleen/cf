@@ -1,6 +1,6 @@
 ---
 title: "President Trump Taps General H.R. McMaster as National Security Adviser"
-created_at: 2017-02-20 23:13:52 UTC
+created_at: 2017-02-20 23:13:00 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
