@@ -11,11 +11,13 @@ layout: default
     <div class="pa5">
       <p class="light-gray f3">{{ page.date | date_to_string }}</p>
     	<h1 class="F1 f3 f1-ns">{{ page.title }}</h1>
-      <p><a class="link gray" href="{{ page.source_post_url }}">{{ page.source_blog_name }}</a></p>
+      <p><a class="link gray fw1" href="{{ page.source_post_url }}">{{ page.source_blog_name }}</a></p>
 
       <div id="" clas="">
       {{ page.content | strip_html | truncatewords:150 }}
       </div>
+
+      <a class="f6 fw4 hover-white no-underline white-70 dib ml2 pv2 ph3 ba" href="/" >Sign Up</a>
 
     </div>
   </div>
