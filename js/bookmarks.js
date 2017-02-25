@@ -96,7 +96,7 @@ function fetchBookmarks(){
 		var name = bookmarks[i].name;
 		var url = bookmarks[i].url;
 
-
+		// Bookmarks display
 		bookmarksResults.innerHTML += '<div class="">'+
 										'<ul class="list pl0">' +
 										'<li class="lh-copy pv3 ba bl-0 bt-0 br-0 b--dotted b--black-30">' + name +
