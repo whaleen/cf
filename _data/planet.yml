@@ -8,28 +8,35 @@ planet:
 
 blogs:
 
+
+  # Alternative Right
+  - author: "Alternative Right"
+    feed:   "http://feeds.feedburner.com/blogspot/SBfLZ"
+    twitter: ""
+    categories:
+
   # Lew Rockwell
   # - author: "Lew Rockwell"
   #   feed:   "http://www.lewrockwell.com/feed/"
   #   twitter: "LewRockwell"
-  #   categories: commentary
+  #   categories:
 
   # John Derbyshire
   # - author: "John Derbyshire"
   #   feed:   "http://www.johnderbyshire.com/feed.xml"
   #   twitter: "DissidentRight"
-  #   categories: commentary
+  #   categories:
 
   # Radix & NPI
   - author: "Radix Journal"
     feed:   "http://www.radixjournal.com/journal/?format=rss"
     twitter: "RadixJournal"
-    categories: commentary
+    categories:
 
   - author: "Radix Blog"
     feed:   "http://www.radixjournal.com/blog/?format=rss"
     twitter: "RadixJournal"
-    categories: commentary
+    categories:
 
   - author: "The Radix Podcast"
     feed:   "http://www.radixjournal.com/podcast/?format=rss"
