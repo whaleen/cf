@@ -8,11 +8,11 @@
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/tachyons.css">
-
+        <link rel="stylesheet" href="/css/tweet.post.widget.css">
         <script src="{{ site.url }}/js/links-visited.js"></script>
 
         <!-- http://www.ellison.rocks/sharer.js/ -->
-        <script src="https://cdn.jsdelivr.net/sharer.js/latest/sharer.min.js"></script>
+        <!-- <script src="https://cdn.jsdelivr.net/sharer.js/latest/sharer.min.js"></script> -->
 
 
         <style media="screen">
@@ -31,7 +31,8 @@
         </script>
 
     </head>
-    <body>
+
+    <body onload="fetchBookmarks()">
 
         <div class="">
 
@@ -43,6 +44,12 @@
 
           <!-- Scorcery -->
           <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+
+          <!-- jQuery -->
+   <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+   <!-- Latest compiled and minified Bootstrap CDN JavaScript -->
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+   <script src="{{ site.url }}/js/bookmarks.js"></script>
 
     </body>
 </html>

@@ -1,6 +1,6 @@
 ---
 title: "The Battle of Milo"
-created_at: 2017-02-23 04:02:42 UTC
+created_at: 2017-02-23 04:02:51 UTC
 layout: post
 kind: article
 author: "Taki Magazine"

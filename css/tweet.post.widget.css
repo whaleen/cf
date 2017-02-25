@@ -1,0 +1,83 @@
+.tweet-it-wrapper{
+    position: fixed;
+    bottom: 15%;
+    right: 5px;
+    width: 300px;
+    padding: 15px;
+    border: 1px solid #eee;
+    background: white;
+    -webkit-transform: scale(.8);
+    -ms-transform: scale(.8);
+    transform: scale(.8);
+    z-index: 100;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    transition: all 20s linear;
+
+    -moz-animation-name: dropHeader;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-timing-function: ease-in;
+    -moz-animation-duration: 1s;
+    -moz-animation-fill-mode: forwards;
+    -moz-animation-delay: 20s;
+
+    -webkit-animation-name: dropHeader;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: ease-in;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-fill-mode: forwards;
+    -webkit-animation-delay: 20s;
+
+    animation-name: dropHeader;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-delay: 20s;
+}
+.tweet-it-wrapper .tweet-it-desc{
+    font: 20px Georgia, "times new roman", serif;
+    line-height: 1.2em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.tweet-it-wrapper .tweet-it-title{
+    font: bold 24px 'Roboto', sans-serif;
+    line-height: 1.2em;
+}
+.tweet-it-wrapper .tweet-it-button{
+    font: 20px sans-serif;
+    line-height: 1.2em;
+    margin-top: 10px;
+    display: block;
+    color: white;
+    background-color: #ff4500;
+    padding: 12px 18px;
+    text-decoration: none;
+    font-weight: 100;
+    text-align: center;
+}
+@-moz-keyframes dropHeader {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-webkit-keyframes dropHeader {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@keyframes dropHeader {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

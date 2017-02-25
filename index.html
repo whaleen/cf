@@ -8,7 +8,7 @@ title: cf-news
   <ul class="list">
     {% for post in site.posts %}
       <li class="lh-copy bb b--light-gray pv3">
-         <a class="black link f4 fw3" href="{{ post.url }}">{{ post.title }}</a><br>
+         <h2 class="f4  measure fw3"><a class="black link" href="{{ post.url }}">{{ post.title }}</a></h2>
         <span class="light-gray fw1"><a class="orange" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
       </li>
     {% endfor %}
@@ -18,7 +18,7 @@ title: cf-news
 
   <ul class="list">
   {% for post in site.posts %}
-      {% if post.categories contains 'podcast' %}
+      {% if post.categories contains 'commentary' %}
           <li class="lh-copy bb b--light-gray pv2"><span>{{ post.author }}{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
   {% endfor %}
