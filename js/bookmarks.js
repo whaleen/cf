@@ -99,9 +99,9 @@ function fetchBookmarks(){
 		// Bookmarks display
 		bookmarksResults.innerHTML += '<div class="">'+
 										'<ul class="list pl0">' +
-										'<li class="lh-copy pv3 ba bl-0 bt-0 br-0 b--dotted b--black-30">' + name +
-										' <a class="button" target="_blank" href="'+url+'">Visit</a>' +
-										' <a onclick="deleteBookmark(\''+url+'\')" class="btn btn-danger" href="#">Delete</a>'
+										'<li class="lh-copy pv3 bl-0 bt-0 br-1 bg-lightest-blue pa2">' + name +
+										' <a class="" target="_blank" href="'+url+'">Visit</a>' +
+										' <a onclick="deleteBookmark(\''+url+'\')" class="" href="#">Delete</a>'
 										'</li>'+
 										'</ul>'+
 										'</div>';
