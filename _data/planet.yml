@@ -5,7 +5,6 @@ planet:
   whitelisted_tags: []
   sanitize_html: false
 blogs:
-
 - author: Alt-right Podcast
   feed: http://feeds.feedburner.com/Alt-rightPodcast
 - author: Alternative Right
