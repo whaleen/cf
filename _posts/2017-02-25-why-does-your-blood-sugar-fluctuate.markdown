@@ -4,15 +4,15 @@ created_at: 2017-02-25 06:01:46 UTC
 layout: post
 kind: article
 author: Lew Rockwell
-categories: 
-tags: 
+categories: featured
+tags: ''
 source_post_url: https://www.lewrockwell.com/2017/02/dr-victor-marchione/blood-sugar-fluctuate/
 source_twitter_url: http://twitter.com/LewRockwell
 source_twitter: LewRockwell
 source_blog_name: LewRockwell
 source_blog_slug: lewrockwell
 source_blog_url: https://www.lewrockwell.com
-source_image_url: 
+source_image_url: "/uploads/2017/02/26/bbc0fc0fac39a16b3d6102529cbaf15e.jpeg"
 date: '2017-02-25T00:00:00.000+00:00'
 ---
 <p>Living with diabetes or prediabetes requires constant monitoring and vigilance when it comes to your blood glucose levels. For someone with diabetes, a level that is too high or too low could result in adverse reactions like dizziness, irritability, weakness, increased thirst or hunger, and exhaustion. While many are aware that certain foods can impact their blood sugar, there are other factors that may be just as detrimental to maintaining a normal glucose concentration in your blood. Continue reading to learn how environmental factors may be influencing your blood sugar levels, as well as how to properly test your blood sugar, and what to do if you have high or low blood sugar.</p>
