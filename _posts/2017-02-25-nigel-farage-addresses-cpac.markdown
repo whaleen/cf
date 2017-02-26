@@ -4,7 +4,7 @@ created_at: 2017-02-25 04:36:10 UTC
 layout: post
 kind: article
 author: "Altright"
-categories: featured
+categories:
 tags:
 source_post_url: https://altright.com/2017/02/24/nigel-farage-addresses-cpac/
 source_twitter_url: http://twitter.com/
