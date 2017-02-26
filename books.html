@@ -11,7 +11,7 @@ excerpt: "Books to read."
     <article class="fl w-25 w-20-m  w-10-ns pa2-ns">
 			<a href="{{ book.url | prepend: site.baseurl }}" title="{{ book.title }}">
 			<div class="aspect-ratio aspect-ratio--5x8">
-        <img style="background-image:url(http://{{ site.url }}{{ book.cover }});"
+        <img style="background-image:url({{ site.url }}{{ book.cover }});"
         class="db bg-center cover aspect-ratio--object" />
       </div>
 			</a>
