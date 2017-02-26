@@ -1,18 +1,24 @@
 ---
-title: "Norse News - Episode 1 - Sweden&#39;s Titanic Nationalism"
+title: Norse News - Episode 1 - Sweden&#39;s Titanic Nationalism
 created_at: 2017-02-05 01:06:15 UTC
 layout: post
 kind: article
+<<<<<<< HEAD
 author: "Red Ice TV"
 categories: 
+=======
+author: Red Ice TV
+categories: []
+>>>>>>> origin/master
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/norse-news-episode-1-swedens-titanic-nationalism
 source_twitter_url: http://twitter.com/redice
 source_twitter: redice
-source_blog_name: "Red Ice TV"
+source_blog_name: Red Ice TV
 source_blog_slug: red-ice-tv
 source_blog_url: https://redice.tv/red-ice-tv
 source_image_url: 
+date: '2017-02-05T00:00:00.000+00:00'
 ---
 <img align="left" hspace="12" alt="Norse News - Episode 1 - Sweden&#039;s Titanic Nationalism" src="https://rdice.net/a/c/t/17/Norse-News-ep1.9cd7b47f.jpg"> Norse News is here! A monthly update on the horrific things that are going on in Sweden and the rest of Scandinavia. Sweden is the canary in the multicultural coalmine. What happens here will come to the rest of the Western world if we don&rsquo;t say: Stop it right here!
 Norse News is keeping an eye on the North. We give you the latest news and scandals from Scandinavia.Norse News is a collaboration between Red Ice TV and Ingrid &amp; Conrad.
