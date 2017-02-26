@@ -1,18 +1,19 @@
 ---
-title: "Trump’s New Deportation Rules: If Illegals Want To Panic, They Can!"
+title: 'Trump’s New Deportation Rules: If Illegals Want To Panic, They Can!'
 created_at: 2017-02-22 00:51:18 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/trumps-new-deportation-rules-if-illegals-want-to-panic-they-can
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-22T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>It again appears that John Kelly, Secretary of the Department of Homeland Security (DHS), <a href="http://www.vdare.com/posts/john-kelly-youre-no-jumpin-joe-swing">is in over his head</a>. Kelly recently signed and released two memorandum regarding immigration law enforcement policy. Overall the memorandum reverse the <a href="http://www.vdare.com/articles/obama-s-administrative-amnesty-impeachment-is-the-only-answer">Obama Regime Administrative Amnesty</a>, except in one major area, the <a href="http://www.vdare.com/articles/national-data-deal-with-daca-with-heart-what-about-american-millennials">Deferred Action For Childhood Arrivals (DACA) illegal aliens</a>, a major ongoing blunder by President Trump. Overall though, the memorandum put meat back on the table for DHS enforcement components.</p>
 <p><iframe src="//www.washingtonpost.com/video/c/embed/dbd92ed6-f88c-11e6-aa1e-5f735ee31334" width="480" height="290" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p>

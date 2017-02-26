@@ -1,18 +1,20 @@
 ---
-title: "Radio Derb Transcript For Feb 17 Up: “Not Even Wrong”–Who Are The Fascists Here?"
+title: 'Radio Derb Transcript For Feb 17 Up: “Not Even Wrong”–Who Are The Fascists
+  Here?'
 created_at: 2017-02-22 17:18:38 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/radio-derb-transcript-for-feb-17-up-not-even-wrong-who-are-the-fascists-here
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-22T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>The Radio Derb  transcript for <a href="http://www.vdare.com/radios/radio-derb-february-17th">February 17 </a>is up. Go here to read or listen. Sample:</p>
 <blockquote><p>Meanwhile, Trump Derangement Syndrome rages on in the intelligentsia. Here’s a data point at random from that demographic.</p>

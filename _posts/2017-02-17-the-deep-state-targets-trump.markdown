@@ -1,18 +1,19 @@
 ---
-title: "The Deep State Targets Trump"
+title: The Deep State Targets Trump
 created_at: 2017-02-17 04:01:28 UTC
 layout: post
 kind: article
-author: "Taki Magazine"
+author: Taki Magazine
 categories: 
 tags: 
 source_post_url: http://takimag.com/article/the_deep_state_targets_trump_patrick_buchanan
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag
-source_blog_name: "Taki&#39;s Magazine"
+source_blog_name: Taki&#39;s Magazine
 source_blog_slug: takis-magazine
 source_blog_url: http://takimag.com/article/
 source_image_url: 
+date: '2017-02-17T00:00:00.000+00:00'
 ---
 by Patrick J. Buchanan<br />
 	  

@@ -1,18 +1,19 @@
 ---
-title: "The Las Vegas Real Estate Bubble"
+title: The Las Vegas Real Estate Bubble
 created_at: 2017-02-25 06:01:47 UTC
 layout: post
 kind: article
-author: "Lew Rockwell"
+author: Lew Rockwell
 categories: 
 tags: 
 source_post_url: https://www.lewrockwell.com/2017/02/doug-french/las-vegas-real-estate-bubble/
 source_twitter_url: http://twitter.com/LewRockwell
 source_twitter: LewRockwell
-source_blog_name: "LewRockwell"
+source_blog_name: LewRockwell
 source_blog_slug: lewrockwell
 source_blog_url: https://www.lewrockwell.com
 source_image_url: 
+date: '2017-02-25T00:00:00.000+00:00'
 ---
 <p>Back in the Las Vegas boom days, the belief was there wasn’t enough land.  The Bureau of Land Management (BLM) controlled nearly 90 percent of the land in Nevada and all the land surrounding the Las Vegas Valley. Desperate builders were gonna run out of terra firma.</p>
 <p>So, developers went verticle (called the Manhattanization of Las Vegas) and skipped to nearby communities like Pahrump. The ensuing crash was especially cruel to high-rise and satellite community developers.</p>

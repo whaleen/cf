@@ -1,18 +1,19 @@
 ---
-title: "Lydia Brimelow: VDARE.Com Year In Review"
+title: 'Lydia Brimelow: VDARE.Com Year In Review'
 created_at: 2017-02-23 03:58:07 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/lydia-brimelow-vdare-com-year-in-review
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-23T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>It was not a quiet year for VDARE.com.</p>
 <p>In fact, it was kind of a roller coaster.</p>

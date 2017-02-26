@@ -1,18 +1,19 @@
 ---
-title: "Beauty Meets the Beast: The Fashionable H-1B Visa"
+title: 'Beauty Meets the Beast: The Fashionable H-1B Visa'
 created_at: 2017-02-25 04:22:28 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/beauty-meets-the-beast-the-fashionable-h-1b-visa
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-25T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><img class="alignright wp-image-107939 size-medium" title="" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24215036/melania-215x300.jpg" width="225" align="right" srcset="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24215036/melania-215x300.jpg 215w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24215036/melania-107x150.jpg 107w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24215036/melania-267x372.jpg 267w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24215036/melania.jpg 427w" sizes="(max-width: 215px) 100vw, 215px" />One usually doesn’t think of <a href="http://www.vdare.com/posts/lots-of-long-legged-fashion-models-come-from-these-countries-0">fashion models </a>as skilled workers. President Donald Trump, <a href="http://www.vdare.com/posts/82555">married to a former fashion model</a>, would beg to <a href="http://www.slate.com/articles/news_and_politics/politics/2016/08/why_do_fashion_models_like_melania_trump_get_their_own_category_of_work.html">differ</a>. And a good test of his commitment to patriotic immigration reform will be his willingness to persuade Congress to repeal legislation enabling <a href="http://www.vdare.com/posts/finding-fashion-models-in-brazil">foreign models </a>to work here.</p>
 <p>That law is a part of the <a href="http://www.vdare.com/posts/american-workers-replaced-with-h-1b-foreigners-speak-out-about-disney">H-1B visa hustle</a>. H-1B visas are employer-sponsored temporary work permits, subject to approval by the U.S. Department of Labor, awarded to “highly-skilled” foreign workers possessed of at least a bachelor’s degree or its equivalent. The H-1B, good for an initial three years and renewable for another three, has an annual cap of 85,000 visas, with 20,000 of those slots reserved for foreigners holding graduate degrees from American universities.</p>

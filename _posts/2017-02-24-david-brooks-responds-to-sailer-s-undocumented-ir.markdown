@@ -1,18 +1,20 @@
 ---
-title: "David Brooks Responds to Sailer’s “Undocumented Irrigation” with His Own Watery Metaphors"
+title: David Brooks Responds to Sailer’s “Undocumented Irrigation” with His Own Watery
+  Metaphors
 created_at: 2017-02-24 17:09:08 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/david-brooks-responds-to-sailers-undocumented-irrigation-with-his-own-watery-metaphors
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-24T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><img class="aligncenter size-full wp-image-107905" title="" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24120812/irrigation.jpg" alt="" width="225" align="right" srcset="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24120812/irrigation.jpg 565w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24120812/irrigation-121x150.jpg 121w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24120812/irrigation-242x300.jpg 242w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24120812/irrigation-301x372.jpg 301w" sizes="(max-width: 565px) 100vw, 565px" />In the <em>New York Times</em>, David Brooks responds to, I would guess, my February 22nd <em>Taki’s Magazine</em> column “<a title="http://takimag.com/article/undocumented_irrigation_steve_sailer#axzz4ZAy0zws3" href="http://takimag.com/article/undocumented_irrigation_steve_sailer#axzz4ZAy0zws3">Undocumented Irrigation</a>” about what we can learn about immigration policy from California’s troubled history with water projects:</p>
 <blockquote><p><a id="xlink_1_2" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_2" name="xlink_1_2"></a> <a title="https://www.nytimes.com/2017/02/24/opinion/the-national-death-wish.html?_r=0" href="https://www.nytimes.com/2017/02/24/opinion/the-national-death-wish.html?_r=0">The National Death Wish</a></p>
