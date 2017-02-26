@@ -34,7 +34,7 @@ title: cf-news
     {% for post in site.posts %}
       <article class="lh-copy bb b--light-gray pv3">
          <h2 class="f4  measure fw3"><a class="link" href="{{ post.url }}">{{ post.title }}</a></h2>
-        <span class="light-gray fw1"><a class="" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
+        <span class="light-gray fw1 f7"><a class="black" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
       </article>
     {% endfor %}
 

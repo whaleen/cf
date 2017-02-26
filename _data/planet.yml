@@ -9,6 +9,10 @@ blogs:
   feed: http://feeds.feedburner.com/blogspot/SBfLZ
   twitter:
   categories:
+- author: Altright.com
+  feed: http://www.altright.com/feed/rss2
+  twitter:
+  categories:
 - author: Radix Journal
   feed: http://www.radixjournal.com/journal/?format=rss
   twitter: RadixJournal

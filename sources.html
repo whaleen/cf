@@ -5,13 +5,13 @@ permalink: "/sources/"
 ---
 
 <div class="pa2 pa4-l">
-  <ul>
+
   {% for member in site.data.members %}
-    <li>
+    <article>
       <a href="{{ site.url }}/authors/{{ member.author | replace: ' ', '-' | downcase }}">
         {{ member.author }}
       </a>
-    </li>
+    </article>
   {% endfor %}
-  </ul>
+
 </div>
