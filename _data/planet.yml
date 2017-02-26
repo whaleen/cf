@@ -36,11 +36,15 @@ blogs:
   twitter: NPIAmerica
   categories:
   - podcast
-- author: Red Ice TV
+- author: Red Ice News
   feed: https://redice.tv/rss/news
   twitter: redice
   categories:
   - commentary
+- author: Red Ice TV
+  feed: https://redice.tv/rss/red-ice-tv
+  twitter: redice
+  categories: []
 - author: Altright
   feed: http://www.altright.com/feed/rss2
 - author: Taki Magazine
