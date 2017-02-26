@@ -1,19 +1,20 @@
 ---
-title: Black Targets Matter (Cont.)
+title: "Black Targets Matter (Cont.)"
 created_at: 2017-02-21 20:24:19 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/black-targets-matter-cont
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-21T00:00:00.000+00:00'
+tweet_id:
+permalink: /mntr/:categories/:year/:month/:day/:title/
 ---
 <div class="pf-content"><p>James:</p>
 <p><a href="http://www.vdare.com/posts/black-targets-matter-blm-thinks-target-shooting-is-racist">Interesting post</a>.  There&#8217;s a whole history and sociology of target figures to be compiled by someone.Perhaps it already has been.</p>

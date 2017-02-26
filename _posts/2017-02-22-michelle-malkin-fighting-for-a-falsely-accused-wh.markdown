@@ -1,19 +1,20 @@
 ---
-title: 'Michelle Malkin: Fighting For A Falsely Accused White Cop'
+title: "Michelle Malkin: Fighting For A Falsely Accused White Cop"
 created_at: 2017-02-22 00:19:04 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/michelle-malkin-fighting-for-a-falsely-accused-white-cop
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-22T00:00:00.000+00:00'
+tweet_id:
+permalink: /mntr/:categories/:year/:month/:day/:title/
 ---
 <div class="pf-content"><p><span style="color: #993300;">[<strong>VDARE.com note:</strong> <em>For those who are curious about such things, falsely accused <a href="https://www.gofundme.com/Brian-Franklin">Police Officer Brian Franklin</a> is white, and so, apparently, is his accuser. The stepfather alleged to have done the actual molesting, starting when the accuser was 6? <a href="http://www.vdare.com/articles/ann-coulter-donald-trump-still-right-about-mexican-rapists">Hispanic</a>.</em>]</span></p>
 <p><a href="https://www.gofundme.com/Brian-Franklin"><img class="size-full wp-image-107752 alignright" title="" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21190416/brian-franklin.jpg" alt="" width="225" align="right" srcset="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21190416/brian-franklin.jpg 350w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21190416/brian-franklin-150x150.jpg 150w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21190416/brian-franklin-300x300.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></a>Former Fort Worth, Texas, police officer Brian Franklin (right) is finally <a href="http://brianfranklin.us/25901.html">free</a>. But he is still fighting to clear his name.</p>

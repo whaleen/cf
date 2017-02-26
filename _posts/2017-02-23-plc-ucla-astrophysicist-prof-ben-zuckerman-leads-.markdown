@@ -3,17 +3,18 @@ title: "$PLC: UCLA Astrophysicist Prof. Ben Zuckerman Leads a Hate Group"
 created_at: 2017-02-23 17:26:04 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/plc-ucla-astrophysicist-prof-ben-zuckerman-leads-a-hate-group
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-23T00:00:00.000+00:00'
+tweet_id:
+permalink: /mntr/:categories/:year/:month/:day/:title/
 ---
 <div class="pf-content"><p>From the <em>New York Times</em>:</p>
 <blockquote><p><a id="xlink_1_2" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_2" name="xlink_1_2"></a> <a title="https://www.nytimes.com/2017/02/22/us/california-today-hate-groups.html?mabReward=CTM&amp;recp=0&amp;src=rechp" href="https://www.nytimes.com/2017/02/22/us/california-today-hate-groups.html?mabReward=CTM&amp;recp=0&amp;src=rechp">California Today: The State’s Hate Landscape</a></p>

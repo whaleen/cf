@@ -1,19 +1,20 @@
 ---
-title: Forget Politicians—The People Of The West Have Decided Against Muslim Immigration
+title: "Forget Politicians—The People Of The West Have Decided Against Muslim Immigration"
 created_at: 2017-02-22 02:32:44 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/forget-politicians-the-people-of-the-west-have-decided-against-muslim-immigration
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-22T00:00:00.000+00:00'
+tweet_id:
+permalink: /mntr/:categories/:year/:month/:day/:title/
 ---
 <div class="pf-content"><p><span style="color: #993300;">[<em>Adapted from the <a href="http://www.vdare.com/radios/radio-derb-february-17th">latest </a>Radio Derb, now available <a href="http://www.vdare.com/radios">exclusively </a>on VDARE.com.</em>]</span></p>
 <p>Talk about <a href="https://www.google.com/search?hl=en&amp;q=fake%20news+site:vdare.com">fake news</a>: before our very eyes, the Main Stream Media is attempting to disappear <a href="http://www.vdare.com/posts/european-women-face-the-end-of-safe-streets-because-muslim-immigration">Sweden’s Muslim rape crisis </a>after President Trump alluded to it in his Florida rally on Friday e.g. <em><a href="https://www.nytimes.com/2017/02/20/world/europe/trump-pursues-his-attack-on-sweden-with-scant-evidence.html?_r=0">From an Anchor’s Lips to Trump’s Ears to Sweden’s Disbelief</a> .</em> [By Peter Baker And Sewell Chan, NYT, February 20, 2017]</p>

@@ -13,4 +13,6 @@ source_blog_name: "{{ blog_name }}"
 source_blog_slug: {{ blog_slug }}
 source_blog_url: {{ blog_url }}
 source_image_url: {{ image_url }}
+tweet_id:
+permalink: /mntr/:categories/:year/:month/:day/:title/
 ---

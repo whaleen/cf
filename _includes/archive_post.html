@@ -7,11 +7,9 @@
 {% endif %}
 
 
-<ul class="list">
   {% if author %}
-    <li class="lh-copy bb b--light-gray pv3">
+    <article class="lh-copy bb b--light-gray pv2">
+      <span class="f6 fw1 gray">{{ post.date | date_to_string }}</span><br>
        <a class="black link f4 fw3" href="{{ post.url }}">{{ post.title }}</a><br>
-      <span class="light-gray fw1"><a class="orange" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
-    </li>
+    </article>
   {% endif %}
-</ul>

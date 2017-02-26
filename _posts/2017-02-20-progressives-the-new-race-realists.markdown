@@ -1,19 +1,20 @@
 ---
-title: 'Progressives: The New Race Realists'
+title: "Progressives: The New Race Realists"
 created_at: 2017-02-20 20:40:17 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/progressives-the-new-race-realists
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-20T00:00:00.000+00:00'
+tweet_id:
+permalink: /mntr/:categories/:year/:month/:day/:title/
 ---
 <div class="pf-content"><p>HBD aggregator <em>par excellence</em> &#8220;M.G.,&#8221; over at her blog <em>Those Who Can See</em>, has a good post on the theme &#8220;<a href="http://thosewhocansee.blogspot.com/2017/02/progressives-new-race-realists.html">Progressives: The New Race Realists</a>.&#8221;</p>
 <blockquote><p>The rhetoric <em>and</em> the actions emanating from the left as of late show that they have perhaps taken a U-turn — a salutary one. People of Color, they are now saying, in fact have little agency, are near-prisoners of their instincts, and thus can&#8217;t be held to the same standards as other ethnies.</p>

@@ -1,19 +1,20 @@
 ---
-title: 'Guilt By Association In London: Peter Brimelow And Art Gallery LD50'
+title: "Guilt By Association In London: Peter Brimelow And Art Gallery LD50"
 created_at: 2017-02-24 23:36:50 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/guilt-by-association-in-london-peter-brimelow-and-art-gallery-ld50
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-24T00:00:00.000+00:00'
+tweet_id:
+permalink: /mntr/:categories/:year/:month/:day/:title/
 ---
 <div class="pf-content"><p>On August, 2016, Peter Brimelow<a href="http://www.vdare.com/posts/peter-brimelow-talks-via-skype-to-london-art-gallery-ld50"> spoke to a group in London </a>via Skype, a group physically gathered at London art gallery <a href="https://www.ld50gallery.com/hello">LD50. </a></p>
 <p>We posted the audio (below).</p>

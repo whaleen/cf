@@ -1,0 +1,34 @@
+---
+title: "Road Rage"
+created_at: 2015-05-24 22:25:09 UTC
+layout: post
+kind: article
+author: "The Radix Podcast"
+categories: podcast
+tags: 
+source_post_url: http://www.radixjournal.com/podcast/2015/5/24/road-rage
+source_twitter_url: http://twitter.com/RadixJournal
+source_twitter: RadixJournal
+source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_slug: the-radix-podcast-radix-journal
+source_blog_url: http://www.radixjournal.com/podcast/
+source_image_url: 
+tweet_id:
+permalink: /mntr/:categories/:year/:month/:day/:title/
+---
+<p>Jack Donovan joins Richard to discuss the world of Mad Max—how <em>Fury Road</em> is a feminist action film that’s secretly an anti-feminist action film and why it’s good to long for the apocalypse. &nbsp;</p><iframe scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/207039853&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" width="100%" frameborder="no" height="450"></iframe><h3 id="notes">Notes:</h3>
+
+<p>Jack Donovan, <em><a href="http://www.radixjournal.com/journal/2015/5/20/never-let-a-woman-drive-your-war-rig">Never Let a Woman Drive Your War Rig</a></em> <br>
+<em><a href="http://www.imdb.com/title/tt1392190/?ref_=tt_rec_tt">Mad Max: Fury Road</a></em> (2015) <br>
+<em><a href="http://www.imdb.com/title/tt0082694/?ref_=nm_knf_t1">The Road Warrior</a></em> (1981) <br>
+<em><a href="http://www.imdb.com/title/tt0089530/?ref_=tt_rec_tt">Beyond Thunderdome</a></em> (1985) <br>
+Virginia Hey, <a href="https://deanoinamerica.files.wordpress.com/2011/10/mad-max-2-warrior-woman-virginia-hey.jpg">Aryan Goddess</a> <br>
+Sandahl Bergman, <a href="http://ecx.images-amazon.com/images/I/51Ic6ppPnVL._SY445_.jpg">Aryan Goddess</a> <br>
+<a href="http://www.imdb.com/name/nm0920460/?ref_=tt_cl_t4">Vernon Wells</a> <br>
+Rob Ager on <em><a href="https://youtu.be/LWuymS0i0dc?t=6m32s">The Road Warrior</a></em> <br>
+<a href="http://www.imdb.com/title/tt0082694/quotes?item=qt0201171">Pappagallo</a>: “Do you think you’re the only one who suffered?” <br>
+<a href="https://www.phactual.com/15-facts-about-the-mad-max-trilogy/">Mel Gibson</a> had 16 lines of dialogue in <em>The Road Warrior</em>, and two of them were: “I only came for the gasoline." <br>
+Nerdist News on <a href="https://www.youtube.com/watch?v=5Pd0noml2ZE">Mad Max and "<em>The</em> Patriarchy"</a> <br>
+Miller, <em><a href="http://www.imdb.com/title/tt0094332/">The Witches of Eastwick</a></em> (1987) </p><div class="">
+    <i>Source: <a href="http://www.radixjournal.com/podcast/">The Radix Podcast -Radix Journal</a></i>
+</div>

@@ -8,8 +8,8 @@ permalink: "/sources/"
   <ul>
   {% for member in site.data.members %}
     <li>
-      <a href="https://github.com/{{ member.github }}">
-        {{ member.name }}
+      <a href="{{ site.url }}/authors/{{ member.author | replace: ' ', '-' | downcase }}">
+        {{ member.author }}
       </a>
     </li>
   {% endfor %}
