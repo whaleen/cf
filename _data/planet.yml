@@ -7,36 +7,26 @@ planet:
 blogs:
 - author: Alternative Right
   feed: http://feeds.feedburner.com/blogspot/SBfLZ
-  twitter:
-  categories:
 - author: Altright.com
   feed: http://www.altright.com/feed/rss2
-  twitter:
-  categories:
 - author: Radix Journal
   feed: http://www.radixjournal.com/journal/?format=rss
   twitter: RadixJournal
-  categories:
 - author: Radix Blog
   feed: http://www.radixjournal.com/blog/?format=rss
   twitter: RadixJournal
-  categories:
 - author: The Radix Podcast
   feed: http://www.radixjournal.com/podcast/?format=rss
   twitter: RadixJournal
-  categories:
 - author: The National Policy Institute
   feed: http://www.radixjournal.com/the-national-policy-institute/?format=rss
   twitter: RadixJournal
-  categories:
 - author: BOWDEN
   feed: http://www.radixjournal.com/bowden/?format=rss
   twitter: NPIAmerica
-  categories:
 - author: Red Ice News
   feed: https://redice.tv/rss/news
   twitter: redice
-  categories:
 - author: Red Ice TV
   feed: https://redice.tv/rss/red-ice-tv
   twitter: redice
@@ -47,9 +37,7 @@ blogs:
   image:
   twitter: takimag
   tags:
-  categories:
 - author: V Dare
   feed: https://www.vdare.com/feed
   image: ''
   twitter: vdar
-  categories:
