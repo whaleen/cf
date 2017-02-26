@@ -26,8 +26,7 @@ layout: default
     <!-- If post has a tweet associated show Twitter ID -->
     {% if page.tweet_id %}
     <div class="pa3 ba br2 b--light-gray">
-    <div class="f7 fw1 gray">Twitter</div>  
-    <span class="gray"><i class="fa fa-twitter"></i></span>
+    <div class="f7 fw1 gray pb1"><i class="fa fa-twitter"></i> Twitter</div>  
     <a class="f6 fw4 no-underline light-blue br2 dib pv2 ph3 ba b--light-blue" href="https://twitter.com/intent/tweet?in_reply_to={{ page.tweet_id}}" title="Reply">Reply</a>
     <a class="f6 fw4 no-underline blue br2 dib pv2 ph3 ba b--blue" href="https://twitter.com/intent/retweet?tweet_id={{ page.tweet_id}}" title="Retweet">Retweet</a>
     <a class="f6 fw4 no-underline red br2 dib pv2 ph3 ba b--red" href="https://twitter.com/intent/like?tweet_id={{ page.tweet_id}}" title="Like">Like</a>
