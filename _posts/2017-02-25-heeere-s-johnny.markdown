@@ -1,18 +1,19 @@
 ---
-title: "Heeere’s Johnny!"
+title: Heeere’s Johnny!
 created_at: 2017-02-25 06:01:25 UTC
 layout: post
 kind: article
-author: "Lew Rockwell"
+author: Lew Rockwell
 categories: 
 tags: 
 source_post_url: https://www.lewrockwell.com/2017/02/no_author/heeeres-johnny/
 source_twitter_url: http://twitter.com/LewRockwell
 source_twitter: LewRockwell
-source_blog_name: "LewRockwell"
+source_blog_name: LewRockwell
 source_blog_slug: lewrockwell
 source_blog_url: https://www.lewrockwell.com
 source_image_url: 
+date: '2017-02-25T00:00:00.000+00:00'
 ---
 <p>Incredible as it may seem to all of us Johnny Carson fans, it has now been 25 years since Johnny Carson last hosted <em>The Tonight Show</em>. On May 22, 1992, Johnny hosted his 4,531st and final <em>Tonight Show</em>. As over 50 million viewers tuned in, there were no guests that night, and Johnny sat alone on a stool and conducted a retrospective hour and said a heartfelt final goodbye to his fans.</p>
 <p>Since Johnny&#8217;s retirement, as all the other talk show hosts will freely admit, Johnny has been irreplaceable and remains the #1 most beloved talk show host in the history of television. Let&#8217;s take a look at a few little-known facts about Johnny Carson.</p>

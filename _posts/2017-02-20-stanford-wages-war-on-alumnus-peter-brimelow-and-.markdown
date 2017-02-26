@@ -1,18 +1,19 @@
 ---
-title: "Stanford Wages War On Alumnus Peter Brimelow And Free Speech"
+title: Stanford Wages War On Alumnus Peter Brimelow And Free Speech
 created_at: 2017-02-20 17:40:05 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/stanford-wages-war-on-alumnus-peter-brimelow-and-free-speech
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-20T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>It should come as no surprise that Stanford has followed the University at California, Berkeley (UCB), in suppressing free speech, and insulting a distinguished alumnus as well.   Just as VDARE.com&#8217;s conference was cancelled at Tenaya Lodge in Yosemite, (illegally, by the way as Tenaya Lodge is a Federal contractor and on Federal property) so did Stanford University, who once thought they were superior to UCB in academics and sports.  But Stanford has been reduced to the also ran to UCB&#8217;s virulent <a href="http://www.vdare.com/articles/yes-virginia-there-is-a-cultural-marxism">Cultural Marxism</a>.</p>
 <p>Stanford though thinks too much of itself.  It is nothing but the obedient servant of radicals like Jesse Jackson who <a href="http://www.nytimes.com/1988/01/19/us/in-dispute-on-bias-stanford-is-likely-to-alter-western-culture-program.html?pagewanted=all">shut down</a> Western Civilization studies at Stanford in <a href="http://www.nytimes.com/1998/09/06/books/western-civ-fights-back.html">1996</a> and the puerile student body who  recently <a href="http://www.thecollegefix.com/post/26990/">voted</a> not to <a href="http://www.thedailybeast.com/articles/2016/04/07/stanford-students-want-western-civilization-studies-back-as-the-pc-backlash-begins.html">bring back Western Civilization.</a></p>

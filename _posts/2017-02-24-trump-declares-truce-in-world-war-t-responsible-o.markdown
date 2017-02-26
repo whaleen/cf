@@ -1,18 +1,20 @@
 ---
-title: "Trump Declares Truce in World War T; Responsible Opinion Is Aghast That Feds Will Now Allow Federalism"
+title: Trump Declares Truce in World War T; Responsible Opinion Is Aghast That Feds
+  Will Now Allow Federalism
 created_at: 2017-02-24 03:40:10 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/trump-declares-truce-in-world-war-t-responsible-opinion-is-aghast-that-feds-will-now-allow-federalism
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-24T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>The <em>Washington Post</em> complains:</p>
 <blockquote><p><a id="xlink_1_2" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/trump-declares-truce-in-world-war-t-responsible-opinion-aghast/#xlink_1_2" name="xlink_1_2"></a> <a title="https://www.washingtonpost.com/local/education/trumps-withdrawal-of-guidance-on-transgender-student-rights-leaves-bathroom-questions-up-to-schools-and-states/2017/02/23/f91e0c22-f9d2-11e6-9845-576c69081518_story.html" href="https://www.washingtonpost.com/local/education/trumps-withdrawal-of-guidance-on-transgender-student-rights-leaves-bathroom-questions-up-to-schools-and-states/2017/02/23/f91e0c22-f9d2-11e6-9845-576c69081518_story.html">Trump’s withdrawal of transgender bathroom guidance leaves questions up to schools, states</a></p>

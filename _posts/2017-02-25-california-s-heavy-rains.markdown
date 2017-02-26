@@ -1,18 +1,19 @@
 ---
-title: "California’s Heavy Rains"
+title: California’s Heavy Rains
 created_at: 2017-02-25 06:52:25 UTC
 layout: post
 kind: article
-author: "Lew Rockwell"
+author: Lew Rockwell
 categories: 
 tags: 
 source_post_url: https://www.lewrockwell.com/2017/02/no_author/californias-heavy-rains/
 source_twitter_url: http://twitter.com/LewRockwell
 source_twitter: LewRockwell
-source_blog_name: "LewRockwell"
+source_blog_name: LewRockwell
 source_blog_slug: lewrockwell
 source_blog_url: https://www.lewrockwell.com
 source_image_url: 
+date: '2017-02-25T00:00:00.000+00:00'
 ---
 <p class="mol-para-with-font">In recent weeks, California has experienced unusually heavy rainfall.</p>
 <p class="mol-para-with-font">California is also earthquake-prone, hosting the great San Andreas fault zone.</p>
