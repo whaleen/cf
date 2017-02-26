@@ -4,7 +4,7 @@ created_at: 2017-02-26 05:23:13 UTC
 layout: post
 kind: article
 author: "Red Ice News"
-categories: [&quot;commentary&quot;]
+categories: 
 tags: 
 source_post_url: https://redice.tv/news/the-benefits-of-leftist-violence
 source_twitter_url: http://twitter.com/redice

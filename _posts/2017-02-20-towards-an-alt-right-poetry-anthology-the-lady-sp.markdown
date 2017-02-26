@@ -1,19 +1,18 @@
 ---
-title: 'Towards An Alt Right Poetry Anthology: “The Lady Speaks”'
+title: "Towards An Alt Right Poetry Anthology: “The Lady Speaks”"
 created_at: 2017-02-20 18:56:36 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/towards-an-alt-right-poetry-anthologythe-lady-speaks
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-20T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>In an effort to expand the cultural scope of the Alt Right, we should strive to produce some Alt Right poetry — enough of it ultimately, perhaps, to be gathered in an <a href="https://www.amazon.com/Poems-Greek-Anthology-Expanded-Paperbacks/dp/0472086081/ref=mt_paperback?_encoding=UTF8&amp;me=">anthology</a>, to be published by VDARE.com.</p>
 <p>This thought was inspired by a friend&#8217;s recasting of Emma Lazarus&#8217; famous — or, to immigration patriots, <a href="https://www.google.com/search?q=%22The+New+Colossus.%22+site:www.vdare.com"><em>notorious</em> </a>— production &#8220;<a href="https://www.poets.org/poetsorg/poem/new-colossus">The New Colossus</a>.&#8221;</p>

@@ -4,7 +4,7 @@ created_at: 2017-02-05 01:06:15 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/norse-news-episode-1-swedens-titanic-nationalism
 source_twitter_url: http://twitter.com/redice

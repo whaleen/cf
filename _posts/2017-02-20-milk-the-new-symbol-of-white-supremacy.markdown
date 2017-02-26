@@ -4,7 +4,7 @@ created_at: 2017-02-20 06:00:27 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/milk-the-new-symbol-of-white-supremacy
 source_twitter_url: http://twitter.com/redice

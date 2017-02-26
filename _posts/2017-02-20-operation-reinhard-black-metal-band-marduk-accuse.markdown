@@ -4,7 +4,7 @@ created_at: 2017-02-20 05:59:05 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/operation-reinhard-black-metal-band-marduk-accused-of-fascism
 source_twitter_url: http://twitter.com/redice

@@ -1,19 +1,18 @@
 ---
-title: Dam Failure = Undocumented Irrigation
+title: "Dam Failure = Undocumented Irrigation"
 created_at: 2017-02-22 04:57:21 UTC
 layout: post
 kind: article
-author: V Dare
-categories: commentary
+author: "V Dare"
+categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/dam-failure-undocumented-irrigation
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-22T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>From my new column in <em>Taki’s Magazine</em>:</p>
 <blockquote><p><a id="xlink_1_2" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_2" name="xlink_1_2"></a> <a title="http://takimag.com/article/undocumented_irrigation_steve_sailer/print#axzz4ZAy0zws3" href="http://takimag.com/article/undocumented_irrigation_steve_sailer/print#axzz4ZAy0zws3">Undocumented Irrigation, </a><br />

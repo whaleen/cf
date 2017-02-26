@@ -1,19 +1,18 @@
 ---
-title: Secession
+title: "Secession"
 created_at: 2017-02-25 06:01:54 UTC
 layout: post
 kind: article
-author: Lew Rockwell
+author: "Lew Rockwell"
 categories: 
 tags: 
 source_post_url: https://www.lewrockwell.com/2017/02/patrick-j-buchanan/secession-4/
 source_twitter_url: http://twitter.com/LewRockwell
 source_twitter: LewRockwell
-source_blog_name: LewRockwell
+source_blog_name: "LewRockwell"
 source_blog_slug: lewrockwell
 source_blog_url: https://www.lewrockwell.com
 source_image_url: 
-date: '2017-02-25T00:00:00.000+00:00'
 ---
 <p>As the culture war is about irreconcilable beliefs about God and man, right and wrong, good and evil, and is at root a religious war, it will be with us so long as men are free to act on their beliefs.</p>
 <p>Yet, given the divisions among us, deeper and wider than ever, it is an open question as to how, and how long, we will endure as one people.</p>

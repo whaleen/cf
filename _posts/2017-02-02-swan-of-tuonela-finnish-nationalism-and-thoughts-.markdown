@@ -4,7 +4,7 @@ created_at: 2017-02-02 05:16:00 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/swan-of-tuonela-finnish-nationalism-and-thoughts-on-american-alt-right
 source_twitter_url: http://twitter.com/redice

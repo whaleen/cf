@@ -4,7 +4,7 @@ created_at: 2016-12-18 08:58:00 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/trumps-worst-white-house-cabinet-picks
 source_twitter_url: http://twitter.com/redice

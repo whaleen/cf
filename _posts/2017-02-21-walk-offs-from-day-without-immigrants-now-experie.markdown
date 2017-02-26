@@ -1,19 +1,18 @@
 ---
-title: Walk-Offs From “Day Without Immigrants” Now Experiencing “Days Without Jobs”
+title: "Walk-Offs From “Day Without Immigrants” Now Experiencing “Days Without Jobs”"
 created_at: 2017-02-21 02:33:19 UTC
 layout: post
 kind: article
-author: V Dare
-categories: commentary
+author: "V Dare"
+categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/walk-offs-from-day-without-immigrants-now-experiencing-days-without-jobs
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-21T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><a href="http://www.slate.com/blogs/the_slatest/2017/02/19/dozens_fired_after_joining_day_without_immigrants_protests.html">Slate.com bellyaches</a> that more than 100 people were fired on a Day Without Immigrants because the immigrants we can’t do without didn’t understand that one can’t just walk off the job and expect to keep it.</p>
 <blockquote><p>Eighteen of those who were fired worked at Bradley Coatings Inc., which had warned employees they would lose their jobs if they didn’t come to work. &#8220;Regretfully, and consistent with its prior communication to all its employees, BCI had no choice but to terminate these individuals,”<a href="http://www.abc2news.com/news/national/18-people-fired-after-participating-in-a-day-without-immigrants"> the company said in a statement</a>. “The reason these employees missed work — to engage in peaceful demonstrations — had nothing to do with BCI’s decision to terminate them.” Fired workers said they planned to make up the day on Sunday but the company didn’t budge.</p>

@@ -4,7 +4,7 @@ created_at: 2017-02-26 00:35:44 UTC
 layout: post
 kind: article
 author: "V Dare"
-categories: [&quot;commentary&quot;]
+categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/ucis-bureaucrat-lori-scialabba-ran-a-personal-asylum-application-system-for-iraqi-muslims
 source_twitter_url: http://twitter.com/vdar

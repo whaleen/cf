@@ -4,7 +4,7 @@ created_at: 2016-12-31 22:46:12 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/happy-new-year-from-lana
 source_twitter_url: http://twitter.com/redice

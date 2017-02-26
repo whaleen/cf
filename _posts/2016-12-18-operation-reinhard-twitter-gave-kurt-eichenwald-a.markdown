@@ -4,7 +4,7 @@ created_at: 2016-12-18 08:50:59 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/operation-reinhard-twitter-gave-kurt-eichenwald-a-seizure
 source_twitter_url: http://twitter.com/redice

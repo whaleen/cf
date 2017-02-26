@@ -4,7 +4,7 @@ created_at: 2016-12-31 22:40:00 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/kiwi-report-new-zealand-2016-review
 source_twitter_url: http://twitter.com/redice

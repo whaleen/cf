@@ -4,7 +4,7 @@ created_at: 2017-02-20 03:16:56 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/jay-dyer-behind-flynn-s-removal-the-deep-state-war-against-trump-russia-and-sovereign-nations
 source_twitter_url: http://twitter.com/redice

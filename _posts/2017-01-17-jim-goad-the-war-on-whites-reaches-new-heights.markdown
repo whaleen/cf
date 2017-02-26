@@ -4,7 +4,7 @@ created_at: 2017-01-17 06:41:00 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/jim-goad-the-war-on-whites-reaches-new-heights
 source_twitter_url: http://twitter.com/redice

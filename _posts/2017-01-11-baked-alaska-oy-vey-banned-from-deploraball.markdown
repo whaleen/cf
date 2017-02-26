@@ -4,7 +4,7 @@ created_at: 2017-01-11 23:19:55 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/baked-alaska-oy-vey-banned-from-deploraball
 source_twitter_url: http://twitter.com/redice

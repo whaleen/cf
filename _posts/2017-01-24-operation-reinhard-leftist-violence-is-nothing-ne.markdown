@@ -4,7 +4,7 @@ created_at: 2017-01-24 07:15:50 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/operation-reinhard-leftist-violence-is-nothing-new
 source_twitter_url: http://twitter.com/redice

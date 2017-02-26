@@ -1,19 +1,18 @@
 ---
-title: How Do You Spend Your Weekend?
+title: "How Do You Spend Your Weekend?"
 created_at: 2017-02-25 06:01:00 UTC
 layout: post
 kind: article
-author: Lew Rockwell
+author: "Lew Rockwell"
 categories: 
 tags: 
 source_post_url: https://www.lewrockwell.com/2017/02/no_author/spend-weekend/
 source_twitter_url: http://twitter.com/LewRockwell
 source_twitter: LewRockwell
-source_blog_name: LewRockwell
+source_blog_name: "LewRockwell"
 source_blog_slug: lewrockwell
 source_blog_url: https://www.lewrockwell.com
 source_image_url: 
-date: '2017-02-25T00:00:00.000+00:00'
 ---
 <p>As co-founder of Hotwire.com and CEO of Zillow for the last seven years, 39-year-old Spencer Rascoff fits most people’s definition of success. As a father of three young children, Spencer is a busy guy at home and at work.</p>
 <p>What’s the one thing that Spencer refuses to do on the weekend? Work—at least, in the traditional sense.</p>

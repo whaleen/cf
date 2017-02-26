@@ -4,7 +4,7 @@ created_at: 2017-02-26 04:57:58 UTC
 layout: post
 kind: article
 author: "Red Ice News"
-categories: [&quot;commentary&quot;]
+categories: 
 tags: 
 source_post_url: https://redice.tv/news/biologists-warn-that-half-of-all-species-could-be-extinct-by-the-end-of-the-century
 source_twitter_url: http://twitter.com/redice

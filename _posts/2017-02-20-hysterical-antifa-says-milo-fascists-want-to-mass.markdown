@@ -4,7 +4,7 @@ created_at: 2017-02-20 05:57:50 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/hysterical-antifa-says-milo-and-fascists-want-to-mass-murder-gays-women-and-poc
 source_twitter_url: http://twitter.com/redice

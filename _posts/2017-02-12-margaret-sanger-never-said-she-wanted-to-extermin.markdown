@@ -4,7 +4,7 @@ created_at: 2017-02-12 02:58:00 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/margaret-sanger-never-said-she-wanted-to-exterminate-blacks
 source_twitter_url: http://twitter.com/redice

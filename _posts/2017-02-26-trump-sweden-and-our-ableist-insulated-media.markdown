@@ -1,19 +1,18 @@
 ---
-title: Trump, Sweden, And Our Ableist, Insulated Media
+title: "Trump, Sweden, And Our Ableist, Insulated Media"
 created_at: 2017-02-26 03:09:29 UTC
 layout: post
 kind: article
-author: V Dare
-categories: commentary
+author: "V Dare"
+categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/trump-sweden-and-our-ableist-insulated-media
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-26T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><span style="color: #993300;">[<em>Adapted from the latest Radio Derb, now available <a href="http://www.vdare.com/radios">exclusively </a>on VDARE.com.</em>]</span></p>
 <p>The Fake News story of the week also offered insights into just how insulated from reality our <a href="http://www.vdare.com/articles/john-derbyshire-cecil-the-lion-and-the-goodwhite-badwhite-cold-civil-war">Goodwhites </a>are. It started with President Trump telling <a href="https://www.nytimes.com/2017/02/19/world/europe/last-night-in-sweden-trumps-remark-baffles-a-nation.html">a rally in Florida</a> last Saturday that:</p>
@@ -30,7 +29,7 @@ date: '2017-02-26T00:00:00.000+00:00'
 <p>There are at least three lapses of sense in that, which is a lot to get into 48 words. That &#8220;with us,&#8221; for example, in the fourth sentence, should be <em>either</em> &#8220;to us&#8221; or &#8220;with them.&#8221; &#8220;They&#8217;re bringing those problems with us&#8221; makes no sense.</p>
 <p>And then, &#8220;they&#8217;re rapists.&#8221; It always gets printed in the media as t-h-e-y-apostrophe-r-e &#8220;they&#8217;re.&#8221; It could just as easily be t-h-e-i-r &#8220;their,&#8221; keying to &#8220;their best&#8221; in the first sentence.</p>
 <p>That actually makes better sense. If he meant &#8220;they are rapists,&#8221; what was he doing in the next sentence saying that some of them are good people?</p>
-<p>My best guess: Trump&#8217;s brain got the two meanings of [ðɛə] tangled in his mind because of their occurrence close together in his first sentence, &#8220;they&#8217;re not sending their best.&#8221; I&#8217;ve caught myself hitting the same speed bump occasionally—a lot <em>less</em> than occasionally when trying to speak foreign languages.</p>
+<p>My best guess: Trump&#8217;s brain got the two meanings of [ðɛə] tangled in his mind because of their occurrence close together in his first sentence, &#8220;they&#8217;re not sending their best.&#8221; I&#8217;ve caught myself hitting the same speed bump occasionally—a lot <em>more</em> than occasionally when trying to speak foreign languages.</p>
 <p>So the President&#8217;s underlying idea was: &#8220;They are not sending their best, they are sending their rapists.&#8221;</p>
 <p>See, there might be only seven rapists in all of Mexico, but those are the kinds of people we&#8217;re getting: their rapists, t-h-e-i-r. I seriously doubt the President believed that <em>all</em> Mexicans are rapists, or even all illegal immigrant Mexicans. That would be nuts; and you don&#8217;t have a business career as successful as his if you&#8217;re nuts.</p>
 <p>That&#8217;s y-o-u-apostrophe-r-e &#8220;you&#8217;re,&#8221; not y-o-u-r &#8220;your,&#8221; y-o-r-e &#8220;yore,&#8221; or y-a-w &#8220;yaw.&#8221;</p>

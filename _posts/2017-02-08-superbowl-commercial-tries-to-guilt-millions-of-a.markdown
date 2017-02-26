@@ -4,7 +4,7 @@ created_at: 2017-02-08 05:52:00 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/superbowl-commercial-tries-to-guilt-millions-of-americans-into-accepting-illegal-immigration
 source_twitter_url: http://twitter.com/redice

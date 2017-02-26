@@ -1,19 +1,18 @@
 ---
-title: 'DHS Chief Kelly Failing/Betraying Country: Time For The Trump Treatment'
+title: "DHS Chief Kelly Failing/Betraying Country: Time For The Trump Treatment"
 created_at: 2017-02-24 21:19:38 UTC
 layout: post
 kind: article
-author: V Dare
-categories: commentary
+author: "V Dare"
+categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/dhs-chief-kelly-failingbetraying-country-time-for-the-trump-treatment
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-24T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>H/T Pic <a href="http://www.kwwl.com/story/34028480/trump-announces-plan-to-nominate-general-john-kelly-as-dhs-secretary"><em>KWWL.com</em></a></p>
 <p>This week has made it irrefutably clear that Department of Homeland Security Secretary Major General John Kelly is absolutely unsuitable for the job and should immediately be given the Trump Treatment &#8211; aka “YOU”RE FIRED”</p>

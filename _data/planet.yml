@@ -7,57 +7,49 @@ planet:
 blogs:
 - author: Alternative Right
   feed: http://feeds.feedburner.com/blogspot/SBfLZ
-  twitter: ''
-  categories: []
+  twitter:
+  categories:
 - author: Lew Rockwell
   feed: http://www.lewrockwell.com/feed/
   twitter: LewRockwell
-  categories: []
+  categories:
 - author: Radix Journal
   feed: http://www.radixjournal.com/journal/?format=rss
   twitter: RadixJournal
-  categories: []
+  categories:
 - author: Radix Blog
   feed: http://www.radixjournal.com/blog/?format=rss
   twitter: RadixJournal
-  categories: []
+  categories:
 - author: The Radix Podcast
   feed: http://www.radixjournal.com/podcast/?format=rss
   twitter: RadixJournal
   categories:
-  - podcast
 - author: The National Policy Institute
   feed: http://www.radixjournal.com/the-national-policy-institute/?format=rss
   twitter: RadixJournal
   categories:
-  - podcast
 - author: BOWDEN
   feed: http://www.radixjournal.com/bowden/?format=rss
   twitter: NPIAmerica
   categories:
-  - podcast
 - author: Red Ice News
   feed: https://redice.tv/rss/news
   twitter: redice
   categories:
-  - commentary
 - author: Red Ice TV
   feed: https://redice.tv/rss/red-ice-tv
   twitter: redice
-  categories: []
 - author: Altright
   feed: http://www.altright.com/feed/rss2
 - author: Taki Magazine
   feed: http://feeds.feedburner.com/feedburner/takimag
-  image: ''
+  image:
   twitter: takimag
   tags:
-  - commentary
   categories:
-  - commentary
 - author: V Dare
   feed: https://www.vdare.com/feed
   image: ''
   twitter: vdar
   categories:
-  - commentary

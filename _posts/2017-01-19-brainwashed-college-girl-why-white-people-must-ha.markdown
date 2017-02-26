@@ -4,7 +4,7 @@ created_at: 2017-01-19 04:29:50 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/brainwashed-college-girl-why-white-people-must-have-diversity-in-books
 source_twitter_url: http://twitter.com/redice

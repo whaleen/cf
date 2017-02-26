@@ -4,7 +4,7 @@ created_at: 2017-02-26 04:11:51 UTC
 layout: post
 kind: article
 author: "V Dare"
-categories: [&quot;commentary&quot;]
+categories: 
 tags: 
 source_post_url: https://www.vdare.com/letters/a-reader-notes-an-incident-where-the-german-police-are-eager-to-announce-the-citizenship-of-the-attacker
 source_twitter_url: http://twitter.com/vdar

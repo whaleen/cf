@@ -4,7 +4,7 @@ created_at: 2017-02-18 00:08:00 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/how-the-paris-riots-started-and-how-to-end-it
 source_twitter_url: http://twitter.com/redice

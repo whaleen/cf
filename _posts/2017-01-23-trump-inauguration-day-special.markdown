@@ -4,7 +4,7 @@ created_at: 2017-01-23 16:43:28 UTC
 layout: post
 kind: article
 author: "Red Ice TV"
-categories: []
+categories: 
 tags: 
 source_post_url: https://redice.tv/red-ice-tv/trump-inauguration-day-special
 source_twitter_url: http://twitter.com/redice
