@@ -5,7 +5,7 @@ created_at: 2017-02-23 17:16:18 UTC
 layout: post
 kind: article
 author: V Dare
-categories: commentary
+categories: featured
 tags: 
 source_post_url: https://www.vdare.com/posts/how-soon-we-forget-obama-talked-smack-about-america-not-sweden-remember-the-murders
 source_twitter_url: http://twitter.com/vdar
@@ -13,7 +13,7 @@ source_twitter: vdar
 source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
-source_image_url: 
+source_image_url: "/uploads/2017/02/26/iu-3.jpeg"
 date: '2017-02-23T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>From the <em>New York Times</em>:</p>
