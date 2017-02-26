@@ -1,6 +1,6 @@
 # Planet.rb default config file.
 planet:
-    posts_directory: ../_posts/
+    posts_directory: ../_posts_preprocessed/
     templates_directory: ../_layouts/planet/
     whitelisted_tags: []
     sanitize_html: false
