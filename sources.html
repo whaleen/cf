@@ -4,19 +4,14 @@ title: Sources
 permalink: /sources/
 ---
 
-
-<ul>
-    {% for author in site.data.authors %}
+<div class="pa2 pa4-l">
+  <ul>
+  {% for member in site.data.members %}
     <li>
-        {{ author.display_name }}
+      <a href="https://github.com/{{ member.github }}">
+        {{ member.name }}
+      </a>
     </li>
-    {% endfor %}
-</ul>
-
-<ul>
-    {% for blog in site.data.planet %}
-    <li>
-        {{ blogs.author }}
-    </li>
-    {% endfor %}
-</ul>
+  {% endfor %}
+  </ul>
+</div>
