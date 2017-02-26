@@ -1,18 +1,19 @@
 ---
-title: "Jennifer Rubin Doubles Down on Brooks’ “Dying White America” Smear"
+title: Jennifer Rubin Doubles Down on Brooks’ “Dying White America” Smear
 created_at: 2017-02-25 04:13:59 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/jennifer-rubin-doubles-down-on-brooks-dying-white-america-smear
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-25T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>From the <em>Washington Post</em>:</p>
 <blockquote><p><a id="xlink_1_2" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_2" name="xlink_1_2"></a> <a title="https://www.washingtonpost.com/blogs/right-turn/wp/2017/02/24/trump-vs-an-america-that-works/?utm_term=.17a95ef78a0c" href="https://www.washingtonpost.com/blogs/right-turn/wp/2017/02/24/trump-vs-an-america-that-works/?utm_term=.17a95ef78a0c">Trump vs. an America that works</a></p>

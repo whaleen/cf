@@ -1,18 +1,20 @@
 ---
-title: "CIS: If A Border Wall Could Cut Illegal Immigration By Only 10%, It Would Pay For Itself"
+title: 'CIS: If A Border Wall Could Cut Illegal Immigration By Only 10%, It Would
+  Pay For Itself'
 created_at: 2017-02-25 23:35:04 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/cis-if-a-border-wall-could-cut-illegal-immigration-by-only-10-it-would-pay-for-itself
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-25T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>Among those who oppose a border wall/fence/barrier, one argument is that it would be too expensive.</p>
 <p>I would guess that some of these people aren’t normally concerned about the government spending money, but in the defense of the illegal invasion, any argument will do.</p>
