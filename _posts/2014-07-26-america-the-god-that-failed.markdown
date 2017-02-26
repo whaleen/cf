@@ -1,20 +1,21 @@
 ---
-title: "America: The God That Failed"
+title: 'America: The God That Failed'
 created_at: 2014-07-26 04:03:22 UTC
 layout: post
 kind: article
-author: "The National Policy Institute"
+author: The National Policy Institute
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/the-national-policy-institute/2014/7/25/america-the-god-that-failed
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The National Policy Institute -Radix Journal"
+source_blog_name: The National Policy Institute -Radix Journal
 source_blog_slug: the-national-policy-institute-radix-journal
 source_blog_url: http://www.radixjournal.com/the-national-policy-institute/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2014-07-26T00:00:00.000+00:00'
 ---
 <p>Sam Dickson addresses The National Policy Institute's 2013 Leadership Conference.</p>
 

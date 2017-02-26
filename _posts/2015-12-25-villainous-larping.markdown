@@ -1,20 +1,21 @@
 ---
-title: "Villainous LARPing"
+title: Villainous LARPing
 created_at: 2015-12-25 06:35:43 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/12/25/villainous-larp
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2015-12-25T00:00:00.000+00:00'
 ---
 <p>Paul Chandler and Colin Liddell join Richard to discuss the greatest James Bond film, <em>On Her Majesty’s Secret Service</em> (1969), as well as the Jewish and fascist character of Ernst Stavro Blofed and the manipulation of female sexuality.</p><iframe scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239018764&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" frameborder="no" height="166"></iframe><p><em><a href="https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)">OHMSS</a></em> <br>
 <a href="https://en.wikipedia.org/wiki/Live_action_role-playing_game">LARPing</a>

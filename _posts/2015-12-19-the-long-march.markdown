@@ -1,20 +1,21 @@
 ---
-title: "The Long March"
+title: The Long March
 created_at: 2015-12-19 06:16:14 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/12/19/the-long-march
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2015-12-19T00:00:00.000+00:00'
 ---
 <p>Roman Bernard and Guillaume Durocher join Richard to discuss the Front National, Donald Trump, the prospects for electoral politics, Alt Right culture, and getting Gramsci right . . . and wrong.</p><iframe scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/238088374&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" frameborder="no" height="166"></iframe><p>Roman Bernard, “<a href="http://www.radixjournal.com/journal/got-metapolitics">Got Metapolitics</a>”; “<a href="http://www.radixjournal.com/blog/french-regional-elections-first-round">The Front National and the Regional Elections</a> <br>
 Radix Podcasts on France and the FN: “<a href="http://www.radixjournal.com/podcast/2014/4/1/the-fascist-menace?rq=fascist%20menace">The Fascist Menace</a>”; “<a href="http://www.radixjournal.com/podcast/2014/5/27/the-brussels-bogeyman?rq=bogeyman">The Brussels Bogeyman</a>”; “<a href="http://www.radixjournal.com/podcast/2015/4/9/the-glass-ceiling">The Glass Ceiling</a>" <br>

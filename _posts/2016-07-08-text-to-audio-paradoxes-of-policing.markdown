@@ -1,20 +1,21 @@
 ---
-title: "Text to Audio: Paradoxes Of Policing"
+title: 'Text to Audio: Paradoxes Of Policing'
 created_at: 2016-07-08 15:25:31 UTC
 layout: post
 kind: article
-author: "Alt-right Podcast"
+author: Alt-right Podcast
 categories: podcast
 tags: 
 source_post_url: https://soundcloud.com/new-alternative-right/text-to-audio-paradoxes-of-policing
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Alt-Right Podcast"
+source_blog_name: Alt-Right Podcast
 source_blog_slug: alt-right-podcast
 source_blog_url: http://soundcloud.com/new-alternative-right
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2016-07-08T00:00:00.000+00:00'
 ---
 Relevant again in the wake of the recent attacks on police in Dallas. Colin Liddell's 2014 article looks at the growing problem of policing Blacks and other non-Whites in multicultural Western societies. 
 

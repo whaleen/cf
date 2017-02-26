@@ -1,20 +1,21 @@
 ---
-title: "The Fascist Menace"
+title: The Fascist Menace
 created_at: 2014-04-01 22:48:08 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2014/4/1/the-fascist-menace
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2014-04-01T00:00:00.000+00:00'
 ---
 <p>Using the recent municipal elections in France as a jumping off point, Roman Bernard and Richard discuss the recent history of the French “far Right” and, in particular, the Front National. Was the “fascist menace” simply a way for the phony Right and Left to justify their existence? Is the current FN transforming into a working-class party without Traditionalist roots? </p>
 

@@ -1,20 +1,21 @@
 ---
-title: "The Intolerant Politics of Reality"
+title: The Intolerant Politics of Reality
 created_at: 2017-01-21 16:48:25 UTC
 layout: post
 kind: article
-author: "Radix Blog"
+author: Radix Blog
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/blog/2017/1/21/the-intolerant-politics-of-reality
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "BLOG -Radix Journal"
+source_blog_name: BLOG -Radix Journal
 source_blog_slug: blog-radix-journal
 source_blog_url: http://www.radixjournal.com/blog/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2017-01-21T00:00:00.000+00:00'
 ---
 <p>As I am sure you are all aware, on the day of the Presidential Inauguration our very own <a href="http://www.altright.com/2017/01/20/richard-spencer-assaulted-in-washington-dc/">Richard Spencer was assaulted</a> in Washington, DC while giving an interview. Surrounded by self- proclaimed anti-fascists, aka "antifa" who were waving signs that read "White Lives Matter Too Much", a masked man cowardly sucker-punched Richard Spencer and ran off. The story blew up Twitter, meanwhile Washington was left in flames and broken glass from antifa who were protesting President-elect, now President, Donald Trump from being sworn into office.</p>
 <p>You can already hear the likes of Paul Joseph Watson of InfoWars, in his British accent, complaining about "the intolerant Left" and how they are simply avoiding having a debate about ideas. Paul is certainly right about that. But so what? This is a new age in American politics. We no longer live in a nation where friends and family can gather around the dinner table, discuss politics, and simply agree to disagree about some issues (or perhaps even convince one another that the other has a point - shock!). Oh no, those days are no more. The age of Reason is over.</p>

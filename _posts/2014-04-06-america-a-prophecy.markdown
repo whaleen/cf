@@ -1,20 +1,21 @@
 ---
-title: "America, A Prophecy"
+title: America, A Prophecy
 created_at: 2014-04-06 03:20:58 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2014/4/5/america-a-prophecy
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2014-04-06T00:00:00.000+00:00'
 ---
 <p>Greg Johnson and John Morgan join Richard to discuss Ridley Scott’s 1982 masterpiece, <em>Blade Runner</em>, and in particular its disturbing depiction of an overpopulated, inhuman, and multicultural future as well as the questions the film raises about human identity and dignity.      </p>
 

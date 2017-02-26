@@ -1,20 +1,22 @@
 ---
-title: "How Soon We Forget–Obama Talked Smack About AMERICA, Not Sweden. (Remember The Murders?)"
+title: How Soon We Forget–Obama Talked Smack About AMERICA, Not Sweden. (Remember
+  The Murders?)
 created_at: 2017-02-23 17:16:18 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/how-soon-we-forget-obama-talked-smack-about-america-not-sweden-remember-the-murders
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2017-02-23T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>From the <em>New York Times</em>:</p>
 <blockquote><p><a id="xlink_1_2" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_2" name="xlink_1_2"></a> <em><a title="https://www.nytimes.com/2017/02/20/world/europe/trump-pursues-his-attack-on-sweden-with-scant-evidence.html?mabReward=CTM&amp;recp=8&amp;action=click&amp;pgtype=Homepage&amp;region=CColumn&amp;module=Recommendation&amp;src=rechp&amp;WT.nav=RecEngine" href="https://www.nytimes.com/2017/02/20/world/europe/trump-pursues-his-attack-on-sweden-with-scant-evidence.html?mabReward=CTM&amp;recp=8&amp;action=click&amp;pgtype=Homepage&amp;region=CColumn&amp;module=Recommendation&amp;src=rechp&amp;WT.nav=RecEngine">From an Anchor’s Lips to Trump’s Ears to Sweden’s Disbelief</a></em></p>

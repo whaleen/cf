@@ -1,20 +1,21 @@
 ---
-title: "The Homosexual Question"
+title: The Homosexual Question
 created_at: 2014-07-25 00:54:21 UTC
 layout: post
 kind: article
-author: "BOWDEN"
+author: BOWDEN
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/bowden/2014/7/24/the-homosexual-question
 source_twitter_url: http://twitter.com/NPIAmerica
 source_twitter: NPIAmerica
-source_blog_name: "BOWDEN! -Radix Journal"
+source_blog_name: BOWDEN! -Radix Journal
 source_blog_slug: bowden-radix-journal
 source_blog_url: http://www.radixjournal.com/bowden/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2014-07-25T00:00:00.000+00:00'
 ---
 <p><em>Original Broadcast: February 23, 2012</em></p>
 

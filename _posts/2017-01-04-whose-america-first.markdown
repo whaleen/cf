@@ -1,20 +1,21 @@
 ---
-title: "Whose America First?"
+title: Whose America First?
 created_at: 2017-01-04 21:52:23 UTC
 layout: post
 kind: article
-author: "Radix Journal"
+author: Radix Journal
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2017/1/4/whose-america-first
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "JOURNAL -Radix Journal"
+source_blog_name: JOURNAL -Radix Journal
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2017-01-04T00:00:00.000+00:00'
 ---
 <p>One of the most remarkable turn of events in America’s 2016 election has been the revitalization of the phrase “America First!” America First as a slogan has its origins in the pre-World War II <a href="https://en.wikipedia.org/wiki/America_First_Committee">America First Committee</a> which was dedicated to keeping the United States out of that war. It was a slogan that energized many in the hinterlands against what they saw as a useless entanglement over foreign interests many thousands of miles away. Notable supporters of the Committee included future presidents John F. Kennedy and Gerald Ford along with cultural figures like Walt Disney, Frank Lloyd Wright and E.E. Cummings. It even included many leftists independent of communist marching orders like Norman Thomas. And of course, there was its most noted celebrity spokesman, aviator Charles Lindbergh. </p><p>America First as a slogan gained a second life in the candidacy of Pat Buchanan in the early nineties, a figure who sought to shake off the moribund morass of the Cold War and return America to its earlier traditions. However, by this time a new America was emerging, one which was not only at war with the Old America, but was downright hostile to its history, traditions and very people.</p><h2 id="old-america">Old America</h2><p>Many involved with America First had radically different views of what America ultimately was, but what united them was an understanding that America was a nation with its own interests and its own people. The old America that they defended was, in many ways, birthed out of the tragedy of the War Between the States. The all-consuming fire that tore asunder what could be called the American First Republic was put back together after a painful process of radicalism and reconciliation between its formerly warring parts.</p><p>After the shameful and destructive excess of Reconstruction in the Old South was ended, a place was carved in American history for its formerly warring White nations. The valor and honor of the Southern cause was acknowledged, as well as its monuments and particular memory, while at the same time the nation was understood as one, moving ever towards the frontier.</p><p>This was acknowledged from the Founding onwards; for instance, John Jay in <em>Federalist no.2</em> <a href="http://www.let.rug.nl/usa/documents/1786-1800/the-federalist-papers/the-federalist-2.php">states</a>:</p><blockquote>
 <p>”With equal pleasure I have as often taken notice that Providence has been pleased to give this one connected country to one united people--a people descended from the same ancestors, speaking the same language, professing the same religion, attached to the same principles of government, very similar in their manners and customs, and who, by their joint counsels, arms, and efforts, fighting side by side throughout a long and bloody war, have nobly established general liberty and independence.”</p>

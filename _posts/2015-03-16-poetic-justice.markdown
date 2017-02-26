@@ -1,20 +1,21 @@
 ---
-title: "Poetic Justice"
+title: Poetic Justice
 created_at: 2015-03-16 07:23:06 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/3/16/poetic-justice
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2015-03-16T00:00:00.000+00:00'
 ---
 <p>Jared Taylor joins Richard to discuss the aftermath of the Michael Brown shooting, the Department of Justice's report on "structural racism" in Ferguson, racial differences in crime and behavior, and the uses and abuses of the term “disparate impact.” </p>
 

@@ -1,20 +1,21 @@
 ---
-title: "Allies of Color"
+title: Allies of Color
 created_at: 2015-12-08 06:45:47 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/12/8/allies-of-color
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2015-12-08T00:00:00.000+00:00'
 ---
 <p>Nathan Damigo of The Nameless Organization joins Richard to discuss the White Student Union phenomenon. </p><iframe scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236589594&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" frameborder="no" height="166"></iframe><p><a href="http://whitegenocideproject.com/national-youth-front-confronts-white-genocidist-professor-kevin-allred-of-rutgers-university/">National Youth Front (NYF) at Rutgers</a> <br>
 <a href="http://www.usatoday.com/story/news/nation/2015/03/30/prof-receives-hate-mail-over-problem-of-whiteness/70697394/">NYF in <em>USA Today</em></a> <br>

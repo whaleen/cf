@@ -1,20 +1,21 @@
 ---
-title: "Je Ne Suis Pas Charlie"
+title: Je Ne Suis Pas Charlie
 created_at: 2015-01-17 06:35:15 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/1/16/je-ne-suis-pa
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2015-01-17T00:00:00.000+00:00'
 ---
 <p>Roman joins Richard to discuss the “Charlie” massacre, the “surreal normalcy” that follows violent spectacles, Western elite’s “kettle logic,” and the literary achievement of Michel Houellebecq.     </p>
 

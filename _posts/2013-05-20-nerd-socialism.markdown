@@ -1,20 +1,21 @@
 ---
-title: "Nerd Socialism"
+title: Nerd Socialism
 created_at: 2013-05-20 06:48:54 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/podcast/2013/5/20/nerd-socialism
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2013-05-20T00:00:00.000+00:00'
 ---
 <p>Beyond space travel, aliens, and various layers of camp and nerdism lies the true essence of the<em> Star Trek</em> universe—idealized socialism. &nbsp;Andy, Colin, and Richard discuss the franchise that has, perhaps more than Marx, informed the contemporary West's vision of egalitarianism.&nbsp;</p><p>Fight the future!&nbsp;</p>
 

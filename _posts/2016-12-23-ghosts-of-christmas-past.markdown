@@ -1,20 +1,21 @@
 ---
-title: "Ghosts of Christmas Past"
+title: Ghosts of Christmas Past
 created_at: 2016-12-23 06:58:00 UTC
 layout: post
 kind: article
-author: "Radix Journal"
+author: Radix Journal
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2013/12/25/ghosts-of-christmas-past
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "JOURNAL -Radix Journal"
+source_blog_name: JOURNAL -Radix Journal
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2016-12-23T00:00:00.000+00:00'
 ---
 <p>There is a pair of clichés about the Christmas season that carries more significance than we might think: "<em>Christmas is for children</em>" and "<em>Christmas makes me feel like a kid again.</em>"</p>
 

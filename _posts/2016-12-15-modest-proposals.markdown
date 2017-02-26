@@ -1,20 +1,21 @@
 ---
-title: "Modest Proposals "
+title: 'Modest Proposals '
 created_at: 2016-12-15 21:40:39 UTC
 layout: post
 kind: article
-author: "Radix Journal"
+author: Radix Journal
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/12/15/modest-proposals
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "JOURNAL -Radix Journal"
+source_blog_name: JOURNAL -Radix Journal
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2016-12-15T00:00:00.000+00:00'
 ---
 <p>With the election of Donald Trump to the presidency of the United States of America, we must all admit that we underestimated what was within the realm of possibility. If a reality-TV billionaire can take on the entire liberal-internationalist politico-media establishment campaigning on a national-populist platform, <em>and win</em>, then none but God know what else is possible.</p>
 <p>Our people have been in steady demographic decline since the first half of the twentieth century. Our politics and culture has only further degenerated since the catastrophic Second World War. And yet, now, over the past five years or so, we have witnessed stunning cultural and political gains for nationalists across the Western world, especially in America. If the politics continue to improve at this rate, I dare say we will touch salvation well within our lifetimes.</p>

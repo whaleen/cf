@@ -1,20 +1,22 @@
 ---
-title: "Ann Coulter: Trump Has The Authority To Ban Immigrants—Senate GOP Needs To Get OUT OF THE WAY!"
+title: 'Ann Coulter: Trump Has The Authority To Ban Immigrants—Senate GOP Needs To
+  Get OUT OF THE WAY!'
 created_at: 2017-02-22 21:36:30 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/ann-coulter-trump-has-the-authority-to-ban-immigrants-senate-gop-needs-to-get-out-of-the-way
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2017-02-22T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><img class="alignnone size-full" title="" src="https://images-na.ssl-images-amazon.com/images/I/51d1qgc0F7L.jpg" alt="" width="225" align="right" /></p>
 <p>Americans thought <a href="http://www.vdare.com/articles/let-us-now-praise-famous-trumps">electing </a>a trash-talking <a href="http://www.vdare.com/articles/gop-should-thank-heaven-fasting-for-trump-but-instead-plans-to-shoot-itself-in-the-testicles">billionaire reality TV star</a> to the presidency of the #$%^ United States would finally be enough to convey the message that they hate both political parties. If anything, they <a href="http://www.vdare.com/posts/lindsey-graham-boasts-of-being-bribed-to-betray-gop-base-on-immigration">hate Republicans more.</a></p>

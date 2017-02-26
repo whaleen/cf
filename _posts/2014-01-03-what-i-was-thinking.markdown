@@ -1,20 +1,21 @@
 ---
-title: "What I Was Thinking"
+title: What I Was Thinking
 created_at: 2014-01-03 06:24:48 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2014/1/3/what-was-i-thinking
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2014-01-03T00:00:00.000+00:00'
 ---
 <p>Jack Donovan and Roman Bernard join Richard to discuss the launching of RadixJournal.com.  </p>
 

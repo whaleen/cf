@@ -1,20 +1,21 @@
 ---
-title: "A Reader Has A Question About WHITE Copkillers"
+title: A Reader Has A Question About WHITE Copkillers
 created_at: 2017-02-24 00:45:56 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/letters/a-reader-has-a-question-about-white-copkillers
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2017-02-24T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><strong>James Fulford’s blog item <a href="mailto:http://www.vdare.com/posts/black-targets-matter-blm-thinks-target-shooting-is-racist">Black Targets Matter? BLM Thinks Target Shooting Is Racist</a></strong></p>
 <p><strong>From: Sam [<a href="mailto:witan@vdare.com">Email him</a>]</strong></p>

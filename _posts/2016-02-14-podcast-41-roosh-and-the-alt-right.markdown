@@ -1,20 +1,21 @@
 ---
-title: "Podcast 41: Roosh and the Alt-Right"
+title: 'Podcast 41: Roosh and the Alt-Right'
 created_at: 2016-02-14 15:08:28 UTC
 layout: post
 kind: article
-author: "Alt-right Podcast"
+author: Alt-right Podcast
 categories: podcast
 tags: 
 source_post_url: https://soundcloud.com/new-alternative-right/podcast-41-roosh-and-the-alt-right
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Alt-Right Podcast"
+source_blog_name: Alt-Right Podcast
 source_blog_slug: alt-right-podcast
 source_blog_url: http://soundcloud.com/new-alternative-right
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2016-02-14T00:00:00.000+00:00'
 ---
 Andy and Colin welcome special guests, Matt Forney and Matt Parrott, to discuss the recent allegations of "rapey-ness" directed at manosphere blogger Roosh V. Among the issues discussed are Europe's migrant rape crisis, changing sexual relations between men and women caused by technology, the attempt by feminists to widen the definition of "rape" in order to pass more power to the state, and tensions within the Alt-Right.
 

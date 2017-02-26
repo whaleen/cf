@@ -1,20 +1,21 @@
 ---
-title: "The Origins of the White Man"
+title: The Origins of the White Man
 created_at: 2015-10-24 17:49:02 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/10/24/the-origins-of-the-white-man
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2015-10-24T00:00:00.000+00:00'
 ---
 <p>Kevin MacDonald joins Richard to discuss the origins of the White race and the prospects for its future, including the possibility of extinction.</p><iframe scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229895115&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" frameborder="no" height="166"></iframe><p>Nicholas Wade, <em><a href="http://www.amazon.com/exec/obidos/ASIN/0143127160/washisummipub-20">A Troublesome Inheritance</a></em> <br>
 Kevin MacDonald, <em><a href="http://www.amazon.com/exec/obidos/ASIN/0759672229/washisummipub-20">The Culture of Critique</a></em> <br>

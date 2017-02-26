@@ -1,20 +1,21 @@
 ---
-title: "YouTube Audio: Who Is The Redpill Candidate And Who Is The Blue Pill One"
+title: 'YouTube Audio: Who Is The Redpill Candidate And Who Is The Blue Pill One'
 created_at: 2016-10-23 00:44:09 UTC
 layout: post
 kind: article
-author: "Alt-right Podcast"
+author: Alt-right Podcast
 categories: podcast
 tags: 
 source_post_url: https://soundcloud.com/new-alternative-right/youtube-audio-who-is-the-redpill-candidate-and-who-is-the-blue-pill-one
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Alt-Right Podcast"
+source_blog_name: Alt-Right Podcast
 source_blog_slug: alt-right-podcast
 source_blog_url: http://soundcloud.com/new-alternative-right
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2016-10-23T00:00:00.000+00:00'
 ---
 A slightly edited audio version of Alternative Right Chief Editor Colin Liddell's latest vlog. Right now, with all eyes focused on the electoral dogfight between Trump and Hillary, less thought is being given to the likely outcomes of each candidate's victories. But which candidate would most move things in the direction of the Alt-Right? Not as simple as it sounds.
 

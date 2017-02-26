@@ -1,20 +1,21 @@
 ---
-title: "The Cancer of Mankind(Podcast)"
+title: The Cancer of Mankind(Podcast)
 created_at: 2017-01-10 14:44:47 UTC
 layout: post
 kind: article
-author: "Radix Blog"
+author: Radix Blog
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/blog/2017/1/10/the-cancer-of-mankindpodcast
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "BLOG -Radix Journal"
+source_blog_name: BLOG -Radix Journal
 source_blog_slug: blog-radix-journal
 source_blog_url: http://www.radixjournal.com/blog/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2017-01-10T00:00:00.000+00:00'
 ---
 <iframe scrolling="no" data-image-dimensions="0x400" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F301639570&amp;show_artwork=true&amp;callback=YUI.Env.JSONP.yui_3_17_2_1_1484058972787_44897&amp;wmode=opaque" width="100%" data-embed="true" frameborder="no" height="400"></iframe><p>Andrew Joyce, Charles Lyons, and Richard Spencer discuss the Orwellian future of beauty pageants, White Genocide and the "Great Erasure," the coming Trump inauguration, and Barack Obama's legacy.</p>
 <p><strong>NOTES</strong>:</p>

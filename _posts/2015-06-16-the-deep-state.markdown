@@ -1,20 +1,21 @@
 ---
-title: "The Deep State"
+title: The Deep State
 created_at: 2015-06-16 17:53:36 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/6/16/the-deep-state
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2015-06-16T00:00:00.000+00:00'
 ---
 <p>Keith Preston joins Richard to discuss the National Security State, Fourth-Generation Warfare, and whether Americans are too degenerate to maintain an overseas empire. &nbsp;</p><iframe scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/210614402&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" frameborder="no" height="166"></iframe><p><strong>NOTES:</strong> <br>
 <a href="http://time.com/3902801/rand-paul-nsa-phone-patriot-act/">Rand Paul’s Stand</a> <br>

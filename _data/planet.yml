@@ -34,9 +34,9 @@ blogs:
   feed: http://www.altright.com/feed/rss2
 - author: Taki Magazine
   feed: http://feeds.feedburner.com/feedburner/takimag
-  image:
+  image: 
   twitter: takimag
-  tags:
+  tags: 
 - author: V Dare
   feed: https://www.vdare.com/feed
   image: ''

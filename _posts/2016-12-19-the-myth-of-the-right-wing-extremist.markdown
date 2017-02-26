@@ -1,20 +1,21 @@
 ---
-title: "The Myth of the Right Wing Extremist"
+title: The Myth of the Right Wing Extremist
 created_at: 2016-12-19 16:08:12 UTC
 layout: post
 kind: article
-author: "Radix Journal"
+author: Radix Journal
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/12/19/the-myth-of-the-right-wing-extremist
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "JOURNAL -Radix Journal"
+source_blog_name: JOURNAL -Radix Journal
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2016-12-19T00:00:00.000+00:00'
 ---
 <p><strong>Editor's Note:&nbsp;</strong><em>This essay first appeared at the Occidental Observer <a href="http://www.theoccidentalobserver.net/2016/12/the-myth-of-the-right-wing-extremist/">here</a>.</em></p><blockquote>
 <p><em>Neither man nor angel can discern

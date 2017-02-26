@@ -1,20 +1,21 @@
 ---
-title: "NEW YORK TIMES Still Denying Migrant Crime (Including Rapes)  In Sweden"
+title: NEW YORK TIMES Still Denying Migrant Crime (Including Rapes)  In Sweden
 created_at: 2017-02-22 01:01:10 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/new-york-times-still-denying-migrant-crime-including-rapes-in-sweden
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2017-02-22T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>Reporting about the riots in Sweden, supposedly due to President Trump&#8217;s comments about migrant rape, <a href="https://www.nytimes.com/2017/02/21/world/europe/stockholm-sweden-riots-trump.html?hp&amp;action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=b-lede-package-region&amp;region=top-news&amp;WT.nav=top-news"><em>The New York Times</em> claims</a> the following:</p>
 <blockquote><p>Swedish officials have criticized his statements as exaggerations.<a href="http://www.bra.se/download/18.37179ae158196cb172e1b34/1484209811093/Sammanfattning_anmalda_prel_helar_2016.pdf"> Preliminary statistics</a> do not show a major increase in crime from 2015, when the country processed a record 163,000 asylum applications, to 2016. Riots like the one in Rinkeby, officials said, are not unprecedented but are infrequent.</p></blockquote>

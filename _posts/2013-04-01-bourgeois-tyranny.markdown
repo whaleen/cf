@@ -1,20 +1,21 @@
 ---
-title: "Bourgeois Tyranny"
+title: Bourgeois Tyranny
 created_at: 2013-04-01 19:16:50 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/podcast/2013/4/1/bourgeois-tyranny
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2013-04-01T00:00:00.000+00:00'
 ---
 <img class="thumb-image" alt="attachment-5159e0b0e4b0c7150a10d042" data-image="https://static1.squarespace.com/static/51c946cde4b0f05142538988/5298e223e4b008c3d680f470/5298e269e4b008c3d680f75e/1385751296570/gay_gothic.jpg" data-image-dimensions="272x174" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5298e269e4b008c3d680f75e" data-type="image" src="https://static1.squarespace.com/static/51c946cde4b0f05142538988/5298e223e4b008c3d680f470/5298e269e4b008c3d680f75e/1385751296570/gay_gothic.jpg?format=1000w" />
           

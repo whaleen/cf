@@ -1,20 +1,21 @@
 ---
-title: "Beyond NATO"
+title: Beyond NATO
 created_at: 2016-10-28 07:59:25 UTC
 layout: post
 kind: article
-author: "Radix Journal"
+author: Radix Journal
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/10/28/beyond-nato
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "JOURNAL -Radix Journal"
+source_blog_name: JOURNAL -Radix Journal
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2016-10-28T00:00:00.000+00:00'
 ---
 <img class="thumb-image" data-image="https://static1.squarespace.com/static/51c946cde4b0f05142538988/t/5813026815d5db39cc32a9bd/1477640841325/" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5813026815d5db39cc32a9bd" data-type="image" src="https://static1.squarespace.com/static/51c946cde4b0f05142538988/t/5813026815d5db39cc32a9bd/1477640841325/?format=1000w" />
           

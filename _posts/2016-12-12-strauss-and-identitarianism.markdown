@@ -1,20 +1,21 @@
 ---
-title: "Strauss and Identitarianism"
+title: Strauss and Identitarianism
 created_at: 2016-12-12 15:18:21 UTC
 layout: post
 kind: article
-author: "Radix Journal"
+author: Radix Journal
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/12/12/strauss-and-identitarianism
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "JOURNAL -Radix Journal"
+source_blog_name: JOURNAL -Radix Journal
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2016-12-12T00:00:00.000+00:00'
 ---
 <p>Leo Strauss is an important 20th century thinker on the American Right, particularly the neoconservative movement. He had a very strong Jewish identity, and viewed his philosophy as a means of ensuring Jewish survival in the Diaspora. Strauss believed that liberalism was good for Jews because the illiberal alternatives on the left (Communism) and the right (Nazism) became extremely hostile towards Jews. However, Strauss believed that liberalism was not ideal because liberal societies tended to break down group loyalties and group distinctiveness - both which are essential for the survival of Jews.(1) As an identitarian, I too am concerned about the preservation of my White, that is to say European, identity within a liberal society. As we have seen with liberalism, it has led to the deracination of our people through globalism, immigration, and multiculturalism. With the ascendancy of Donald J. Trump, we now find ourselves with a unique opportunity to combat the forces that ultimately aim to destroy us.</p>
 <h2 id="the-rise-of-trump">The Rise of Trump</h2>

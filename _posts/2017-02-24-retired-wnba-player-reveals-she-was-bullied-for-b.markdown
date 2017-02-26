@@ -1,20 +1,21 @@
 ---
-title: "Retired WNBA Player Reveals She Was Bullied for Being Straight"
+title: Retired WNBA Player Reveals She Was Bullied for Being Straight
 created_at: 2017-02-24 17:20:46 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/retired-wnba-player-reveals-she-was-bullied-for-being-straight
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2017-02-24T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>From the <em>San Diego Union-Tribune</em>:</p>
 <blockquote><p><a id="xlink_1_2" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/retired-wnba-player-reveals-she-was-bullied-for-being-straight/#xlink_1_2" name="xlink_1_2"></a> <a title="http://www.sandiegouniontribune.com/sports/sd-sp-wigginsside-20170217-story.html" href="http://www.sandiegouniontribune.com/sports/sd-sp-wigginsside-20170217-story.html">Wiggins: WNBA’s ‘harmful’ culture of bullying, jealousy</a></p>

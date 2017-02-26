@@ -1,20 +1,21 @@
 ---
-title: "Britain Prevails"
+title: Britain Prevails
 created_at: 2014-09-20 23:58:34 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2014/9/20/britain-prevails
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2014-09-20T00:00:00.000+00:00'
 ---
 <p>Adrian Davies joins Richard to discuss the enduring nature of British political institutions—their ability to assimilate and mask radical change—as well as the potential for European identity in the 21st century. </p>
 

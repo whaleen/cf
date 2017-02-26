@@ -1,20 +1,21 @@
 ---
-title: "YouTube Audio: America As A Geopolitical Idiot"
+title: 'YouTube Audio: America As A Geopolitical Idiot'
 created_at: 2016-10-26 13:33:38 UTC
 layout: post
 kind: article
-author: "Alt-right Podcast"
+author: Alt-right Podcast
 categories: podcast
 tags: 
 source_post_url: https://soundcloud.com/new-alternative-right/youtube-audio-america-as-a-geopolitical-idiot
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Alt-Right Podcast"
+source_blog_name: Alt-Right Podcast
 source_blog_slug: alt-right-podcast
 source_blog_url: http://soundcloud.com/new-alternative-right
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2016-10-26T00:00:00.000+00:00'
 ---
 A slightly edited audio version of Alternative Right Chief Editor Colin Liddell's latest vlog.  
 

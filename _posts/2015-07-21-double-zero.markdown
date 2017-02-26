@@ -1,20 +1,21 @@
 ---
-title: "Double Zero"
+title: Double Zero
 created_at: 2015-07-21 19:27:00 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: podcast
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/7/22/double-zero
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2015-07-21T00:00:00.000+00:00'
 ---
 <p>Paul Chandler joins Richard to discuss Ian Fleming's 1953 novel, <em>Casino Royale</em>: wooing <em>Fortuna</em>, the hero’s journey, manliness in an age of decadence, and the Cold War and dehumanization. </p><iframe scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/215767693&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" frameborder="no" height="166"></iframe><p><strong>NOTES:</strong> <br>
 Ian Fleming, <a href="http://www.amazon.com/exec/obidos/ASIN/1612185436/washisummipub-20"><em>Casino Royale</em></a> (1953) <br>

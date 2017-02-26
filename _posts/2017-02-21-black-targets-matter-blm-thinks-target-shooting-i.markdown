@@ -1,20 +1,21 @@
 ---
-title: "Black Targets Matter? BLM Thinks Target Shooting Is Racist"
+title: Black Targets Matter? BLM Thinks Target Shooting Is Racist
 created_at: 2017-02-21 18:33:59 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/black-targets-matter-blm-thinks-target-shooting-is-racist
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2017-02-21T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><img class="size-full wp-image-107715 alignright" title="" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21003237/addtext_com_MDAzMjA3NzkxOTA.jpg" alt="" width="225" align="right" srcset="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21003237/addtext_com_MDAzMjA3NzkxOTA.jpg 770w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21003237/addtext_com_MDAzMjA3NzkxOTA-150x81.jpg 150w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21003237/addtext_com_MDAzMjA3NzkxOTA-300x162.jpg 300w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21003237/addtext_com_MDAzMjA3NzkxOTA-768x414.jpg 768w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21003237/addtext_com_MDAzMjA3NzkxOTA-672x362.jpg 672w" sizes="(max-width: 770px) 100vw, 770px" />PJ Media&#8217;s Liz Sheld, a young woman who knows something about <a href="https://pjmedia.com/trending/2017/01/30/watch-sen-chris-murphy-gun-control-will-make-america-safer-than-trump-travel-ban/">guns </a>and gun rights, reports on the latest &#8220;Black Lives Matter&#8221; idiocy:</p>
 <blockquote><p><em><a href="https://pjmedia.com/trending/2017/02/20/new-campaign-seeks-to-end-use-of-black-targets-at-gun-ranges/">New Campaign Seeks to End Use of Black Targets at Gun Ranges</a>,</em> By Liz Sheld February 20, 2017</p>

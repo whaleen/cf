@@ -1,20 +1,21 @@
 ---
-title: "Podcast 1: Lost Violent Souls"
+title: 'Podcast 1: Lost Violent Souls'
 created_at: 2014-12-25 07:15:04 UTC
 layout: post
 kind: article
-author: "Alt-right Podcast"
+author: Alt-right Podcast
 categories: podcast
 tags: 
 source_post_url: https://soundcloud.com/new-alternative-right/podcast-1-lost-violent-souls
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Alt-Right Podcast"
+source_blog_name: Alt-Right Podcast
 source_blog_slug: alt-right-podcast
 source_blog_url: http://soundcloud.com/new-alternative-right
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2014-12-25T00:00:00.000+00:00'
 ---
 Andy and Colin hook-up with John Morgan of Arktos Publishing and "Charles," an aspiring (and secretive) Swedish folk musician and writer, to talk about the passing of two men who died on the same day, Nelson Mandela and Colin Wilson. While one was lauded by every outlet of the mainstream media, the other was practically ignored. We also plug Andy's new book "Lost Violent Souls," which presents an alternative history of Lee Harvey Oswald. 
 

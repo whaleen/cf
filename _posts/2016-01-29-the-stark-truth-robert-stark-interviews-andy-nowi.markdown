@@ -1,20 +1,22 @@
 ---
-title: "The Stark Truth: Robert Stark interviews Andy Nowicki on Conspiracy, Compliance, Control, &amp; Defiance"
+title: 'The Stark Truth: Robert Stark interviews Andy Nowicki on Conspiracy, Compliance,
+  Control, &amp; Defiance'
 created_at: 2016-01-29 13:13:34 UTC
 layout: post
 kind: article
-author: "Alt-right Podcast"
+author: Alt-right Podcast
 categories: podcast
 tags: 
 source_post_url: https://soundcloud.com/new-alternative-right/the-stark-truth-robert-stark-interviews-andy-nowicky-on-conspiracy-compliance-control-defiance
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Alt-Right Podcast"
+source_blog_name: Alt-Right Podcast
 source_blog_slug: alt-right-podcast
 source_blog_url: http://soundcloud.com/new-alternative-right
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2016-01-29T00:00:00.000+00:00'
 ---
 For the convenience of Soundcloud listeners, here is Robert Stark's recent interview with Andy Nowicki about his new book "Conspiracy, Compliance, Control, and Defiance." 
 

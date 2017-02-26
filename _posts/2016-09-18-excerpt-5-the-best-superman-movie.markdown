@@ -1,20 +1,21 @@
 ---
-title: "Excerpt 5: The Best Superman Movie"
+title: 'Excerpt 5: The Best Superman Movie'
 created_at: 2016-09-18 08:54:01 UTC
 layout: post
 kind: article
-author: "Alt-right Podcast"
+author: Alt-right Podcast
 categories: podcast
 tags: 
 source_post_url: https://soundcloud.com/new-alternative-right/excerpt-5-the-best-superman-movie
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Alt-Right Podcast"
+source_blog_name: Alt-Right Podcast
 source_blog_slug: alt-right-podcast
 source_blog_url: http://soundcloud.com/new-alternative-right
 source_image_url: 
-tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:categories/:year/:month/:day/:title/"
+date: '2016-09-18T00:00:00.000+00:00'
 ---
 Richard Spencer, Andy Nowicki, and Colin Liddell discuss the best of all the Supermen films.  A short extract taken from this 2013 podcast:
 http://www.radixjournal.com/podcast/podcast/2013/6/24/the-superpower?<div class="">
