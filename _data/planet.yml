@@ -14,10 +14,10 @@ blogs:
     categories:
 
   # Lew Rockwell
-  # - author: "Lew Rockwell"
-  #   feed:   "http://www.lewrockwell.com/feed/"
-  #   twitter: "LewRockwell"
-  #   categories:
+  - author: "Lew Rockwell"
+    feed:   "http://www.lewrockwell.com/feed/"
+    twitter: "LewRockwell"
+    categories:
 
   # John Derbyshire
   # - author: "John Derbyshire"

@@ -8,17 +8,19 @@ excerpt: "Books to read."
 	<section class="cf w-100 pa5-ns">
 	{% assign books = site.books | sort: "date" | reverse %}
  	 {% for book in books %}
-    <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
-      <div class="aspect-ratio aspect-ratio--1x1">
-        <img style="background-image:url({{ site.url }}/img/books/{{ book.cover }});"
+    <article class="fl w-25 w-20-m  w-10-ns pa2-ns">
+			<a href="{{ book.url | prepend: site.baseurl }}" title="{{ book.title }}">
+			<div class="aspect-ratio aspect-ratio--5x8">
+        <img style="background-image:url({{ site.url }}{{ book.cover }});"
         class="db bg-center cover aspect-ratio--object" />
       </div>
-      <a href="{{ book.url | prepend: site.baseurl }}" class="ph2 ph0-ns pb3 link db">
+			</a>
+      <!-- <a href="{{ book.url | prepend: site.baseurl }}" class="ph2 ph0-ns pb3 link db">
         <h3 class="f5 f4-ns mb0 black-90">{{ book.title }}</h3>
         <h3 class="f6 f5 fw4 mt2 black-60">{{ book.author }}</h3>
 				<p>Genre: {{ book.category }}</p>
 				<p>Themes: {% assign first = true %}{% for tag in book.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}</p>
-      </a>
+      </a> -->
     </article>
  	 {% endfor %}
   </section>
