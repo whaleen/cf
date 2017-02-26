@@ -3,9 +3,22 @@ layout: default
 title: cf-news
 ---
 {% assign blogPosts = site.posts | where: 'categories', 'featured' %}
-<section class="cf w-100 pa2 pa5-ns">
 {% for item in blogPosts %}
-  <article class="fl w-100 w-50-m w-25-ns pa2-ns">
+<article>
+  <a href="https://geo.itunes.apple.com/us/movie/primer/id536457427?at=1l3vqFJ&ct=1l3vqFJ&mt=6" class="fl w-50 w-25-l link overflow-hidden">
+    <div role="img" aria-label="Primer movie" class="grow aspect-ratio--5x8 " style="background: url({{site.url}}{{item.source_image_url}}) no-repeat center center; background-size: cover;">
+      <h1 class="white pa3">{{ item.title }}</h1>
+    </div>
+  </a>
+</article>
+{%endfor%}
+
+
+
+{% assign blogPosts = site.posts | where: 'categories', 'featured' %}
+<section class="cf w-100">
+{% for item in blogPosts %}
+  <article class="fl w-100 w-50-m w-25-ns">
     <div class="aspect-ratio aspect-ratio--16x9">
       <img style="background-image:url({{site.url}}{{item.source_image_url}});"
       class="db bg-center cover aspect-ratio--object" />
