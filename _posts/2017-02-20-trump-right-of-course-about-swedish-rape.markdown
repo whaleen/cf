@@ -1,18 +1,19 @@
 ---
-title: "Trump Right (Of Course) About Swedish Rape"
+title: Trump Right (Of Course) About Swedish Rape
 created_at: 2017-02-20 07:19:34 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/trump-right-of-course-about-swedish-rape
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-20T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>H/T rodobrana .org</p>
 <p>Trump is right (of course) about Sweden’s rape problem.</p>

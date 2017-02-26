@@ -1,18 +1,19 @@
 ---
-title: "The Spooks And The Hacks: Why Do They Hate Russia?"
+title: 'The Spooks And The Hacks: Why Do They Hate Russia?'
 created_at: 2017-02-19 04:22:57 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/articles/the-spooks-and-the-hacks-why-do-they-hate-russia
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-19T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><span style="color: #993300;">[<em>Adapted from the <a href="http://www.vdare.com/radios/radio-derb-february-17th">latest </a>Radio Derb, now available <a href="http://www.vdare.com/radios">exclusively </a>on VDARE.com.</em>]</span></p>
 <p>Well, if you were wondering who <em>really</em> runs things in Washington, D.C.—where the <em>real</em> power lies—now you know: it&#8217;s with the<a href="http://www.vdare.com/articles/the-deep-state-targets-trump"> intelligence agencies,</a> with a little help from the Main Stream Media. Next question: why do they hate Russia so much?</p>

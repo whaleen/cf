@@ -1,18 +1,20 @@
 ---
-title: "WASHINGTON TIMES: “Nearly 2 million non-citizen Hispanics illegally registered to vote” –As We (And Trump) Have Been Saying"
+title: 'WASHINGTON TIMES: “Nearly 2 million non-citizen Hispanics illegally registered
+  to vote” –As We (And Trump) Have Been Saying'
 created_at: 2017-02-20 00:13:13 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/washington-times-nearly-2-million-non-citizen-hispanics-illegally-registered-to-vote-as-we-and-trump-have-been-saying
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-20T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>&nbsp;</p>
 <p>Rowan Scarborough over at the <em>Washington Times</em> reports that nearly two million Hispanic non-citizens are registered to vote.  So is something going to be done about it?</p>

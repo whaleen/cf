@@ -1,18 +1,19 @@
 ---
-title: "A Reader Is Not Impressed By Anti-Trump Demos–Or Mexican Cheap Labor"
+title: A Reader Is Not Impressed By Anti-Trump Demos–Or Mexican Cheap Labor
 created_at: 2017-02-20 02:48:19 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/letters/a-reader-is-not-impressed-by-anti-trump-demos-or-mexican-cheap-labor
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-20T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><strong>Re: Allan Wall’s article   <a href="http://www.vdare.com/articles/said-in-spanish-mexicans-continue-to-bash-trump-meddle-in-the-u-s-but-theyre-also-preparing-for-deportees">SAID IN SPANISH: Mexicans Continue To Bash Trump, Meddle In The U.S.—But They’re Also Preparing For Deportees</a></strong></p>
 <p><strong>From: An American Reader [<a href="mailto:witan@vdare.com?subject=A Reader Is Not Impressed By Anti-Trump Demos--Or Mexican Cheap Labor">Email him</a>]</strong></p>

@@ -1,18 +1,20 @@
 ---
-title: "Dalton School Parents Fear Any Contact with Trump’s Name Could Ritually Defile Their Heirs’ Caste Status, Rendering Them Deplorables"
+title: Dalton School Parents Fear Any Contact with Trump’s Name Could Ritually Defile
+  Their Heirs’ Caste Status, Rendering Them Deplorables
 created_at: 2017-02-20 00:21:33 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/dalton-school-parents-fear-any-contact-with-trumps-name-could-ritually-defile-their-heirs-caste-status-rendering-them-deplorables
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-20T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>From <em>Town &amp; Country</em>:</p>
 <blockquote><p><a id="xlink_1_2" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_2" name="xlink_1_2"></a> <a title="http://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2015/11/Trump-at-Wollman.jpg" href="http://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2015/11/Trump-at-Wollman.jpg"><img class="alignright" src="http://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2015/11/Trump-at-Wollman.jpg" alt="" width="133" height="118" align="right" /></a><a title="http://www.townandcountrymag.com/society/politics/news/a9621/dalton-cancels-skating-party-at-trump-rink/" href="http://www.townandcountrymag.com/society/politics/news/a9621/dalton-cancels-skating-party-at-trump-rink/">A Manhattan Private School Cancels Skating Party at Trump Rink</a></p>

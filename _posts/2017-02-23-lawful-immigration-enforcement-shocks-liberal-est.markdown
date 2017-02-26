@@ -1,18 +1,19 @@
 ---
-title: "Lawful Immigration Enforcement Shocks Liberal Establishment"
+title: Lawful Immigration Enforcement Shocks Liberal Establishment
 created_at: 2017-02-23 00:14:08 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/lawful-immigration-enforcement-shocks-liberal-establishment
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-23T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>Wednesday’s top headlines were a revealing expression of left angst over the government defending America’s law and borders, with some verging on hysteria:</p>
 <blockquote><p><a href="http://www.latimes.com/politics/la-na-pol-trump-immigration-enforcement-20170221-story.html"><b>White House clears way for far more deportations</b></a> — <em>Los Angeles Times</em></p>

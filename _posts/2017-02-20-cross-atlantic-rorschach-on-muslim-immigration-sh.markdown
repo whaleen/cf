@@ -1,18 +1,19 @@
 ---
-title: "Cross-Atlantic Rorschach on Muslim Immigration Shows Differing Views"
+title: Cross-Atlantic Rorschach on Muslim Immigration Shows Differing Views
 created_at: 2017-02-20 23:33:00 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/cross-atlantic-rorschach-on-muslim-immigration-shows-differing-views
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-20T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>&gt;On Sunday, a gaggle of diversity enthusiasts met up in Manhattan’s Times Square to celebrate a rally dubbed “I Am A Muslim Too” — a vile sentiment to be expressed just blocks from the site of the worst jihad mass murder in America, where <a href="https://en.wikipedia.org/wiki/September_11_attacks#Casualties">2,606 died in the World Trade Center</a> on 9/11.</p>
 <p><span style="color: #993300;"><i>How quickly these lefties forget the 9/11 terror attacks. Perhaps the jihad will provide an updated reminder to New York City some day soon, courtesy of Muslim diversity.</i></span></p>

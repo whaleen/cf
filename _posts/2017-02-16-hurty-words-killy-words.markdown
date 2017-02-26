@@ -1,18 +1,19 @@
 ---
-title: "Hurty Words, Killy Words"
+title: Hurty Words, Killy Words
 created_at: 2017-02-16 04:02:48 UTC
 layout: post
 kind: article
-author: "Taki Magazine"
+author: Taki Magazine
 categories: commentary
 tags: commentary
 source_post_url: http://takimag.com/article/hurty_words_killy_words_david_cole
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag
-source_blog_name: "Taki&#39;s Magazine"
+source_blog_name: Taki&#39;s Magazine
 source_blog_slug: takis-magazine
 source_blog_url: http://takimag.com/article/
 source_image_url: 
+date: '2017-02-16T00:00:00.000+00:00'
 ---
 by David Cole<br />
 	  

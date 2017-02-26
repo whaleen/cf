@@ -1,18 +1,20 @@
 ---
-title: "Angry That Obama’s %$#@!!*&amp; Administrative Amnesty Is Still Chugging Along?  Write And Phone The White House!"
+title: Angry That Obama’s %$#@!!*&amp; Administrative Amnesty Is Still Chugging Along?  Write
+  And Phone The White House!
 created_at: 2017-02-21 23:38:13 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/angry-that-obamas-administrative-amnesty-is-still-chugging-along-write-and-phone-the-white-house
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-21T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>In a <a href="http://www.vdare.com/letters/joe-guzzardi-writes-on-the-daca-kids-i-e-juvenile-delinquents-mostly">current letter here</a>, VDARE.com friend and colleague <a href="http://www.vdare.com/users/joe-guzzardi">Joe Guzzardi</a> expresses his exasperation at President Trump&#8217;s foot-dragging on ending and reversing DACA (i.e. Deferred Action for Childhood Arrivals, the 2012 administrative amnesty for &#8220;young&#8221; illegal aliens).  Joe&#8217;s theme is that the DACA beneficiaries are by no means &#8220;exceptional kids,&#8221; as Trump apparently thinks.</p>
 <p>I&#8217;m exasperated, too, set off by a Trump quote from an article carried in the <em>Pittsburgh Post-Gazette</em>:</p>

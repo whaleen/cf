@@ -1,18 +1,19 @@
 ---
-title: "Automated Trucks Threaten Millions of US Jobs"
+title: Automated Trucks Threaten Millions of US Jobs
 created_at: 2017-02-23 22:40:45 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/automated-trucks-threaten-millions-of-us-jobs
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-23T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><a href="http://www.limitstogrowth.org/?s=self-driving&amp;submit.x=0&amp;submit.y=0&amp;submit=Search">Self-driving vehicles</a> are <a href="https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/">coming on strong</a>, faster than <a href="http://www.limitstogrowth.org/articles/2016/06/09/networked-self-driving-cars-are-moving-forward/">anyone knowledgeable thought</a> a few years ago. Self-driving vehicles are being tested for real world use, and highway laws are being rejiggered to accommodate the new tech future.</p>
 <p><iframe src="http://www.nbcnews.com/widget/video-embed/870931011616" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

@@ -1,18 +1,19 @@
 ---
-title: "Radio Derb: Milo And Me, CPAC Purges Spencer, Alan Colmes, RIP., Etc."
+title: 'Radio Derb: Milo And Me, CPAC Purges Spencer, Alan Colmes, RIP., Etc.'
 created_at: 2017-02-25 05:10:32 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/radios/radio-derb-milo-and-me-cpac-purges-spencer-alan-colmes-rip-etc
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-25T00:00:00.000+00:00'
 ---
 <div class="pf-content"><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
 <audio class="wp-audio-shortcode" id="audio-107961-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24234911/2017-02-24.mp3?_=1" /><a href="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24234911/2017-02-24.mp3">https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24234911/2017-02-24.mp3</a></audio>

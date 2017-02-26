@@ -1,18 +1,19 @@
 ---
-title: "Hangover Notwithstanding"
+title: Hangover Notwithstanding
 created_at: 2017-02-18 04:00:51 UTC
 layout: post
 kind: article
-author: "Taki Magazine"
+author: Taki Magazine
 categories: commentary
 tags: commentary
 source_post_url: http://takimag.com/article/hangover_notwithstanding_taki
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag
-source_blog_name: "Taki&#39;s Magazine"
+source_blog_name: Taki&#39;s Magazine
 source_blog_slug: takis-magazine
 source_blog_url: http://takimag.com/article/
 source_image_url: 
+date: '2017-02-18T00:00:00.000+00:00'
 ---
 by Taki Theodoracopulos<br />
 	  

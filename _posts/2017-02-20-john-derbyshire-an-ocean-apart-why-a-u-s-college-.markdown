@@ -1,18 +1,20 @@
 ---
-title: "John Derbyshire: “An Ocean Apart”—Why A U.S. College Let Chinese Students Veto The Dalai Lama"
+title: 'John Derbyshire: “An Ocean Apart”—Why A U.S. College Let Chinese Students
+  Veto The Dalai Lama'
 created_at: 2017-02-20 03:50:12 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/articles/john-derbyshire-an-ocean-apart-why-a-u-s-college-let-chinese-students-veto-the-dalai-lama
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-20T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><span style="color: #993300;"><strong>See also<a href="http://www.vdare.com/articles/importing-sino-fascism"> Importing Sino-Fascism?, </a>by John Derbyshire, September 13, 2000</strong></span></p>
 <p><span style="color: #993300;">[<em>Adapted from the <a href="http://www.vdare.com/radios/radio-derb-february-17th">latest </a>Radio Derb, now available <a href="http://www.vdare.com/radios">exclusively </a>on VDARE.com.</em>]</span></p>

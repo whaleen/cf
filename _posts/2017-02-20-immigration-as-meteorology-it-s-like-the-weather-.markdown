@@ -1,18 +1,19 @@
 ---
-title: "Immigration As Meteorology: It’s Like The Weather—Nothing You Can Do!"
+title: 'Immigration As Meteorology: It’s Like The Weather—Nothing You Can Do!'
 created_at: 2017-02-20 02:14:43 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/immigration-as-meteorology-its-like-the-weather-nothing-you-can-do
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-20T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>Western elites, or some major subset of them, are in thrall to what can fairly be called the <em>meteorological</em> theory of mass Third World immigration.  It&#8217;s like the weather — nothing you can do!</p>
 <blockquote><p>As many as four million men from Afghanistan could travel to Britain and other European nations along migrant routes if the West abandons the war-ravaged country, the Defence Secretary has warned.</p>

@@ -1,18 +1,19 @@
 ---
-title: "There Can Be No Living Together"
+title: There Can Be No Living Together
 created_at: 2017-02-20 04:00:48 UTC
 layout: post
 kind: article
-author: "Taki Magazine"
+author: Taki Magazine
 categories: commentary
 tags: commentary
 source_post_url: http://takimag.com/article/there_can_be_no_living_together_jim_goad
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag
-source_blog_name: "Taki&#39;s Magazine"
+source_blog_name: Taki&#39;s Magazine
 source_blog_slug: takis-magazine
 source_blog_url: http://takimag.com/article/
 source_image_url: 
+date: '2017-02-20T00:00:00.000+00:00'
 ---
 by Jim Goad<br />
 	  

@@ -1,103 +1,59 @@
-# Planet.rb default config file.
+---
 planet:
-    posts_directory: ../_posts_preprocessed/
-    templates_directory: ../_layouts/planet/
-    whitelisted_tags: []
-    sanitize_html: false
-
+  posts_directory: "../_posts_preprocessed/"
+  templates_directory: "../_layouts/planet/"
+  whitelisted_tags: []
+  sanitize_html: false
 blogs:
-
-  # Alternative Right
-  - author: "Alternative Right"
-    feed:   "http://feeds.feedburner.com/blogspot/SBfLZ"
-    twitter: ""
-    categories:
-
-  # Lew Rockwell
-  - author: "Lew Rockwell"
-    feed:   "http://www.lewrockwell.com/feed/"
-    twitter: "LewRockwell"
-    categories:
-
-  # John Derbyshire
-  # - author: "John Derbyshire"
-  #   feed:   "http://www.johnderbyshire.com/feed.xml"
-  #   twitter: "DissidentRight"
-  #   categories:
-
-  # Radix & NPI
-  - author: "Radix Journal"
-    feed:   "http://www.radixjournal.com/journal/?format=rss"
-    twitter: "RadixJournal"
-    categories:
-
-  - author: "Radix Blog"
-    feed:   "http://www.radixjournal.com/blog/?format=rss"
-    twitter: "RadixJournal"
-    categories:
-
-  - author: "The Radix Podcast"
-    feed:   "http://www.radixjournal.com/podcast/?format=rss"
-    twitter: "RadixJournal"
-    categories: podcast
-
-  - author: "The National Policy Institute"
-    feed:   "http://www.radixjournal.com/the-national-policy-institute/?format=rss"
-    twitter: "RadixJournal"
-    categories: podcast
-
-  - author: "BOWDEN"
-    feed:   "http://www.radixjournal.com/bowden/?format=rss"
-    twitter: "NPIAmerica"
-    categories: podcast
-
-  # Red Ice
-  - author: "Red Ice TV"
-    feed:   "https://redice.tv/rss/news"
-    twitter: "redice"
-    categories: commentary
-
-  # Altright.com
-  - author: "Altright"
-    feed:   "http://www.altright.com/feed/rss2"
-
-  # Taki Magazine
-  - author: "Taki Magazine"
-    feed:   "http://feeds.feedburner.com/feedburner/takimag"
-    image:  ""
-    twitter: "takimag"
-    tags: commentary
-    categories: commentary
-
-  # V Dare
-  - author: "V Dare"
-    feed:   "https://www.vdare.com/feed"
-    image:  ""
-    twitter: "vdar"
-    categories: commentary
-
-  # Virtue of the West
-  # - author: "Virtue of the West"
-  #   feed:   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2o4u0Kxi99yiiOOW1XjQaw"
-  #   image:  ""
-  #   twitter: ""
-  #   categories: "podcast"
-
-  # ALT-RIGHT PODCAST
-  # - author: "Alt-Right Podcast"
-  #   feed:   "http://feeds.soundcloud.com/users/soundcloud:users:78285956/sounds.rss"
-  #   categories: "podcast"
-
-  # # Amazon Donald Trump
-  # - author: "alt-right on Goodreads"
-  #   feed:   "https://www.goodreads.com/review/list_rss/52725470?shelf=alt-right"
-  #   image:  ""
-  #   twitter: ""
-  #   categories: "books"
-
-  # # toppaidebooks
-  # - author: "topapplebooks"
-  #   feed:   "https://itunes.apple.com/us/rss/toppaidebooks/limit=100/genre=9034/xml"
-  #   image:  ""
-  #   twitter: ""
-  #   categories: ""
+- author: Alternative Right
+  feed: http://feeds.feedburner.com/blogspot/SBfLZ
+  twitter: ''
+  categories: []
+- author: Lew Rockwell
+  feed: http://www.lewrockwell.com/feed/
+  twitter: LewRockwell
+  categories: []
+- author: Radix Journal
+  feed: http://www.radixjournal.com/journal/?format=rss
+  twitter: RadixJournal
+  categories: []
+- author: Radix Blog
+  feed: http://www.radixjournal.com/blog/?format=rss
+  twitter: RadixJournal
+  categories: []
+- author: The Radix Podcast
+  feed: http://www.radixjournal.com/podcast/?format=rss
+  twitter: RadixJournal
+  categories:
+  - podcast
+- author: The National Policy Institute
+  feed: http://www.radixjournal.com/the-national-policy-institute/?format=rss
+  twitter: RadixJournal
+  categories:
+  - podcast
+- author: BOWDEN
+  feed: http://www.radixjournal.com/bowden/?format=rss
+  twitter: NPIAmerica
+  categories:
+  - podcast
+- author: Red Ice TV
+  feed: https://redice.tv/rss/news
+  twitter: redice
+  categories:
+  - commentary
+- author: Altright
+  feed: http://www.altright.com/feed/rss2
+- author: Taki Magazine
+  feed: http://feeds.feedburner.com/feedburner/takimag
+  image: ''
+  twitter: takimag
+  tags:
+  - commentary
+  categories:
+  - commentary
+- author: V Dare
+  feed: https://www.vdare.com/feed
+  image: ''
+  twitter: vdar
+  categories:
+  - commentary

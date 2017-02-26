@@ -1,18 +1,19 @@
 ---
-title: "Saboteurs Even In The Border Patrol–Are They Hispanic?"
+title: Saboteurs Even In The Border Patrol–Are They Hispanic?
 created_at: 2017-02-20 00:40:01 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/saboteurs-even-in-the-border-patrol-are-they-hispanic
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-20T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>Reports are out that not everyone in DHS is on board with the new policies enunciated by President Trump.  I predicted resistance, but not from certain parts of the immigration bureaucracy.  It is no surprise to me that there is resistance to the new regime in the U. S. Border Patrol (USBP).  Every organization has its malcontents, and the USBP, despite its authentic and powerful<em> esprit de corps,</em> is no exception. However, I am certain The Resistance, as the Democrats are styling themselves, is small and ineffectual, at least in the USBP.  In any event, they can be smoked out quite easily.</p>
 <blockquote><p>Some border patrol stations have been slow to carry out President Donald Trump’s <a href="http://www.lifezette.com/polizette/trump-begins-immigration-enforcement-overhaul/">immigration enforcement executive order</a> and instead have continued former President Barack Obama’s <a href="http://www.lifezette.com/polizette/catch-and-release/">“catch-and-release” policies</a>, according to a union official.<img class="size-full wp-image-107576 alignright" title="" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/19193924/walking.jpg" alt="" width="225" align="right" srcset="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/19193924/walking.jpg 336w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/19193924/walking-150x118.jpg 150w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/19193924/walking-300x236.jpg 300w" sizes="(max-width: 336px) 100vw, 336px" /></p>

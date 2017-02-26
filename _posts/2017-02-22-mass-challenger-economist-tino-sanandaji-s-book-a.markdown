@@ -1,18 +1,19 @@
 ---
-title: "MASS CHALLENGER: Economist Tino Sanandaji’s Book About Immigration in Sweden"
+title: 'MASS CHALLENGER: Economist Tino Sanandaji’s Book About Immigration in Sweden'
 created_at: 2017-02-22 01:43:02 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: commentary
 tags: 
 source_post_url: https://www.vdare.com/posts/mass-challenger-economist-tino-sanandajis-book-about-immigration-in-sweden
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
+date: '2017-02-22T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p><img class="size-full wp-image-107767 alignright" title="" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21204133/tino.jpg" alt="" width="255" align="right" srcset="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21204133/tino.jpg 649w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21204133/tino-150x86.jpg 150w, https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/21204133/tino-300x172.jpg 300w" sizes="(max-width: 649px) 100vw, 649px" />Here’s the Google Translate of the page for the Swedish bestseller “Mass Challenge” about immigration by economist Tino Sanandaji:</p>
 <blockquote><p><a href="http://www.adlibris.com/se/bok/massutmaning-9789198378702"><em>Mass Challenge</em> </a></p>
