@@ -1,19 +1,18 @@
 ---
-title: 'Pat Buchanan: Is Secession a Solution to Cultural War?'
+title: "Pat Buchanan: Is Secession a Solution to Cultural War?"
 created_at: 2017-02-24 01:53:38 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/is-secession-a-solution-to-cultural-war
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-24T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>As the<a href="http://www.vdare.com/articles/the-fulford-file-by-james-fulford-60"> culture war</a> is about irreconcilable beliefs about God and man, right and wrong, good and evil, and is <a href="http://www.vdare.com/articles/the-war-over-americas-past">at root a religious war, </a>it will be with us so long as men are free to act on their beliefs.</p>
 <p>Yet, given the divisions among us, deeper and wider than ever, it is an open question as to how, and how long, we will endure as one people.</p>

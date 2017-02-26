@@ -1,19 +1,18 @@
 ---
-title: War Party, Media Trying To Stop Trump-Putin Detente
+title: "War Party, Media Trying To Stop Trump-Putin Detente"
 created_at: 2017-02-21 00:03:43 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/war-party-media-trying-to-stop-trump-putin-detente
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-21T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>Among the reasons Donald Trump is president is that he<a href="http://www.vdare.com/articles/pat-buchanan-trump-read-the-nation-right-thats-why-hes-taking-the-oath"> read the nation and the world better than his rivals.</a></p>
 <p>He saw the surging power of American nationalism at home, and of <a href="http://www.vdare.com/articles/the-utter-normality-of-ethnonationalism-except-for-whites">ethnonationalism </a>in <a href="http://www.vdare.com/articles/the-return-of-ethnic-nationalism-is-europe-cracking-up">Europe</a>. And he <a href="http://www.vdare.com/articles/a-triumph-for-nationalism-british-reflections-on-the-eu-referendum">embraced Brexit.</a></p>

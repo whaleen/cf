@@ -1,19 +1,18 @@
 ---
-title: The Empire’s Nightmare
+title: "The Empire’s Nightmare"
 created_at: 2017-02-25 06:01:32 UTC
 layout: post
 kind: article
-author: Lew Rockwell
+author: "Lew Rockwell"
 categories: 
 tags: 
 source_post_url: https://www.lewrockwell.com/2017/02/fred-reed/empires-nightmare/
 source_twitter_url: http://twitter.com/LewRockwell
 source_twitter: LewRockwell
-source_blog_name: LewRockwell
+source_blog_name: "LewRockwell"
 source_blog_slug: lewrockwell
 source_blog_url: https://www.lewrockwell.com
 source_image_url: 
-date: '2017-02-25T00:00:00.000+00:00'
 ---
 <p>Methinks the insane hysteria over Russia needs to stop. It probably will not. For reasons of domestic and imperial politics, the American public is again being manipulated into a war frenzy by Washington and New York. It is stupid, without justification, and dangerous.</p>
 <p>The silliness over Russia is, obviously, part of the Establishment’s drive to get rid of Trump. Yes, the man is erratic, contradictory, shoots before he aims, backs off much of what he has promised, and may be unqualified as President–but that is not why Washington and New York want to get rid of him. It is about money and power, as is everything in the United States. Wall Street, the Pentagon, the Neocons, and the Empire run America. Trump has threatened their rice bowls.</p>

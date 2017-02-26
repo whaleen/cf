@@ -1,19 +1,18 @@
 ---
-title: 'BULLETIN: Trump Is Right (Of Course) About Rape In Sweden; etc.(75 ITEMS)'
+title: "BULLETIN: Trump Is Right (Of Course) About Rape In Sweden; etc.(75 ITEMS)"
 created_at: 2017-02-20 21:48:15 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/e-bulletins/bulletin-trump-is-right-of-course-about-rape-in-sweden-etc-75-items
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-20T00:00:00.000+00:00'
 ---
 <div class="pf-content"><table class="TemplateWidth" style="width:600px" border="0" width="600" cellspacing="0" cellpadding="0">
 <tr>

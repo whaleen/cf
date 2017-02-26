@@ -1,19 +1,18 @@
 ---
-title: Is the Traffic Death Spike, Like the Homicide Increase, a Ferguson Effect?
+title: "Is the Traffic Death Spike, Like the Homicide Increase, a Ferguson Effect?"
 created_at: 2017-02-22 17:45:24 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/is-the-traffic-death-spike-like-the-homicide-increase-a-ferguson-effect
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-date: '2017-02-22T00:00:00.000+00:00'
 ---
 <div class="pf-content"><p>From the <em>New York Times</em>:</p>
 <blockquote><p><a id="xlink_1_2" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/is-the-traffic-death-spike-like-the-homicide-increase-also-a-ferguson-effect/#xlink_1_2" name="xlink_1_2"></a> <a title="https://www.nytimes.com/2017/02/15/business/highway-traffic-safety.html?hpw&amp;rref=automobiles&amp;action=click&amp;pgtype=Homepage&amp;module=well-region&amp;region=bottom-well&amp;WT.nav=bottom-well" href="https://www.nytimes.com/2017/02/15/business/highway-traffic-safety.html?hpw&amp;rref=automobiles&amp;action=click&amp;pgtype=Homepage&amp;module=well-region&amp;region=bottom-well&amp;WT.nav=bottom-well">U.S. Traffic Deaths Rise for a Second Straight Year</a><br />

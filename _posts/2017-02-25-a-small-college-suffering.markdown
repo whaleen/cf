@@ -1,19 +1,18 @@
 ---
-title: A Small College Suffering
+title: "A Small College Suffering"
 created_at: 2017-02-25 06:01:11 UTC
 layout: post
 kind: article
-author: Lew Rockwell
+author: "Lew Rockwell"
 categories: 
 tags: 
 source_post_url: https://www.lewrockwell.com/2017/02/paul-gottfried/small-college-suffering-self-inflicted-wounds/
 source_twitter_url: http://twitter.com/LewRockwell
 source_twitter: LewRockwell
-source_blog_name: LewRockwell
+source_blog_name: "LewRockwell"
 source_blog_slug: lewrockwell
 source_blog_url: https://www.lewrockwell.com
 source_image_url: 
-date: '2017-02-25T00:00:00.000+00:00'
 ---
 <p>Recently, one of my neighbors saw students from Elizabethtown College, where I taught for many years, walking down the street wearing what looked like the puzzle pieces featured as symbols by Autistic Awareness.</p>
 <p>When he asked why they were wearing the all-white puzzle pieces, one of the coeds proudly explained that they were dramatizing the outrage of “white privilege.” About 50 students and alums had pledged to wear these puzzle pins for the next month until everyone became sensitive to how we were oppressing blacks.</p>

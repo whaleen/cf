@@ -1,19 +1,18 @@
 ---
-title: Have We Lost Our Temperance?
+title: "Have We Lost Our Temperance?"
 created_at: 2017-02-25 04:01:00 UTC
 layout: post
 kind: article
-author: Taki Magazine
+author: "Taki Magazine"
 categories: 
 tags: 
 source_post_url: http://takimag.com/article/have_we_lost_our_temperance_theodore_dalrymple
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag
-source_blog_name: Taki&#39;s Magazine
+source_blog_name: "Taki&#39;s Magazine"
 source_blog_slug: takis-magazine
 source_blog_url: http://takimag.com/article/
 source_image_url: 
-date: '2017-02-25T00:00:00.000+00:00'
 ---
 by Theodore Dalrymple<br />
 	  
