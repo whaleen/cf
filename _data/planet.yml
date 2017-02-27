@@ -1,10 +1,12 @@
 ---
 planet:
-  posts_directory: "../_posts_preprocessed/"
+  posts_directory: "../_posts_planet_import/"
   templates_directory: "../_layouts/planet/"
   whitelisted_tags: []
-  sanitize_html: false
+  sanitize_html: true
 blogs:
+- author: Counter Currents
+  feed: http://www.counter-currents.com/feed/
 - author: Alt-right Podcast
   feed: http://feeds.feedburner.com/Alt-rightPodcast
 - author: Alternative Right

@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="cf bt b--light-gray">
-  <div class="w-100 w-95-ns w-50-s w-60-l bl b--light-gray">
+  <div class="w-100 w-95-ns w-50-s w-60-l">
     <div class="pa2 pa4-ns">
       <!-- <form id="bookmarksForm" class="fl mr2">
           <input hidden type="text" class="form-control" id="websiteName" value="{{ page.title }}">
@@ -18,11 +18,11 @@ layout: default
       <div id="" class="times dark-gray f4 fw1 bl pl3 b--light-gray">
       {{ page.content | truncatewords:150 }}
       </div>
-      <a class="" href="{{ page.source_post_url }}" target="_blank" >Read More</a>
+      <a class="black link" href="{{ page.source_post_url }}" target="_blank" >Read More {% octicon link-external %}</a>
     </div>
   </div>
 
-  <div class="ph2 ph5-ns pb4">
+  <div class="pb4">
     <!-- If post has a tweet associated show Twitter ID -->
     {% if page.tweet_id %}
     <div class="pa3 ba br2 b--light-gray">
@@ -37,7 +37,7 @@ layout: default
   </div>
 </article>
 
-<section class="cf w-100 pa5-ns">
+<section class="cf w-100 pa5-ns bt b--light-gray">
 {% assign books = site.books | sort: "date" | reverse | limit:1 %}
  {% for book in books %}
   <article class="fl w-50 w-10-ns w-10-s w-25-m w-10-l pa2-ns">

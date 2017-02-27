@@ -1,5 +1,6 @@
 ---
 title: "{{ post_title }}"
+date: {{ post_date }}
 created_at: {{ post_date }}
 layout: post
 kind: article
@@ -14,5 +15,7 @@ source_blog_slug: {{ blog_slug }}
 source_blog_url: {{ blog_url }}
 source_image_url: {{ image_url }}
 tweet_id:
-permalink: /mntr/:categories/:year/:month/:day/:title/
+permalink: /mntr/:year/:month/:day/:title/
+feature-img: {{ image_url }}
+excerpt:
 ---

@@ -16,7 +16,7 @@ Follow installation instruction from the planet.rb documentation. Note the follo
 
 2. The configuration, in planet.yml sets the posts directory as one other that _posts.
 
-`posts_directory: "../_posts_preprocessed/"`
+`posts_directory: "../_posts_planet_import/"`
 
 The planet.yml has been placed in the _data directory in order to take advantage the way Jekyll offers access to data files. See Jekyll's documentation on the subject.
 

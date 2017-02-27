@@ -6,9 +6,11 @@ permalink: "/sources/"
 
 <div class="">
 
+<p>Sources we syndicate:</p>
+
   {% for member in site.data.members %}
-    <article>
-      <a href="{{ site.url }}/authors/{{ member.author | replace: ' ', '-' | downcase }}">
+    <article class="pv2">
+      <a class="link" href="{{ site.url }}/authors/{{ member.author | replace: ' ', '-' | downcase }}">
         {{ member.author }}
       </a>
     </article>
