@@ -13,7 +13,7 @@ source_twitter:
 source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
-source_image_url: "/uploads/2017/02/27/YellowDress.jpg"
+source_image_url: ''
 tweet_id: 
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: "/uploads/2017/02/27/YellowDress-1.jpg"
