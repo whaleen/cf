@@ -1,5 +1,5 @@
 ---
-title: SHINE A LIGHT—HOW TRUMP IS DRAINING THE SWAMP BY JUST BEING HIMSELF
+title: Shine a Light - How Trump is Draining the Swamp by Just Being Himself
 date: 2017-02-27 14:33:00 UTC
 created_at: 2017-02-27 14:33:00 UTC
 layout: post
