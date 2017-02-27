@@ -6,18 +6,18 @@ layout: post
 kind: article
 author: Counter Currents
 categories: featured
-tags:
+tags: 
 source_post_url: http://www.counter-currents.com/2017/02/every-4-8-seconds-a-white-woman-or-girl-is-raped-by-muslims-in-europe/
 source_twitter_url: http://twitter.com/
-source_twitter:
+source_twitter: 
 source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: ''
-tweet_id:
+tweet_id: 
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: "/uploads/2017/02/27/YellowDress-1.jpg"
-excerpt:
+excerpt: 
 ---
 
 <p>Memes have power. Statistics have power. Which of us have not heard the statistic, bandied around universities, that 1 in 3 female college students will be sexually assaulted? Whether or not that statistic is accurate, it is a demonstration of the great ability of “sticky” facts and figures to permeate and influence the public discourse.</p>
