@@ -3,10 +3,7 @@ layout: book-reviews-template
 title: Barbarians - How Baby Boomers, Immigrants, and Islam Screwed My Generation
 author: Lauren Southern
 category: 
-tags:
-- Time management
-- Work
-- Focus
+tags: 
 stars: 4
 book-link: http://amzn.to/2lQmYga
 cover: "/uploads/2017/02/26/51S7mhXekyL.jpg"
