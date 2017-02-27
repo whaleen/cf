@@ -16,7 +16,7 @@ source_blog_url: http://www.counter-currents.com
 source_image_url: "/uploads/2017/02/27/YellowDress.jpg"
 tweet_id: 
 permalink: "/mntr/:year/:month/:day/:title/"
-feature-img: YellowDress.jpg
+feature-img: "/uploads/2017/02/27/YellowDress-1.jpg"
 excerpt: 
 ---
 <p>Memes have power. Statistics have power. Which of us have not heard the statistic, bandied around universities, that 1 in 3 female college students will be sexually assaulted? Whether or not that statistic is accurate, it is a demonstration of the great ability of “sticky” facts and figures to permeate and influence the public discourse.</p>
