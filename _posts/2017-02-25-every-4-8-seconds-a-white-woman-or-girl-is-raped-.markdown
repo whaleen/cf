@@ -6,20 +6,22 @@ layout: post
 kind: article
 author: Counter Currents
 categories: featured
-tags: 
+tags:
 source_post_url: http://www.counter-currents.com/2017/02/every-4-8-seconds-a-white-woman-or-girl-is-raped-by-muslims-in-europe/
 source_twitter_url: http://twitter.com/
-source_twitter: 
+source_twitter:
 source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: ''
-tweet_id: 
+tweet_id:
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: "/uploads/2017/02/27/YellowDress-1.jpg"
-excerpt: 
+excerpt:
 ---
+
 <p>Memes have power. Statistics have power. Which of us have not heard the statistic, bandied around universities, that 1 in 3 female college students will be sexually assaulted? Whether or not that statistic is accurate, it is a demonstration of the great ability of “sticky” facts and figures to permeate and influence the public discourse.</p>
+
 <p><span id="more-58985"></span>In this day and age of instant communication, such “stickiness” is a tool of unbelievable power for movements able to harness it. As a case in point closer to home, we recently saw a similar example of “stickiness” in the rise of the term “<a href="http://www.counter-currents.com/2015/07/the-conscience-of-a-cuckservative/" target="_blank">Cuckservative</a>.” The cultivation of such memes allows for a spotlight to be shone on issues and questions of significance within a movement or struggle.</p>
 
 <p>This is important, for the stakes could not be higher in our own struggle. We seek not just to prevent the collapse of Western Civilization, and the death of our heritage and culture, but to protect the very lives of our most vulnerable members. We are in an existential war with opponents who think nothing of raping our children, attacking our elderly, and blowing up our innocents (as we just saw in Paris). Compounding this, we are beset by groups of individuals within our ranks who are doing everything they can to speed up this process of destruction and enslavement.</p>
