@@ -20,7 +20,6 @@ layout: default
 {%endfor%}
 </section>
 
-
 {% assign blogPosts = site.posts | where: 'categories', 'highlighted' %}
 <!-- 'featured' category posts -->
 <section class="fl w-100 bb b--light-gray">
@@ -47,33 +46,9 @@ layout: default
       class="db bg-center cover aspect-ratio--object" />
     </div>
     </a>
-    <!-- <a href="{{ book.url | prepend: site.baseurl }}" class="ph2 ph0-ns pb3 link db">
-      <h3 class="f5 f4-ns mb0 black-90">{{ book.title }}</h3>
-      <h3 class="f6 f5 fw4 mt2 black-60">{{ book.author }}</h3>
-      <p>Genre: {{ book.category }}</p>
-      <p>Themes: {% assign first = true %}{% for tag in book.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}</p>
-    </a> -->
   </article>
  {% endfor %}
 </section>
-
-<!-- <div class="button-group filter-button-group pa2 pa4-ns">
-	{% for category in site.categories %}
-		<a class="button f6 fw4 no-underline gray br2 dib pv2 ph3 ba b--gray" data-filter=".{{ category | first }}">{{ category | first }}</a>
-	{% endfor %}
-		<a class="button f6 fw4 no-underline gray br2 dib pv2 ph3 ba b--gray" data-filter="*">All</a>
-</div> -->
-
-<!-- <div class="grid pa2 pa4-ns">
-	{% for post in site.posts %}
-     <div class="element-item {{ post.categories }} w-100">
-       <article class="lh-copy bb b--light-gray pv3">
-          <h2 class="f4  measure fw3"><a class="link" href="{{ post.url }}">{{ post.title }}</a></h2>
-         <span class="light-gray fw1 f7"><a class="black" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
-       </article>
-     </div>
-    {% endfor %}
-</div> -->
 
 <!-- All posts -->
 <div class=" pa2 pa4-ns">
