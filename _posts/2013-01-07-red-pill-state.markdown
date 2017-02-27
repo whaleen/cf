@@ -4,20 +4,20 @@ date: 2013-01-07 03:51:00 UTC
 created_at: 2013-01-07 03:51:00 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/podcast/2013/1/28/t31y2c5enfj7cu7d2r2tfocqisu1lv
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <img class="thumb-image" alt="attachment-51074b00e4b06bf1bbc7fd42" src="https://static1.squarespace.com/static/51c946cde4b0f05142538988/5298e223e4b008c3d680f470/5298e281e4b008c3d680f86e/1385751285947/WhatifCats.jpg?format=1000w">
           

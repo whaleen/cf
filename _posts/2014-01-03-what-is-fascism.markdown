@@ -1,23 +1,23 @@
 ---
-title: "What Is Fascism?"
+title: What Is Fascism?
 date: 2014-01-03 06:57:35 UTC
 created_at: 2014-01-03 06:57:35 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2014/1/3/what-is-fascism
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>"Fascism" is everywhere and nowhere. It's "everywhere" in the sense that this social and political movement from the first half of the 20th century is still used as a label for, among other things, liberal regulators, opponents of gay marriage, and pure evil.  Fascism is "nowhere" in the sense that no one seems able to offer a definition of what exactly it is.  </p>
 

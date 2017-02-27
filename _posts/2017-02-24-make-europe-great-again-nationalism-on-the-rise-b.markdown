@@ -1,23 +1,23 @@
 ---
-title: "Make Europe Great Again: Nationalism On The Rise—But Fast Enough?"
+title: 'Make Europe Great Again: Nationalism On The Rise—But Fast Enough?'
 date: 2017-02-24 02:00:49 UTC
 created_at: 2017-02-24 02:00:49 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/make-europe-great-again-nationalism-on-the-rise-but-fast-enough
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div class="pf-content"><p>It is the best of times, it is the worst of times for nationalism in Europe. Patriot parties are leading the polls in major European countries, though this mass support doesn’t prevent them from invariably being described as “Far Right” by the <a href="http://www.vdare.com/posts/steven-bannon-calls-the-media-the-opposition-party-and-then-they-prove-it">Main Stream Media</a>. But it’s unclear if any of these parties have a path to power in the short term. Worse, there are few signs of short-term hope in Germany, the most powerful and influential of all.</p>
 <p><span style="color: #993300;"><strong><em>Sweden</em></strong></span></p>

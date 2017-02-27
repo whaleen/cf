@@ -1,23 +1,23 @@
 ---
-title: "France: Hollande Defends Nation as Being Safe for Tourists, No Problem!"
+title: 'France: Hollande Defends Nation as Being Safe for Tourists, No Problem!'
 date: 2017-02-26 22:49:15 UTC
 created_at: 2017-02-26 22:49:15 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/france-hollande-defends-nation-as-being-safe-for-tourists-no-problem
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div class="pf-content"><p>President Trump made some disparaging comments about France in his CPAC speech on Friday while discussing the general topic of jihad terror and public safety, which upset President Francois Hollande and other French officials.</p>
 <blockquote><p><em><a href="https://www.whitehouse.gov/the-press-office/2017/02/24/remarks-president-trump-conservative-political-action-conference">President Trump CPAC Speech Transcript</a>,</em> February 24, 2017</p>

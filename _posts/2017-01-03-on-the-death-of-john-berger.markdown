@@ -1,23 +1,23 @@
 ---
-title: "On the Death of John Berger"
+title: On the Death of John Berger
 date: 2017-01-03 22:43:59 UTC
 created_at: 2017-01-03 22:43:59 UTC
 layout: post
 kind: article
-author: "Radix Blog"
+author: Radix Blog
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/blog/2017/1/3/on-the-death-of-john-berger
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "BLOG -Radix Journal"
+source_blog_name: BLOG -Radix Journal
 source_blog_slug: blog-radix-journal
 source_blog_url: http://www.radixjournal.com/blog/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>John Berger, who <a href="https://www.theguardian.com/books/2017/jan/02/john-berger-obituary">died</a> very recently at the age of 90, is probably not a familiar name to Radix readers. Like many activists hostile to our people and our civilization, Berger carved out an influential but relatively undisturbed career for himself. In this case, our deceased protagonist was an ‘art critic’ and author.</p>
 <p>Berger did not openly promote a course on ‘Whiteness studies,’ nor did he advance an agenda of White guilt. His mode of operation was perhaps more insidious, consisting of an influential but somehow barely perceptible drip-feeding of intellectual poison into Western cultural self-confidence. He was a quintessential contributor to what Kevin MacDonald has termed the ‘Culture of Critique’ and, in his most famous TV and book project, <em>Ways of Seeing</em> (1972), he steadily chipped away at confidence in traditional Western cultural aesthetics, paving the way for ‘feminist readings’ of traditional art and pop culture.<em> Ways of Seeing</em> is now required reading for many college art courses. </p>

@@ -1,23 +1,23 @@
 ---
-title: "Space: A Dream DeferredGreg Johnson &amp; Paul Kersey on Hidden Figures"
+title: 'Space: A Dream DeferredGreg Johnson &amp; Paul Kersey on Hidden Figures'
 date: 2017-02-23 11:43:08 UTC
 created_at: 2017-02-23 11:43:08 UTC
 layout: post
 kind: article
-author: "Counter Currents"
+author: Counter Currents
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/space-a-dream-deferred/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Counter-Currents Publishing"
+source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/SpaceStation.jpg"><img class="alignright size-medium wp-image-69511" src="http://www.counter-currents.com/wp-content/uploads/2017/02/SpaceStation-260x206.jpg" alt="" width="260" height="206"></a>64:30 / 119 words</p>
 <p>To listen in a player, click <a href="http://cdn.counter-currents.com/radio/AryanDreamsDeferred.mp3">here</a>.</p>

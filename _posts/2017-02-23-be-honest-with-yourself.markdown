@@ -1,23 +1,23 @@
 ---
-title: "Be Honest with Yourself"
+title: Be Honest with Yourself
 date: 2017-02-23 21:27:42 UTC
 created_at: 2017-02-23 21:27:42 UTC
 layout: post
 kind: article
-author: "Counter Currents"
+author: Counter Currents
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/be-honest-with-yourself/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Counter-Currents Publishing"
+source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>1,411 words</p>
 <p><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/SleepingLionsCrop.jpg"><img class="alignright size-medium wp-image-69519" src="http://www.counter-currents.com/wp-content/uploads/2017/02/SleepingLionsCrop-260x268.jpg" alt="" width="260" height="268"></a>Regular readers will need no introduction to the topic. It’s that painful, hand-wringing conundrum of just why other folks won’t “Wake up” and realize what’s at stake. It’s that sinking feeling when someone we know and care about regurgitates a canned lined or says they’re taking a trip to a Holocaust museum; and that dinner table silence that confirms <em>they just don’t get it. </em>This article is for those people. <span id="more-69518"></span></p>

@@ -1,23 +1,23 @@
 ---
-title: "Podcast 9: Ukrainian Games"
+title: 'Podcast 9: Ukrainian Games'
 date: 2015-05-11 12:15:38 UTC
 created_at: 2015-05-11 12:15:38 UTC
 layout: post
 kind: article
-author: "Alt-right Podcast"
+author: Alt-right Podcast
 categories: 
 tags: 
 source_post_url: https://soundcloud.com/new-alternative-right/podcast-9-ukrainian-games
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Alt-Right Podcast"
+source_blog_name: Alt-Right Podcast
 source_blog_slug: alt-right-podcast
 source_blog_url: http://soundcloud.com/new-alternative-right
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 Andy and Colin are joined by Traditionalist Youth Network's Matt Parrott to trawl through the choppy waters of global geopolitics in the wake of the Ukraine's remarkable revolution, one that was chiefly driven by forces from the right. 
 

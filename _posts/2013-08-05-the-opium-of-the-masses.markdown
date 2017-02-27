@@ -1,23 +1,23 @@
 ---
-title: "The Opium of the Masses"
+title: The Opium of the Masses
 date: 2013-08-05 03:41:00 UTC
 created_at: 2013-08-05 03:41:00 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/podcast/2013/8/5/the-opium-of-the-masses
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>The recent "N Word" controversy in the National Football League underscores many unspoken anxieties in contemporary sports; these include the dominance of African-Americans in America's pastime, as well as the degree to which national and regional identities are defined by teams comprised of thugs and criminals. Andy, Colin, and Richard discuss race and sports.</p>
 

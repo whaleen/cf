@@ -1,23 +1,23 @@
 ---
-title: "Asians Are Most Realistic About White-black IQ Gap"
+title: Asians Are Most Realistic About White-black IQ Gap
 date: 2017-02-26 19:37:11 UTC
 created_at: 2017-02-26 19:37:11 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/asians-are-most-realistic-about-white-black-iq-gap
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div class="pf-content"><p>Although you still encounter denialists, <a href="http://www.vdare.com/articles/why-do-we-keep-writing-about-intelligence-an-iq-faq">science</a> has demonstrated that Americans whites average about a standard deviation higher intelligence than American blacks.</p>
 <p><a href="http://anepigone.blogspot.com/2017/02/blacks-jews-and-liberals-think-whites.html"><em>Audacious Epigone</em></a> checks out the federally-funded 45-year-old <a href="http://gss.norc.org/About-The-GSS">General Social Survey</a> for views on the white-black intelligence gap and finds that all major demographic groups are at least vaguely aware of this reality:</p>

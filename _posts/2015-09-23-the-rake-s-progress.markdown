@@ -1,23 +1,23 @@
 ---
-title: "The Rake&#39;s Progress"
+title: The Rake&#39;s Progress
 date: 2015-09-23 23:06:17 UTC
 created_at: 2015-09-23 23:06:17 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/9/23/the-rakes-progress
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>F. Roger Devlin joins Richard to discuss his new book, <em>Sexual Utopia in Power</em>, and the tragicomedy of contemporary sexual relations.</p><p>Devlin, “<a href="https://dontmarry.files.wordpress.com/2009/03/sexualutopia.pdf">Sexual Utopia in Power</a>” <br>
 Devlin, <em><a href="http://www.amazon.com/exec/obidos/ASIN/1935965891/washisummipub-20">Sexual Utopia in Power</a></em>

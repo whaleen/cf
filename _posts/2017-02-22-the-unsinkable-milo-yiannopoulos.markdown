@@ -1,23 +1,23 @@
 ---
-title: "The Unsinkable Milo Yiannopoulos?"
+title: The Unsinkable Milo Yiannopoulos?
 date: 2017-02-22 09:40:55 UTC
 created_at: 2017-02-22 09:40:55 UTC
 layout: post
 kind: article
-author: "Counter Currents"
+author: Counter Currents
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/the-unsinkable-milo-yiannopolous/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Counter-Currents Publishing"
+source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>1,431 words</p>
 <p><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/Milo-yiannopoulos-Nimble-America.jpg"><img class="alignright wp-image-69493 size-medium" src="http://www.counter-currents.com/wp-content/uploads/2017/02/Milo-yiannopoulos-Nimble-America-260x183.jpg" width="260" height="183"></a>Last September, <a href="http://www.counter-currents.com/2016/09/alt-right-vs-alt-wrong/">I wished Milo Yiannopoulos would just go away</a>. Frankly, I found him disgusting and wondered if he was repulsing more people from the Right than he was attracting. I even specifically mentioned his remarks on pedophilia: <span id="more-69486"></span></p>

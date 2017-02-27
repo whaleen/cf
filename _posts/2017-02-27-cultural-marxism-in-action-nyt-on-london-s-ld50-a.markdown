@@ -1,23 +1,23 @@
 ---
-title: "Cultural Marxism In Action: NYT On London’s LD50 And Peter Brimelow"
+title: 'Cultural Marxism In Action: NYT On London’s LD50 And Peter Brimelow'
 date: 2017-02-27 00:48:25 UTC
 created_at: 2017-02-27 00:48:25 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/cultural-marxism-in-action-nyt-on-londons-ld50-and-peter-brimelow
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div class="pf-content"><p>In this story about <a href="https://www.ld50gallery.com/">Lucia Diego’s threatened LD50 gallery</a> that I <a href="http://www.vdare.com/posts/guilt-by-association-in-london-peter-brimelow-and-art-gallery-ld50">wrote about recently,</a> the protesters are going farther than conservatives objecting to blasphemy ever have–they’re trying to close an independent art gallery for unclean associations:</p>
 <blockquote><p>Her critics say Ms. Diego is up to something more nefarious. A Facebook page for the exhibition included an emblem of the Afrikaner Resistance Movement, a South African neo-Nazi group. Last summer, the gallery hosted web-based talks with speakers like Peter Brimelow, an author who advocates restricting immigration, and Brett Stevens, a right-wing blogger who has spoken admiringly of Anders Behring Breivik, the Norwegian white supremacist who killed 77 people in a 2011 attack.</p>
