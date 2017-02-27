@@ -19,5 +19,5 @@ collections:
     permalink: /books/:path/
 
 locale: en_US # language_territory is the default
-avatar: "cf-avatar.png"
+avatar: "002.jpg"
 twitter: "codefurniture" # Don't include @
