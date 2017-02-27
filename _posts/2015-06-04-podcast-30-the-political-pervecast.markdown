@@ -1,23 +1,23 @@
 ---
-title: 'Podcast 30: The Political Pervecast'
+title: "Podcast 30: The Political Pervecast"
 date: 2015-06-04 14:12:07 UTC
 created_at: 2015-06-04 14:12:07 UTC
 layout: post
 kind: article
-author: Alt-right Podcast
+author: "Alt-right Podcast"
 categories: 
 tags: 
 source_post_url: https://soundcloud.com/new-alternative-right/podcast-30-the-political-pervecast
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: Alt-Right Podcast
+source_blog_name: "Alt-Right Podcast"
 source_blog_slug: alt-right-podcast
 source_blog_url: http://soundcloud.com/new-alternative-right
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 The unfolding sex scandal of Dennis Hastert, a former wrestling coach, Speaker of the US House of Representatives, and prominent lobbyist, serves as a point of departure for a wide-ranging discussion between Andy Nowicki and Colin Liddell on the eternal synergy between politics and perversion.
 

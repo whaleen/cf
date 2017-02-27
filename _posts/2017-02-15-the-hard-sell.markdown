@@ -1,23 +1,23 @@
 ---
-title: The Hard Sell
+title: "The Hard Sell"
 date: 2017-02-15 20:25:07 UTC
 created_at: 2017-02-15 20:25:07 UTC
 layout: post
 kind: article
-author: Counter Currents
+author: "Counter Currents"
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/the-hard-sell/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: Counter-Currents Publishing
+source_blog_name: "Counter-Currents Publishing"
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>2,953 words<a href="http://www.counter-currents.com/wp-content/uploads/2017/02/2-15-17-2-1.jpg"><img class="size-medium wp-image-69379 alignright" src="http://www.counter-currents.com/wp-content/uploads/2017/02/2-15-17-2-1-260x146.jpg" alt="" width="260" height="146"></a></p>
 <p>Here is my attempt at selling White Nationalism to liberal, diaspora Jews. I know, it will be a hard sell, but as a writer, I strive for a perspective as wide as the world. <span id="more-69371"></span>An impossible dream, yes, but still I strive. Why? Because white ethnostates are what the white race will need in the very near future to avert the impending existential crisis of multi-racialism. And some of the most powerful people standing in our way today are liberal, diaspora Jews.</p>

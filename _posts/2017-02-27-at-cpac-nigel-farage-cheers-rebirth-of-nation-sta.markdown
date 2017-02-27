@@ -1,23 +1,23 @@
 ---
-title: At CPAC, Nigel Farage Cheers Rebirth of Nation State
+title: "At CPAC, Nigel Farage Cheers Rebirth of Nation State"
 date: 2017-02-27 02:02:34 UTC
 created_at: 2017-02-27 02:02:34 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/at-cpac-nigel-farage-cheers-rebirth-of-nation-state
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <div class="pf-content"><p>It’s refreshing to hear a clearly cultural defense of the newly revived nation state from Nigel Farage. It is widely recognized that a smaller, local government tends to be more responsive to citizen needs, and the <a href="https://en.wikipedia.org/wiki/Federalism_in_the_United_States">US system of federalism</a> balancing national and state government power reflects that philosophy. As former <a href="http://www.limitstogrowth.org/articles/2016/11/26/vaclav-klaus-salutes-revolutionary-change-in-america/">Czech President Vaclav Klaus</a> remarked <a href="http://web.archive.org/web/20050211105358/http:/www.washtimes.com/world/20031124-110833-1781r.htm">in 2003</a>, “You cannot have democratic accountability in anything bigger than a nation state.”</p>
 <p><i><span style="color: #993300;">Nigel Farage was derided by media and liberal elites for demanding that Britain get a divorce from the open-borders European Union, and</span> <a href="http://www.limitstogrowth.org/articles/2016/06/25/media-melts-down-over-brexit-outcome/">then he won</a>.</i></p>

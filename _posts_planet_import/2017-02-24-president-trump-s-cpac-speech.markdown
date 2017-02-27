@@ -4,7 +4,7 @@ date: 2017-02-24 23:59:05 UTC
 created_at: 2017-02-24 23:59:05 UTC
 layout: post
 kind: article
-author: "Altright"
+author: "Altright.com"
 categories: 
 tags: 
 source_post_url: https://altright.com/2017/02/24/president-trumps-cpac-speech/

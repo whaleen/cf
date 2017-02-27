@@ -1,23 +1,23 @@
 ---
-title: 'Podcast 19: Rape Culture'
+title: "Podcast 19: Rape Culture"
 date: 2014-11-24 17:33:02 UTC
 created_at: 2014-11-24 17:33:02 UTC
 layout: post
 kind: article
-author: Alt-right Podcast
+author: "Alt-right Podcast"
 categories: 
 tags: 
 source_post_url: https://soundcloud.com/new-alternative-right/podcast-19-rape-culture
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: Alt-Right Podcast
+source_blog_name: "Alt-Right Podcast"
 source_blog_slug: alt-right-podcast
 source_blog_url: http://soundcloud.com/new-alternative-right
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 Andy and Colin are joined by Matt Forney to discuss the rising tide of intolerance, "rape culture," the problematic nature of female sexuality, changes in the victim hierarchy, and the increasing divisions among "social justice warriors" over issues like the rape allegations made against Bill Cosby.
 

@@ -1,23 +1,23 @@
 ---
-title: War and Memory
+title: "War and Memory"
 date: 2015-03-31 01:34:34 UTC
 created_at: 2015-03-31 01:34:34 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/3/30/war-and-memory
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>Adrian Davies joins Richard to discuss our collective memories of Europe’s two World Wars, from moralizing and triumphalism to “Never Again!”  </p>
 

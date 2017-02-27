@@ -5,8 +5,26 @@ planet:
   whitelisted_tags: []
   sanitize_html: true
 blogs:
+- author: Arktos
+  feed: http://arktos.com/feed/
+- author: Arktos News
+  feed: http://arktos.com/category/news/feed/
 - author: Counter Currents
   feed: http://www.counter-currents.com/feed/
+- author: Red Ice News
+  feed: https://redice.tv/rss/news
+  twitter: redice
+- author: Red Ice TV
+  feed: https://redice.tv/rss/red-ice-tv
+  twitter: redice
+- author: Altright
+  feed: http://www.altright.com/feed/rss2
+- author: Taki Magazine
+  feed: http://feeds.feedburner.com/feedburner/takimag
+  twitter: takimag
+- author: V Dare
+  feed: https://www.vdare.com/feed
+  twitter: vdar
 - author: Alt-right Podcast
   feed: http://feeds.feedburner.com/Alt-rightPodcast
 - author: Alternative Right
@@ -28,17 +46,3 @@ blogs:
 - author: BOWDEN
   feed: http://feeds.feedburner.com/Bowden-radixJournal
   twitter: NPIAmerica
-- author: Red Ice News
-  feed: https://redice.tv/rss/news
-  twitter: redice
-- author: Red Ice TV
-  feed: https://redice.tv/rss/red-ice-tv
-  twitter: redice
-- author: Altright
-  feed: http://www.altright.com/feed/rss2
-- author: Taki Magazine
-  feed: http://feeds.feedburner.com/feedburner/takimag
-  twitter: takimag
-- author: V Dare
-  feed: https://www.vdare.com/feed
-  twitter: vdar

@@ -1,23 +1,23 @@
 ---
-title: Long Live the Emperor!
+title: "Long Live the Emperor!"
 date: 2016-11-21 20:26:55 UTC
 created_at: 2016-11-21 20:26:55 UTC
 layout: post
 kind: article
-author: Radix Journal
+author: "Radix Journal"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/11/21/long-live-the-emperor
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: JOURNAL -Radix Journal
+source_blog_name: "JOURNAL -Radix Journal"
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p><strong>Editor's Note:</strong> <em>This is the text version of a speech recently given by National Policy Institute President and Radix editor Richard B. Spencer at NPI's Become Who We Are 2016 conference</em></p>
 <p>I don’t think I’m alone in thinking how surreal this all is.</p>

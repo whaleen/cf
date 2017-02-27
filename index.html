@@ -1,42 +1,84 @@
 ---
 layout: default
 ---
-{% assign blogPosts = site.posts | where: 'categories', 'featured' %}
-{% for item in blogPosts %}
-<!-- <article>
-  <a href="https://geo.itunes.apple.com/us/movie/primer/id536457427?at=1l3vqFJ&ct=1l3vqFJ&mt=6" class="fl w-50 w-25-l link overflow-hidden">
-    <div role="img" aria-label="{{item.title}}" class="grow aspect-ratio--8x5 " style="background: url({{site.url}}{{item.source_image_url}}) no-repeat center center; background-size: cover;">
-      <h1 class="white fixed ph3 f3">{{ item.title }}</h1>
-    </div>
-  </a>
-</article> -->
-{%endfor%}
 
 {% assign blogPosts = site.posts | where: 'categories', 'featured' %}
 <!-- 'featured' category posts -->
-<section class="cf w-100">
+<section class="cf w-100 pa2 pa4-ns">
 {% for item in blogPosts %}
-  <article class="fl w-100 w-50-m w-25-ns">
+<article class="fl w-100 w-50-l">
+  <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 link db">
+    <h3 class="f4 f2-ns mb0 black-90">{{ item.title }}</h3>
+    <h3 class="f6 f5 fw4 mt0 mb4 black-60">{{ item.source_blog_name }}</h3>
     <div class="aspect-ratio aspect-ratio--16x9">
-      <img style="background-image:url({{site.url}}{{item.source_image_url}});"
+      <img style="background-image:url({{ site.url }}/img/{{ item.feature-img }});"
       class="db bg-center cover aspect-ratio--object" />
     </div>
-    <a href="#0" class="ph2 ph0-ns pb3 link db">
-      <h3 class="f5 f4-ns mb0 black-90">{{item.title}}</h3>
-      <h3 class="f6 f5 fw4 mt2 black-60">{{ item.source_blog_name }}</h3>
-      <p>{{ item.date }}</p>
-    </a>
-  </article>
+  </a>
+</article>
 {%endfor%}
 </section>
 
 
+{% assign blogPosts = site.posts | where: 'categories', 'highlighted' %}
+<!-- 'featured' category posts -->
+<section class="fl w-100 bb b--light-gray">
+{% for item in blogPosts %}
+<div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+  <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 link db black grow">
+    <h3 class="f4 f3-ns mb0 black-90">{{ item.title }}</h3>
+    <h3 class="f6 f5 fw4 mt0 mb4 black-60">{{ item.source_blog_name }}</h3>
+    <p>{{ item.excerpt }}</p>
+  </a>
+</div>
+{%endfor%}
+</section>
+
+<section class="cf w-100 pa2 pa4-ns">
+<h1 class="fw1 light-gray f3">Books</h1>
+{% assign books = site.books | sort: "date" | reverse %}
+ {% for book in books %}
+  <article class="fl w-50 w-10-ns w-10-s w-25-m w-10-l pa2-ns">
+    <a class="grow" href="{{ book.url | prepend: site.baseurl }}" title="{{ book.title }}">
+    <div class="aspect-ratio aspect-ratio--5x8">
+      <img style="background-image:url({{ site.url }}{{ book.cover }});"
+      class="db bg-center cover aspect-ratio--object" />
+    </div>
+    </a>
+    <!-- <a href="{{ book.url | prepend: site.baseurl }}" class="ph2 ph0-ns pb3 link db">
+      <h3 class="f5 f4-ns mb0 black-90">{{ book.title }}</h3>
+      <h3 class="f6 f5 fw4 mt2 black-60">{{ book.author }}</h3>
+      <p>Genre: {{ book.category }}</p>
+      <p>Themes: {% assign first = true %}{% for tag in book.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}</p>
+    </a> -->
+  </article>
+ {% endfor %}
+</section>
+
+<!-- <div class="button-group filter-button-group pa2 pa4-ns">
+	{% for category in site.categories %}
+		<a class="button f6 fw4 no-underline gray br2 dib pv2 ph3 ba b--gray" data-filter=".{{ category | first }}">{{ category | first }}</a>
+	{% endfor %}
+		<a class="button f6 fw4 no-underline gray br2 dib pv2 ph3 ba b--gray" data-filter="*">All</a>
+</div> -->
+
+<!-- <div class="grid pa2 pa4-ns">
+	{% for post in site.posts %}
+     <div class="element-item {{ post.categories }} w-100">
+       <article class="lh-copy bb b--light-gray pv3">
+          <h2 class="f4  measure fw3"><a class="link" href="{{ post.url }}">{{ post.title }}</a></h2>
+         <span class="light-gray fw1 f7"><a class="black" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
+       </article>
+     </div>
+    {% endfor %}
+</div> -->
+
 <!-- All posts -->
-<div class="">
+<div class=" pa2 pa4-ns">
     {% for post in site.posts %}
       <article class="lh-copy bb b--light-gray pv3">
-         <h2 class="f4  measure fw3"><a class="link" href="{{ post.url }}">{{ post.title }}</a></h2>
-        <span class="light-gray fw1 f7"><a class="black" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
+         <h2 class="f4 measure "><a class="link black" href="{{ post.url }}">{{ post.title }}</a></h2>
+        <span class="black-30 fw1 f7"><a class="black" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
       </article>
     {% endfor %}
 </div>

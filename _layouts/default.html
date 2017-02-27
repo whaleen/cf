@@ -39,6 +39,14 @@
         <link rel="stylesheet" href="/css/tachyons.css">
         <link rel="stylesheet" href="/css/tweet.post.widget.css">
 
+        <style type="text/css">
+        	a.button.active {
+        		background: #F76B48;
+        		border: 1px solid #F76B48;
+        		color: #fff;
+        	}
+        </style>
+
         <!-- Font Awesome -->
         <script src="https://use.fontawesome.com/3ace408c3e.js"></script>
 
@@ -66,8 +74,28 @@
         <!-- jQuery -->
         <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
         <!-- Latest compiled and minified Bootstrap CDN JavaScript -->
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-        <script src="/js/bookmarks.js"></script>
+        <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <script src="/js/bookmarks.js"></script> -->
+
+        <!-- <script src="http://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script> -->
+        <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
+
+        <script>
+        	// init Isotope
+        	var $grid = $('.grid').isotope({
+        	  // options
+        	});
+        	// filter items on button click
+        	$('.filter-button-group').on( 'click', 'a', function() {
+        	  var filterValue = $(this).attr('data-filter');
+        	  $grid.isotope({ filter: filterValue });
+        	});
+        	$('.button-group a.button').on('click', function(){
+        		$('.button-group a.button').removeClass('active');
+        		$(this).addClass('active');
+        	});
+        </script>
+
 
 </div><!-- /#wrapper -->
 

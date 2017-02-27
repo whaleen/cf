@@ -1,23 +1,23 @@
 ---
-title: Is the War on Drugs Racist?
+title: "Is the War on Drugs Racist?"
 date: 2017-02-20 21:45:24 UTC
 created_at: 2017-02-20 21:45:24 UTC
 layout: post
 kind: article
-author: Counter Currents
+author: "Counter Currents"
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/is-the-war-on-drugs-racist/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: Counter-Currents Publishing
+source_blog_name: "Counter-Currents Publishing"
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>3,885 words<a href="http://www.counter-currents.com/wp-content/uploads/2017/02/2-20-17-2.jpg"><img class="size-medium wp-image-69474 alignright" src="http://www.counter-currents.com/wp-content/uploads/2017/02/2-20-17-2-260x205.jpg" alt="" width="260" height="205"></a></p>
 <p>There are two main forms this claim can take: that the war on drugs is racist <em>in intent, </em>e.g. that the war on drugs was created <em>to be</em> racist (whether it is or not); and that the war on drugs is racist <em>in effect</em>, e.g. that the war on drugs targets blacks and Hispanics<span id="more-69470"></span> over whites to a greater extent than blacks and Hispanics are more likely to use drugs (if they are at all).</p>

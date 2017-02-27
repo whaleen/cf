@@ -1,23 +1,23 @@
 ---
-title: All Out of Skittles
+title: "All Out of Skittles"
 date: 2013-07-22 03:03:00 UTC
 created_at: 2013-07-22 03:03:00 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/podcast/2013/7/22/all-out-of-skittles
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <img class="thumb-image" alt="all out of skittles.jpg" src="https://static1.squarespace.com/static/51c946cde4b0f05142538988/t/52b529c5e4b0edd5cee2262f/1387604422594/all+out+of+skittles.jpg?format=1000w">
           

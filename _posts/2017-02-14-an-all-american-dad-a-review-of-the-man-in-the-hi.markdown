@@ -1,23 +1,23 @@
 ---
-title: 'An All-American Dad: A Review of The Man in the High Castle'
+title: "An All-American Dad: A Review of The Man in the High Castle"
 date: 2017-02-14 19:18:38 UTC
 created_at: 2017-02-14 19:18:38 UTC
 layout: post
 kind: article
-author: Counter Currents
+author: "Counter Currents"
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/an-all-american-dad/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: Counter-Currents Publishing
+source_blog_name: "Counter-Currents Publishing"
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>3,548 words</p>
 <div id="attachment_69325" style="width: 218px" class="wp-caption alignright"><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/2-14-17-2.jpg"><img class="wp-image-69325 size-medium" src="http://www.counter-currents.com/wp-content/uploads/2017/02/2-14-17-2-208x300.jpg" width="208" height="300"></a><p class="wp-caption-text"><i>Obergruppenführer</i> John Smith (Rufus Sewell)</p></div>

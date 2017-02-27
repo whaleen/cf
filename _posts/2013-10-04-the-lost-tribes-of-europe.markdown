@@ -1,23 +1,23 @@
 ---
-title: The Lost Tribes of Europe
+title: "The Lost Tribes of Europe"
 date: 2013-10-04 06:39:51 UTC
 created_at: 2013-10-04 06:39:51 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/podcast/2013/10/4/the-lost-tribes-of-europe
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>Jack Donovan joins Richard to discuss some of the themes of NPI's upcoming conference, including the dissolution of the current American-led order, the potential return of tribalism, and taking the path less travelled.</p>
 

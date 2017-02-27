@@ -4,15 +4,11 @@ title: Sources
 permalink: "/sources/"
 ---
 
-<div class="">
-
-<p>Sources we syndicate:</p>
+<div class="pa2 pa4-ns">
 
   {% for member in site.data.members %}
-    <article class="pv2">
-      <a class="link" href="{{ site.url }}/authors/{{ member.author | replace: ' ', '-' | downcase }}">
-        {{ member.author }}
-      </a>
+    <article class="lh-copy bb b--light-gray pv3">
+      <h2 class="f4  measure fw3"><a class="link black" href="{{ site.url }}/authors/{{ member.author | replace: ' ', '-' | downcase }}">{{ member.author }}</a></h2>
     </article>
   {% endfor %}
 

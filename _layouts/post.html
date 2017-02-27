@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="cf bt b--light-gray">
+<article class="cf">
   <div class="w-100 w-95-ns w-50-s w-60-l">
     <div class="pa2 pa4-ns">
       <!-- <form id="bookmarksForm" class="fl mr2">
@@ -14,11 +14,11 @@ layout: default
      </form> -->
       <p class="light-gray f3">{{ page.date | date_to_string }}</p>
     	<h1 class="f3 f1-ns">{{ page.title }}</h1>
-      <p>Source: <a class="link gray fw1" href="{{ page.source_post_url }}" target="_blank">{{ page.source_blog_name }}</a></p>
+
+      <p><a class="link gray fw1" href="{{ site.url }}/authors/{{ page.author | replace: ' ', '-' | downcase }}">{{ page.source_blog_name }}</a></p>
       <div id="" class="times dark-gray f4 fw1 bl pl3 b--light-gray">
-      {{ page.content | truncatewords:150 }}
+      {{ page.content }}
       </div>
-      <a class="black link" href="{{ page.source_post_url }}" target="_blank" >Read More {% octicon link-external %}</a>
     </div>
   </div>
 
@@ -37,7 +37,7 @@ layout: default
   </div>
 </article>
 
-<section class="cf w-100 pa5-ns bt b--light-gray">
+<!-- <section class="cf w-100 pa5-ns bt b--light-gray">
 {% assign books = site.books | sort: "date" | reverse | limit:1 %}
  {% for book in books %}
   <article class="fl w-50 w-10-ns w-10-s w-25-m w-10-l pa2-ns">
@@ -47,12 +47,12 @@ layout: default
       class="db bg-center cover aspect-ratio--object" />
     </div>
     </a>
-    <!-- <a href="{{ book.url | prepend: site.baseurl }}" class="ph2 ph0-ns pb3 link db">
+    <a href="{{ book.url | prepend: site.baseurl }}" class="ph2 ph0-ns pb3 link db">
       <h3 class="f5 f4-ns mb0 black-90">{{ book.title }}</h3>
       <h3 class="f6 f5 fw4 mt2 black-60">{{ book.author }}</h3>
       <p>Genre: {{ book.category }}</p>
       <p>Themes: {% assign first = true %}{% for tag in book.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}</p>
-    </a> -->
+    </a>
   </article>
  {% endfor %}
-</section>
+</section> -->

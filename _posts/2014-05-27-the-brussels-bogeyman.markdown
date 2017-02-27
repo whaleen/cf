@@ -1,23 +1,23 @@
 ---
-title: The Brussels Bogeyman
+title: "The Brussels Bogeyman"
 date: 2014-05-27 03:37:00 UTC
 created_at: 2014-05-27 03:37:00 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2014/5/27/the-brussels-bogeyman
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>Roman Bernard joins Richard to talk about the recent European Union elections, in which the “far Right” received between 10 and 25% of the vote in many countries.  They discuss the limits of  “Euro-skepticism” as a unifying force for these disparate parties, as well as the prospect of the EU becoming  civilizational superstate.   </p>
 

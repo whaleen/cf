@@ -1,24 +1,23 @@
 ---
-title: 'Ahmadinejad Schools Trump on Who We Are: “U.S. Belongs to All Nations … No
-  One May Consider Themselves the Owner and View Others as Guests or Immigrants.”'
+title: "Ahmadinejad Schools Trump on Who We Are"
 date: 2017-02-27 01:11:54 UTC
 created_at: 2017-02-27 01:11:54 UTC
 layout: post
 kind: article
-author: V Dare
-categories: 
-tags: 
-source_post_url: https://www.vdare.com/posts/ahmadinejad-schools-trump-on-who-we-are
+author: "V Dare"
+categories: highlighted
+tags:
+source_post_url: https://www.vdare.com/posts/ahmadinejad-schools-trump-on-who-we-are-u-s-belongs-to-all-nations-no-one-may-consider-themselves-the-owner-and-view-others-as-guests-or-immigrants
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
-source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
-feature-img: 
-excerpt: 
+source_image_url:
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
+feature-img:
+excerpt: '"U.S. Belongs to All Nations... No One May Consider Themselves the Owner and View Others as Guests or Immigrants. - Ahmadinejad"'
 ---
 <div class="pf-content"><p>More than a dozen years ago, Libya’s <a title="http://www.unz.com/isteve/a-man-before-his-time/" href="http://www.unz.com/isteve/a-man-before-his-time/">Colonel Qaddaffii</a> prophetically pointed out that America didn’t belong to Americans anymore, it belonged to the whole world:</p>
 <blockquote><p><a id="xlink_1_2" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/ahmadinejad-schools-trump-on-zeroth-amendment-no-one-may-consider-themselves-the-owner-and-view-others-as-guests-or-immigrants/#xlink_1_2" name="xlink_1_2"></a> All the people all over the world had made America and it shall accordingly be for all of us.</p></blockquote>

@@ -1,23 +1,23 @@
 ---
-title: 'Podcast 3: Review Of 2013'
+title: "Podcast 3: Review Of 2013"
 date: 2015-10-09 01:21:18 UTC
 created_at: 2015-10-09 01:21:18 UTC
 layout: post
 kind: article
-author: Alt-right Podcast
+author: "Alt-right Podcast"
 categories: 
 tags: 
 source_post_url: https://soundcloud.com/new-alternative-right/podcast-3-review-of-2013
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: Alt-Right Podcast
+source_blog_name: "Alt-Right Podcast"
 source_blog_slug: alt-right-podcast
 source_blog_url: http://soundcloud.com/new-alternative-right
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 Andy and Colin are joined by Carl, "the mysterious Swede," to take a look back at the Year of the Snake as it starts to slither out of sight. Among the talking points are MSNBC's attack on NPI and Alternative Right, the steady growth of Euro-nationalism, the ritualistic suicide of Dominique Venner, the superpower showdown over Syria, the rise of Bitcoin, the successful NPI Conference in Washington, the death of Margaret Thatcher, and, of course, Miley Cyrus's over-active tongue.
 

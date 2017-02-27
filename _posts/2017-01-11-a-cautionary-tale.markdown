@@ -1,23 +1,23 @@
 ---
-title: A Cautionary Tale
+title: "A Cautionary Tale"
 date: 2017-01-11 20:46:47 UTC
 created_at: 2017-01-11 20:46:47 UTC
 layout: post
 kind: article
-author: Radix Journal
+author: "Radix Journal"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2017/1/11/a-cautionary-tale
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: JOURNAL -Radix Journal
+source_blog_name: "JOURNAL -Radix Journal"
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p><strong>Editor's Note:</strong> <em>Adapted from an address to NPI’s 2016 Conference by F. Roger Devlin</em></p>
 <p>I also wanted to speak about the current political situation, since we are all thinking about Trump’s victory. The main point I wanted to make was the necessity of prompt and decisive action on the part of the incoming administration, especially on immigration related issues. But everyone else I have read on our side has been making the same point. So rather than repeat them, I will limit myself to a brief cautionary tale about the consequences of delaying action on those fleeting occasions when all the political stars align perfectly.</p>

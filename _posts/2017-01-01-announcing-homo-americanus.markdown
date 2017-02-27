@@ -1,23 +1,23 @@
 ---
-title: 'Announcing: Homo Americanus'
+title: "Announcing: Homo Americanus"
 date: 2017-01-01 05:07:05 UTC
 created_at: 2017-01-01 05:07:05 UTC
 layout: post
 kind: article
-author: Radix Blog
+author: "Radix Blog"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/blog/2017/1/1/announcing-homo-americanus
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: BLOG -Radix Journal
+source_blog_name: "BLOG -Radix Journal"
 source_blog_slug: blog-radix-journal
 source_blog_url: http://www.radixjournal.com/blog/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>I'm very happy to announce that, in February of 2017, Radix will release the second, revised and expanded edition of Tomislav Sunic's classic volume, <em>Homo Americanus: A Child of the Postmodern Age</em>. This edition is substantialy re-written and includes additional essays by Kevin MacDonald and Alain de Benoist.  </p>
 

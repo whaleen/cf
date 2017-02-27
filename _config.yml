@@ -19,5 +19,5 @@ collections:
     permalink: /books/:path/
 
 locale: en_US # language_territory is the default
-avatar: "002.jpg"
+avatar: "cf-avatar.png" # make twitter summary card compatible
 twitter: "codefurniture" # Don't include @

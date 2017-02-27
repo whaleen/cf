@@ -1,23 +1,23 @@
 ---
-title: 'Frank Sweeney: An Enemy of Freedom'
+title: "Frank Sweeney: An Enemy of Freedom"
 date: 2016-12-23 17:00:59 UTC
 created_at: 2016-12-23 17:00:59 UTC
 layout: post
 kind: article
-author: Radix Blog
+author: "Radix Blog"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/blog/2016/12/23/frank-sweeney-an-enemy-of-freedom
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: BLOG -Radix Journal
+source_blog_name: "BLOG -Radix Journal"
 source_blog_slug: blog-radix-journal
 source_blog_url: http://www.radixjournal.com/blog/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>Yesterday, Whitefish City Councilman Frank Sweeney offered us this <a href="http://missoulian.com/news/state-and-regional/whitefish-dealing-with-backlash-from-white-supremacist-website/article_ea5e7c61-ffdc-5044-8bca-79cda3a6ef9b.html">pearl of wisdom</a>:</p>
 <blockquote>

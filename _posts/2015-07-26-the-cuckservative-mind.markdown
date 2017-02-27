@@ -1,23 +1,23 @@
 ---
-title: The Cuckservative Mind
+title: "The Cuckservative Mind"
 date: 2015-07-26 16:41:27 UTC
 created_at: 2015-07-26 16:41:27 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/7/26/the-cuckservative-mind
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>Mike Enoch of <em>The Right Stuff</em> joins Richard to discuss the Cuckservative phenomenon, Donald Trump, and the future of the Right. </p><p><strong>NOTES:</strong> <br>
 <em>The Right Stuff</em> on “<a href="http://therightstuff.biz/2015/07/23/cuckservatives-trump-and-the-future-of-the-west/">cuckservatives</a>” <br>

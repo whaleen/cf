@@ -1,23 +1,23 @@
 ---
-title: The Spirit of Christmas
+title: "The Spirit of Christmas"
 date: 2016-12-23 23:57:39 UTC
 created_at: 2016-12-23 23:57:39 UTC
 layout: post
 kind: article
-author: Radix Blog
+author: "Radix Blog"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/blog/2016/12/23/the-spirit-of-christmas
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: BLOG -Radix Journal
+source_blog_name: "BLOG -Radix Journal"
 source_blog_slug: blog-radix-journal
 source_blog_url: http://www.radixjournal.com/blog/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p><strong>Editor's Note: </strong><em>This article originally was printed last Christmas</em></p><p>All was quiet in the trenches. For five months, they had been living in a hell the world had never seen before. Across the once-verdant fields of France and Belgium lay miles of dug out trenches, barbed wire, and the stamped out light of youth to never see home again.</p>
 <p>The war came in August. It will be over by Christmas. At least that’s what the politicians say. Englishmen, Frenchmen, Russians, Germans, and Austrians to a man knew this to be true. At least it was when they left their homes all those bright, warm months ago.</p>
