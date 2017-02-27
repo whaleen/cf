@@ -1,23 +1,23 @@
 ---
-title: "Illegitimate "
+title: 'Illegitimate '
 date: 2016-12-13 20:47:05 UTC
 created_at: 2016-12-13 20:47:05 UTC
 layout: post
 kind: article
-author: "Radix Journal"
+author: Radix Journal
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/12/13/illegitimate
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "JOURNAL -Radix Journal"
+source_blog_name: JOURNAL -Radix Journal
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>Donald Trump is President-elect, but the Crisis of Legitimacy <a href="http://www.radixjournal.com/journal/2016/8/23/the-coming-legitimacy-crisis">has arrived anyway</a>. <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiNjanNtuzQAhUKQyYKHSHbD-YQqUMIHjAB&amp;url=https%3A%2F%2Fwww.washingtonpost.com%2Fworld%2Fnational-security%2Fobama-orders-review-of-russian-hacking-during-presidential-campaign%2F2016%2F12%2F09%2F31d6b300-be2a-11e6-94ac-3d324840106c_story.html&amp;usg=AFQjCNHehx2_KPn4ag84X-W7ai_wE2LR9w&amp;sig2=Uo91EVKg3jO1qwRk0vIilQ&amp;bvm=bv.141320020,d.eWE"><em>The Washington Post</em></a> and <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiNjanNtuzQAhUKQyYKHSHbD-YQqUMIIjAC&amp;url=http%3A%2F%2Fwww.nytimes.com%2F2016%2F12%2F09%2Fus%2Fobama-russia-election-hack.html&amp;usg=AFQjCNHm621VqjOW4G-5IYgbuUXyDLh2-w&amp;sig2=NQtFL1dYC8MZ1nqiiHOjyA&amp;bvm=bv.141320020,d.eWE"><em>The New York Times</em></a> are screeching that “the Russians” delivered Trump the presidency. One out of three Clinton voters <a href="http://theweek.com/speedreads/661791/1-3-clinton-voters-say-trumps-win-illegitimate">think</a> Trump’s win is fraudulent. The Fourth Estate is <a href="https://www.theguardian.com/us-news/2016/nov/30/faithless-electors-electoral-college-donald-trump">cheerleading</a> an attempt by so-called “Hamilton electors” to launch a kind of coup to deny Trump the presidency. President Obama is even urging American soldiers to <a href="http://www.breitbart.com/big-government/2016/12/07/obama-urges-soldiers-to-question-trumps-authority-criticize-our-president/">protest</a> their new Commander-in-Chief once he takes power, though Trump<a href="http://www.vdare.com/posts/maybe-cia-washington-post-brainstorming-about-a-coup-needs-a-rethink-about-just-whom-they-can-trust-to-carry-it-out"> doesn’t seem to have anything to worry about</a> when it comes to his popularity among the officer corps.</p>
 <p>In Year One of the Aeon of Kek, all that is hidden will be revealed. So we know none of this kvetching about “protecting democracy” or respecting the rule of law can be taken seriously. For weeks before that fateful night in November, Trump was besieged by demands to respect the result of the election, no matter what happened. Clinton used the Left’s favorite scare term, <a href="http://www.radixjournal.com/journal/2016/10/26/the-rigged-system">“horrifying,”</a> to describe Trump’s supposed reluctance to do so. </p>

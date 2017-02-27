@@ -1,23 +1,23 @@
 ---
-title: "Blair Is Back"
+title: Blair Is Back
 date: 2017-02-24 04:00:44 UTC
 created_at: 2017-02-24 04:00:44 UTC
 layout: post
 kind: article
-author: "Taki Magazine"
+author: Taki Magazine
 categories: 
 tags: 
 source_post_url: http://takimag.com/article/blair_is_back_allan_massie
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag
-source_blog_name: "Taki&#39;s Magazine"
+source_blog_name: Taki&#39;s Magazine
 source_blog_slug: takis-magazine
 source_blog_url: http://takimag.com/article/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 by Allan Massie<br>
 	  

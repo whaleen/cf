@@ -1,23 +1,23 @@
 ---
-title: "To Play a Prince"
+title: To Play a Prince
 date: 2016-12-24 17:20:39 UTC
 created_at: 2016-12-24 17:20:39 UTC
 layout: post
 kind: article
-author: "Radix Blog"
+author: Radix Blog
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/blog/2016/12/24/to-play-a-prince
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "BLOG -Radix Journal"
+source_blog_name: BLOG -Radix Journal
 source_blog_slug: blog-radix-journal
 source_blog_url: http://www.radixjournal.com/blog/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p><strong>Editor's Note:</strong> The Prince of Wales recently gave an interview to BBC Radio Four, during the course of which he made the hyperbolic and grandiloquent claim that the rise of populist government risks repeating the “horrors” of the Holocaust. The Prince, widely regarded as an intellectual mediocrity, remarked: “We are now seeing the rise of many populist groups across the world that are increasingly aggressive to those who adhere to a minority faith. All of this has deeply disturbing echoes of the dark days of the 1930s…My parents’ generation fought and died in a battle against intolerance, monstrous extremism and inhuman attempts to exterminate the Jewish population of Europe.” While Prince Charles did not mention Donald Trump by name, his address is almost certainly a veiled reference to the President-elect.  </p>
 <p>As well as dog-whistling to the metropolitan elite on Trump, Charles’s interview was also a grandiose panegyric to the ‘refugees’ currently swamping Europe. Oozing disapproval at increasingly hostile attitudes to migrants in the UK, Charles gasped: “That nearly 70 years later we should still be seeing such evil persecution is to me beyond all belief…We owe it to those who suffered and died so horribly not to repeat the horrors of the past.” He concluded his interview by urging his Christian listeners to remember “how the story of the Nativity unfolds with the fleeing of the holy family to escape violent persecution.” </p>

@@ -1,23 +1,23 @@
 ---
-title: "Coup on the Nile"
+title: Coup on the Nile
 date: 2013-07-09 00:59:00 UTC
 created_at: 2013-07-09 00:59:00 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/podcast/2013/7/9/coupe-on-the-nile
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <img class="thumb-image" alt="attachment-51db9962e4b09506a9c6b6ea" src="https://static1.squarespace.com/static/51c946cde4b0f05142538988/5298e223e4b008c3d680f470/5298e23ee4b008c3d680f584/1385751311171/morsi-clinton.jpg?format=1000w">
           

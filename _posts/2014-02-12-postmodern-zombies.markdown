@@ -1,23 +1,23 @@
 ---
-title: "Postmodern Zombies"
+title: Postmodern Zombies
 date: 2014-02-12 05:03:47 UTC
 created_at: 2014-02-12 05:03:47 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2014/2/12/postmodern-zombies
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>The postmodern world has witnessed a stark divergence between our evolutionary history and lived experiences. For millennia, we evolved to be in tribes and respect the bounds of community, hierarchy, and order. Today, men are increasingly atomization, alienated from their work, and taught to identify with all humanity (or nothing at all).  Jack Donovan and Piero San Giorgio join Richard to discuss the end of the postmodern world.    </p>
 

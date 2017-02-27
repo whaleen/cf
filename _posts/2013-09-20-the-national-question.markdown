@@ -1,23 +1,23 @@
 ---
-title: "The National Question"
+title: The National Question
 date: 2013-09-20 17:02:48 UTC
 created_at: 2013-09-20 17:02:48 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/podcast/2013/9/20/the-national-question
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>Tomislav Sunic and Roman Bernard join Richard to discuss one of the major themes of NPI's 2013 conference—the National Question. Should the nation-state be the foundation of nationalism? Or should we move on to a new paradigm?  </p>
 

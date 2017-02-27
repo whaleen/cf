@@ -1,23 +1,23 @@
 ---
-title: "You Say You Want a Revolution? "
+title: 'You Say You Want a Revolution? '
 date: 2015-05-20 06:26:41 UTC
 created_at: 2015-05-20 06:26:41 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/5/20/you-say-you-want-a-revolution
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>Fenek Solére joins Richard to discuss his novel, <em><a href="http://www.amazon.com/exec/obidos/ASIN/1909606065/washisummipub-20">The Partisan</a></em>, the tradition of violent partisanship in Europe, the social conditions that incite and surpress revolution, and the evolution of the American and European altervative Right. </p><p><strong>NOTES:</strong> </p>
 

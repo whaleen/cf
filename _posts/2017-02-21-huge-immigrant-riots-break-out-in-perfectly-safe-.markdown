@@ -1,23 +1,23 @@
 ---
-title: "Huge Immigrant Riots Break Out In Perfectly Safe Sweden"
+title: Huge Immigrant Riots Break Out In Perfectly Safe Sweden
 date: 2017-02-21 03:33:04 UTC
 created_at: 2017-02-21 03:33:04 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/huge-immigrant-riots-break-out-in-perfectly-safe-sweden
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div class="pf-content"><p>As Patrick Cleburne <a href="http://www.vdare.com/posts/trump-right-of-course-about-swedish-rape">noted,</a> Trump has been extremely right in saying Sweden has horrifying problems with Muslim immigrants. But the MSM seem to think he’s imagining things.</p>
 <p><a href="http://www.vdare.com/users/steve-sailer">Steve Sailer</a> called it <a href="http://www.vdare.com/posts/trumps-luck-vatican-walls-built-by-pope-leo-iv-after-musselman-sack-of-old-st-peters-and-st-pauls-outside-the-walls">Trump’s Luck,</a> when during the campaign, Trump would make some kind of remark about immigrants, the MSM would issue crazed denials, and call him a liar, then something like Bataclan or Orlando would happen, and it would be impossible for the MSM to hush up. See <a href="http://www.vdare.com/posts/trumps-luck-media-finally-discover-a-muslim-in-america-who-did-celebrate-911-omar-mateen"><em>Trump’s Luck: Media Finally Discover a Muslim in America Who Did Celebrate 9/11: Omar Mateen</em></a></p>

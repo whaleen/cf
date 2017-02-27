@@ -1,23 +1,23 @@
 ---
-title: "Reality TV"
+title: Reality TV
 date: 2015-07-08 16:52:06 UTC
 created_at: 2015-07-08 16:52:06 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/7/8/reality-tv
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>John Morgan and Roman Bernard join Richard to discuss the film <em>Network</em> (1976), the formation of public opinion, the sign signifying nothing, the End of History, and how capitalism becomes its own critique.  </p><p><strong>NOTES:</strong></p>
 

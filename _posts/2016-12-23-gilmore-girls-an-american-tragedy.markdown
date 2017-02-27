@@ -1,23 +1,23 @@
 ---
-title: "Gilmore Girls: An American Tragedy"
+title: 'Gilmore Girls: An American Tragedy'
 date: 2016-12-23 21:41:05 UTC
 created_at: 2016-12-23 21:41:05 UTC
 layout: post
 kind: article
-author: "Radix Journal"
+author: Radix Journal
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/12/23/gilmore-girls-an-american-tragedy
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "JOURNAL -Radix Journal"
+source_blog_name: JOURNAL -Radix Journal
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <blockquote>
 <p>“<em>This whole thing is dead to me, anyway. It died with Richard</em>.” – Emily Gilmore, <em>Fall</em>.</p>

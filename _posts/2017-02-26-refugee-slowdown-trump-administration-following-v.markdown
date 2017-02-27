@@ -1,23 +1,23 @@
 ---
-title: "Refugee Slowdown–Trump Administration Following  VDARE.com And Federale Advice?"
+title: Refugee Slowdown–Trump Administration Following  VDARE.com And Federale Advice?
 date: 2017-02-26 00:50:17 UTC
 created_at: 2017-02-26 00:50:17 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/refugee-slowdown-trump-administration-following-vdare-com-and-federale-advice
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div class="pf-content"><p>It appears that someone in the Trump Administration is reading VDARE.com and <i>Federale</i>. Again, the Trump Administration has taken sound advice, in this case after reading my posting on fighting the interference by the kritarchs on refugee policy, the Administration sent out orders to give refugees the bureaucratic slowdown.</p>
 <blockquote class="tr_bq"><p>The would-be dictatorial kritarchs who are waging war on the Constitution and President Donald J. Trump think they have the upper hand. However, President Trump has additional action he can take to stop refugees coming to the United States. It is one of the options this writer recommended to clip the wings of the subversive bureaucrats at U.S. Citizenship and Immigration Services (USCIS), and by extension, the saboteurs at the State Department…</p>

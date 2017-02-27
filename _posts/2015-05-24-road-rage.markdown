@@ -1,23 +1,23 @@
 ---
-title: "Road Rage"
+title: Road Rage
 date: 2015-05-24 22:25:09 UTC
 created_at: 2015-05-24 22:25:09 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/5/24/road-rage
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>Jack Donovan joins Richard to discuss the world of Mad Max—how <em>Fury Road</em> is a feminist action film that’s secretly an anti-feminist action film and why it’s good to long for the apocalypse.  </p><h3 id="notes">Notes:</h3>
 

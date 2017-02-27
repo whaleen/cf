@@ -1,23 +1,23 @@
 ---
-title: "The Week That Perished"
+title: The Week That Perished
 date: 2017-02-26 04:01:04 UTC
 created_at: 2017-02-26 04:01:04 UTC
 layout: post
 kind: article
-author: "Taki Magazine"
+author: Taki Magazine
 categories: 
 tags: 
 source_post_url: http://takimag.com/article/the_week_that_perished_takimag_february_26_2017
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag
-source_blog_name: "Taki&#39;s Magazine"
+source_blog_name: Taki&#39;s Magazine
 source_blog_slug: takis-magazine
 source_blog_url: http://takimag.com/article/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 by Takimag<br>
 	  

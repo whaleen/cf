@@ -1,23 +1,23 @@
 ---
-title: "Does Sweden Have a Problem with Immigration-related Crime?"
+title: Does Sweden Have a Problem with Immigration-related Crime?
 date: 2017-02-22 02:49:40 UTC
 created_at: 2017-02-22 02:49:40 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/does-sweden-have-a-problem-with-immigration-related-crime
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div class="pf-content"><p>Of course not!</p>
 <p>We all know, from first principles, that immigrants are Good.</p>

@@ -1,23 +1,24 @@
 ---
-title: "USCIS Bureaucrat Lori Scialabba Ran A Personal Asylum Application System for Iraqi Muslims"
+title: USCIS Bureaucrat Lori Scialabba Ran A Personal Asylum Application System for
+  Iraqi Muslims
 date: 2017-02-26 00:35:44 UTC
 created_at: 2017-02-26 00:35:44 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/ucis-bureaucrat-lori-scialabba-ran-a-personal-asylum-application-system-for-iraqi-muslims
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div class="pf-content"><p>The influence of VDare.com <a href="http://www.vdare.com/articles/lydia-brimelow-vdare-com-year-in-review">like its readership</a>, is growing and expanding. <a href="http://federaleagent86.blogspot.com/2017/02/trump-administration-follows-vdare-and.html">VDare.com and this writer</a> have apparently been on the reading lists of influential persons in the Trump Administration, to judge by their actions.The conservative media has also take the cue from the pioneering work at VDare.</p>
 <p>Breitbart has dug into the treasonous bureaucracy at U.S. Citizenship and Immigration Services (USCIS) and identified more saboteurs, something this blog revealed in two important posts [<em><a href="http://www.vdare.com/posts/treason-and-sabotage-immigration-bureaucrats-acted-to-protect-san-bernardino-terrorists">President Trump Will Have Foes In Immigration Bureaucracy—But Also Friends. They Can Help Him Win</a>,</em> by Federale, VDare.com, April 25, 2016 and <em><a href="http://www.vdare.com/articles/president-trump-will-have-foes-in-immigration-bureaucracy-but-also-friends-they-can-help-him-win">Treason and Sabotage: Immigration Bureaucrats Acted To Protect San Bernardino Terrorists</a>,</em> by Federale, VDare.com, July 5, 2016]. Breitbart ups the ante, and identifies major figures in the USCIS bureaucracy who are and will sabotage the Trump reforms at DHS.</p>

@@ -1,23 +1,23 @@
 ---
-title: "Joe Guzzardi  Writes On The DACA “Kids”–I.E. Juvenile Delinquents, Mostly"
+title: Joe Guzzardi  Writes On The DACA “Kids”–I.E. Juvenile Delinquents, Mostly
 date: 2017-02-21 03:08:50 UTC
 created_at: 2017-02-21 03:08:50 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/letters/joe-guzzardi-writes-on-the-daca-kids-i-e-juvenile-delinquents-mostly
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div class="pf-content"><p><strong>Re: Ed Rubenstein Column, <a href="http://www.vdare.com/articles/national-data-deal-with-daca-with-heart-what-about-american-millennials">National Data | “Deal With DACA With Heart”? What About American Millennials?</a></strong></p>
 <p><strong>From: Joe Guzzardi [<a href="mailto:joeguzzardi@capsweb.org">Email him</a>]</strong></p>

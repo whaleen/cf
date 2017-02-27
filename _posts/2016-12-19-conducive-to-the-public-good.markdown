@@ -1,23 +1,23 @@
 ---
-title: "Conducive to the Public Good"
+title: Conducive to the Public Good
 date: 2016-12-19 16:23:43 UTC
 created_at: 2016-12-19 16:23:43 UTC
 layout: post
 kind: article
-author: "Radix Blog"
+author: Radix Blog
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/blog/2016/12/19/conductive-to-the-public-good
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "BLOG -Radix Journal"
+source_blog_name: BLOG -Radix Journal
 source_blog_slug: blog-radix-journal
 source_blog_url: http://www.radixjournal.com/blog/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>This past July, Richard Spencer chalked up an impressive feat for any heretic: <a href="http://therightstuff.biz/2016/07/14/the-perma-ban-of-richard-spencer/">getting perma-banned</a> from an entire country, in this case the UK. In a letter from current Prime Minister Theresa May to Spencer, in which she explained her diktat, May declared Spencer in violation of an “Unacceptable Behavior” policy. More specifically, May cited Spencer’s call for a European homeland on the North American continent as the primary reason for the ban. Without further elaboration or explanation, it was claimed that this call may have somehow fostered intercommunity violence in the UK. Spencer’s very presence in the country was therefore deemed not to be “conducive to the public good.”</p>
 <p>On the other hand, what increasingly appears to be acceptable behavior in the eyes of the British government is the endemic use of hard drugs. As reported by <em><a href="http://www.independent.co.uk/news/uk/home-news/drug-testing-booths-nightclubs-to-check-purity-safety-of-cocaine-and-mdma-a7457791.html">the Independent</a></em>:</p>

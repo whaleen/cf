@@ -1,23 +1,24 @@
 ---
-title: "BRITISH LEFT-WING NEWSPAPER CALLS FOR &quot;RACIST&quot; NOBEL-PRIZE-BASED IMMIGRATION SYSTEM"
+title: BRITISH LEFT-WING NEWSPAPER CALLS FOR &quot;RACIST&quot; NOBEL-PRIZE-BASED
+  IMMIGRATION SYSTEM
 date: 2017-02-09 20:43:00 UTC
 created_at: 2017-02-09 20:43:00 UTC
 layout: post
 kind: article
-author: "Alternative Right"
+author: Alternative Right
 categories: 
 tags: 
 source_post_url: http://alternative-right.blogspot.com/2017/02/british-left-wing-newspaper-calls-for.html
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Alternative Right"
+source_blog_name: Alternative Right
 source_blog_slug: alternative-right
 source_blog_url: http://alternative-right.blogspot.com/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div dir="ltr" style="text-align: left;"><div class="separator" style="clear: both; text-align: center;"><a href="https://4.bp.blogspot.com/-vFv4O81VCgg/WJzRs751CTI/AAAAAAAAVLk/-kgcQW2PAiQ-a3YuyBdGaeJ2O8uQUWPJgCLcB/s1600/aa0b6993ca92cb69bd71e1e0a57d7e60.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="313" src="https://4.bp.blogspot.com/-vFv4O81VCgg/WJzRs751CTI/AAAAAAAAVLk/-kgcQW2PAiQ-a3YuyBdGaeJ2O8uQUWPJgCLcB/s400/aa0b6993ca92cb69bd71e1e0a57d7e60.jpg" width="550"></a></div><div style="text-align: center;"><br></div><div style="text-align: center;">by <span style="font-size: x-large;"><i><a href="http://alt-right-news.blogspot.com/">Alt-Right News</a></i></span></div><br><div style="text-align: justify;">In a reversal of its usual "open borders" globalist-friendly policy, <i>The Independent</i>, a former newspaper that now ekes out a precarious living on the internet, has called for a US immigration policy based on the race and ethnicity of Nobel Prize Winners. <br><br><a name="more"></a>In an article called "<a href="http://www.independent.co.uk/news/world/americas/nobel-prize-winners-immigrants-us-donald-trump-brexit-immigration-racism-post-referendum-racism-a7355406.html">All six of America's 2016 Nobel Prize winners are immigrants</a>," writer Adam Lusher cunningly makes the case for an immigration system that discriminates in favour of the higher-achieving Nobel-prize-winning races, while pretending to be "open borders" boilerplate:</div><blockquote class="tr_bq" style="text-align: justify;"><span style='font-family: "verdana" , sans-serif;'>"Things may just have got a little awkward for politicians engaging in anti-immigrant rhetoric on both sides of the Atlantic: all six of America’s 2016 Nobel Prize winners are immigrants, and some of the laureates themselves have started pointing this out. <br><br>With Donald Trump basing a large part of his presidential campaign on anti-immigrant feeling, and with calls for immigration controls dominating the Brexit debate, Sir J Fraser Stoddart, Scottish-born, naturalised American citizen and 2016 Nobel Chemistry Prize winner, has told a US website: 'I think the United States is what it is today largely because of open borders."</span></blockquote><div style="text-align: justify;">The article, which Lusher sneaked past the paper's PC editors, quotes extensively from an interview with Stoddart, who, intelligent readers will note, is not from some shit-tier Third World country like Mexico or Somalia, but actually from Scotland, an entirely White country that has played a leading role in shaping American history through the high intellect and energy of its emigrants, including the current President's own mother. </div><div style="text-align: justify;"><br></div><div style="text-align: justify;">Stoddart, while espousing the default Leftism that one needs to survive in academia these days, also manages to make clear his admiration for German scientists, many of whom worked for Hitler in the past, and his love for a stronger union between the UK and Germany, even going so far as to wish that he was German:</div><div style="text-align: justify;"><blockquote class="tr_bq"><span style='font-family: "verdana" , sans-serif;'>"I’m kind of exasperated with the level of politics in this country and my old country," he added. "I would be excited about voting if I was in Germany."</span></blockquote></div><div style="text-align: justify;">The article quotes data compiled by Stuart Anderson of the National Foundation for American Policy that found 40% of Nobel Prizes won by Americans in chemistry, medicine, and physics since 2000 were won by immigrants from a handful of White or East Asian populations. These included Japanese, Canadians, Germans, Austrian, Jews, and White South Africans.</div><div style="text-align: justify;"><br></div><div style="text-align: justify;">The article is a clear call to limit immigration from countries that perform badly at the Nobel prize, such as most Latin American countries, all Middle Eastern countries (except Israel), all Sub-Saharan countries (except Whites from South Africa), and many South Asian countries. As such it is probably the most racist article to ever appear in <i>The Independent</i>.<br><br><div style="text-align: center;"><span style="font-family: inherit;"> <img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"></span></div></div></div><img src="http://feeds.feedburner.com/~r/blogspot/SBfLZ/~4/FhtDkhD06SE" height="1" width="1" alt=""><div class="">
     <i>Source: <a href="http://alternative-right.blogspot.com/">Alternative Right</a></i>

@@ -1,23 +1,23 @@
 ---
-title: "Play the Man"
+title: Play the Man
 date: 2016-12-20 22:51:07 UTC
 created_at: 2016-12-20 22:51:07 UTC
 layout: post
 kind: article
-author: "Radix Blog"
+author: Radix Blog
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/blog/2016/12/20/play-the-man
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "BLOG -Radix Journal"
+source_blog_name: BLOG -Radix Journal
 source_blog_slug: blog-radix-journal
 source_blog_url: http://www.radixjournal.com/blog/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <blockquote>
 <p><em>"Play the man, Master Ridley; we shall this day light such a candle, by God's grace, in England, as I trust shall never be put out.”</em></p>

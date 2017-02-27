@@ -1,23 +1,24 @@
 ---
-title: "Pizza &amp; a Movie: Jay Dyer’s Esoteric Guide to Sex, Cults, &amp; Videotape, Part Two"
+title: 'Pizza &amp; a Movie: Jay Dyer’s Esoteric Guide to Sex, Cults, &amp; Videotape,
+  Part Two'
 date: 2017-02-16 18:13:21 UTC
 created_at: 2017-02-16 18:13:21 UTC
 layout: post
 kind: article
-author: "Counter Currents"
+author: Counter Currents
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/pizza-a-movie-part-two/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Counter-Currents Publishing"
+source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>2,718 words<a href="http://www.counter-currents.com/wp-content/uploads/2017/02/2-16-17-1.jpg"><img class="size-medium wp-image-69396 alignright" src="http://www.counter-currents.com/wp-content/uploads/2017/02/2-16-17-1-260x195.jpg" alt="" width="260" height="195"></a></p>
 <p><strong>Part 2 of 3 </strong>(Part 1<a href="http://www.counter-currents.com/2017/02/pizza-a-movie-part-one/"> here</a>)</p>
