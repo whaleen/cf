@@ -1,23 +1,23 @@
 ---
-title: 'The Alt Right: The American Resistance'
+title: "The Alt Right: The American Resistance"
 date: 2016-12-31 17:23:29 UTC
 created_at: 2016-12-31 17:23:29 UTC
 layout: post
 kind: article
-author: Radix Journal
+author: "Radix Journal"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/12/31/the-alt-right-the-american-resistance
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: JOURNAL -Radix Journal
+source_blog_name: "JOURNAL -Radix Journal"
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>The United States is a sick place. In 1958, famous poet Ezra Pound once noted that “America is an insane asylum,” and those words seem truer today than they did back then. Many Americans feel that the United States is in decline. Our culture has become too hedonistic, too materialistic, too degenerate, too apathetic and too nihilistic.</p>
 <p>Massive demographic changes are taking place that will permanently alter the fabric of society. Both men and women are fallen to a large degree from masculine and feminine ideals. Political Correctness has run amok and imposed a set of soft totalitarian speech codes upon our discourse. Our elites appear to be openly hostile to us. </p>

@@ -1,23 +1,23 @@
 ---
-title: Come to Your Sensei
+title: "Come to Your Sensei"
 date: 2017-02-25 04:00:55 UTC
 created_at: 2017-02-25 04:00:55 UTC
 layout: post
 kind: article
-author: Taki Magazine
+author: "Taki Magazine"
 categories: 
 tags: 
 source_post_url: http://takimag.com/article/come_to_your_sensei_taki
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag
-source_blog_name: Taki&#39;s Magazine
+source_blog_name: "Taki&#39;s Magazine"
 source_blog_slug: takis-magazine
 source_blog_url: http://takimag.com/article/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 by Taki Theodoracopulos<br>
 	  

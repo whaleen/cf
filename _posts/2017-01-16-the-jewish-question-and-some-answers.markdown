@@ -1,23 +1,23 @@
 ---
-title: The Jewish Question(and Some Answers)
+title: "The Jewish Question(and Some Answers)"
 date: 2017-01-16 22:52:16 UTC
 created_at: 2017-01-16 22:52:16 UTC
 layout: post
 kind: article
-author: Radix Journal
+author: "Radix Journal"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2017/1/16/the-jewish-questionand-some-answers
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: JOURNAL -Radix Journal
+source_blog_name: "JOURNAL -Radix Journal"
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>The following is an interview I recently conducted with ‘Reactionary Jew’ and ‘The Rebbe,’ two Twitter figures from a small grouping known as the Jewish ‘Alt-Right,’ or ‘Jewish Alternative.’ As someone who has studied Jewish dynamics in White societies for more than a decade, I was interested by recent <a href="http://forward.com/scribe/348466/im-a-jew-and-im-a-member-of-the-alt-right/">media attention</a> in <em>The Forward</em> and elsewhere concerning Josh Seidel, an American Jew who claimed to be part of the Alt-Right. I say interested rather than ‘surprised’ or ‘puzzled’ because history is replete with small numbers of Jews who have pursued, what are from their perspective, ostensibly unusual political and ideological paths. In the most extreme cases, Jews have been pioneers of what has been termed ‘anti-Semitism.’ For example, one of the first great exposures of the anti-Gentile content of the Talmud was carried out in Germany by the 16 th century Jewish apostate <a href="https://en.wikipedia.org/wiki/Johannes_Pfefferkorn">Johannes Pfefferkorn</a>. Between 1507 and 1521 Pfefferkorn acted like a kind of early modern Andrew Anglin, printing more pamphlets (in both German and Latin) attacking Jewish behavior than any other author. He demanded that Jews cease their practice of usury, and aggressively upbraided them for what may be loosely described as a range of ‘anti-social’ behaviors.</p>
 <p>Despite his great zeal in anti-Jewish activity, because of his origins Pfefferkorn was the object of much distrust, derision, and suspicion by his contemporaries. The same responses have been evident in relation to the small collective of Jewish nationalists seeking shade under the Alt-Right umbrella. Hostile non-Jewish responses are, given the sobering weight of grim history between our peoples, predictable, justified, and eminently sensible. The threat of infiltration, co-option, and misdirection is very real. I have composed <a href="http://www.theoccidentalobserver.net/2016/09/jews-versus-the-alt-right-lessons-from-history/">essays</a> explicitly dealing with this subject from a historical perspective, and I have advocated for the exclusion of Jews from the life of our movement for the sake of its ideological and material integrity. Possessing an eye for historical context, I didn’t like Seidel’s use of the term ‘Alt-Right’ to describe what he is, or what he claims to be. Seidel may well be a reactionary of sorts, and he may well be opposed to much of the agenda of the mainstream Jewish community. However, that does not make him a part of the Alt-Right, a movement which is, in the main, an outgrowth of European ethno-nationalism. He can no more be part of the Alt-Right than I can be a part of the Chabad-Lubavitch sect. The Alt-Right is not a social club. It is the organic expression of national will – the will of the best elements of the European peoples.</p>

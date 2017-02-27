@@ -1,23 +1,23 @@
 ---
-title: 'Safety Pin Resistance '
+title: "Safety Pin Resistance "
 date: 2016-12-27 14:51:43 UTC
 created_at: 2016-12-27 14:51:43 UTC
 layout: post
 kind: article
-author: Radix Journal
+author: "Radix Journal"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/12/27/safety-pin-resistance
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: JOURNAL -Radix Journal
+source_blog_name: "JOURNAL -Radix Journal"
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>Ah, the late 90s. Rosie O’Donnell was “<a href="https://pbs.twimg.com/media/CnbbcHBXgAAB5Bs.jpg">the queen of nice</a>.” Ellen Degeneres was controversial, rather than the comforting television friend of housewives who want to watch Hillary Clinton awkwardly dancing to hip-hop. And Keith Olbermann was the guy from the Boston Market commercials, making fun of self-important, fashion-conscious poseurs by telling them to “eat something!”   </p>
 <p>Now, the failed sportscaster who used to rhapsodize about the joys of “four ooey-gooey cheeses” has proclaimed himself the head of “The Resistance,” striking what is presumably <a href="https://twitter.com/JBurtonXP/status/808774462992687104">meant to be a defiant pose</a> wrapped in an American flag. Unfortunately, he looks more like a homeless man covering himself while he self-abuses and leers at passersby. </p>

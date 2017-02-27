@@ -1,24 +1,23 @@
 ---
-title: 'MMem From Middle America: MSM Complains That Trump Raids Sow Fear Among Immigrants.
-  Yes, So What’s The Problem?'
+title: "MMem From Middle America: MSM Complains That Trump Raids Sow Fear Among Immigrants. Yes, So What’s The Problem?"
 date: 2017-02-27 02:45:22 UTC
 created_at: 2017-02-27 02:45:22 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/mmem-from-middle-america-msm-complains-that-trump-raids-sow-fear-among-immigrants-yes-so-whats-the-problem
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <div class="pf-content"><p>Immigration and Customs Enforcement is <a href="http://www.vdare.com/posts/the-trump-effect-federal-officials-are-actually-enforcing-the-law">launching raids and detentions of illegal aliens</a>, leading invaders to fear an “enforcement surge” [<a href="https://www.nytimes.com/2017/02/10/us/immigration-raids-enforcement.html?_r=3"><em>Reports of raids have immigrants bracing for enforcement surge</em></a><em>, </em>by Nicholas Kulish, Caitlin Dickerson and Liz Robbins, <em>New York Times, </em>February 10, 2017]. ICE is downplaying it, calling it “targeted enforcement action,” no different than what was done during the Obama years. But it appears there is a real shift and illegals are right to be concerned.</p>
 <p>And as Americans, we want illegal aliens to be concerned.</p>

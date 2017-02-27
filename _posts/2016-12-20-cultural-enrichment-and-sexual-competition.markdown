@@ -4,20 +4,20 @@ date: 2016-12-20 14:50:00 UTC
 created_at: 2016-12-20 14:50:00 UTC
 layout: post
 kind: article
-author: Radix Journal
+author: "Radix Journal"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/12/20/cultural-enrichment-and-sexual-competition
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: JOURNAL -Radix Journal
+source_blog_name: "JOURNAL -Radix Journal"
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p><strong>Editor's Note: </strong><em><span>Adapted from an address to NPI’s 2016 Conference by F. Roger Devlin</span></em></p><p>Thank you all. And thank you to Richard for inviting me to speak to you today. I have a lot of matters I would like to address, so this talk may get a little disjointed. But I think we can live with that. Many of you have probably seen my byline but not know me by sight. I write a lot about men and women and their mutual relations. Sometimes the men in our movement fail to appreciate sufficiently the relevance of this subject to our political struggle as a people. Women don’t usually have that problem. They know that they control the perpetuation of our race, and in the final analysis, that’s almost all that matters. Feminists are the ones who like to say that the personal is political, and on this point at least, they are correct. </p>
 <p>Today, I would like to begin by drawing your attention to an article published in a Norwegian newspaper three and a half years ago. [A translation of the original article can be found <a href="http://gatesofvienna.net/2013/05/everything-you-have-learned-in-school-is-wrong/">here</a>.] Those of you who have been in our movement that long may remember the flurry of discussion it occasioned at the time. The article appeared in one of the few Norwegian publications not dependent on government subsidies, and therefore free to tell the truth about the situation in that country. It was based on interviews with two young men from Grorudalen, a suburban area outside Oslo that has enjoyed more cultural enrichment than any other place in that country, mostly Pakastani and Somali Muslims. The two young men reflect on the challenges of coming to manhood in such an environment.</p>

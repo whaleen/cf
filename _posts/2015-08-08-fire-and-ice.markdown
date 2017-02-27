@@ -1,23 +1,23 @@
 ---
-title: Fire and Ice
+title: "Fire and Ice"
 date: 2015-08-08 20:36:22 UTC
 created_at: 2015-08-08 20:36:22 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/8/8/fire-and-ice
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>Peter Brimelow of <a href="http://www.vdare.com">VDARE.com</a> joins Richard to discuss the 2016 Republican candidates, the Donald Trump phenomenon, the 20th anniversary of his book <em>Alien Nation</em>, and why the immigration reform movement failed.    </p><h3 id="notes">NOTES</h3>
 

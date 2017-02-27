@@ -1,23 +1,23 @@
 ---
-title: Under the Rainbow
+title: "Under the Rainbow"
 date: 2015-02-17 22:14:48 UTC
 created_at: 2015-02-17 22:14:48 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/2/17/under-the-rainbow
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>John, Roman, and Richard discuss Stanley Kubrick’s final film, <em>Eyes Wide Shut</em> (1999), as well as its themes of conspiracy, male and female sexualities, duplicity, and the history of the bourgeoisie.  </p>
 

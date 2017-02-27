@@ -1,23 +1,23 @@
 ---
-title: A Woman&#39;s Touch
+title: "A Woman&#39;s Touch"
 date: 2017-02-02 16:13:31 UTC
 created_at: 2017-02-02 16:13:31 UTC
 layout: post
 kind: article
-author: Radix Blog
+author: "Radix Blog"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/blog/2017/2/2/a-womans-touch
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: BLOG -Radix Journal
+source_blog_name: "BLOG -Radix Journal"
 source_blog_slug: blog-radix-journal
 source_blog_url: http://www.radixjournal.com/blog/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p><strong>Editor's Note:</strong> Recently <em>the Economist</em> had <a href="http://www.economist.com/blogs/democracyinamerica/2017/02/no-women-s-march">a brief article</a> on women and the Alt Right. Our very own Cecilia Davenport was quoted, however, the results were a bit...economized. We've taken the liberty of reproducing Ms. Davenport's full answers to the magazine below:</p>
 <blockquote>

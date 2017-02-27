@@ -1,23 +1,23 @@
 ---
-title: The Winter of Our Discontent
+title: "The Winter of Our Discontent"
 date: 2017-01-02 00:45:45 UTC
 created_at: 2017-01-02 00:45:45 UTC
 layout: post
 kind: article
-author: Radix Blog
+author: "Radix Blog"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/blog/2017/1/1/the-winter-of-our-discontent
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: BLOG -Radix Journal
+source_blog_name: "BLOG -Radix Journal"
 source_blog_slug: blog-radix-journal
 source_blog_url: http://www.radixjournal.com/blog/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <blockquote>
 <p>“The fate of our times is characterized by rationalization and intellectualization, and, above all, by the ‘disenchantment of the world.’ Precisely the ultimate and most sublime values have retreated from public life either into the transcendental realm of mystic life or into the brotherliness of direct and personal human relations.” —Max Weber, <em>The Protestant Ethic and the Spirit of Capitalism</em></p>

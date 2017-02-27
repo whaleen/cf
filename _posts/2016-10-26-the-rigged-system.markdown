@@ -1,23 +1,23 @@
 ---
-title: The Rigged System
+title: "The Rigged System"
 date: 2016-10-26 19:10:23 UTC
 created_at: 2016-10-26 19:10:23 UTC
 layout: post
 kind: article
-author: Radix Journal
+author: "Radix Journal"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/10/26/the-rigged-system
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: JOURNAL -Radix Journal
+source_blog_name: "JOURNAL -Radix Journal"
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>It’s amazing what liberals find “horrifying.” More men than women working in science and engineering fields is “<a href="http://www.motherjones.com/blue-marble/2013/03/science-gender-gap">horrifying</a>.” Bernie Sanders supporters not voting for Hillary is “<a href="http://www.vox.com/2016/7/1/12077846/daily-show-sanders-trump-jessica-williams">horrifying</a>.” <a href="http://www.radixjournal.com/journal/2014/11/14/the-courts-jester">John Oliver</a> thinks making fun of Anita Sarkeesian is “<a href="http://www.salon.com/2015/06/22/john_oliver_exposes_the_horrifying_world_of_online_harassment_if_you_dont_think_its_a_big_deal_congrats_on_your_white_penis/">horrifying</a>.” Making jokes about Leslie Jones (of affirmative action Ghostbusters fame) and leaking her nude photos is <a href="http://www.eonline.com/news/781208/leslie-jones-horrifying-twitter-experience-needs-to-be-talked-about">horrifying</a> (all right, I’ll agree with that last one, albeit for different reasons than the journalists). </p>
 <p>But the most “horrifying” thing to leftists today is Trump. <em>Vox</em> has a new “<a href="http://www.vox.com/results?cref=http%3A%2F%2Fcdn0.vox-cdn.com%2Fvox%2Fcse%2Fvox_cse.xml&amp;cof=FORID%3A9&amp;q=horrifying&amp;sa=">horrifying</a>” article about The Donald every week. And the thing that’s <a href="https://twitter.com/voxdotcom/status/785151601019199488">really scaring them </a>is the idea that Trump won’t concede if he loses. </p>

@@ -1,23 +1,23 @@
 ---
-title: Trump, Sweden, And Our Ableist, Insulated Media
+title: "Trump, Sweden, And Our Ableist, Insulated Media"
 date: 2017-02-26 03:09:29 UTC
 created_at: 2017-02-26 03:09:29 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/trump-sweden-and-our-ableist-insulated-media
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <div class="pf-content"><p><span style="color: #993300;">[<em>Adapted from the latest Radio Derb, now available <a href="http://www.vdare.com/radios">exclusively </a>on VDARE.com.</em>]</span></p>
 <p>The Fake News story of the week also offered insights into just how insulated from reality our <a href="http://www.vdare.com/articles/john-derbyshire-cecil-the-lion-and-the-goodwhite-badwhite-cold-civil-war">Goodwhites </a>are. It started with President Trump telling <a href="https://www.nytimes.com/2017/02/19/world/europe/last-night-in-sweden-trumps-remark-baffles-a-nation.html">a rally in Florida</a> last Saturday that:</p>

@@ -1,23 +1,23 @@
 ---
-title: Normal
+title: "Normal"
 date: 2017-01-06 20:11:57 UTC
 created_at: 2017-01-06 20:11:57 UTC
 layout: post
 kind: article
-author: Radix Journal
+author: "Radix Journal"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2017/1/6/normal
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: JOURNAL -Radix Journal
+source_blog_name: "JOURNAL -Radix Journal"
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>A professor <a href="http://dailycaller.com/2016/12/26/drexel-white-genocide-prof-wont-apologize-says-violent-racists-smearing-him/">brags about his desire to genocide an entire race</a>. He is the victim. Those who notice what he’s done are evil because “White genocide” is somehow both a <a href="http://www.alternet.org/human-rights/debunking-latest-breitbart-promoted-right-wing-racist-paranoid-buzzword">myth</a> and a self-evident good.</p>
 <p>Members of a group who commit wildly disproportionate violence against both their own and other peoples are occasionally shot by police while committing crimes. This is “<a href="http://www.breitbart.com/california/2016/10/10/black-lives-matter-accuses-police-of-genocide-at-uc-irvine/">genocide</a>” against this group. Those who deny it <a href="https://www.youtube.com/watch?v=xgHEeLXiB18">have death wished upon them</a> by thousands of people. Those who make these threats are praised for doing so.</p>

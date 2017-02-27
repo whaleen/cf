@@ -1,23 +1,23 @@
 ---
-title: A Day of Honor
+title: "A Day of Honor"
 date: 2017-02-17 02:27:27 UTC
 created_at: 2017-02-17 02:27:27 UTC
 layout: post
 kind: article
-author: Counter Currents
+author: "Counter Currents"
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/a-day-of-honor/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: Counter-Currents Publishing
+source_blog_name: "Counter-Currents Publishing"
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>3,445 words<a href="http://www.counter-currents.com/wp-content/uploads/2017/02/2-16-17-3.jpg"><img class="alignright wp-image-69406 size-medium" src="http://www.counter-currents.com/wp-content/uploads/2017/02/2-16-17-3-260x195.jpg" width="260" height="195"></a></p>
 <p>Recently, I had the privilege of being invited to participate in this year’s “Day of Honor” events by some of the leaders of the Hungarian <em>Hatvannégy Vármegye Ifjúsági Mozgalom</em> (HVIM), or Sixty-Four Counties Youth Movement,<span id="more-69401"></span> which is a nationalist cultural and metapolitical organization.  The Day of Honor refers to February 11, which was the date in 1945 when the surviving soldiers of the Hungarian Army and their German allies attempted to break out of the city at the end of the Battle of Budapest, and more generally to Hungary’s honoring of its commitment to its German ally in the war. HVIM is one of several groups which organizes and supervises the events each year, and sixty-four counties refers not just to the counties which currently make up Hungary, but also to those which made up what is known as “Greater Hungary” prior to the Treaty of Trianon in 1920, which deprived Hungary of seventy percent of its territory as punishment for its role as one of the Central Powers in the First World War. To this day, millions of ethnic Hungarians are still living in these areas, and HVIM seeks to represent all of them.</p>

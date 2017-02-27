@@ -1,23 +1,23 @@
 ---
-title: The Importance of Being Earnest
+title: "The Importance of Being Earnest"
 date: 2014-12-26 02:31:09 UTC
 created_at: 2014-12-26 02:31:09 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2014/12/25/the-importance-of-being-earnest
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>John, Richard, and Roman discuss Stanley Kubrick’s 1975 masterpiece, <em>Barry Lyndon</em>. </p>
 

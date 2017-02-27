@@ -1,23 +1,23 @@
 ---
-title: Robert Reich Is on a Hot Streak–Blames TRUMP For Swedish Immigrant Riots
+title: "Robert Reich Is on a Hot Streak–Blames TRUMP For Swedish Immigrant Riots"
 date: 2017-02-23 04:49:57 UTC
 created_at: 2017-02-23 04:49:57 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/robert-reich-is-on-a-hot-streak-blames-trump-for-swedish-immigrant-riots
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <div class="pf-content"><div class="entry">
 <article class="section"><a href="http://archive.is/ak7mj"><img class="alignnone  wp-image-79380" src="http://www.unzcloud.com/wp-content/uploads/2017/02/Screenshot-2017-02-22-19.11.38.png" alt="Screenshot 2017-02-22 19.11.38" width="273" height="508"></a><p></p><div id="57966237cc52c74a5e1363c4" class="vdb_player vdb_57966237cc52c74a5e1363c456bcd17ce4b018167fea5539">    </div>

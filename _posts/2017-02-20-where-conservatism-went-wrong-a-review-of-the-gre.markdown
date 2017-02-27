@@ -1,24 +1,23 @@
 ---
-title: 'Where Conservatism Went Wrong: A Review of The Great Purge: The Deformation
-  of the Conservative Movement'
+title: "Where Conservatism Went Wrong: A Review of The Great Purge: The Deformation of the Conservative Movement"
 date: 2017-02-20 17:11:32 UTC
 created_at: 2017-02-20 17:11:32 UTC
 layout: post
 kind: article
-author: Counter Currents
+author: "Counter Currents"
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/where-conservatism-went-wrong/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: Counter-Currents Publishing
+source_blog_name: "Counter-Currents Publishing"
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>2,310 words<a href="http://www.counter-currents.com/wp-content/uploads/2017/02/2-20-17-1.jpg"><img class="size-medium wp-image-69463 alignright" src="http://www.counter-currents.com/wp-content/uploads/2017/02/2-20-17-1-200x300.jpg" alt="" width="200" height="300"></a></p>
 <p><span class="a-size-small a-color-secondary">Paul E. Gottfried &amp; </span><span class="a-size-small a-color-secondary">Richard B. Spencer (eds.)</span><br>

@@ -1,23 +1,23 @@
 ---
-title: 'Fed Failure: What That Attack On Betsy DeVos Says About Civil War II'
+title: "Fed Failure: What That Attack On Betsy DeVos Says About Civil War II"
 date: 2017-02-21 03:10:57 UTC
 created_at: 2017-02-21 03:10:57 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/articles/fed-failure-what-that-attack-on-betsy-devos-says-about-civil-war-ii
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <div class="pf-content"><p>VDARE.com’s <a href="http://www.vdare.com/users/james-fulford">James Fulford</a> recently <a href="http://www.vdare.com/posts/washington-post-reports-betsy-devos-has-to-be-guarded-by-us-marshals-after-campaign-of-hate-by-the-washington-post">noted</a> that the new Secretary of Education, Betsy DeVos, had to have her security detail augmented by the U.S. Marshals Service as a result of an <a href="http://www.vdare.com/articles/the-fulford-file-by-james-fulford-91">attack by thugs</a> from <a href="http://www.vdare.com/posts/governor-scott-walkers-victory-in-the-wisconsin-recall-vindicates-peter-brimelow">the teachers unions</a>, cheered on by the <em>Washington Post</em>.[ <a href="https://www.washingtonpost.com/local/education/betsy-devos-is-now-being-guarded-by-us-marshals/2017/02/17/7dc341f4-f54b-11e6-8d72-263470bf0401_story.html?tid=pm_local_pop"><em>Betsy DeVos being guarded by U.S. Marshals Service</em></a>, By Danielle Douglas-Gabriel and Emma Brown, <em>Washington Post,</em> February 17, 2017] But the recent attack on DeVos was more significant than most have realized.  The American political order is breaking down, and the <a href="http://www.vdare.com/articles/it-will-come-to-blood-reflections-on-the-lefts-anti-trump-inauguration-tantrum">blood in the streets</a> will be real.</p>
 <p>Some background:  After <a href="http://www.vdare.com/posts/the-irrelevance-of-911-2016-version">9/11,</a> provision of protective details for cabinet officers and other heads of government agencies was all the rage.  Generally, there had not been a protective detail unless there was a real threat.  Usually it was just for prestige and the ability to move through traffic with lights and sirens.</p>

@@ -1,23 +1,23 @@
 ---
-title: The Napoleon of the Current Year
+title: "The Napoleon of the Current Year"
 date: 2016-11-03 04:56:36 UTC
 created_at: 2016-11-03 04:56:36 UTC
 layout: post
 kind: article
-author: Radix Journal
+author: "Radix Journal"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/11/3/the-napoleon-of-the-current-year
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: JOURNAL -Radix Journal
+source_blog_name: "JOURNAL -Radix Journal"
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>We should all be grateful to Donald J. Trump. For he saved us from the tedious inevitability of an electoral season. </p>
 <p>He saved us from a year of Republican electioneering, featuring candidates seemingly chosen for their repulsive, annoying, or sleep-inducing qualities.</p>

@@ -1,23 +1,23 @@
 ---
-title: The Forgotten War
+title: "The Forgotten War"
 date: 2014-07-25 00:03:29 UTC
 created_at: 2014-07-25 00:03:29 UTC
 layout: post
 kind: article
-author: BOWDEN
+author: "BOWDEN"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/bowden/2014/7/24/the-forgotten-war
 source_twitter_url: http://twitter.com/NPIAmerica
 source_twitter: NPIAmerica
-source_blog_name: BOWDEN! -Radix Journal
+source_blog_name: "BOWDEN! -Radix Journal"
 source_blog_slug: bowden-radix-journal
 source_blog_url: http://www.radixjournal.com/bowden/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p><em>Original Broadcast: March 1, 2012</em></p>
 

@@ -1,23 +1,23 @@
 ---
-title: 'Radio Derb On The Air: Hillary’s Alternate Reality, Etc.'
+title: "Radio Derb On The Air: Hillary’s Alternate Reality, Etc."
 date: 2017-02-25 05:22:17 UTC
 created_at: 2017-02-25 05:22:17 UTC
 layout: post
 kind: article
-author: V Dare
+author: "V Dare"
 categories: 
 tags: 
 source_post_url: https://www.vdare.com/posts/radio-derb-on-the-air-hillarys-alternate-reality-etc
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: VDARE – premier news outlet for patriotic immigration reform
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <div class="pf-content"><p>Radio Derb is on the air–go <a href="http://www.vdare.com/radios/radio-derb-milo-and-me-cpac-purges-spencer-alan-colmes-rip-etc">here </a>to listen, <a href="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/02/24234911/2017-02-24.mp3">here </a>to download the MP3. Sample:</p>
 <p>Meanwhile in these United States, supporters of Mrs Clinton in last year’s election continue to struggle with their grief.</p>

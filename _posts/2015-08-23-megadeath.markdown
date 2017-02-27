@@ -1,23 +1,23 @@
 ---
-title: Megadeath
+title: "Megadeath"
 date: 2015-08-23 05:35:08 UTC
 created_at: 2015-08-23 05:35:08 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/8/23/megadeath
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>Roman Bernard and John Morgan join Richard to discuss Stanley Kubrick’s <em>Dr. Strangelove</em> (1964), how nuclear policy is impossible to parody, and the past and future of total destruction.     </p><p><strong>NOTES:</strong></p>
 
