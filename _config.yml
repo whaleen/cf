@@ -1,7 +1,8 @@
 # url: http://localhost:3000
-# 
+#
 url: http://www.codefurniture.us
-name: CF
+# baseurl: http://www.codefurniture.us
+name: Code Furniture
 description: "Western Nationalism"
 markdown: redcarpet
 highlighter: pygments # or rouge or null
@@ -16,3 +17,7 @@ collections:
     output: true
     output_ext: .html
     permalink: /books/:path/
+
+locale: en_US # language_territory is the default
+avatar: "cf-avatar.jpg"
+twitter: "codefurniture" # Don't include @
