@@ -1,23 +1,23 @@
 ---
-title: "Antifa: An Obituary"
+title: 'Antifa: An Obituary'
 date: 2017-01-26 15:25:33 UTC
 created_at: 2017-01-26 15:25:33 UTC
 layout: post
 kind: article
-author: "Radix Journal"
+author: Radix Journal
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2017/1/26/antifa-an-obituary
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "JOURNAL -Radix Journal"
+source_blog_name: JOURNAL -Radix Journal
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <blockquote>
 <p>"What's equality? Muck in the yard,

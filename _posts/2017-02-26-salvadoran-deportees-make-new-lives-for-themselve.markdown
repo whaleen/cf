@@ -1,23 +1,24 @@
 ---
-title: "Salvadoran Deportees Make New Lives for Themselves at Home"
+title: Salvadoran Deportees Make New Lives for Themselves at Home
 date: 2017-02-26 22:37:47 UTC
 created_at: 2017-02-26 22:37:47 UTC
 layout: post
 kind: article
-author: "V Dare"
+author: V Dare
 categories: highlighted
-tags:
+tags: 
 source_post_url: https://www.vdare.com/posts/salvadoran-deportees-make-new-lives-for-themselves-at-home
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
-source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
-source_image_url:
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
-feature-img:
-excerpt: 'There aren’t many stories about deportees and their experiences after they arrive in their homelands, so a decent follow-on article can be interesting.'
+source_image_url: 
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
+feature-img: 
+excerpt: There aren’t many stories about deportees and their experiences after they
+  arrive in their homelands, so a decent follow-on article can be interesting.
 ---
 <div class="pf-content"><p>There aren’t many stories about deportees and their experiences after they arrive in their homelands, so a decent follow-on article can be interesting. <em>The LA Times</em>’ Sunday front-pager checked in with several deported Salvadorans and the results were mixed — some are doing well and others not.</p>
 <p><img src="http://www.limitstogrowth.org/ltg-uploads/2017/02/SalvadorDeporteesSomeThrive-latFPfeb26.png"></p>

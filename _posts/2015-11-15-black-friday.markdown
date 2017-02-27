@@ -1,23 +1,23 @@
 ---
-title: "Black Friday"
+title: Black Friday
 date: 2015-11-15 22:08:07 UTC
 created_at: 2015-11-15 22:08:07 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/11/15/black-friday
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>Roman Bernard joins Richard to relay his experience in Paris during the recent terrorist attacks and discuss the symbolism of violence and potential for a European awakening.</p><ul>
 <li><a href="http://www.radixjournal.com/journal/becoming-a-people-again">Becoming a People Again</a>, by Roman Bernard</li>

@@ -1,23 +1,23 @@
 ---
-title: "Project Mayhem"
+title: Project Mayhem
 date: 2013-01-14 04:13:00 UTC
 created_at: 2013-01-14 04:13:00 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/podcast/2013/1/28/project-mayhem
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <img class="thumb-image" alt="attachment-51074c74e4b0176d1d4709ca" src="https://static1.squarespace.com/static/51c946cde4b0f05142538988/5298e223e4b008c3d680f470/5298e280e4b008c3d680f85d/1385751292926/FightClub.jpg?format=1000w">
           

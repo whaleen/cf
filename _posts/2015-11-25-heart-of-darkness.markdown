@@ -1,23 +1,23 @@
 ---
-title: "Heart of Darkness"
+title: Heart of Darkness
 date: 2015-11-25 18:13:07 UTC
 created_at: 2015-11-25 18:13:07 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/11/25/heart-of-darkness
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>Adrian Davies joins Richard to discuss the recent Paris attacks, race and citizenship, as well as geopolitics and the future of Europe.   </p>
 

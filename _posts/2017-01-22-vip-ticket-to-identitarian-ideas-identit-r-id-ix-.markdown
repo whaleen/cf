@@ -1,23 +1,24 @@
 ---
-title: "VIP ticket to Identitarian Ideas (Identitär Idé) IX: Conference in Stockholm on February 25th"
+title: 'VIP ticket to Identitarian Ideas (Identitär Idé) IX: Conference in Stockholm
+  on February 25th'
 date: 2017-01-22 00:35:29 UTC
 created_at: 2017-01-22 00:35:29 UTC
 layout: post
 kind: article
-author: "Arktos"
+author: Arktos
 categories: 
 tags: 
 source_post_url: http://arktos.com/product/vip-ticket-to-identitarian-ideas-identitar-ide-ix-conference-in-stockholm-on-february-25th/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Arktos"
+source_blog_name: Arktos
 source_blog_slug: arktos
 source_blog_url: http://arktos.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p><span class="text-highlight"><strong>Note:</strong> Tickets cannot be bought together with other products in our store.  Also, the phone number you enter during checkout must be a mobile phone number.</span></p>
 <p>VIP ticket to Identitarian Ideas IX, a conference arranged by the Scandinavian think tank Motpol. The conference takes place in Stockholm, Sweden, on February 25th, 2017. The program will end at approximately midnight.</p>

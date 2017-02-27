@@ -1,23 +1,23 @@
 ---
-title: "Red Ice Radio: ‘Money Power: Globalism &amp; Economics’"
+title: 'Red Ice Radio: ‘Money Power: Globalism &amp; Economics’'
 date: 2017-02-24 10:14:55 UTC
 created_at: 2017-02-24 10:14:55 UTC
 layout: post
 kind: article
-author: "Arktos News"
+author: Arktos News
 categories: 
 tags: 
 source_post_url: http://arktos.com/2017/02/24/red-ice-radio-money-power-globalism-economics/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "News – Arktos"
+source_blog_name: News – Arktos
 source_blog_slug: news-arktos
 source_blog_url: http://arktos.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p><strong><em>Posted at <a href="https://redice.tv/red-ice-radio/money-power-globalism-and-economics">redice.tv</a>:</em></strong></p>
 <p>Ålandic economist <a href="http://arktos.com/people/isac-boman/">Isac Boman</a> is the author of <a href="http://arktos.com/product/money-power-a-force-for-freedom-or-slavery/"><i>Money Power: A Force for Freedom or Slavery?</i></a>. Boman’s <a href="http://arktos.com/product/penningmakten-ett-medel-for-frihet-eller-slaveri/">original book</a> on monetary theory is based on his Master’s thesis at Åbo Akademi University in 2015, which he wrote while working as a back-office manager at the Bank of Åland. Currently, he is mainly seen as a columnist for Nya Dagbladet – one of the more prominent non-establishment media platforms in Sweden.</p>

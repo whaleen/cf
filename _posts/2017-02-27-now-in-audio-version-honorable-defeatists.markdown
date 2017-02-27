@@ -1,23 +1,23 @@
 ---
-title: "Now in Audio Version!Honorable Defeatists"
+title: Now in Audio Version!Honorable Defeatists
 date: 2017-02-27 08:00:22 UTC
 created_at: 2017-02-27 08:00:22 UTC
 layout: post
 kind: article
-author: "Counter Currents"
+author: Counter Currents
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/honorable-defeatists/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Counter-Currents Publishing"
+source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/DaliMetamorphosisCrop2.jpg"><img class="alignright size-medium wp-image-68898" src="http://www.counter-currents.com/wp-content/uploads/2017/02/DaliMetamorphosisCrop2-206x300.jpg" alt="" width="206" height="300"></a>845 words / 5:42</p>
 <p><strong>Audio Version</strong>: To listen in a player, click <a href="http://cdn.counter-currents.com/radio/HonorableDefeatists.mp3">here</a>. To download the mp3, right-click <a href="http://cdn.counter-currents.com/radio/HonorableDefeatists.mp3">here</a> and choose “save target or link as.” To subscribe to our podcasts, click <a>here</a> for iTunes and <a href="http://www.counter-currents.com/feed/">here</a> for RSS.</p>

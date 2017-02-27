@@ -1,23 +1,23 @@
 ---
-title: "Allies of Color"
+title: Allies of Color
 date: 2015-12-08 06:45:47 UTC
 created_at: 2015-12-08 06:45:47 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2015/12/8/allies-of-color
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>Nathan Damigo of The Nameless Organization joins Richard to discuss the White Student Union phenomenon. </p><p><a href="http://whitegenocideproject.com/national-youth-front-confronts-white-genocidist-professor-kevin-allred-of-rutgers-university/">National Youth Front (NYF) at Rutgers</a> <br>
 <a href="http://www.usatoday.com/story/news/nation/2015/03/30/prof-receives-hate-mail-over-problem-of-whiteness/70697394/">NYF in <em>USA Today</em></a> <br>

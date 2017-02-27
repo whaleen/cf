@@ -1,23 +1,23 @@
 ---
-title: "Greg Johnson &amp; John MorganThe Films of David Lynch, Part 2"
+title: Greg Johnson &amp; John MorganThe Films of David Lynch, Part 2
 date: 2017-02-15 10:46:24 UTC
 created_at: 2017-02-15 10:46:24 UTC
 layout: post
 kind: article
-author: "Counter Currents"
+author: Counter Currents
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/the-films-of-david-lynch-part-2/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Counter-Currents Publishing"
+source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>85:24 / 64 words</p>
 <p><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/LynchOlder.jpg"><img class="alignright size-medium wp-image-69342" src="http://www.counter-currents.com/wp-content/uploads/2017/02/LynchOlder-260x269.jpg" alt="" width="260" height="269"></a>Part 2 of 2</p>

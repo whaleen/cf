@@ -1,23 +1,23 @@
 ---
-title: "Cashing in on Emmett Till"
+title: Cashing in on Emmett Till
 date: 2017-02-22 05:00:43 UTC
 created_at: 2017-02-22 05:00:43 UTC
 layout: post
 kind: article
-author: "Counter Currents"
+author: Counter Currents
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/cashing-in-on-emmett-till/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Counter-Currents Publishing"
+source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/emmett-trayvon-5.jpg"><img class="alignright wp-image-69482 size-medium" src="http://www.counter-currents.com/wp-content/uploads/2017/02/emmett-trayvon-5-260x269.jpg" width="260" height="269"></a>1,745 words</p>
 <p>Emmett Till was killed more than sixty years ago, but he’s a hotter property than ever. Scarcely a year goes by without yet another book or documentary recounting the tale of the hefty black youth from Chicago who got beaten and shot in Mississippi in 1955, for the mild transgression of “whistling at”—and physically molesting—a young white woman in a country store. <span id="more-69481"></span>According to <a href="http://variety.com/2015/film/news/whoopi-goldberg-emmett-till-movie-1201573444/"><em>Variety</em></a> and the <em><a href="https://www.nytimes.com/2016/08/31/movies/in-era-of-black-lives-matter-films-focus-on-emmett-till-lynching.html">New York Times</a></em>, there are now two feature films in the works, one of them produced by Whoopi Goldberg. We can also look forward to a six-part HBO series on the Till story, brought to us by the eminent Jay-Z and Will Smith.</p>

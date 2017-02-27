@@ -1,23 +1,23 @@
 ---
-title: "Red Ice Radio: ‘The Consequences of Equality’ with Matthew S. Battaglioli"
+title: 'Red Ice Radio: ‘The Consequences of Equality’ with Matthew S. Battaglioli'
 date: 2017-01-27 07:08:58 UTC
 created_at: 2017-01-27 07:08:58 UTC
 layout: post
 kind: article
-author: "Arktos News"
+author: Arktos News
 categories: 
 tags: 
 source_post_url: http://arktos.com/2017/01/27/red-ice-radio-the-consequences-of-equality-with-matthew-s-battaglioli/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "News – Arktos"
+source_blog_name: News – Arktos
 source_blog_slug: news-arktos
 source_blog_url: http://arktos.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p><strong><em>Posted on </em><a href="https://redice.tv/red-ice-radio/the-consequences-of-equality">redice</a><em>.tv:</em></strong></p>
 <div id="attachment_1850" style="width: 204px" class="wp-caption alignright"><a href="http://arktos.com/product/the-consequences-of-equality/"><img class="wp-image-1850 size-medium" src="http://arktos.com/wp-content/uploads/2017/01/The-Consequences-of-Equality-0.jpg" width="194" height="300"></a><p class="wp-caption-text">“<a href="http://arktos.com/product/the-consequences-of-equality/">The Consequences of Equality</a>” (Arktos, 2016).</p></div>

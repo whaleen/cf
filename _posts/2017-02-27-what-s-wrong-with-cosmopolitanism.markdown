@@ -1,23 +1,23 @@
 ---
-title: "What’s Wrong with Cosmopolitanism?"
+title: What’s Wrong with Cosmopolitanism?
 date: 2017-02-27 08:13:53 UTC
 created_at: 2017-02-27 08:13:53 UTC
 layout: post
 kind: article
-author: "Counter Currents"
+author: Counter Currents
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/whats-wrong-with-cosmopolitanism/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Counter-Currents Publishing"
+source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div id="attachment_69545" style="width: 270px" class="wp-caption alignright"><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/diogenes_04.jpg"><img class="wp-image-69545 size-medium" src="http://www.counter-currents.com/wp-content/uploads/2017/02/diogenes_04-260x260.jpg" width="260" height="260"></a><p class="wp-caption-text">John William Waterhouse, <em>Diogenes</em>, 1882, detail</p></div>
 <p>3,473 words / 25:47</p>

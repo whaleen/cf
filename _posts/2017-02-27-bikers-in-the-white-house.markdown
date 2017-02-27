@@ -1,23 +1,23 @@
 ---
-title: "Bikers in the White House"
+title: Bikers in the White House
 date: 2017-02-27 04:06:05 UTC
 created_at: 2017-02-27 04:06:05 UTC
 layout: post
 kind: article
-author: "Taki Magazine"
+author: Taki Magazine
 categories: 
 tags: 
 source_post_url: http://takimag.com/article/bikers_in_the_white_house_joe_bob_briggs
 source_twitter_url: http://twitter.com/takimag
 source_twitter: takimag
-source_blog_name: "Taki&#39;s Magazine"
+source_blog_name: Taki&#39;s Magazine
 source_blog_slug: takis-magazine
 source_blog_url: http://takimag.com/article/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 by Joe Bob Briggs<br>
 	  

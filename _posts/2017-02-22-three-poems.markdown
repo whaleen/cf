@@ -1,23 +1,23 @@
 ---
-title: "Three Poems"
+title: Three Poems
 date: 2017-02-22 08:02:25 UTC
 created_at: 2017-02-22 08:02:25 UTC
 layout: post
 kind: article
-author: "Counter Currents"
+author: Counter Currents
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/three-poems-4/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Counter-Currents Publishing"
+source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>501 words</p>
 <p><strong><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/HailSatan.jpg"><img class="alignright size-medium wp-image-69503" src="http://www.counter-currents.com/wp-content/uploads/2017/02/HailSatan-211x300.jpg" alt="" width="211" height="300"></a>You There to the Left of Me</strong></p>

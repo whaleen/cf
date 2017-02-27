@@ -1,23 +1,23 @@
 ---
-title: "The Pity of War"
+title: The Pity of War
 date: 2014-07-05 00:47:09 UTC
 created_at: 2014-07-05 00:47:09 UTC
 layout: post
 kind: article
-author: "The Radix Podcast"
+author: The Radix Podcast
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2014/7/4/the-end-of-the-revolution
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_name: The Radix Podcast -Radix Journal
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>Journalist Manuel Ochsenreiter joins Richard to discuss the catastrophe of the “Euromaidan” revolution, which began with expectations for “democracy” and has ended in a campaign of ethnic cleansing by the Washington-backed Kiev regime. </p>
 

@@ -1,23 +1,23 @@
 ---
-title: "Time for Heroes "
+title: 'Time for Heroes '
 date: 2016-11-01 13:52:57 UTC
 created_at: 2016-11-01 13:52:57 UTC
 layout: post
 kind: article
-author: "Radix Journal"
+author: Radix Journal
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/journal/2016/11/1/time-for-heroes
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: "JOURNAL -Radix Journal"
+source_blog_name: JOURNAL -Radix Journal
 source_blog_slug: journal-radix-journal
 source_blog_url: http://www.radixjournal.com/journal/
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p>It was never supposed to happen like this. </p>
 <p>Political theorists from James Madison to Hans-Hermann Hoppe already proved that pure democracy was doomed to failure. The masses’ appetites for more and more favors and subsidies would never end. They would only become more ravenous as politicians realized that the path to power was to promise more free stuff than the competition. Thus, we were doomed to live in a society sliding ever onward toward ruin, incapable of saving itself. This was an iron law of history and nothing we could do could change it. </p>

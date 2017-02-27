@@ -1,23 +1,23 @@
 ---
-title: "The Alternative South"
+title: The Alternative South
 date: 2017-02-24 19:58:40 UTC
 created_at: 2017-02-24 19:58:40 UTC
 layout: post
 kind: article
-author: "Counter Currents"
+author: Counter Currents
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/the-alternative-south/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Counter-Currents Publishing"
+source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <p><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/AltSouth.jpg"><img class="alignright size-medium wp-image-69529" src="http://www.counter-currents.com/wp-content/uploads/2017/02/AltSouth-200x300.jpg" alt="" width="200" height="300"></a>2,978 words</p>
 <p style="padding-left: 30px;"><span style="font-family: Georgia, serif;"><strong>Editor’s Note</strong>:</span></p>
