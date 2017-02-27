@@ -8,7 +8,7 @@ kind: article
 author: V Dare
 categories: 
 tags: 
-source_post_url: https://www.vdare.com/posts/ahmadinejad-schools-trump-on-who-we-are-u-s-belongs-to-all-nations-no-one-may-consider-themselves-the-owner-and-view-others-as-guests-or-immigrants
+source_post_url: https://www.vdare.com/posts/ahmadinejad-schools-trump-on-who-we-are
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
 source_blog_name: VDARE – premier news outlet for patriotic immigration reform
