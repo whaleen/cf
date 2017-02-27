@@ -21,7 +21,6 @@ excerpt: In a bold ’n’ brilliant act of political theater that will undoubte
   parallels to Rosa Parks, Joan of Arc, Charles Martel, Mahatma Gandhi, and maybe
   even the bra-burning feminists of the...
 ---
+## Le Pen Refuses to wear a headscarf
 
-LE PEN REFUSES TO WEAR HEADSCARF
-
-<p>In a bold ’n’ brilliant act of political theater that will undoubtedly draw parallels to Rosa Parks, Joan of Arc, Charles Martel, Mahatma Gandhi, and maybe even the bra-burning feminists of the...</p>
+In a bold ’n’ brilliant act of political theater that will undoubtedly draw parallels to Rosa Parks, Joan of Arc, Charles Martel, Mahatma Gandhi, and maybe even the bra-burning feminists...
