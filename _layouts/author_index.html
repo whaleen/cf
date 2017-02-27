@@ -3,14 +3,11 @@ layout: default
 footer: false
 ---
 
-
-<h1 class="pa2 pa4-ns">{{ page.author }}</h1>
-<div id="" class="pa2 pa4-ns">
-
+<h1 class="">{{ page.author }}</h1>
+<div id="" class="">
 	{% assign index = true %}
         {% for post in site.posts %}
           {% if post.author contains page.author %}
-
             {% assign content = post.content %}
 	    <article>
   	      {% include archive_post.html %}

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: cf-news
 ---
 {% assign blogPosts = site.posts | where: 'categories', 'featured' %}
 {% for item in blogPosts %}
@@ -14,9 +13,10 @@ title: cf-news
 {%endfor%}
 
 {% assign blogPosts = site.posts | where: 'categories', 'featured' %}
+<!-- 'featured' category posts -->
 <section class="cf w-100">
 {% for item in blogPosts %}
-  <!-- <article class="fl w-100 w-50-m w-25-ns">
+  <article class="fl w-100 w-50-m w-25-ns">
     <div class="aspect-ratio aspect-ratio--16x9">
       <img style="background-image:url({{site.url}}{{item.source_image_url}});"
       class="db bg-center cover aspect-ratio--object" />
@@ -26,16 +26,17 @@ title: cf-news
       <h3 class="f6 f5 fw4 mt2 black-60">{{ item.source_blog_name }}</h3>
       <p>{{ item.date }}</p>
     </a>
-  </article> -->
+  </article>
 {%endfor%}
 </section>
 
-<div class="pa2 pa4-ns">
+
+<!-- All posts -->
+<div class="">
     {% for post in site.posts %}
       <article class="lh-copy bb b--light-gray pv3">
          <h2 class="f4  measure fw3"><a class="link" href="{{ post.url }}">{{ post.title }}</a></h2>
         <span class="light-gray fw1 f7"><a class="black" href="/authors/{{ post.author | replace: ' ', '-' | downcase }}">{{ post.author }}</a> | {{ post.date | date_to_string }}</span>
       </article>
     {% endfor %}
-
 </div>

@@ -3,25 +3,44 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
+        <title>{% if page.title %}{{ page.title }} | {% else %}{% endif %}{{ site.name }}</title>
+        <meta name="description" content="{{ site.description }}">
+        <meta name="author" content="@codefurniture">
+
+        <!-- ! -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!-- Custom CSS -->
+        <!-- Social Metadata templates from http://github.com/cagrimmett/jekyll-tools -->
+
+        <!-- Open Graph -->
+        <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+        <meta property="og:type" content="{% if page.path contains '_posts' %}article{% else %}website{% endif %}">
+        <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+        <meta property="og:image" content="{% if page.feature-img %}{{ page.feature-img | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.url }}/img/{{ site.avatar }}{% endif %}">
+        <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+        <meta property="og:site_name" content="{{ site.title }}">
+        <meta property="og:locale" content="{{ site.locale }}">
+        {% if page.date %}
+        <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+        <meta property="article:author" content="{{ page.author }}">
+        {% for post in site.related_posts limit:3 %}
+        <meta property="og:see_also" content="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+        {% endfor %}
+        {% endif %}
+        <!-- Twitter Meta Data -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@{{ site.twitter }}">
+        <meta name="twitter:creator" content="@{{ site.twitter }}">
+        <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+        <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+        <meta name="twitter:image" content="{% if page.feature-img %}{{ page.feature-img | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.url }}/img/{{ site.avatar }}{% endif %}">
+
+        <!-- CSS -->
         <link rel="stylesheet" href="/css/tachyons.css">
         <link rel="stylesheet" href="/css/tweet.post.widget.css">
 
-        <!-- http://www.ellison.rocks/sharer.js/ -->
-        <!-- <script src="https://cdn.jsdelivr.net/sharer.js/latest/sharer.min.js"></script> -->
-
-
-        <style media="screen">
-        a[data-visited] {border-bottom: 1px dashed purple;}
-        a[data-visited]:after {content: ' (Seen)';}
-        </style>
-
+        <!-- Font Awesome -->
         <script src="https://use.fontawesome.com/3ace408c3e.js"></script>
-
-        <!-- jekyll-seo plugin -->
 
         <!-- Heap Analytics -->
         <script type="text/javascript">
@@ -31,24 +50,27 @@
 
     </head>
 
-    <body onload="fetchBookmarks()">
+<body onload="fetchBookmarks()">
 
-        <div class="">
+<div id="wrapper" class="pa3 pa4-ns">
 
-          {% include header.html %}
+{% include header.html %}
 
-          {{ content }}
+{{ content }}
 
-          {% include footer.html %}
+{% include footer.html %}
 
-          <!-- Scorcery -->
-          <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+        <!-- Scorcery -->
+        <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
 
-          <!-- jQuery -->
-   <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-   <!-- Latest compiled and minified Bootstrap CDN JavaScript -->
-   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-   <script src="/js/bookmarks.js"></script>
+        <!-- jQuery -->
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+        <!-- Latest compiled and minified Bootstrap CDN JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <script src="/js/bookmarks.js"></script>
 
-    </body>
+</div><!-- /#wrapper -->
+
+</body>
+
 </html>
