@@ -11,6 +11,9 @@ blogs:
   feed: http://arktos.com/category/news/feed/
 - author: Counter Currents
   feed: http://www.counter-currents.com/feed/
+- author: Red Ice Radio
+  feed: http://feeds.feedburner.com/youtube/inRP
+  twitter: redice
 - author: Red Ice News
   feed: https://redice.tv/rss/news
   twitter: redice

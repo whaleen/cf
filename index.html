@@ -5,6 +5,7 @@ layout: default
 {% assign blogPosts = site.posts | where: 'categories', 'featured' %}
 <!-- 'featured' category posts -->
 <section class="cf w-100 pa2 pa4-ns">
+<h1 class="fw1 light-gray f4 pv0">Featured</h1>
 {% for item in blogPosts %}
 <article class="fl w-100 w-50-l">
   <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 link db">
@@ -23,6 +24,7 @@ layout: default
 {% assign blogPosts = site.posts | where: 'categories', 'highlighted' %}
 <!-- 'featured' category posts -->
 <section class="fl w-100 bb b--light-gray">
+<h1 class="fw1 light-gray f4 pv0">Highlighted</h1>
 {% for item in blogPosts %}
 <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
   <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 link db black grow">
