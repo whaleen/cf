@@ -1,23 +1,23 @@
 ---
-title: You&#39;ve Always Been the Caretaker
+title: "You&#39;ve Always Been the Caretaker"
 date: 2013-12-19 18:29:56 UTC
 created_at: 2013-12-19 18:29:56 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2013/12/19/youve-always-been-the-caretaker
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>Roman Bernard, John Morgan, and Richard Spencer take a journey into Room 237 and discuss Stanley Kubrick's 1980 film, <em>The Shining</em>.  </p>
 

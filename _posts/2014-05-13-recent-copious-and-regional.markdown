@@ -1,23 +1,23 @@
 ---
-title: Recent, Copious, and Regional
+title: "Recent, Copious, and Regional"
 date: 2014-05-13 17:39:29 UTC
 created_at: 2014-05-13 17:39:29 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2014/5/13/recent-copious-and-regional
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>Jared Taylor and John Derbyshire join Richard to discuss Nicholas Wade’s new book, <em>A Troublesome Inheritance</em>, the response to it in the media and wider culture, and the future of race in America and the Occidental World.   </p>
 

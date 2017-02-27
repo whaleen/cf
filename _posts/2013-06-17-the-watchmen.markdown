@@ -1,23 +1,23 @@
 ---
-title: The Watchmen
+title: "The Watchmen"
 date: 2013-06-17 01:11:00 UTC
 created_at: 2013-06-17 01:11:00 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/podcast/2013/6/18/the-watchmen
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <img class="thumb-image" alt="attachment-51c08870e4b094d93e3f1f79" src="https://static1.squarespace.com/static/51c946cde4b0f05142538988/5298e223e4b008c3d680f470/5298e247e4b008c3d680f5f1/1385751306735/StasiPhoto.jpg?format=1000w">
           

@@ -1,23 +1,23 @@
 ---
-title: Anarchy in the USA
+title: "Anarchy in the USA"
 date: 2014-04-22 02:22:10 UTC
 created_at: 2014-04-22 02:22:10 UTC
 layout: post
 kind: article
-author: The Radix Podcast
+author: "The Radix Podcast"
 categories: 
 tags: 
 source_post_url: http://www.radixjournal.com/podcast/2014/4/21/anarchy-in-the-usa
 source_twitter_url: http://twitter.com/RadixJournal
 source_twitter: RadixJournal
-source_blog_name: The Radix Podcast -Radix Journal
+source_blog_name: "The Radix Podcast -Radix Journal"
 source_blog_slug: the-radix-podcast-radix-journal
 source_blog_url: http://www.radixjournal.com/podcast/
 source_image_url: 
-tweet_id: 
-permalink: "/mntr/:year/:month/:day/:title/"
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
 feature-img: 
-excerpt: 
+excerpt:
 ---
 <p>Keith Preston joins Richard to discuss his new book, <em>Attack The System</em>, as well as the meaning and history of “Anarchism.”  </p>
 
