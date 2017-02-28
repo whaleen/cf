@@ -29,7 +29,7 @@ excerpt:
 <li>Paul Kersey on <a href="http://www.vdare.com/articles/hyped-figures-john-glenn-and-the-pc-myth-of-katherine-johnson-unsung-black-women-were-not-what-got-us-to-the-moon"><em>Hidden Figures</em></a> (with picture of Katherine Johnson)</li>
 <li>Paul Kersey on <a href="http://www.vdare.com/articles/hidden-figures-myth-dissolves-it-wasnt-blacks-who-got-america-to-the-moon-they-actually-wanted-to-stop-it">Black opposition to the space program</a></li>
 <li>Paul Kersey’s <a href="http://amzn.to/2lccrrX"><em><em>Whitey on the Moon: Race, Politics, and the Death of the US Space Program, 1958-1972</em></em></a></li>
-<li>Paul’s blog <a href="http://stuffblackpeopledontlike.blogspot.com/"><em>Stuff Black People Don’t Like</em></a></li>
+<li>Paul’s blog, <a href="http://stuffblackpeopledontlike.blogspot.com/"><em>Stuff Black People Don’t Like</em></a></li>
 <li>Gil Scott Heron’s “<a href="https://www.youtube.com/watch?v=goh2x_G0ct4">Whitey on the Moon</a>“</li>
 <li>Langston Hughes’ “<a href="https://www.youtube.com/watch?v=79YjXKYeWCk">Harlem</a>“</li>
 </ul><div class="">

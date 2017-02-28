@@ -30,7 +30,7 @@ excerpt:
 <p>The statistics below are my attempt at a small contribution to this need.</p>
 <p>The population of “Western Europe” is roughly 409 million. The list of nations that fall under the title of “Western Europe” is almost exactly those European countries with large numbers of Muslim immigrants.</p>
 <p><ins class="adsbygoogle" style="display: inline-block; width: 728px; height: 90px;"></ins>(adsbygoogle = window.adsbygoogle || []).push();</p>
-<p>According to the Swedish National Council For Crime Prevention, in Sweden, in 2013, 700 women, and 300 children, were raped by Muslims in the first 7 months of the year. They also argue that the real figures are 40%-90% higher than this, but for the sake of being conservative we will utilize the official numbers.[2]</p>
+<p>According to the Swedish National Council for Crime Prevention, in Sweden, in 2013, 700 women, and 300 children, were raped by Muslims in the first 7 months of the year. They also argue that the real figures are 40%-90% higher than this, but for the sake of being conservative we will utilize the official numbers.[2]</p>
 <p>1,000 rapes / 7 months = 142.857 rapes per month in Sweden.</p>
 <p>Sweden’s population is 9.415 million.</p>
 <p>409 million (the population of Western Europe) divided by 9,415,000 (the population of Sweden) is 43.44</p>

@@ -47,7 +47,7 @@ excerpt:
 </div>
 <div>
 <p>3. Savitri supplies a translation of the flyer in <i>Gold in the Furnace</i>: “In the midst of untold hardships and suffering, hold fast to our glorious National Socialist faith, and resist! Defy our persecutors! Defy the people, defy the forces that are working to ‘de-Nazify’ the German nation and the world at large! Nothing can destroy that which is built in truth. We are the pure gold put to test in the furnace. Let the furnace blaze and roar! Nothing can destroy us. One day we shall rise and triumph again. Hope and wait! Heil Hitler!” (<i>Gold in the Furnace</i>, 34).</p>
-<p><span style="font-size: 13px;">4. See ch. 3, §9 below.</span></p>
+<p>4. See ch. 3, §9 below.</p>
 </div>
 <div>
 <div>

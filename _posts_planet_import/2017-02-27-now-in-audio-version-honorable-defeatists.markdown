@@ -20,7 +20,7 @@ feature-img:
 excerpt:
 ---
 <p><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/DaliMetamorphosisCrop2.jpg"><img class="alignright size-medium wp-image-68898" src="http://www.counter-currents.com/wp-content/uploads/2017/02/DaliMetamorphosisCrop2-206x300.jpg" alt="" width="206" height="300"></a>845 words / 5:42</p>
-<p><strong>Audio Version</strong>: To listen in a player, click <a href="http://cdn.counter-currents.com/radio/HonorableDefeatists.mp3">here</a>. To download the mp3, right-click <a href="http://cdn.counter-currents.com/radio/HonorableDefeatists.mp3">here</a> and choose “save target or link as.” To subscribe to our podcasts, click <a>here</a> for iTunes and <a href="http://www.counter-currents.com/feed/">here</a> for RSS.</p>
+<p><strong>Audio Version</strong>: To listen in a player, click <a href="http://cdn.counter-currents.com/radio/HonorableDefeatists.mp3">here</a>. To download the mp3, right-click <a href="http://cdn.counter-currents.com/radio/HonorableDefeatists.mp3">here</a> and choose “save target or link as.”</p>
 <p>Why do people engage in self-defeating behaviors?</p>
 <p>Why, for instance, do people ugly themselves up with blue hair dye, unflattering clothes, and irreversible fashion mistakes like tattoos and piercings? <span id="more-68854"></span>Why do they behave in rude and obnoxious manners: speaking loudly, swearing like sailors, invading other people’s physical and psychological space?</p>
 <p>Why do people sabotage personal, political, and business relationships by picking fights? Regardless of whether these fights are over trivial or serious matters, they are usually disputed with an intensity far above what is warranted by the pretext.</p>
