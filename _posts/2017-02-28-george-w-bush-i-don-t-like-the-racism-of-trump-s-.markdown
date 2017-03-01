@@ -9,14 +9,14 @@ categories: highlighted
 tags: bush
 source_post_url: https://altright.com/2017/02/28/george-w-bush-i-dont-like-the-racism-of-trumps-presidency/
 source_twitter_url: http://twitter.com/
-source_twitter: 
+source_twitter:
 source_blog_name: AltRight.com
 source_blog_slug: altright-dot-com
 source_blog_url: https://altright.com
-source_image_url: 
-tweet_id: 
+source_image_url:
+tweet_id: 836737378698022912
 permalink: "/mntr/:year/:month/:day/:title/"
-feature-img: 
+feature-img:
 excerpt: 'George W. Bush has done it again. Yesterday, Michael Cushman wrote about
   W.’s virtue signaling. '
 ---

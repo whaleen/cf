@@ -1,0 +1,49 @@
+---
+layout: default
+title: Altright Reading List
+permalink: "/altright-reading-list/"
+---
+
+The table has {{site.data.Altright_Reading_List.rows}} rows (not including headers).
+
+The table has {{site.data.Altright_Reading_List.cols}} columns.
+
+This is the table:
+
+<!-- <table>
+  <thead>
+    <tr>
+      {% for header in site.data.Altright_Reading_List.keys %}
+      <td>{{header}}</td>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in site.data.Altright_Reading_List.content %}
+    <tr>
+      {% for column in row %}
+      <td>{{column}}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table> -->
+
+And this is the table with only first and third columns:
+
+<table>
+  <thead>
+    <tr>
+      <td>h1</td>
+      <td>h3</td>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in site.data.Altright_Reading_List.Title %}
+    <tr>
+      <td>{{row.h1}}</td>
+      <td>{{row.h3}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
