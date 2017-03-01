@@ -1,0 +1,28 @@
+---
+title: "Papabile"
+date: 2013-03-11 18:50:00 UTC
+created_at: 2013-03-11 18:50:00 UTC
+layout: post
+kind: article
+author: "The Radix Podcast"
+categories: 
+tags: 
+source_post_url: http://www.radixjournal.com/podcast/podcast/2013/3/13/papabile
+source_twitter_url: http://twitter.com/RadixJournal
+source_twitter: RadixJournal
+source_blog_name: "The Radix Podcast -Radix Journal"
+source_blog_slug: the-radix-podcast-radix-journal
+source_blog_url: http://www.radixjournal.com/podcast/
+source_image_url: 
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
+feature-img: 
+excerpt:
+---
+<p>Andy, Colin, and Richard discuss the election of the new Pope—and what a African Pontiff would mean—as well as Italy's new comedic fascist, Bepe Grillo, and Rand Paul's farcical filibuster.  </p>
+
+
+
+<p><strong>Notes:</strong></p><p>The <em>New York Times</em> on <a href="http://fivethirtyeight.blogs.nytimes.com/2013/03/04/what-betting-markets-are-saying-about-the-next-pope/">papal odds-makers</a></p><p><a href="http://www.bbc.co.uk/news/world-europe-21415639">BBC Guide</a> to Papal candidates</p><p><a href="http://www.huffingtonpost.com/2013/02/17/pope-immunity_n_2708518.html">Sexual abuse allegations in Church</a></p><p><a href="http://atheism.about.com/od/popejohnpaulii/a/capitalism.htm">John Paul II, Socialism, and Capitalism</a></p><p><em><a href="http://en.wikipedia.org/wiki/Rerum_Novarum">Rerum Novarum</a></em></p><p><em><a href="http://www.catholicapologetics.info/modernproblems/americanism/index.htm">Americanism as a Hersey</a></em></p><p><a href="http://www.reuters.com/article/2011/10/24/vatican-economy-idUSL5E7LO11K20111024">Vatican's call for a global bank</a></p><p><a href="http://latino.foxnews.com/latino/news/2013/03/07/odilo-scherer-brazilian-catholic-church-leader-seen-as-political-centrist/">Brazilian "Papabile"</a> (who's a white guy)</p><p><a href="http://www.bbc.co.uk/news/world-europe-21613940">Bepe Grillo</a></p><p>Mario Monte's <a href="http://en.wikipedia.org/wiki/Mario_Monti">appointment</a> as Italy's Prime Minister</p><p>Italy's <a href="http://en.wikipedia.org/wiki/Party_of_Love">Party of Love</a></p><p><a href="http://original.antiwar.com/justin/2013/03/07/standwithrand/">Justin Raimondo on Rand Paul</a></p><div class="">
+    <i>Source: <a href="http://www.radixjournal.com/podcast/">The Radix Podcast -Radix Journal</a></i>
+</div>
