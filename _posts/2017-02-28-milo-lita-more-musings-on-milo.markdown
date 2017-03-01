@@ -6,7 +6,7 @@ layout: post
 kind: article
 author: Counter Currents
 categories: highlighted
-tags: 
+tags: milo
 source_post_url: http://www.counter-currents.com/2017/02/milo-lita-more-musings-on-milo/
 source_twitter_url: http://twitter.com/
 source_twitter: 
@@ -17,7 +17,8 @@ source_image_url:
 tweet_id: 
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt: 
+excerpt: I do have a negative opinion of a small number of people on the Alt Right.
+  But as a rule, I keep them to myself.
 ---
 <span style="font-size: 18px;">Writers like myself have to be careful when addressing famous figures currently associated with the Alt Right. While I contribute as well as I can, offering insights, ideas, and disseminating information from the sidelines, what I do pales in comparison to what the movement’s leaders and central figures contribute. It is mostly out of gratitude and humility that I refrain from making critical comments about these people.</span><span id="more-69600" style="font-size: 18px;"></span> <span style="font-size: 18px;">A lieutenant is entitled to an opinion on what the generals are doing, but sharing those opinions when unsolicited by those generals would be impertinent indeed.</span>
 
