@@ -13,9 +13,6 @@ gems:
 
 # Collections
 collections:
-  education:
-    output: true
-    permalink: '/education/:path/'    
   books:
     output: true
     output_ext: .html
@@ -24,8 +21,3 @@ collections:
 locale: en_US # language_territory is the default
 avatar: "cf-avatar.png" # make twitter summary card compatible
 twitter: "codefurniture" # Don't include @
-
-csv:
-  education:
-    source: https://docs.google.com/spreadsheets/u/1/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?format=csv
-    slug: organisation_name

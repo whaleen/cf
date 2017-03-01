@@ -1,0 +1,22 @@
+---
+book_id: 22242648
+name: Western Civilization Bites Back
+author: Jonathan Bowden
+author_l-f: 'Bowden, Jonathan'
+additional_authors: Greg Johnson
+my_rating: 0
+average_rating: 4.16
+publisher: 'Counter-Currents Publishing'
+binding: Kindle Edition
+number_of_pages: 238
+year_published: 2014
+original_publication_year: 2014
+date_added: '2/28/2017'
+bookshelves: altright
+bookshelves_with_positions: 'altright (#111)'
+exclusive_shelf: read
+read_count: 0
+owned_copies: 0
+price: 0
+layout: book
+---

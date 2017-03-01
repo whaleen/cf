@@ -1,12 +1,23 @@
 ---
-title: 'White Identity: Racial Consciousness in the 21st Century'
-layout: book-reviews-template
-date: '2017-02-26T15:07:00+00:00'
-cover: "/uploads/2017/02/26/11450904.jpg"
-excerpt: Only whites continue to believe that it is possible or even desirable to
-  transcend race and try to make the United States a nation in which race does not
-  matter.
-book-link: http://amzn.to/2lKwpv9
+book_id: 11450904
+name: 'White Identity: Racial Consciousness in the 21st Century'
 author: Jared Taylor
-categories: race
+author_l-f: 'Taylor, Jared'
+isbn: 0965638391
+isbn13: 9780965638395
+my_rating: 0
+average_rating: 4.16
+publisher: New Century Books
+binding: Paperback
+number_of_pages: 344
+year_published: 2011
+original_publication_year: 2011
+date_added: '2/28/2017'
+bookshelves: altright
+bookshelves_with_positions: 'altright (#21)'
+exclusive_shelf: read
+read_count: 0
+owned_copies: 0
+price: 0
+layout: book
 ---

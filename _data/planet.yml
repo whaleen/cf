@@ -5,6 +5,12 @@ planet:
   whitelisted_tags: []
   sanitize_html: true
 blogs:
+- author: Faith and Heritage
+  feed: http://faithandheritage.com/feed
+- author: American Renissance
+  feed: http://www.amren.com/feed/
+- author: Right On Radio
+  feed: http://feeds.soundcloud.com/users/soundcloud:users:200328562/sounds.rss
 - author: The Occidental Observer
   feed: http://www.theoccidentalobserver.net/feed/
 - author: Arktos

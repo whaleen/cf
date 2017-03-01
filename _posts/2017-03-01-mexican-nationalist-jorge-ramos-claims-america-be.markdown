@@ -19,6 +19,7 @@ permalink: /mntr/:year/:month/:day/:title/
 feature-img:
 excerpt: "There are many people who do not want us to be here, and who want to create a wall in order to separate us. But you know what? This is also our country. Let me repeat this: OUR country, not theirs."
 ---
-On Friday, Mexican-American journalist and Univision anchor Jorge Ramos once again advocated for the third world takeover of America. During the Univision awards ceremony Premios Lo Nuestro (Our Awards), Ramos said the following: I am an immigrant, just like many of you. I am a proud Latino immigrant here in the United States. My name is Jorge Ramos, and I work at Univision and at the Fusion network. And you know exactly what is going on here in the United States. There are many people who do not want us to be here, and who want to create a wall in order to separate us. But you know what? This is also our country. Let me repeat this: OUR country, not theirs. It is our country. And we are not going to leave. We are nearly 60 million Latinos in the United States. And thanks to US, the United…<div class="">
-    <i>Source: <a href="https://redice.tv/news">Red Ice News</a></i>
-</div>
+
+On Friday, Mexican-American journalist and Univision anchor Jorge Ramos once again advocated for the third world takeover of America. During the Univision awards ceremony Premios Lo Nuestro (Our Awards), Ramos said the following: I am an immigrant, just like many of you. I am a proud Latino immigrant here in the United States. My name is Jorge Ramos, and I work at Univision and at the Fusion network. And you know exactly what is going on here in the United States. There are many people who do not want us to be here, and who want to create a wall in order to separate us. But you know what? This is also our country. Let me repeat this: OUR country, not theirs. It is our country. And we are not going to leave. We are nearly 60 million Latinos in the United States. And thanks to US, the United…
+
+<i>Source: <a href="https://redice.tv/news">Red Ice News</a></i>

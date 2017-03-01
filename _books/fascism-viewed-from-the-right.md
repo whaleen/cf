@@ -1,16 +1,24 @@
 ---
-title: Fascism Viewed from the Right
-layout: book-reviews-template
-date: '2017-02-25T22:23:35+00:00'
-book-link: http://amzn.to/2lcmnRn
-cover: "/uploads/2017/02/26/fascism-viewed-from-the-right.jpg"
-excerpt: In this book, Julius Evola analyses the Fascist movement of Italy, which
-  he himself had experienced first-hand, often as a vocal critic, throughout its entire
-  history from 1922 until 1945. Discussing - and dismissing - the misuse of the term
-  'fascism' that has gained widespread acceptance, Evola asks readers not to allow
-  the fact of Italy's defeat in the Second World War to distract us from making an
-  objective analysis of the ideology of Fascism itself, since the defeat was the result
-  of contingent circumstances and the personalities of those who led it, rather than
-  flaws that were inherent in Fascism as an idea.
+book_id: 17445371
+name: Fascism Viewed from the Right
 author: Julius Evola
+author_l-f: 'Evola, Julius'
+additional_authors: 'E. Christian Kopff, John B. Morgan'
+isbn: 1907166858
+isbn13: 9781907166853
+my_rating: 0
+average_rating: 3.96
+publisher: Arktos Media Ltd
+binding: Paperback
+number_of_pages: 130
+year_published: 2013
+original_publication_year: 1974
+date_added: '2/28/2017'
+bookshelves: altright
+bookshelves_with_positions: 'altright (#27)'
+exclusive_shelf: read
+read_count: 0
+owned_copies: 0
+price: 0
+layout: book
 ---
