@@ -5,6 +5,7 @@ layout: default
 <article class="cf">
   <div class="w-100 w-95-ns w-50-s w-60-l">
     <div class="pa2 pa4-ns">
+      <!-- Bookmark using local storage -->
       <!-- <form id="bookmarksForm" class="fl mr2">
           <input hidden type="text" class="form-control" id="websiteName" value="{{ page.title }}">
           <input hidden type="text" class="form-control" id="websiteUrl" value="{{ page.source_post_url }}">
@@ -14,36 +15,43 @@ layout: default
      </form> -->
       <p class="light-gray f3">{{ page.date | date_to_string }}</p>
     	<h1 class="f3 f1-ns">{{ page.title }}</h1>
-
       <p><a class="link gray fw1" href="{{ site.url }}/authors/{{ page.author | replace: ' ', '-' | downcase }}">{{ page.source_blog_name }}</a></p>
       <div id="" class="times dark-gray f4 fw1 bl pl3 b--light-gray">
       {{ page.content }}
       </div>
     </div>
 
-    <div class="pa2 pa4-ns">
-      <a class="times f3" href="source_post_url">Read More</a>
+    <div class="pb4">
+      <!-- If post has a tweet_id associated show Twitter buttons -->
+      {% if page.tweet_id %}
+      <div class="pa3 ba br2 b--light-gray">
+      <div class="f7 fw1 gray pb1"><i class="fa fa-twitter"></i> Twitter</div>
+      <a class="f6 fw4 no-underline light-blue br2 dib pv2 ph3 ba b--light-blue" href="https://twitter.com/intent/tweet?in_reply_to={{ page.tweet_id}}" title="Reply">Reply</a>
+      <a class="f6 fw4 no-underline blue br2 dib pv2 ph3 ba b--blue" href="https://twitter.com/intent/retweet?tweet_id={{ page.tweet_id}}" title="Retweet">Retweet</a>
+      <a class="f6 fw4 no-underline red br2 dib pv2 ph3 ba b--red" href="https://twitter.com/intent/like?tweet_id={{ page.tweet_id}}" title="Like">Like</a>
+      </div>
+      {% endif %}
     </div>
 
-  </div>
 
-  <div class="pb4">
-    <!-- If post has a tweet associated show Twitter ID -->
-    {% if page.tweet_id %}
-    <div class="pa3 ba br2 b--light-gray">
-    <div class="f7 fw1 gray pb1"><i class="fa fa-twitter"></i> Twitter</div>
-    <a class="f6 fw4 no-underline light-blue br2 dib pv2 ph3 ba b--light-blue" href="https://twitter.com/intent/tweet?in_reply_to={{ page.tweet_id}}" title="Reply">Reply</a>
-    <a class="f6 fw4 no-underline blue br2 dib pv2 ph3 ba b--blue" href="https://twitter.com/intent/retweet?tweet_id={{ page.tweet_id}}" title="Retweet">Retweet</a>
-    <a class="f6 fw4 no-underline red br2 dib pv2 ph3 ba b--red" href="https://twitter.com/intent/like?tweet_id={{ page.tweet_id}}" title="Like">Like</a>
+    <div class="pa2 pa4-ns bt bb b--light-gray cf">
+      <a href="{{ site.url }}/authors/{{ page.author | replace: ' ', '-' | downcase }}">
+        <div class="fl">
+        <a class="times f3 black link" href="{{ site.url }}/authors/{{ page.author | replace: ' ', '-' | downcase }}">{{ page.source_blog_name }}</a>
+        </div>
+        <div class="fr">
+          <a class="times f3 black" href="{{ site.url }}/authors/{{ page.author | replace: ' ', '-' | downcase }}"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+        </div>
+      </a>
     </div>
-    {% endif %}
+
   </div>
 
 </article>
 
-<!-- <section class="cf w-100 pa5-ns bt b--light-gray">
-{% assign books = site.books | sort: "date" | reverse | limit:1 %}
- {% for book in books %}
+<section class="cf w-100 pa2 pa4-ns bt b--light-gray">
+{% assign books = site.books | sort: "date" | reverse %}
+ {% for book in books limit:1 %}
   <article class="fl w-50 w-10-ns w-10-s w-25-m w-10-l pa2-ns">
     <a href="{{ book.url | prepend: site.baseurl }}" title="{{ book.title }}">
     <div class="aspect-ratio aspect-ratio--5x8">
@@ -54,9 +62,7 @@ layout: default
     <a href="{{ book.url | prepend: site.baseurl }}" class="ph2 ph0-ns pb3 link db">
       <h3 class="f5 f4-ns mb0 black-90">{{ book.title }}</h3>
       <h3 class="f6 f5 fw4 mt2 black-60">{{ book.author }}</h3>
-      <p>Genre: {{ book.category }}</p>
-      <p>Themes: {% assign first = true %}{% for tag in book.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}</p>
     </a>
   </article>
  {% endfor %}
-</section> -->
+</section>

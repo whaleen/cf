@@ -5,6 +5,8 @@ planet:
   whitelisted_tags: []
   sanitize_html: true
 blogs:
+- author: The Occidental Observer
+  feed: http://www.theoccidentalobserver.net/feed/
 - author: Arktos
   feed: http://arktos.com/feed/
 - author: Arktos News
@@ -22,9 +24,6 @@ blogs:
   twitter: redice
 - author: Altright
   feed: http://www.altright.com/feed/rss2
-- author: Taki Magazine
-  feed: http://feeds.feedburner.com/feedburner/takimag
-  twitter: takimag
 - author: V Dare
   feed: https://www.vdare.com/feed
   twitter: vdar
