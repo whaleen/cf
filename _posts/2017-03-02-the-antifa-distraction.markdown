@@ -19,6 +19,7 @@ permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
 excerpt: A few weeks ago, the town bum wandered into a local coffee shop. He began
   telling a table full of high school girls about the dynamics of urine.
+twitter_summary_card_image: "/uploads/2017/03/02/anitfa-girl-with-bat.jpg"
 ---
 [](http://www.counter-currents.com/wp-content/uploads/2017/03/3-1-17-2-1.jpg)
 
