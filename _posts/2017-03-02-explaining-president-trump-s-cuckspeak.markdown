@@ -14,7 +14,7 @@ source_blog_name: AltRight.com
 source_blog_slug: altright-dot-com
 source_blog_url: https://altright.com
 source_image_url: 
-tweet_id: 
+tweet_id: 837193020378337282
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: "/uploads/2017/03/02/trump-alps-660X330.jpg"
 excerpt: 
