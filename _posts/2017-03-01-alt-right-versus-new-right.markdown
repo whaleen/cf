@@ -1,23 +1,23 @@
 ---
-title: "Alt Right versus New Right"
+title: Alt Right versus New Right
 date: 2017-03-01 00:23:12 UTC
 created_at: 2017-03-01 00:23:12 UTC
 layout: post
 kind: article
-author: "Counter Currents"
+author: Counter Currents
 categories: 
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/alt-right-versus-new-right/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "Counter-Currents Publishing"
+source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
 <div id="attachment_69633" style="width: 270px" class="wp-caption alignright"><a href="http://www.counter-currents.com/wp-content/uploads/2017/02/2-28-17-3.jpg"><img class="wp-image-69633 size-medium" src="http://www.counter-currents.com/wp-content/uploads/2017/02/2-28-17-3-260x271.jpg" width="260" height="271"></a><p class="wp-caption-text">Alt Right meets New Right: John Morgan with Alain de Benoist at the 2013 NPI conference.</p></div>
 <p>3,849 words</p>
