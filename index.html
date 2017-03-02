@@ -5,12 +5,14 @@ layout: default
 {% assign blogPosts = site.posts | where: 'categories', 'featured' %}
 <!-- 'featured' category posts -->
 <section class="cf w-100 pa2 pa4-ns">
-<h1 class="fw1 light-gray f4 pv0">Featured</h1>
+<h1 class="fw1 light-gray f4 pb0 mb0 ttu">Featured</h1>
 {% for item in blogPosts limit:1 %}
-<article class="fl w-100 w-50-l">
-  <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 link db">
+<article class="fl w-100 w-50-l pt0 mt0">
+  <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 pt0 link db">
     <h3 class="f4 f2-ns mb0 black-90">{{ item.title }}</h3>
-    <h3 class="f6 f5 fw1 mt3 mb3 black-40">{{ item.source_blog_name }}</h3>
+  </a>
+  <h2 class="f6 f5 fw1 pb3 "><a class="black-40 link" href="{{ site.url }}/authors/{{ item.author | replace: ' ', '-' | downcase }}">{{ item.source_blog_name }}</a></h2>
+  <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 link db">
     <div class="aspect-ratio aspect-ratio--16x9">
       <img style="background-image:url({{ site.url }}{{ item.feature-img }});"
       class="db bg-center cover aspect-ratio--object" />
@@ -21,7 +23,7 @@ layout: default
 </section>
 
 {% assign blogPosts = site.posts | where: 'categories', 'highlighted' %}
-<!-- 'featured' category posts -->
+<!-- 'highlighted' category posts -->
 <section class="fl w-100 bb b--light-gray">
 <h1 class="fw1 light-gray f4 pv0">Highlighted</h1>
 {% for item in blogPosts limit:4 %}
@@ -34,6 +36,29 @@ layout: default
 </div>
 {%endfor%}
 </section>
+
+
+
+{% assign blogPosts = site.posts | where: 'categories', 'featured' %}
+<!-- 'featured' category posts -->
+<section class="cf w-100 pa2 pa4-ns">
+<h1 class="fw1 light-gray f4 pb0 mb0 ttu">Featured</h1>
+{% for item in blogPosts limit:1 offset:1 %}
+<article class="fr w-100 w-50-l pt0 mt0">
+  <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 pt0 link db">
+    <h3 class="f4 f2-ns mb0 black-90">{{ item.title }}</h3>
+  </a>
+  <h2 class="f6 f5 fw1 pb3 "><a class="black-40 link" href="{{ site.url }}/authors/{{ item.author | replace: ' ', '-' | downcase }}">{{ item.source_blog_name }}</a></h2>
+  <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 link db">
+    <div class="aspect-ratio aspect-ratio--16x9">
+      <img style="background-image:url({{ site.url }}{{ item.feature-img }});"
+      class="db bg-center cover aspect-ratio--object" />
+    </div>
+  </a>
+</article>
+{%endfor%}
+</section>
+
 
 <!-- <section class="cf w-100 pa2 pa4-ns">
 <h1 class="fw1 light-gray f3">Books</h1>

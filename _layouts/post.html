@@ -6,13 +6,13 @@ layout: default
   <div class="w-100 w-95-ns w-50-s w-60-l">
     <div class="pa2 pa4-ns">
       <!-- Bookmark using local storage -->
-      <form id="bookmarksForm" class="">
+      <!-- <form id="bookmarksForm" class="">
           <input hidden type="text" class="form-control" id="websiteName" value="{{ page.title }}">
           <input hidden type="text" class="form-control" id="websiteUrl" value="{{ page.source_post_url }}">
        <button  type="submit" class="6 fw4 no-underline bg-white black-90 br2 dib pv2 ph3 ba">
          <i class="fa fa-bookmark-o" aria-hidden="true"></i>
        </button>
-     </form>
+     </form> -->
       <p class="light-gray f3">{{ page.date | date_to_string }}</p>
     	<h1 class="f3 f1-ns">{{ page.title }}</h1>
       <p><a class="link gray fw1" href="{{ site.url }}/authors/{{ page.author | replace: ' ', '-' | downcase }}">{{ page.source_blog_name }}</a></p>
