@@ -17,7 +17,8 @@ source_image_url:
 tweet_id: 
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt: 
+excerpt: Despite what the fake news media are telling you, Obamacare is on its way
+  out. Here’s a few reasons why we can make this not-terribly-bold prediction.
 ---
 Despite what [the fake news media](https://twitter.com/realDonaldTrump/status/831830548565852160) are telling you, Obamacare is on its way out. Here’s a few reasons why we can make this not-terribly-bold prediction.
 
