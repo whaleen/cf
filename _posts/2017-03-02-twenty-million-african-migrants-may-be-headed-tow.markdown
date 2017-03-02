@@ -21,4 +21,4 @@ excerpt:
 ---
 Don't worry, European liberals – more cultural enrichment is on the way! The Daily Mail: As many as twenty million African migrants could come to Europe in the near future, according to the new president of the European parliament. Antonio Tajani said Europe needs to do more to help asylum seekers in order to quell migration. He proposed the EU should open asylum centres in Libya in a bid to protect vulnerable refugees. At the moment, detention centers in the country violate human rights, according to the EU. Mr Tajani told Die Welt there are more than 30 centres that are run illegally by smugglers or by groups for the government. The president said that EU reception centres would provide asylum seekers with access to healthcare and would not be 'concentration camps'. In 2017, there has been…
 
-<div class="">_Continue reading at: [Red Ice News](https://redice.tv/news)_</div>
+_Continue reading at: [Red Ice News](https://redice.tv/news)_
