@@ -20,8 +20,6 @@ feature-img: "/uploads/2017/03/02/stockholm-street.jpg"
 excerpt: 'Where females fear to tread: KATIE HOPKINS reports from Sweden, the Scandi-lib
   paradise where terrified women have vanished from the streets.'
 ---
-<div class="pf-content">
-
 _Real Clear Politics_ deserves a lot of credit today for not being distracted entirely by the Trump speech last night and featuring an important _Daily Mail_ piece with the imposing headline [_Where females fear to tread: KATIE HOPKINS reports from Sweden, the Scandi-lib paradise where terrified women have vanished from the streets and a conspiracy of silence and self-censorship on immigration buries the truth_](http://www.dailymail.co.uk/news/article-4269576/KATIE-HOPKINS-reports-Scandi-lib-paradise-Sweden.html) by Katie Hopkins 28 February. 2017  
 
 Since President Trump broke the US _MSM_ taboo and drew America’s attention to the catastrophic situation in Sweden there have been a number of posts in the blogosphere seeking to back him up, for instance the Gatestone Institute’s [_Europe: Laughing at the Messenger_](https://www.gatestoneinstitute.org/9988/sweden-trump) by Douglas Murray February 28, 2017 and, for us, [_Trump, Sweden, And Our Ableist, Insulated Media_](http://www.vdare.com/articles/trump-sweden-and-our-ableist-insulated-media) by John Derbyshire February 25, 2017.
@@ -62,6 +60,4 @@ _Real Clear Politics_ deserves applause for picking up this story. They seem to 
 
 Maybe one day VDARE.com will not be taboo!
 
-</div>
-
-<div class="">_Source: [VDARE – premier news outlet for patriotic immigration reform](https://www.vdare.com)_</div>
+_Source: [VDARE – premier news outlet for patriotic immigration reform](https://www.vdare.com)_
