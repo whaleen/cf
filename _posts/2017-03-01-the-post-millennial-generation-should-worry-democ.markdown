@@ -5,7 +5,7 @@ created_at: 2017-03-01 10:41:00 UTC
 layout: post
 kind: article
 author: Red Ice News
-categories: 
+categories: highlighted
 tags: 
 source_post_url: https://redice.tv/news/the-post-millennial-generation-should-worry-democrats
 source_twitter_url: http://twitter.com/redice
