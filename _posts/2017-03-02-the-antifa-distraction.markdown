@@ -6,7 +6,7 @@ layout: post
 kind: article
 author: Counter Currents
 categories: highlighted
-tags: ''
+tags: antifa
 source_post_url: http://www.counter-currents.com/2017/03/the-antifa-distraction/
 source_twitter_url: http://twitter.com/
 source_twitter: 
