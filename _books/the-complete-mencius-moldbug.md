@@ -14,4 +14,6 @@ read_count: 0
 owned_copies: 0
 price: 0
 layout: book
+categories: altright
+tags: altright
 ---

@@ -22,4 +22,6 @@ price: 0
 layout: book
 book-link: 'http://amzn.to/2le3LWc'
 tweet: 'The Soul of the World by Roger Scruton http://amzn.to/2le3LWc'
+categories: altright
+tags: altright
 ---
