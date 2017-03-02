@@ -14,7 +14,7 @@ source_blog_name: Counter-Currents Publishing
 source_blog_slug: counter-currents-publishing
 source_blog_url: http://www.counter-currents.com
 source_image_url: 
-tweet_id: 
+tweet_id: 837182322722099201
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
 excerpt: A few weeks ago, the town bum wandered into a local coffee shop. He began
