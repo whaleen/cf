@@ -5,8 +5,8 @@ created_at: 2017-03-02 00:49:57 UTC
 layout: post
 kind: article
 author: V Dare
-categories: 
-tags: 
+categories: featured
+tags: sweden, msga
 source_post_url: https://www.vdare.com/posts/crucial-daily-mail-insight-swedens-muslim-disaster-ultimately-caused-by-swedish-pc
 source_twitter_url: http://twitter.com/vdar
 source_twitter: vdar
@@ -16,7 +16,7 @@ source_blog_url: https://www.vdare.com
 source_image_url: 
 tweet_id: 
 permalink: "/mntr/:year/:month/:day/:title/"
-feature-img: 
+feature-img: "/uploads/2017/03/02/stockholm-street.jpg"
 excerpt: 'Where females fear to tread: KATIE HOPKINS reports from Sweden, the Scandi-lib
   paradise where terrified women have vanished from the streets.'
 ---
