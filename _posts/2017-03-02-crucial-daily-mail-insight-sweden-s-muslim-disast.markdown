@@ -14,7 +14,7 @@ source_blog_name: VDARE – premier news outlet for patriotic immigration reform
 source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
 source_blog_url: https://www.vdare.com
 source_image_url: 
-tweet_id: 
+tweet_id: 837170513483075584
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: "/uploads/2017/03/02/stockholm-street.jpg"
 excerpt: 'Where females fear to tread: KATIE HOPKINS reports from Sweden, the Scandi-lib
