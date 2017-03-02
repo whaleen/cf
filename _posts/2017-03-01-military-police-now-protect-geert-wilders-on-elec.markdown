@@ -17,7 +17,9 @@ source_image_url:
 tweet_id: 
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt: 
+excerpt: The 53-year-old, who is currently riding high in the opinion polls, had been
+  forced to cancel all public events after revelations of leaks from the police team
+  guarding him.
 ---
 <p>The 53-year-old, who is currently riding high in the opinion polls, had been forced to cancel all public events after revelations of leaks from the police team guarding him.</p>
 <p>The Dutch Party for Freedom (PVV) leader had been living under 24-hour police protection since an Islamist militant’s 2004 murder of fellow Islam critic Theo van Gogh.</p>
