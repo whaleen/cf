@@ -5,7 +5,7 @@ created_at: 2017-03-01 22:14:40 UTC
 layout: post
 kind: article
 author: American Renissance
-categories: 
+categories: highlighted
 tags: 
 source_post_url: https://www.amren.com/news/2017/03/military-police-now-protect-geert-wilders-election-campaign/
 source_twitter_url: http://twitter.com/
