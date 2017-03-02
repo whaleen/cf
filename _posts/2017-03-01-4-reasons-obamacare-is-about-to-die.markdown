@@ -14,7 +14,7 @@ source_blog_name: Faith and Heritage
 source_blog_slug: faith-and-heritage
 source_blog_url: http://faithandheritage.com
 source_image_url: 
-tweet_id: 
+tweet_id: 837158204211675137
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
 excerpt: Despite what the fake news media are telling you, Obamacare is on its way
