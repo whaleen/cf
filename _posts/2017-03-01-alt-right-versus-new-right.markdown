@@ -5,7 +5,7 @@ created_at: 2017-03-01 00:23:12 UTC
 layout: post
 kind: article
 author: Counter Currents
-categories: 
+categories: highlighted
 tags: 
 source_post_url: http://www.counter-currents.com/2017/02/alt-right-versus-new-right/
 source_twitter_url: http://twitter.com/
