@@ -14,7 +14,7 @@ source_blog_name: Red Ice News
 source_blog_slug: red-ice-news
 source_blog_url: https://redice.tv/news
 source_image_url: 
-tweet_id: 
+tweet_id: 837200951106809856
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
 excerpt: They’re fiscally conservative, staunchly supportive of personal freedoms,
