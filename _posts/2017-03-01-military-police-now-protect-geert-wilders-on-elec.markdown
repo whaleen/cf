@@ -5,7 +5,7 @@ created_at: 2017-03-01 22:14:40 UTC
 layout: post
 kind: article
 author: American Renissance
-categories: highlighted
+categories: featured
 tags: 
 source_post_url: https://www.amren.com/news/2017/03/military-police-now-protect-geert-wilders-election-campaign/
 source_twitter_url: http://twitter.com/
@@ -16,7 +16,7 @@ source_blog_url: https://www.amren.com
 source_image_url: 
 tweet_id: 
 permalink: "/mntr/:year/:month/:day/:title/"
-feature-img: 
+feature-img: "/uploads/2017/03/02/geert-wilders-alps.jpg"
 excerpt: The 53-year-old, who is currently riding high in the opinion polls, had been
   forced to cancel all public events after revelations of leaks from the police team
   guarding him.
