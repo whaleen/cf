@@ -1,30 +1,24 @@
 ---
-title: "Military Police Now Protect Geert Wilders on Election Campaign"
+title: Military Police Now Protect Geert Wilders on Election Campaign
 date: 2017-03-01 22:14:40 UTC
 created_at: 2017-03-01 22:14:40 UTC
 layout: post
 kind: article
-author: "American Renissance"
+author: American Renissance
 categories: 
 tags: 
 source_post_url: https://www.amren.com/news/2017/03/military-police-now-protect-geert-wilders-election-campaign/
 source_twitter_url: http://twitter.com/
 source_twitter: 
-source_blog_name: "American Renaissance"
+source_blog_name: American Renaissance
 source_blog_slug: american-renaissance
 source_blog_url: https://www.amren.com
 source_image_url: 
-tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
+tweet_id: 
+permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt:
+excerpt: 
 ---
-<div id="fb-root"></div>
-<div class="getty embed image" style="background-color: #fff; display: inline-block; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #a7a7a7; font-size: 11px; width: 100%; max-width: 615px;">
-<div style="padding: 0; margin: 0; text-align: center;"><a style="color: #a7a7a7; text-decoration: none; font-weight: normal !important; border: none; display: inline-block;" href="http://www.gettyimages.com/detail/642552796">Embed from Getty Images</a></div>
-<div style="overflow: hidden; position: relative; height: 0; padding: 56.228956% 0 0 0; width: 100%;"></div>
-<p style="margin: 0;">
-</p></div>
 <p>The 53-year-old, who is currently riding high in the opinion polls, had been forced to cancel all public events after revelations of leaks from the police team guarding him.</p>
 <p>The Dutch Party for Freedom (PVV) leader had been living under 24-hour police protection since an Islamist militant’s 2004 murder of fellow Islam critic Theo van Gogh.</p>
 <p>But the Special Security Assignments Brigade (SAB), which is normally in charge of guarding embassies in countries such as Afghanistan and Iraq, has been called in to help protect the hardline politician.</p>
