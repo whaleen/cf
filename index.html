@@ -10,7 +10,7 @@ layout: default
 <article class="fl w-100 w-50-l">
   <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 link db">
     <h3 class="f4 f2-ns mb0 black-90">{{ item.title }}</h3>
-    <h3 class="f6 f5 fw4 mt0 mb4 black-60">{{ item.source_blog_name }}</h3>
+    <h3 class="f6 f5 fw1 mt3 mb3 black-40">{{ item.source_blog_name }}</h3>
     <div class="aspect-ratio aspect-ratio--16x9">
       <img style="background-image:url({{ site.url }}{{ item.feature-img }});"
       class="db bg-center cover aspect-ratio--object" />
@@ -28,14 +28,14 @@ layout: default
 <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
   <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 link db black">
     <h3 class="f4 f3-ns mb0 black-90">{{ item.title }}</h3>
-    <h3 class="f6 f5 fw4 mt0 mb4 black-60">{{ item.source_blog_name }}</h3>
+    <h3 class="f6 f5 fw1 mt3 mb3 black-40">{{ item.source_blog_name }}</h3>
     <p>{{ item.excerpt }}</p>
   </a>
 </div>
 {%endfor%}
 </section>
 
-<section class="cf w-100 pa2 pa4-ns">
+<!-- <section class="cf w-100 pa2 pa4-ns">
 <h1 class="fw1 light-gray f3">Books</h1>
 {% assign books = site.books | sort: "date" | reverse %}
  {% for book in books %}
@@ -48,7 +48,7 @@ layout: default
     </a>
   </article>
  {% endfor %}
-</section>
+</section> -->
 
 <!-- All posts -->
 <!-- <div class=" pa2 pa4-ns">
