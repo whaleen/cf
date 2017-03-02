@@ -5,8 +5,8 @@ created_at: 2017-03-02 01:18:35 UTC
 layout: post
 kind: article
 author: Counter Currents
-categories: featured
-tags: 
+categories: highlighted
+tags: ''
 source_post_url: http://www.counter-currents.com/2017/03/the-antifa-distraction/
 source_twitter_url: http://twitter.com/
 source_twitter: 
@@ -17,7 +17,8 @@ source_image_url:
 tweet_id: 
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
-excerpt: 
+excerpt: A few weeks ago, the town bum wandered into a local coffee shop. He began
+  telling a table full of high school girls about the dynamics of urine.
 ---
 [](http://www.counter-currents.com/wp-content/uploads/2017/03/3-1-17-2-1.jpg)
 
@@ -27,7 +28,7 @@ A few weeks ago, the town bum wandered into a local coffee shop. He began tellin
 
 A few minutes later, he shuffled over to me and started to deliver his unseemly lecture.
 
-“I don’t want hear it!” I interjected.
+“I don’t want to hear it!” I interjected.
 
 “Okay,” he said meekly, and shuffled off. I didn’t want to be mean, but I wanted to discourage him from delivering that manifestation of his mental illness, since it wasn’t exactly a crowd-pleaser. Plus, I was busy writing something on my laptop.
 
@@ -55,11 +56,8 @@ Although we don’t want to let the Antifa and their allies distract us from thi
 
 As a final point, our movement is filled with people who love speaking the truth, but who have a tendency to speak off the cuff, which may prove problematic if it leads to discussing evasive measures which are better left secret.
 
-If you’ll forgive a sportsball analogy, we should be like Patriots coach Bill Belicheck, who stands nearly mum in front of the media rather than discussing a play and describing strategy that a future opponent might be able to cue in on. With this in mind, we can best aim to peacefully spread our message in a manner that spares us from having to deal with too many of the Left’s bums. 
+If you’ll forgive a sportsball analogy, we should be like Patriots coach Bill Belicheck, who stands nearly mum in front of the media rather than discussing a play and describing strategy that a future opponent might be able to cue in on. With this in mind, we can best aim to peacefully spread our message in a manner that spares us from having to deal with too many of the Left’s bums.
 
-**Note**
-{:style="text-align: center;"}
+1\. Speaking of Antifa and urine, Antifa members dumped urine on Matthew Heimbach during a demonstration in Washington, DC a few years ago, which tells us a bit about many Antifas’ overall sense of fair play.  
 
-1\. Speaking of Antifa and urine, Antifa members dumped urine on Matthew Heimbach during a demonstration in Washington, DC a few years ago, which tells us a bit about many Antifas’ overall sense of fair play.
-
-<div class="">_Source: [Counter-Currents Publishing](http://www.counter-currents.com)_</div>
+<div class="">Source: [Counter-Currents Publishing](http://www.counter-currents.com)</div>
