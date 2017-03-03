@@ -19,8 +19,8 @@ permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: "/uploads/2017/03/03/002.jpg"
 excerpt: 
 ---
-The post [Video: The Truth About Sweden](https://www.amren.com/news/2017/03/video-truth-sweden/){:rel="nofollow"} appeared first on [American Renaissance](https://www.amren.com){:rel="nofollow"}.
+The post [Video: The Truth About Sweden](https://www.amren.com/news/2017/03/video-truth-sweden/) appeared first on [American Renaissance](https://www.amren.com)
 
-<div class="">_Source: [American Renaissance](https://www.amren.com)_</div>
+_Source: [American Renaissance](https://www.amren.com)_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kPtNON6sHXw" frameborder="0" allowfullscreen></iframe>
