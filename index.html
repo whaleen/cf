@@ -24,8 +24,8 @@ layout: default
 
 {% assign blogPosts = site.posts | where: 'categories', 'highlighted' %}
 <!-- 'highlighted' category posts -->
-<section class="fl w-100 bb b--light-gray">
-<h1 class="fw1 light-gray f4 pv0">Highlighted</h1>
+<section class="cf fl w-100 bb b--light-gray">
+<h1 class="fw1 light-gray f4 pb0 mb0 ttu">Highlighted</h1>
 {% for item in blogPosts limit:4 %}
 <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
   <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 link db black">
@@ -36,27 +36,6 @@ layout: default
 </div>
 {%endfor%}
 </section>
-
-
-{% assign blogPosts = site.posts | where: 'categories', 'featured' %}
-{% for item in blogPosts limit:1 offset:1 %}
-<div class="vh-100 dt w-100 tc bg-dark-gray white cover" style="background:url({{ site.url }}{{ item.feature-img }}) no-repeat center;">
-  <div class="dtc v-mid">
-    <header class="white-70">
-      <h2 class="f6 fw1 ttu tracked mb2 lh-title">{{ item.author }}</h2>
-      <h3 class="f6 fw1 lh-title">{{ item.date }}</h3>
-    </header>
-    <h1 class="f1 f-headline-l fw1 white ttu">{{ item.title }}</h1>
-    <blockquote class="ph0 mh0 measure f4 lh-copy center">
-      <p class="fw1 white">
-        {{ item.excerpt }}
-      </p>
-      <cite class="f6 ttu tracked fs-normal">{{ item.author }}</cite>
-    </blockquote>
-  </div>
-</div>
-{%endfor%}
-
 
 {% assign blogPosts = site.posts | where: 'categories', 'featured' %}
 <!-- 'featured' category posts -->
@@ -69,7 +48,7 @@ layout: default
   </a>
   <h2 class="f6 f5 fw1 pb3 "><a class="black-40 link" href="{{ site.url }}/authors/{{ item.author | replace: ' ', '-' | downcase }}">{{ item.source_blog_name }}</a></h2>
   <a href="{{ site.url }}{{ item.url }}" class="ph2 ph0-ns pb3 link db">
-    <div class="aspect-ratio aspect-ratio--5x8">
+    <div class="aspect-ratio aspect-ratio--16x9">
       <img style="background-image:url({{ site.url }}{{ item.feature-img }});"
       class="db bg-center cover aspect-ratio--object" />
     </div>
