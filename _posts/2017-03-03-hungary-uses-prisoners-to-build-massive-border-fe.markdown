@@ -59,6 +59,6 @@ A government statement rejected the claims, it read: “Human Rights Watch… ag
 
 “Hungary was among the first to honour the EU’s rules, protects the Schengen borders, stops, registers and separates refugees from economic migrants.”
 
-The post [Hungary Uses Prisoners to Build Massive Border Fence to Block Migrants](https://www.amren.com/news/2017/03/hungary-uses-prisoners-build-massive-border-fence-block-migrants/){:rel="nofollow"} appeared first on [American Renaissance](https://www.amren.com){:rel="nofollow"}.
+The post [Hungary Uses Prisoners to Build Massive Border Fence to Block Migrants](https://www.amren.com/news/2017/03/hungary-uses-prisoners-build-massive-border-fence-block-migrants/)appeared first on [American Renaissance](https://www.amren.com).
 
-<div class="">_Source: [American Renaissance](https://www.amren.com)_</div>
+_Source: [American Renaissance](https://www.amren.com)_
