@@ -14,7 +14,7 @@ source_blog_name: American Renaissance
 source_blog_slug: american-renaissance
 source_blog_url: https://www.amren.com
 source_image_url: 
-tweet_id: 
+tweet_id: 837798523869491201
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: "/uploads/2017/03/03/002.jpg"
 excerpt: 
