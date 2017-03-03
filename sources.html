@@ -5,11 +5,9 @@ permalink: "/sources/"
 ---
 
 <div class="pa2 pa4-ns">
-
   {% for member in site.data.members %}
-    <article class="lh-copy bb b--light-gray pv2">
-      <h2 class="f4  measure fw3"><a class="link black" href="{{ site.url }}/authors/{{ member.author | replace: ' ', '-' | downcase }}">{{ member.author }}</a></h2>
+  <article class="lh-copy bb b--light-gray pv3">
+      <h2 class="f4 measure"><a class="link black" href="{{ site.url }}/authors/{{ member.author | replace: ' ', '-' | downcase }}">{{ member.author }}</a></h2>
     </article>
   {% endfor %}
-
 </div>

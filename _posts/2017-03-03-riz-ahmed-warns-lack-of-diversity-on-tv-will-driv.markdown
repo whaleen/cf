@@ -1,0 +1,59 @@
+---
+title: "“Riz Ahmed Warns Lack of Diversity on TV Will Drive Young to ISIS”"
+date: 2017-03-03 16:58:15 UTC
+created_at: 2017-03-03 16:58:15 UTC
+layout: post
+kind: article
+author: "V Dare"
+categories: 
+tags: 
+source_post_url: https://www.vdare.com/posts/isteve-blogteasers-riz-ahmed-warns-lack-of-diversity-on-tv-will-drive-young-to-isis
+source_twitter_url: http://twitter.com/vdar
+source_twitter: vdar
+source_blog_name: "VDARE – premier news outlet for patriotic immigration reform"
+source_blog_slug: vdare-premier-news-outlet-for-patriotic-immigratio
+source_blog_url: https://www.vdare.com
+source_image_url: 
+tweet_id:
+permalink: /mntr/:year/:month/:day/:title/
+feature-img: 
+excerpt:
+---
+<div class="pf-content"><p>Speaking of rent-seeking diversitarians, from <em>The Guardian</em>:</p>
+<blockquote><p><a id="xlink_1_2" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_2" name="xlink_1_2"></a> <a title="https://www.theguardian.com/culture/2017/mar/02/riz-ahmed-warns-lack-of-diversity-on-tv-will-drive-young-to-isis?CMP=Share_iOSApp_Other" href="https://www.theguardian.com/culture/2017/mar/02/riz-ahmed-warns-lack-of-diversity-on-tv-will-drive-young-to-isis?CMP=Share_iOSApp_Other">Riz Ahmed warns lack of diversity on TV will drive young to Isis</a></p>
+<p><a id="xlink_1_3" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_3" name="xlink_1_3"></a><a title="https://i.guim.co.uk/img/media/7afc3f3b33b29901d9287d1beb6468606107fb29/0_84_2103_1262/master/2103.jpg?w=620&amp;q=20&amp;auto=format&amp;usm=12&amp;fit=max&amp;dpr=2&amp;s=a8cea45a5e0203b92d7cb187f778bb6b" href="https://i.guim.co.uk/img/media/7afc3f3b33b29901d9287d1beb6468606107fb29/0_84_2103_1262/master/2103.jpg?w=620&amp;q=20&amp;auto=format&amp;usm=12&amp;fit=max&amp;dpr=2&amp;s=a8cea45a5e0203b92d7cb187f778bb6b"><img class="alignleft" title="" src="https://i.guim.co.uk/img/media/7afc3f3b33b29901d9287d1beb6468606107fb29/0_84_2103_1262/master/2103.jpg?w=620&amp;q=20&amp;auto=format&amp;usm=12&amp;fit=max&amp;dpr=2&amp;s=a8cea45a5e0203b92d7cb187f778bb6b" alt="" width="180" height="112" align="left"></a> Actor says viewers from minority backgrounds are switching off and turning to terrorism propaganda films which make recruits look like James Bond</p>
+<p><a id="xlink_1_4" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_4" name="xlink_1_4"></a>Actor Riz Ahmed has warned that a lack of diversity on TV is alienating young people.</p>
+<p><a id="xlink_1_5" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_5" name="xlink_1_5"></a>Hannah Ellis-Petersen<br>
+Thursday 2 March 2017 12.17 EST</p>
+<p><a id="xlink_1_6" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_6" name="xlink_1_6"></a>Actor and rapper Riz Ahmed has warned that the enduring failure to champion diversity on TV is alienating young people, driving them towards extremism and into the arms of Isis.</p>
+<p><a id="xlink_1_7" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_7" name="xlink_1_7"></a>Ahmed, known for his roles in <a title="http://takimag.com/article/four_lions_mentally_retarded/print#axzz4aFwebjjj" href="http://takimag.com/article/four_lions_mentally_retarded/print#axzz4aFwebjjj"><em>Four Lions</em></a> and the the <em>Star Wars</em> prequel <em>Rogue One</em>,</p></blockquote>
+<p><a id="xlink_1_8" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_8" name="xlink_1_8"></a>Personally, I saw both of those movies, along with <em>Nightcrawler</em> in which he plays some kind of pseud0-Chicano, and this guy made zero impression on me. I had forgotten he existed.</p>
+<blockquote><p><a id="xlink_1_9" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_9" name="xlink_1_9"></a> said the lack of diverse voices and stories onscreen led people from minority backgrounds to “switch off and retreat to fringe narratives, to bubbles online and sometimes even off to Syria”.</p>
+<p><a id="xlink_1_10" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_10" name="xlink_1_10"></a>Delivering Channel 4’s annual diversity lecture in Parliament, Ahmed said that in the light of the rise in racial and religious hate crimes post-Brexit, TV had a pivotal role to play in ensuring different communities felt heard, and valued, in British society.</p>
+<p><a id="xlink_1_11" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_11" name="xlink_1_11"></a>“If we fail to represent, we are in danger of losing people to extremism,” he said.</p>
+<p><a id="xlink_1_12" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_12" name="xlink_1_12"></a>“In the mind of the Isis recruit, he’s the next James Bond right? Have you seen some of those Isis propaganda videos, they are cut like action movies. Where is the counter narrative? Where are we telling these kids they can be heroes in our stories, that they valued?”</p>
+<p><a id="xlink_1_13" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_13" name="xlink_1_13"></a>Ahmed’s recent roles include the HBO drama The Night Of and comedy series Girls, both American TV shows.</p></blockquote>
+<p><a id="xlink_1_14" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_14" name="xlink_1_14"></a><img class="alignright" src="http://vignette1.wikia.nocookie.net/starwars/images/d/dc/AdamDriver.jpg/revision/latest?cb=20140506084452" alt="" width="113" height="164" align="right">I, Riz Ahmed, am almost as asymmetrically funny-looking as Adam Driver is, and we were both on <em>Girls.</em></p>
+<p><a id="xlink_1_15" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_15" name="xlink_1_15"></a>Yet <em>h</em>e gets to play Darth Vader Jr. in <em>Star Wars</em> movies, while I’m stuck playing <a title="http://starwars.wikia.com/wiki/Bodhi_Rook" href="http://starwars.wikia.com/wiki/Bodhi_Rook">Bodhi Rook</a>.</p>
+<p><a id="xlink_1_16" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_16" name="xlink_1_16"></a>I ask you: is that fair?</p><div id="57966237cc52c74a5e1363c4" class="vdb_player vdb_57966237cc52c74a5e1363c456bcd17ce4b018167fea5539">    </div>
+<blockquote><p><a id="xlink_1_17" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_17" name="xlink_1_17"></a> Like Idris Elba, who delivered the lecture last year, Ahmed used the platform to criticise the fact he still had to go to the US to land major parts.</p></blockquote>
+<p><a id="xlink_1_18" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_18" name="xlink_1_18"></a>Trust me, I really wanted to spend my entire life doing <em>Coronation Street </em>and appearing at the Edinburgh Fringe Festival and living in a fourth floor walk-up flat. But instead I had to go to Hollywood to be in a <em>Star Wars</em> movie.</p>
+<p><a id="xlink_1_19" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_19" name="xlink_1_19"></a>Because you are racist and I hate you.</p>
+<blockquote><p><a id="xlink_1_20" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_20" name="xlink_1_20"></a> “It takes American remakes of British shows to cast someone like me,” he said. “We end up going to America to find work. I meet with producers and directors here and they say ‘we don’t have anything for you, all our stories are set in Cornwall in the 1600s’.”</p></blockquote>
+<p><a id="xlink_1_21" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_21" name="xlink_1_21"></a>That <em>bastard</em> Shakespeare.</p>
+<blockquote><p><a id="xlink_1_22" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_22" name="xlink_1_22"></a> Ahmed said British television still perceived diversity as a “frill or an added extra” and that if it is not addressed immediately, it would create more divisions across the country.</p></blockquote>
+<p><a id="xlink_1_23" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_23" name="xlink_1_23"></a><em>Immediately!</em></p>
+<blockquote><p><a id="xlink_1_24" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_24" name="xlink_1_24"></a> … He added: “If we don’t step up and tell a representative story … we are going to start losing British teenagers to the story that the next chapter in their lives is written with Isis in Syria.” …</p>
+<p><a id="xlink_1_25" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_25" name="xlink_1_25"></a>Ahmed called on the government to act, particularly to overturn the unconscious bias in hiring that was preventing talented people from black, Asian and minority backgrounds rising up the ranks. He said public money should be tied to representation targets for broadcasters to break the cycle of top jobs going mainly to white men.</p></blockquote>
+<p><a id="xlink_1_26" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_26" name="xlink_1_26"><img class="aligncenter size-full wp-image-108390" src="https://s3-us-west-2.amazonaws.com/vdare-live/wp-content/uploads/2017/03/03115113/IMG_3913.jpg" alt="" width="200" align="right"></a>Look how Daniel Day-Lewis gets all the good roles.</p>
+<p><a id="xlink_1_27" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_27" name="xlink_1_27"></a>He’s always going on about how he was a discriminated-against Irishman.</p>
+<p><a id="xlink_1_28" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_28" name="xlink_1_28"></a>But his dad was<a href="https://en.wikipedia.org/wiki/Cecil_Day-Lewis"> Poet Laureate of England</a> and his mom’s dad owned a big movie studio.</p>
+<p><a id="xlink_1_29" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_29" name="xlink_1_29"></a>That impudent dog.</p>
+<p><a id="xlink_1_30" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_30" name="xlink_1_30"></a>He needs a good beheading to teach him submission.</p>
+<p><a id="xlink_1_31" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_31" name="xlink_1_31"></a>Then I could star in <a title="http://takimag.com/article/lincoln_a_tall_man_in_a_small_film_steve_sailer/print#axzz4aFwebjjj" href="http://takimag.com/article/lincoln_a_tall_man_in_a_small_film_steve_sailer/print#axzz4aFwebjjj"><em>Lincoln 2</em></a>.</p>
+<p><a id="xlink_1_32" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_32" name="xlink_1_32"></a>On English TV, of course, not for Spielberg.</p>
+<p><a id="xlink_1_33" class="xlink" title="Anchor Link to This Paragraph" href="http://www.unz.com/isteve/#xlink_1_33" name="xlink_1_33"></a>I only want to be on English TV. It’s <em>your</em> fault that I’m contracted to do <em>Star Wars</em> movies through 2031.</p>
+<p>[<a href="http://www.unz.com/isteve/riz-ahmed-warns-lack-of-diversity-on-tv-will-drive-young-to-isis/">Comment at Unz.com</a>]</p>
+</div><div class="">
+    <i>Source: <a href="https://www.vdare.com">VDARE – premier news outlet for patriotic immigration reform</a></i>
+</div>
