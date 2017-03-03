@@ -21,7 +21,7 @@ excerpt: 'I hope I speak for Deplorables when I say this: The only time you want
   president to reach across the aisle on matters immigration is to grab a Democrat
   or an errant Republican by the throat.'
 ---
-<span style="font-size: 18px;">There were a few tense hours before President Trump’s</span> [First Address to Congress.](https://www.bloomberg.com/politics/articles/2017-03-01/full-text-trump-s-first-address-to-congress-as-prepared-for-delivery){:style="font-size: 18px;"} <span style="font-size: 18px;">All news outlets were</span> [claiming](http://www.cnn.com/2017/02/28/politics/trump-immigration-bill/index.html){:style="font-size: 18px;"} <span style="font-size: 18px;">the president would call for an immigration bill in which both sides would be asked to compromise.</span>
+There were a few tense hours before President Trump’s [First Address to Congress.](https://www.bloomberg.com/politics/articles/2017-03-01/full-text-trump-s-first-address-to-congress-as-prepared-for-delivery) All news outlets were</span> [claiming](http://www.cnn.com/2017/02/28/politics/trump-immigration-bill/index.html) the president would call for an immigration bill in which both sides would be asked to compromise.
 
 Was this Fake News? Or, was the president sending up a trial balloon to test the reaction? Was Donald Trump, who has both Houses, planning to give away the store (and a shot at a second term)? I hope I speak for Deplorables when I say this: The only time you want the president to reach across the aisle on matters immigration is to grab a Democrat or an errant Republican by the throat.
 
@@ -49,6 +49,6 @@ So, look forward to epic images of heavy equipment barreling toward the Southern
 
 Of course, ordinary concrete would do just fine.
 
-The post [ICE Agents Prefer Deporting Illegals To Changing Their Diapers](https://www.amren.com/commentary/2017/03/donald-trump-immigration-deportation-ilana-mercer/){:rel="nofollow"} appeared first on [American Renaissance](https://www.amren.com){:rel="nofollow"}.
+The post [ICE Agents Prefer Deporting Illegals To Changing Their Diapers](https://www.amren.com/commentary/2017/03/donald-trump-immigration-deportation-ilana-mercer/) appeared first on [American Renaissance](https://www.amren.com)
 
-<div class="">_Source: [American Renaissance](https://www.amren.com)_</div>
+_Source: [American Renaissance](https://www.amren.com)_
