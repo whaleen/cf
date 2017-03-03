@@ -14,7 +14,7 @@ source_blog_name: American Renaissance
 source_blog_slug: american-renaissance
 source_blog_url: https://www.amren.com
 source_image_url: 
-tweet_id: 
+tweet_id: 837474330170777600
 permalink: "/mntr/:year/:month/:day/:title/"
 feature-img: 
 excerpt: 'I hope I speak for Deplorables when I say this: The only time you want the
