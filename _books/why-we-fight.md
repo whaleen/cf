@@ -27,3 +27,4 @@ date: '2017-03-02T00:06:05.516+00:00'
 cover: "/uploads/2017/03/02/why-we-fight.jpg"
 book-link: http://amzn.to/2lAUHXr
 ---
+Identitarians and others making up the European resistance lack a doctrine that truly serves as a political and ideological synthesis of who they are - a doctrine that speaks above parties and sects, above rival sensibilities and wounded feelings, that brings the resistance together around clear ideas and objectives, uniting them in opposition to the Europeans' dramatic decline.
