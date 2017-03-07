@@ -1,6 +1,6 @@
 ---
 book_id: 11394709
-name: Why We Fight
+name: 'Book: Why We Fight'
 author: Guillaume Faye
 author_l-f: Faye, Guillaume
 additional_authors: Michael O'Meara, Pierre Krebs
