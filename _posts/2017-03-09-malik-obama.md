@@ -1,5 +1,5 @@
 ---
-title: Brother Malik Obama
+title: 'The Deplorable Obama '
 date: 2017-03-09 15:45
 author: Joshua Vaage
 categories: featured
