@@ -4,8 +4,9 @@ date: 2017-03-09 15:45
 author: Joshua Vaage
 categories: featured
 tags: malik, kekistan
-source_twitter: 839917082959613952
+source_twitter: ''
 feature-img: "/uploads/2017/03/10/Malik-Obama-and-Charles-C.-Johnson-740x400.jpg"
+tweet_id: 839917082959613952
 ---
 Malik Obama‏ is Barrack Obama's brother. Every time I see him post on Twitter I have to look it up again to be sure. Wikipedia has it plainly stated as true. A Quick Google search on Malik shows many recent (many Late 2016) news stories about Malik -- generally on the topic of his support for Donald Trump. Strange reality. You'd think more people would be paying attention to him.
 
