@@ -2,16 +2,109 @@
 title: "Orange Website Hosting"
 date: 2017-03-10 14:26:58 UTC
 created_at: 2017-03-10 14:26:58 UTC
-layout: default
 kind: article
 author: "Code "
 categories: featured
 tags: hungary
 tweet_id:
-permalink: /mntr/:year/:month/:day/:title/
-feature-img: "/img/hungary/budapest.jpg"
+permalink: /orange/
+feature-img: ""
 excerpt: "The establishment holds up Sweden as a success, whereas Europeans secretly want Hungary; so, where do we go from here?"
 ---
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{% if page.title %}{{ page.title }} | {% else %}{% endif %}{{ site.name }}</title>
+        <meta name="description" content="{{ site.description }}">
+        <meta name="author" content="@codefurniture">
 
-orange hosting
+        <!-- ! -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Social Metadata templates from http://github.com/cagrimmett/jekyll-tools -->
+
+        <!-- Open Graph -->
+        <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+        <meta property="og:type" content="{% if page.path contains '_posts' %}article{% else %}website{% endif %}">
+        <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+        <meta property="og:image" content="{% if page.feature-img %}{{ page.feature-img | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.url }}/img/{{ site.avatar }}{% endif %}">
+        <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+        <meta property="og:site_name" content="{{ site.title }}">
+        <meta property="og:locale" content="{{ site.locale }}">
+        {% if page.date %}
+        <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+        <meta property="article:author" content="{{ page.author }}">
+        {% for post in site.related_posts limit:3 %}
+        <meta property="og:see_also" content="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+        {% endfor %}
+        {% endif %}
+        <!-- Twitter Meta Data -->
+
+        {% if page.feature-img %}
+        <meta name="twitter:card" content="summary_large_image">
+        {% else %}
+        <meta name="twitter:card" content="summary">
+        {% endif %}
+        <meta name="twitter:site" content="@{{ site.twitter }}">
+        <meta name="twitter:creator" content="@{{ site.twitter }}">
+        <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+        <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+        <meta name="twitter:image" content="/img/iceland/ocean-ice.jpg">
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="/css/tachyons.css">
+        <link rel="stylesheet" href="/css/tweet.post.widget.css">
+
+        <style type="text/css">
+        	a.button.active {
+        		background: #F76B48;
+        		border: 1px solid #F76B48;
+        		color: #fff;
+        	}
+        </style>
+
+        <!-- Font Awesome -->
+        <script src="https://use.fontawesome.com/3ace408c3e.js"></script>
+
+        <!-- Heap Analytics -->
+        <!-- <script type="text/javascript">
+            window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+              heap.load("1589761112");
+        </script> -->
+
+    </head>
+
+<body>
+
+<div id="wrapper" class="">
+
+orange
+
+
+          <!-- Scorcery -->
+          <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+
+</div><!-- /#wrapper -->
+
+        <!-- Tracking -->
+        <script type="text/javascript">
+          var _gauges = _gauges || [];
+          (function() {
+            var t   = document.createElement('script');
+            t.type  = 'text/javascript';
+            t.async = true;
+            t.id    = 'gauges-tracker';
+            t.setAttribute('data-site-id', '58be0f1fc88d902643000aa5');
+            t.setAttribute('data-track-path', 'https://track.gaug.es/track.gif');
+            t.src = 'https://d36ee2fcip1434.cloudfront.net/track.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(t, s);
+          })();
+        </script>
+
+</body>
+
+</html>
